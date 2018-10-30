@@ -1,0 +1,456 @@
+  1: [[Level 9   ]]:	3 Bubbles	-1 Bottles
+  2: [[Level 10  ]]:	1 Bubbles	0 Bottles
+  3: [[Level 11  ]]:	2 Bubbles	0 Bottles
+  4: [[Level 14  ]]:	3 Bubbles	3 Bottles
+  5: [[Level 15  ]]:	1 Bubbles	0 Bottles
+  6: [[Level 17  ]]:	5 Bubbles	22 Bottles
+  7: [[Level 19  ]]:	1 Bubbles	13 Bottles
+  8: [[Level 22  ]]:	1 Bubbles	12 Bottles
+  9: [[Level 24  ]]:	1 Bubbles	7 Bottles
+ 10: [[Level 26  ]]:	3 Bubbles	10 Bottles
+ 11: [[Level 29  ]]:	2 Bubbles	8 Bottles
+ 12: [[Level 34  ]]:	5 Bubbles	21 Bottles
+ 13: [[Level 37  ]]:	3 Bubbles	3 Bottles
+ 14: [[Level 42  ]]:	1 Bubbles	9 Bottles
+ 15: [[Level 46  ]]:	1 Bubbles	0 Bottles
+ 16: [[Level 49  ]]:	3 Bubbles	11 Bottles
+ 17: [[Level 55  ]]:	1 Bubbles	15 Bottles
+ 18: [[Level 58  ]]:	3 Bubbles	4 Bottles
+ 19: [[Level 60  ]]:	5 Bubbles	8 Bottles
+ 20: [[Level 63  ]]:	2 Bubbles	0 Bottles
+ 21: [[Level 65  ]]:	2 Bubbles	7 Bottles
+ 22: [[Level 69  ]]:	3 Bubbles	4 Bottles
+ 23: [[Level 72  ]]:	1 Bubbles	6 Bottles
+ 24: [[Level 81  ]]:	2 Bubbles	-1 Bottles
+ 25: [[Level 87  ]]:	3 Bubbles	7 Bottles
+ 26: [[Level 91  ]]:	1 Bubbles	8 Bottles
+ 27: [[Level 94  ]]:	1 Bubbles	20 Bottles
+ 28: [[Level 98  ]]:	2 Bubbles	7 Bottles
+ 29: [[Level 107 ]]:	3 Bubbles	8 Bottles
+ 30: [[Level 109 ]]:	3 Bubbles	7 Bottles
+ 31: [[Level 112 ]]:	1 Bubbles	12 Bottles
+ 32: [[Level 117 ]]:	1 Bubbles	24 Bottles
+ 33: [[Level 124 ]]:	3 Bubbles	0 Bottles
+ 34: [[Level 127 ]]:	5 Bubbles	17 Bottles
+ 35: [[Level 134 ]]:	1 Bubbles	25 Bottles
+ 36: [[Level 146 ]]:	1 Bubbles	11 Bottles
+ 37: [[Level 150 ]]:	1 Bubbles	12 Bottles
+ 38: [[Level 152 ]]:	1 Bubbles	8 Bottles
+ 39: [[Level 157 ]]:	3 Bubbles	6 Bottles
+ 40: [[Level 159 ]]:	4 Bubbles	22 Bottles
+ 41: [[Level 163 ]]:	1 Bubbles	0 Bottles
+ 42: [[Level 168 ]]:	4 Bubbles	16 Bottles
+ 43: [[Level 173 ]]:	1 Bubbles	8 Bottles
+ 44: [[Level 199 ]]:	4 Bubbles	8 Bottles
+ 45: [[Level 200 ]]:	3 Bubbles	17 Bottles
+ 46: [[Level 204 ]]:	1 Bubbles	9 Bottles
+ 47: [[Level 226 ]]:	1 Bubbles	0 Bottles
+ 48: [[Level 231 ]]:	2 Bubbles	13 Bottles
+ 49: [[Level 236 ]]:	3 Bubbles	8 Bottles
+ 50: [[Level 243 ]]:	1 Bubbles	28 Bottles
+ 51: [[Level 244 ]]:	1 Bubbles	4 Bottles
+ 52: [[Level 250 ]]:	3 Bubbles	9 Bottles
+ 53: [[Level 272 ]]:	2 Bubbles	5 Bottles
+ 54: [[Level 273 ]]:	1 Bubbles	25 Bottles
+ 55: [[Level 281 ]]:	1 Bubbles	27 Bottles
+ 56: [[Level 290 ]]:	2 Bubbles	8 Bottles
+ 57: [[Level 298 ]]:	4 Bubbles	15 Bottles
+ 58: [[Level 305 ]]:	5 Bubbles	8 Bottles
+ 59: [[Level 311 ]]:	3 Bubbles	0 Bottles
+ 60: [[Level 318 ]]:	2 Bubbles	11 Bottles
+ 61: [[Level 323 ]]:	2 Bubbles	9 Bottles
+ 62: [[Level 328 ]]:	1 Bubbles	18 Bottles
+ 63: [[Level 331 ]]:	4 Bubbles	0 Bottles
+ 64: [[Level 341 ]]:	1 Bubbles	0 Bottles
+ 65: [[Level 347 ]]:	2 Bubbles	10 Bottles
+ 66: [[Level 349 ]]:	3 Bubbles	11 Bottles
+ 67: [[Level 352 ]]:	1 Bubbles	16 Bottles
+ 68: [[Level 354 ]]:	3 Bubbles	5 Bottles
+ 69: [[Level 360 ]]:	5 Bubbles	20 Bottles
+ 70: [[Level 372 ]]:	3 Bubbles	4 Bottles
+ 71: [[Level 381 ]]:	2 Bubbles	9 Bottles
+ 72: [[Level 390 ]]:	3 Bubbles	11 Bottles
+ 73: [[Level 391 ]]:	2 Bubbles	7 Bottles
+ 74: [[Level 393 ]]:	1 Bubbles	0 Bottles
+ 75: [[Level 398 ]]:	1 Bubbles	11 Bottles
+ 76: [[Level 401 ]]:	2 Bubbles	0 Bottles
+ 77: [[Level 405 ]]:	1 Bubbles	21 Bottles
+ 78: [[Level 407 ]]:	2 Bubbles	0 Bottles
+ 79: [[Level 416 ]]:	3 Bubbles	0 Bottles
+ 80: [[Level 427 ]]:	3 Bubbles	0 Bottles
+ 81: [[Level 430 ]]:	1 Bubbles	30 Bottles
+ 82: [[Level 436 ]]:	5 Bubbles	0 Bottles
+ 83: [[Level 445 ]]:	10 Bubbles	8 Bottles
+ 84: [[Level 448 ]]:	3 Bubbles	0 Bottles
+ 85: [[Level 452 ]]:	2 Bubbles	0 Bottles
+ 86: [[Level 455 ]]:	1 Bubbles	10 Bottles
+ 87: [[Level 456 ]]:	2 Bubbles	-1 Bottles
+ 88: [[Level 469 ]]:	2 Bubbles	7 Bottles
+ 89: [[Level 474 ]]:	3 Bubbles	0 Bottles
+ 90: [[Level 478 ]]:	1 Bubbles	20 Bottles
+ 91: [[Level 500 ]]:	1 Bubbles	-1 Bottles
+ 92: [[Level 501 ]]:	3 Bubbles	8 Bottles
+ 93: [[Level 524 ]]:	5 Bubbles	15 Bottles
+ 94: [[Level 526 ]]:	1 Bubbles	5 Bottles
+ 95: [[Level 529 ]]:	1 Bubbles	21 Bottles
+ 96: [[Level 534 ]]:	8 Bubbles	9 Bottles
+ 97: [[Level 536 ]]:	1 Bubbles	8 Bottles
+ 98: [[Level 543 ]]:	3 Bubbles	8 Bottles
+ 99: [[Level 545 ]]:	3 Bubbles	13 Bottles
+100: [[Level 546 ]]:	1 Bubbles	14 Bottles
+101: [[Level 554 ]]:	3 Bubbles	18 Bottles
+102: [[Level 562 ]]:	3 Bubbles	0 Bottles
+103: [[Level 565 ]]:	3 Bubbles	0 Bottles
+104: [[Level 566 ]]:	3 Bubbles	0 Bottles
+105: [[Level 568 ]]:	2 Bubbles	17 Bottles
+106: [[Level 575 ]]:	7 Bubbles	17 Bottles
+107: [[Level 577 ]]:	5 Bubbles	28 Bottles
+108: [[Level 590 ]]:	1 Bubbles	8 Bottles
+109: [[Level 598 ]]:	4 Bubbles	8 Bottles
+110: [[Level 601 ]]:	9 Bubbles	17 Bottles
+111: [[Level 606 ]]:	3 Bubbles	8 Bottles
+112: [[Level 613 ]]:	4 Bubbles	8 Bottles
+113: [[Level 623 ]]:	8 Bubbles	8 Bottles
+114: [[Level 637 ]]:	11 Bubbles	0 Bottles
+115: [[Level 649 ]]:	1 Bubbles	0 Bottles
+116: [[Level 653 ]]:	1 Bubbles	0 Bottles
+117: [[Level 657 ]]:	5 Bubbles	15 Bottles
+118: [[Level 664 ]]:	10 Bubbles	0 Bottles
+119: [[Level 670 ]]:	2 Bubbles	0 Bottles
+120: [[Level 673 ]]:	12 Bubbles	8 Bottles
+121: [[Level 677 ]]:	4 Bubbles	8 Bottles
+122: [[Level 681 ]]:	7 Bubbles	0 Bottles
+123: [[Level 700 ]]:	1 Bubbles	14 Bottles
+124: [[Level 707 ]]:	6 Bubbles	7 Bottles
+125: [[Level 712 ]]:	8 Bubbles	8 Bottles
+126: [[Level 716 ]]:	1 Bubbles	7 Bottles
+127: [[Level 739 ]]:	6 Bubbles	0 Bottles
+128: [[Level 744 ]]:	4 Bubbles	13 Bottles
+129: [[Level 750 ]]:	2 Bubbles	4 Bottles
+130: [[Level 754 ]]:	2 Bubbles	4 Bottles
+131: [[Level 758 ]]:	1 Bubbles	8 Bottles
+132: [[Level 766 ]]:	8 Bubbles	10 Bottles
+133: [[Level 769 ]]:	10 Bubbles	9 Bottles
+134: [[Level 773 ]]:	2 Bubbles	8 Bottles
+135: [[Level 775 ]]:	4 Bubbles	11 Bottles
+136: [[Level 782 ]]:	4 Bubbles	15 Bottles
+137: [[Level 786 ]]:	13 Bubbles	8 Bottles
+138: [[Level 795 ]]:	3 Bubbles	13 Bottles
+139: [[Level 800 ]]:	1 Bubbles	7 Bottles
+140: [[Level 804 ]]:	3 Bubbles	0 Bottles
+141: [[Level 812 ]]:	3 Bubbles	16 Bottles
+142: [[Level 821 ]]:	6 Bubbles	0 Bottles
+143: [[Level 826 ]]:	1 Bubbles	0 Bottles
+144: [[Level 832 ]]:	2 Bubbles	8 Bottles
+145: [[Level 836 ]]:	4 Bubbles	4 Bottles
+146: [[Level 848 ]]:	4 Bubbles	11 Bottles
+147: [[Level 853 ]]:	5 Bubbles	15 Bottles
+148: [[Level 858 ]]:	3 Bubbles	17 Bottles
+149: [[Level 864 ]]:	10 Bubbles	0 Bottles
+150: [[Level 866 ]]:	6 Bubbles	0 Bottles
+151: [[Level 875 ]]:	6 Bubbles	9 Bottles
+152: [[Level 886 ]]:	3 Bubbles	0 Bottles
+153: [[Level 892 ]]:	1 Bubbles	0 Bottles
+154: [[Level 898 ]]:	1 Bubbles	0 Bottles
+155: [[Level 901 ]]:	7 Bubbles	15 Bottles
+156: [[Level 909 ]]:	1 Bubbles	0 Bottles
+157: [[Level 915 ]]:	3 Bubbles	0 Bottles
+158: [[Level 921 ]]:	1 Bubbles	0 Bottles
+159: [[Level 924 ]]:	1 Bubbles	0 Bottles
+160: [[Level 931 ]]:	3 Bubbles	8 Bottles
+161: [[Level 936 ]]:	5 Bubbles	9 Bottles
+162: [[Level 940 ]]:	3 Bubbles	0 Bottles
+163: [[Level 944 ]]:	4 Bubbles	0 Bottles
+164: [[Level 947 ]]:	2 Bubbles	14 Bottles
+165: [[Level 952 ]]:	6 Bubbles	16 Bottles
+166: [[Level 956 ]]:	3 Bubbles	7 Bottles
+167: [[Level 964 ]]:	10 Bubbles	0 Bottles
+168: [[Level 967 ]]:	1 Bubbles	0 Bottles
+169: [[Level 976 ]]:	3 Bubbles	5 Bottles
+170: [[Level 987 ]]:	1 Bubbles	11 Bottles
+171: [[Level 989 ]]:	1 Bubbles	7 Bottles
+172: [[Level 1000]]:	1 Bubbles	0 Bottles
+173: [[Level 1007]]:	1 Bubbles	8 Bottles
+174: [[Level 1012]]:	2 Bubbles	8 Bottles
+175: [[Level 1016]]:	3 Bubbles	0 Bottles
+176: [[Level 1020]]:	1 Bubbles	0 Bottles
+177: [[Level 1026]]:	1 Bubbles	0 Bottles
+178: [[Level 1034]]:	1 Bubbles	9 Bottles
+179: [[Level 1037]]:	1 Bubbles	8 Bottles
+180: [[Level 1041]]:	2 Bubbles	6 Bottles
+181: [[Level 1047]]:	2 Bubbles	4 Bottles
+182: [[Level 1053]]:	2 Bubbles	0 Bottles
+183: [[Level 1065]]:	1 Bubbles	8 Bottles
+184: [[Level 1070]]:	3 Bubbles	7 Bottles
+185: [[Level 1074]]:	4 Bubbles	0 Bottles
+186: [[Level 1079]]:	6 Bubbles	6 Bottles
+187: [[Level 1082]]:	1 Bubbles	8 Bottles
+188: [[Level 1085]]:	1 Bubbles	10 Bottles
+189: [[Level 1093]]:	1 Bubbles	3 Bottles
+190: [[Level 1097]]:	3 Bubbles	5 Bottles
+191: [[Level 1103]]:	4 Bubbles	6 Bottles
+192: [[Level 1111]]:	3 Bubbles	13 Bottles
+193: [[Level 1116]]:	2 Bubbles	0 Bottles
+194: [[Level 1120]]:	3 Bubbles	0 Bottles
+195: [[Level 1124]]:	2 Bubbles	15 Bottles
+196: [[Level 1134]]:	2 Bubbles	5 Bottles
+197: [[Level 1143]]:	1 Bubbles	12 Bottles
+198: [[Level 1145]]:	1 Bubbles	22 Bottles
+199: [[Level 1149]]:	2 Bubbles	-1 Bottles
+200: [[Level 1156]]:	3 Bubbles	15 Bottles
+201: [[Level 1162]]:	2 Bubbles	7 Bottles
+202: [[Level 1167]]:	2 Bubbles	0 Bottles
+203: [[Level 1170]]:	6 Bubbles	6 Bottles
+204: [[Level 1176]]:	1 Bubbles	0 Bottles
+205: [[Level 1185]]:	3 Bubbles	4 Bottles
+206: [[Level 1190]]:	1 Bubbles	19 Bottles
+207: [[Level 1192]]:	2 Bubbles	8 Bottles
+208: [[Level 1196]]:	3 Bubbles	8 Bottles
+209: [[Level 1210]]:	2 Bubbles	15 Bottles
+210: [[Level 1215]]:	3 Bubbles	11 Bottles
+211: [[Level 1219]]:	2 Bubbles	6 Bottles
+212: [[Level 1222]]:	1 Bubbles	16 Bottles
+213: [[Level 1226]]:	2 Bubbles	0 Bottles
+214: [[Level 1234]]:	4 Bubbles	18 Bottles
+215: [[Level 1244]]:	2 Bubbles	8 Bottles
+216: [[Level 1247]]:	1 Bubbles	0 Bottles
+217: [[Level 1250]]:	8 Bubbles	6 Bottles
+218: [[Level 1253]]:	1 Bubbles	0 Bottles
+219: [[Level 1257]]:	3 Bubbles	0 Bottles
+220: [[Level 1268]]:	1 Bubbles	0 Bottles
+221: [[Level 1271]]:	3 Bubbles	0 Bottles
+222: [[Level 1289]]:	1 Bubbles	10 Bottles
+223: [[Level 1295]]:	3 Bubbles	0 Bottles
+224: [[Level 1297]]:	1 Bubbles	13 Bottles
+225: [[Level 1301]]:	3 Bubbles	8 Bottles
+226: [[Level 1309]]:	1 Bubbles	6 Bottles
+227: [[Level 1315]]:	1 Bubbles	14 Bottles
+228: [[Level 1316]]:	1 Bubbles	20 Bottles
+229: [[Level 1322]]:	1 Bubbles	8 Bottles
+230: [[Level 1331]]:	5 Bubbles	8 Bottles
+231: [[Level 1336]]:	2 Bubbles	8 Bottles
+232: [[Level 1344]]:	1 Bubbles	13 Bottles
+233: [[Level 1347]]:	2 Bubbles	0 Bottles
+234: [[Level 1354]]:	5 Bubbles	0 Bottles
+235: [[Level 1356]]:	1 Bubbles	14 Bottles
+236: [[Level 1366]]:	3 Bubbles	8 Bottles
+237: [[Level 1371]]:	3 Bubbles	2 Bottles
+238: [[Level 1374]]:	2 Bubbles	5 Bottles
+239: [[Level 1376]]:	1 Bubbles	10 Bottles
+240: [[Level 1385]]:	2 Bubbles	11 Bottles
+241: [[Level 1393]]:	2 Bubbles	19 Bottles
+242: [[Level 1397]]:	1 Bubbles	0 Bottles
+243: [[Level 1402]]:	1 Bubbles	17 Bottles
+244: [[Level 1408]]:	1 Bubbles	8 Bottles
+245: [[Level 1412]]:	2 Bubbles	8 Bottles
+246: [[Level 1419]]:	3 Bubbles	16 Bottles
+247: [[Level 1421]]:	1 Bubbles	8 Bottles
+248: [[Level 1426]]:	3 Bubbles	6 Bottles
+249: [[Level 1429]]:	3 Bubbles	20 Bottles
+250: [[Level 1432]]:	1 Bubbles	0 Bottles
+251: [[Level 1442]]:	3 Bubbles	0 Bottles
+252: [[Level 1448]]:	6 Bubbles	6 Bottles
+253: [[Level 1450]]:	1 Bubbles	8 Bottles
+254: [[Level 1456]]:	4 Bubbles	8 Bottles
+255: [[Level 1460]]:	6 Bubbles	11 Bottles
+256: [[Level 1465]]:	2 Bubbles	8 Bottles
+257: [[Level 1466]]:	3 Bubbles	18 Bottles
+258: [[Level 1469]]:	1 Bubbles	0 Bottles
+259: [[Level 1476]]:	3 Bubbles	14 Bottles
+260: [[Level 1484]]:	6 Bubbles	17 Bottles
+261: [[Level 1493]]:	1 Bubbles	15 Bottles
+262: [[Level 1505]]:	2 Bubbles	8 Bottles
+263: [[Level 1509]]:	8 Bubbles	16 Bottles
+264: [[Level 1513]]:	4 Bubbles	13 Bottles
+265: [[Level 1516]]:	2 Bubbles	5 Bottles
+266: [[Level 1522]]:	2 Bubbles	0 Bottles
+267: [[Level 1530]]:	4 Bubbles	18 Bottles
+268: [[Level 1535]]:	2 Bubbles	4 Bottles
+269: [[Level 1540]]:	1 Bubbles	7 Bottles
+270: [[Level 1543]]:	4 Bubbles	10 Bottles
+271: [[Level 1547]]:	6 Bubbles	11 Bottles
+272: [[Level 1552]]:	2 Bubbles	8 Bottles
+273: [[Level 1560]]:	2 Bubbles	10 Bottles
+274: [[Level 1565]]:	1 Bubbles	8 Bottles
+275: [[Level 1569]]:	4 Bubbles	13 Bottles
+276: [[Level 1573]]:	2 Bubbles	3 Bottles
+277: [[Level 1577]]:	2 Bubbles	17 Bottles
+278: [[Level 1582]]:	5 Bubbles	8 Bottles
+279: [[Level 1589]]:	3 Bubbles	8 Bottles
+280: [[Level 1591]]:	1 Bubbles	1 Bottles
+281: [[Level 1594]]:	1 Bubbles	4 Bottles
+282: [[Level 1606]]:	3 Bubbles	0 Bottles
+283: [[Level 1608]]:	1 Bubbles	8 Bottles
+284: [[Level 1612]]:	4 Bubbles	0 Bottles
+285: [[Level 1622]]:	1 Bubbles	0 Bottles
+286: [[Level 1626]]:	3 Bubbles	8 Bottles
+287: [[Level 1630]]:	3 Bubbles	0 Bottles
+288: [[Level 1633]]:	1 Bubbles	8 Bottles
+289: [[Level 1637]]:	2 Bubbles	8 Bottles
+290: [[Level 1642]]:	4 Bubbles	12 Bottles
+291: [[Level 1646]]:	2 Bubbles	5 Bottles
+292: [[Level 1648]]:	3 Bubbles	6 Bottles
+293: [[Level 1660]]:	6 Bubbles	0 Bottles
+294: [[Level 1669]]:	3 Bubbles	8 Bottles
+295: [[Level 1675]]:	1 Bubbles	8 Bottles
+296: [[Level 1680]]:	1 Bubbles	1 Bottles
+297: [[Level 1684]]:	2 Bubbles	0 Bottles
+298: [[Level 1689]]:	4 Bubbles	8 Bottles
+299: [[Level 1697]]:	3 Bubbles	2 Bottles
+300: [[Level 1700]]:	5 Bubbles	15 Bottles
+301: [[Level 1705]]:	1 Bubbles	8 Bottles
+302: [[Level 1707]]:	3 Bubbles	6 Bottles
+303: [[Level 1711]]:	2 Bubbles	0 Bottles
+304: [[Level 1726]]:	2 Bubbles	0 Bottles
+305: [[Level 1732]]:	1 Bubbles	2 Bottles
+306: [[Level 1740]]:	5 Bubbles	8 Bottles
+307: [[Level 1742]]:	1 Bubbles	25 Bottles
+308: [[Level 1745]]:	4 Bubbles	10 Bottles
+309: [[Level 1755]]:	1 Bubbles	20 Bottles
+310: [[Level 1765]]:	3 Bubbles	0 Bottles
+311: [[Level 1771]]:	2 Bubbles	2 Bottles
+312: [[Level 1779]]:	2 Bubbles	9 Bottles
+313: [[Level 1784]]:	4 Bubbles	10 Bottles
+314: [[Level 1790]]:	5 Bubbles	11 Bottles
+315: [[Level 1795]]:	1 Bubbles	7 Bottles
+316: [[Level 1799]]:	1 Bubbles	12 Bottles
+317: [[Level 1802]]:	1 Bubbles	0 Bottles
+318: [[Level 1813]]:	1 Bubbles	16 Bottles
+319: [[Level 1817]]:	3 Bubbles	8 Bottles
+320: [[Level 1824]]:	7 Bubbles	15 Bottles
+321: [[Level 1830]]:	1 Bubbles	16 Bottles
+322: [[Level 1832]]:	3 Bubbles	0 Bottles
+323: [[Level 1836]]:	10 Bubbles	13 Bottles
+324: [[Level 1840]]:	1 Bubbles	9 Bottles
+325: [[Level 1842]]:	1 Bubbles	17 Bottles
+326: [[Level 1847]]:	2 Bubbles	11 Bottles
+327: [[Level 1852]]:	3 Bubbles	13 Bottles
+328: [[Level 1859]]:	3 Bubbles	2 Bottles
+329: [[Level 1865]]:	7 Bubbles	9 Bottles
+330: [[Level 1870]]:	4 Bubbles	7 Bottles
+331: [[Level 1877]]:	2 Bubbles	7 Bottles
+332: [[Level 1882]]:	2 Bubbles	5 Bottles
+333: [[Level 1884]]:	3 Bubbles	14 Bottles
+334: [[Level 1893]]:	2 Bubbles	14 Bottles
+335: [[Level 1903]]:	2 Bubbles	15 Bottles
+336: [[Level 1907]]:	2 Bubbles	7 Bottles
+337: [[Level 1914]]:	3 Bubbles	8 Bottles
+338: [[Level 1921]]:	2 Bubbles	3 Bottles
+339: [[Level 1927]]:	5 Bubbles	8 Bottles
+340: [[Level 1932]]:	1 Bubbles	17 Bottles
+341: [[Level 1936]]:	4 Bubbles	17 Bottles
+342: [[Level 1940]]:	1 Bubbles	8 Bottles
+343: [[Level 1944]]:	2 Bubbles	13 Bottles
+344: [[Level 1950]]:	2 Bubbles	15 Bottles
+345: [[Level 1956]]:	1 Bubbles	8 Bottles
+346: [[Level 1960]]:	2 Bubbles	0 Bottles
+347: [[Level 1963]]:	1 Bubbles	24 Bottles
+348: [[Level 1969]]:	1 Bubbles	9 Bottles
+349: [[Level 1982]]:	2 Bubbles	4 Bottles
+350: [[Level 1984]]:	3 Bubbles	6 Bottles
+351: [[Level 1989]]:	3 Bubbles	35 Bottles
+352: [[Level 1991]]:	3 Bubbles	5 Bottles
+353: [[Level 1995]]:	2 Bubbles	15 Bottles
+354: [[Level 2000]]:	11 Bubbles	31 Bottles
+355: [[Level 2005]]:	1 Bubbles	13 Bottles
+356: [[Level 2011]]:	1 Bubbles	13 Bottles
+357: [[Level 2016]]:	1 Bubbles	12 Bottles
+358: [[Level 2019]]:	3 Bubbles	14 Bottles
+359: [[Level 2023]]:	3 Bubbles	11 Bottles
+360: [[Level 2027]]:	3 Bubbles	4 Bottles
+361: [[Level 2040]]:	3 Bubbles	6 Bottles
+362: [[Level 2044]]:	1 Bubbles	23 Bottles
+363: [[Level 2056]]:	1 Bubbles	7 Bottles
+364: [[Level 2062]]:	2 Bubbles	12 Bottles
+365: [[Level 2066]]:	2 Bubbles	16 Bottles
+366: [[Level 2071]]:	4 Bubbles	13 Bottles
+367: [[Level 2083]]:	7 Bubbles	13 Bottles
+368: [[Level 2088]]:	2 Bubbles	9 Bottles
+369: [[Level 2093]]:	1 Bubbles	8 Bottles
+370: [[Level 2105]]:	5 Bubbles	7 Bottles
+371: [[Level 2110]]:	3 Bubbles	12 Bottles
+372: [[Level 2112]]:	2 Bubbles	12 Bottles
+373: [[Level 2122]]:	4 Bubbles	15 Bottles
+374: [[Level 2126]]:	5 Bubbles	7 Bottles
+375: [[Level 2134]]:	5 Bubbles	17 Bottles
+376: [[Level 2144]]:	3 Bubbles	10 Bottles
+377: [[Level 2149]]:	2 Bubbles	15 Bottles
+378: [[Level 2155]]:	10 Bubbles	14 Bottles
+379: [[Level 2160]]:	2 Bubbles	8 Bottles
+380: [[Level 2164]]:	2 Bubbles	9 Bottles
+381: [[Level 2173]]:	3 Bubbles	8 Bottles
+382: [[Level 2179]]:	1 Bubbles	5 Bottles
+383: [[Level 2184]]:	2 Bubbles	6 Bottles
+384: [[Level 2187]]:	4 Bubbles	8 Bottles
+385: [[Level 2197]]:	1 Bubbles	11 Bottles
+386: [[Level 2200]]:	1 Bubbles	16 Bottles
+387: [[Level 2206]]:	1 Bubbles	12 Bottles
+388: [[Level 2209]]:	1 Bubbles	30 Bottles
+389: [[Level 2213]]:	2 Bubbles	11 Bottles
+390: [[Level 2221]]:	2 Bubbles	6 Bottles
+391: [[Level 2226]]:	3 Bubbles	5 Bottles
+392: [[Level 2230]]:	4 Bubbles	11 Bottles
+393: [[Level 2235]]:	4 Bubbles	12 Bottles
+394: [[Level 2240]]:	1 Bubbles	8 Bottles
+395: [[Level 2245]]:	1 Bubbles	8 Bottles
+396: [[Level 2248]]:	2 Bubbles	8 Bottles
+397: [[Level 2255]]:	1 Bubbles	14 Bottles
+398: [[Level 2260]]:	4 Bubbles	7 Bottles
+399: [[Level 2266]]:	1 Bubbles	11 Bottles
+400: [[Level 2270]]:	2 Bubbles	8 Bottles
+401: [[Level 2276]]:	1 Bubbles	14 Bottles
+402: [[Level 2281]]:	3 Bubbles	15 Bottles
+403: [[Level 2288]]:	3 Bubbles	7 Bottles
+404: [[Level 2293]]:	6 Bubbles	17 Bottles
+405: [[Level 2297]]:	1 Bubbles	11 Bottles
+406: [[Level 2305]]:	4 Bubbles	14 Bottles
+407: [[Level 2307]]:	1 Bubbles	8 Bottles
+408: [[Level 2311]]:	3 Bubbles	15 Bottles
+409: [[Level 2316]]:	1 Bubbles	14 Bottles
+410: [[Level 2325]]:	4 Bubbles	13 Bottles
+411: [[Level 2332]]:	2 Bubbles	5 Bottles
+412: [[Level 2338]]:	2 Bubbles	8 Bottles
+413: [[Level 2343]]:	3 Bubbles	9 Bottles
+414: [[Level 2347]]:	6 Bubbles	11 Bottles
+415: [[Level 2348]]:	1 Bubbles	8 Bottles
+416: [[Level 2356]]:	2 Bubbles	9 Bottles
+417: [[Level 2361]]:	4 Bubbles	17 Bottles
+418: [[Level 2365]]:	4 Bubbles	2 Bottles
+419: [[Level 2371]]:	3 Bubbles	16 Bottles
+420: [[Level 2375]]:	1 Bubbles	10 Bottles
+421: [[Level 2379]]:	3 Bubbles	13 Bottles
+422: [[Level 2386]]:	2 Bubbles	4 Bottles
+423: [[Level 2390]]:	2 Bubbles	8 Bottles
+424: [[Level 2394]]:	4 Bubbles	12 Bottles
+425: [[Level 2398]]:	4 Bubbles	10 Bottles
+426: [[Level 2405]]:	5 Bubbles	23 Bottles
+427: [[Level 2410]]:	1 Bubbles	24 Bottles
+428: [[Level 2415]]:	3 Bubbles	13 Bottles
+429: [[Level 2417]]:	1 Bubbles	0 Bottles
+430: [[Level 2419]]:	2 Bubbles	22 Bottles
+431: [[Level 2435]]:	2 Bubbles	8 Bottles
+432: [[Level 2436]]:	4 Bubbles	0 Bottles
+433: [[Level 2443]]:	5 Bubbles	4 Bottles
+434: [[Level 2451]]:	4 Bubbles	13 Bottles
+435: [[Level 2455]]:	3 Bubbles	16 Bottles
+436: [[Level 2458]]:	2 Bubbles	18 Bottles
+437: [[Level 2463]]:	1 Bubbles	8 Bottles
+438: [[Level 2468]]:	4 Bubbles	14 Bottles
+439: [[Level 2472]]:	5 Bubbles	12 Bottles
+440: [[Level 2479]]:	3 Bubbles	10 Bottles
+441: [[Level 2485]]:	4 Bubbles	-1 Bottles
+442: [[Level 2486]]:	3 Bubbles	9 Bottles
+443: [[Level 2490]]:	2 Bubbles	-1 Bottles
+444: [[Level 2494]]:	2 Bubbles	-1 Bottles
+445: [[Level 2497]]:	1 Bubbles	12 Bottles
+446: [[Level 2500]]:	1 Bubbles	0 Bottles
+447: [[Level 2502]]:	2 Bubbles	9 Bottles
+448: [[Level 2507]]:	2 Bubbles	8 Bottles
+449: [[Level 2518]]:	1 Bubbles	14 Bottles
+450: [[Level 2523]]:	1 Bubbles	8 Bottles
+451: [[Level 2527]]:	8 Bubbles	8 Bottles
+452: [[Level 2536]]:	2 Bubbles	11 Bottles
+453: [[Level 2544]]:	2 Bubbles	9 Bottles
+454: [[Level 2548]]:	8 Bubbles	14 Bottles
+455: [[Level 2559]]:	2 Bubbles	17 Bottles
+456: [[Level 2563]]:	2 Bubbles	22 Bottles

@@ -1,0 +1,3 @@
+"portalAId" (5188)
+"portalBId" (5188)
+"segmentCoordinates" (5188)
