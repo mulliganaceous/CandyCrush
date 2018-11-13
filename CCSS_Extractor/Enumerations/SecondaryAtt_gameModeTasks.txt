@@ -1717,7 +1717,7 @@ L0523
 
 L0524
 	{"name":"ItemToTargetTask"}
-	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"sodaTypeIsSpecialFishes":false,"numLemonadeDropsPerSplash":9,"sodaTypeIsSpecialExplosive":false,"spawnLemonadeBalloonAfterNumSwitches":6,"manualFillRows":[[[1,14],[2,14],[3,14],[4,14],[5,14],[6,14],[7,14]],[[7,13],[6,13],[5,13],[4,13],[3,13],[2,13],[1,13]],[[1,12],[2,12],[3,12],[4,12],[5,12],[6,12],[7,12]],[[7,11],[6,11],[5,11],[4,11],[3,11],[2,11],[1,11]],[[1,10],[2,10],[3,10],[4,10],[5,10],[6,10],[7,10]],[[7,9],[6,9],[5,9],[4,9],[3,9],[2,9],[1,9]],[[1,8],[2,8],[3,8],[4,8],[5,8],[6,8],[7,8]],[[7,7],[6,7],[5,7],[4,7],[3,7],[2,7],[1,7]],[[1,6],[2,6],[3,6],[4,6],[5,6],[6,6],[7,6]],[[7,5],[6,5],[5,5],[4,5],[3,5],[2,5],[1,5]],[[1,4],[2,4],[3,4],[4,4],[5,4],[6,4],[7,4]],[[7,3],[6,3],[5,3],[4,3],[3,3],[2,3],[1,3]],[[1,2],[2,2],[3,2],[4,2],[5,2],[6,2],[7,2]],[[7,1],[6,1],[5,1],[4,1],[3,1],[2,1],[1,1]],[[1,0],[2,0],[3,0],[4,0],[5,0],[6,0],[7,0]]],"autoFillLemonade":false,"minNumLemonadeBalloonsOnScreen":1,"sodaTypeIsSpecialCorrosive":false}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":6,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[1,14],[2,14],[3,14],[4,14],[5,14],[6,14],[7,14]],[[1,13],[2,13],[3,13],[4,13],[5,13],[6,13],[7,13]],[[1,12],[2,12],[3,12],[4,12],[5,12],[6,12],[7,12]],[[1,11],[2,11],[3,11],[4,11],[5,11],[6,11],[7,11]],[[1,10],[2,10],[3,10],[4,10],[5,10],[6,10],[7,10]],[[1,9],[2,9],[3,9],[4,9],[5,9],[6,9],[7,9]],[[1,8],[2,8],[3,8],[4,8],[5,8],[6,8],[7,8]],[[1,7],[2,7],[3,7],[4,7],[5,7],[6,7],[7,7]],[[1,6],[2,6],[3,6],[4,6],[5,6],[6,6],[7,6]],[[1,5],[2,5],[3,5],[4,5],[5,5],[6,5],[7,5]],[[1,4],[2,4],[3,4],[4,4],[5,4],[6,4],[7,4]],[[1,3],[2,3],[3,3],[4,3],[5,3],[6,3],[7,3]],[[1,2],[2,2],[3,2],[4,2],[5,2],[6,2],[7,2]],[[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[7,1]],[[1,0],[2,0],[3,0],[4,0],[5,0],[6,0],[7,0]]]}
 
 L0525
 	{"name":"Bear Frosting","numberOfPossibleHiddenBears":5,"numberOfAlwaysHiddenBears":18}
@@ -2033,7 +2033,7 @@ L0619
 	{"name":"CaramelColorTakeoverTask"}
 
 L0620
-	{"preferredNumberOfGiantBears":10,"name":"Bear Memory","preferredNumberOfGiantFishes":20}
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":10}
 
 L0621
 	{"name":"Bear Memory","preferredNumberOfGiantBears":20,"preferredNumberOfGiantFishes":20}
@@ -2288,7 +2288,7 @@ L0699
 
 L0700
 	{"name":"ItemToTargetTask"}
-	{"numLemonadeDropsPerSplash":9,"name":"LemonadeSeaTask","sodaTypeIsSpecialFishes":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialCorrosive":false,"spawnLemonadeBalloonAfterNumSwitches":0,"minNumLemonadeBalloonsOnScreen":0,"maxNumLemonadeBalloonsOnScreen":0,"manualFillRows":[[[10,13]],[[10,12]],[[10,11]],[[10,10]],[[10,9]],[[10,8]],[[10,7]],[[10,6]],[[10,5]],[[10,4]],[[10,3]],[[10,2]],[[10,1]],[[10,0]]],"autoFillLemonade":false}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":0,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[10,13]],[[10,12]],[[10,11]],[[10,10]],[[10,9]],[[10,8]],[[10,7]],[[10,6]],[[10,5]],[[10,4]],[[10,3]],[[10,2]],[[10,1]],[[10,0]]]}
 
 L0701
 	{"nrOfChocolateToWin":0,"name":"taskRemoveChocolate"}
@@ -5256,7 +5256,7 @@ L1614
 	{"preferredNumberOfGiantFishes":20,"name":"Bear Memory","preferredNumberOfGiantBears":50}
 
 L1615
-	{"numberOfPossibleHiddenBears":5,"numberOfAlwaysHiddenBears":18,"name":"Bear Frosting"}
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
 
 L1616
 	{"name":"CaramelColorTakeoverTask"}
@@ -5539,7 +5539,7 @@ L1701
 	{"nrOfChocolateToWin":0,"name":"taskRemoveChocolate"}
 
 L1702
-	{"name":"Bear Memory","preferredNumberOfGiantFishes":3,"preferredNumberOfGiantBears":50}
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":5,"preferredNumberOfGiantBears":50}
 
 L1703
 	{"name":"CaramelColorTakeoverTask"}
@@ -5772,7 +5772,7 @@ L1773
 	{"name":"Bear Memory","preferredNumberOfGiantBears":50,"preferredNumberOfGiantFishes":20}
 
 L1774
-	{"name":"Bear Frosting","numberOfAlwaysHiddenBears":18,"numberOfPossibleHiddenBears":4}
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
 
 L1775
 	{"name":"SodaToTheBrimTask"}
@@ -6019,7 +6019,7 @@ L1848
 	{"numberOfPossibleHiddenBears":5,"name":"Bear Frosting","numberOfAlwaysHiddenBears":18}
 
 L1849
-	{"name":"Bear Memory","preferredNumberOfGiantBears":50,"preferredNumberOfGiantFishes":20}
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
 
 L1850
 	{"name":"SodaToTheBrimTask"}
@@ -6165,7 +6165,7 @@ L1893
 	{"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialCorrosive":false,"spawnLemonadeBalloonAfterNumSwitches":0,"minNumLemonadeBalloonsOnScreen":0,"maxNumLemonadeBalloonsOnScreen":0,"name":"LemonadeSeaTask","manualFillRows":[[[0,13],[1,13],[2,13],[3,13],[5,13],[6,13],[7,13],[8,13]],[[8,12],[7,12],[6,12],[5,12],[3,12],[2,12],[1,12],[0,12]],[[0,11],[1,11],[2,11],[3,11],[5,11],[6,11],[7,11],[8,11]],[[8,10],[7,10],[6,10],[5,10],[3,10],[2,10],[1,10],[0,10]],[[0,9],[1,9],[2,9],[3,9],[5,9],[6,9],[7,9],[8,9]],[[8,8],[7,8],[6,8],[5,8],[3,8],[2,8],[1,8],[0,8],[10,8],[11,8],[12,8],[13,8]],[[0,7],[1,7],[2,7],[3,7],[5,7],[6,7],[7,7],[8,7],[10,7],[11,7],[12,7],[13,7]],[[8,6],[7,6],[6,6],[5,6],[3,6],[2,6],[1,6],[0,6]],[[13,5],[12,5],[10,5],[9,5],[8,5],[7,5],[6,5],[5,5],[11,5]],[[5,4],[6,4],[7,4],[8,4],[9,4],[10,4],[11,4],[12,4],[13,4]],[[6,3],[8,3],[9,3],[10,3],[12,3],[5,3],[7,3],[11,3],[13,3]],[[13,2],[11,2],[9,2],[7,2],[5,2],[12,2],[10,2],[8,2],[6,2]],[[5,1],[6,1],[7,1],[8,1],[9,1],[10,1],[11,1],[12,1],[13,1]],[[13,0],[12,0],[11,0],[10,0],[9,0],[8,0],[7,0],[6,0],[5,0]]],"autoFillLemonade":false,"numLemonadeDropsPerSplash":9,"sodaTypeIsSpecialFishes":false}
 
 L1894
-	{"name":"Bear Memory","preferredNumberOfGiantFishes":5,"preferredNumberOfGiantBears":50}
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":7,"preferredNumberOfGiantBears":50}
 
 L1895
 	{"name":"CaramelColorTakeoverTask"}
@@ -6312,7 +6312,7 @@ L1938
 	{"numLemonadeDropsPerSplash":9,"maxNumLemonadeBalloonsOnScreen":1,"manualFillRows":[[[0,8],[1,8],[2,8]],[[2,7],[1,7],[0,7],[4,8],[5,8],[6,8],[7,8],[8,8]],[[0,6],[1,6],[2,6],[4,7],[5,7],[7,7],[8,7]],[[2,5],[1,5],[0,5],[4,6],[5,6],[6,6],[7,6],[8,6]],[[0,4],[1,4],[2,4],[4,5],[5,5],[6,5],[7,5],[8,5]],[[8,3],[7,3],[6,3],[5,3],[2,3],[1,3],[0,3],[4,3]],[[0,2],[1,2],[2,2],[4,2],[5,2],[6,2],[7,2],[8,2]],[[8,1],[7,1],[6,1],[5,1],[4,1],[2,1],[1,1],[0,1]],[[0,0],[1,0],[2,0],[4,0],[5,0],[6,0],[7,0],[8,0]]],"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"spawnLemonadeBalloonAfterNumSwitches":0,"name":"LemonadeSeaTask","sodaTypeIsSpecialFishes":false,"minNumLemonadeBalloonsOnScreen":1,"autoFillLemonade":false}
 
 L1939
-	{"name":"Bear Memory","preferredNumberOfGiantBears":3,"preferredNumberOfGiantFishes":1}
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":1,"preferredNumberOfGiantBears":3}
 
 L1940
 	{"name":"ItemToTargetTask"}
@@ -8358,4 +8358,528 @@ L2564
 
 L2565
 	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2566
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2567
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":2,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":1,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,7]],[[0,6]],[[0,5]],[[0,4]],[[0,3]],[[0,2]],[[0,1]],[[0,0]],[[8,8]],[[8,7]],[[8,6]],[[8,5]],[[8,4]],[[8,3]],[[8,2]],[[8,1]],[[8,0],[2,8],[3,8],[4,8],[5,8],[6,8]],[[2,7],[3,7],[4,7],[5,7],[6,7]],[[2,6],[3,6],[4,6],[5,6],[6,6]],[[2,5],[3,5],[4,5],[5,5],[6,5]],[[2,4],[3,4],[4,4],[5,4],[6,4]],[[2,3],[3,3],[4,3],[5,3],[6,3]],[[2,2],[3,2],[4,2],[5,2],[6,2]],[[2,1],[3,1],[4,1],[5,1],[6,1]],[[2,0],[3,0],[4,0],[5,0],[6,0]]]}
+
+L2568
+	{"name":"CaramelColorTakeoverTask"}
+
+L2569
+	{"name":"ItemToTargetTask"}
+	{"minNumLemonadeBalloonsOnScreen":1,"maxNumLemonadeBalloonsOnScreen":1,"manualFillRows":[[[1,2],[0,8],[2,8],[3,8],[4,8],[5,8],[6,8],[8,8]],[[2,2],[0,7],[2,7],[3,7],[4,7],[5,7],[6,7],[8,7]],[[3,2],[0,6],[1,6],[2,6],[3,6],[4,6],[5,6],[6,6],[7,6],[8,6]],[[3,0],[0,5],[1,5],[2,5],[3,5],[4,5],[5,5],[6,5],[7,5],[8,5]],[[2,0],[0,4],[1,4],[2,4],[3,4],[4,4],[5,4],[6,4],[7,4],[8,4]],[[1,0]],[[0,0]],[[7,2]],[[6,2]],[[5,2]],[[5,0]],[[6,0]],[[7,0]],[[8,0]]],"autoFillLemonade":false,"numLemonadeDropsPerSplash":9,"name":"LemonadeSeaTask","sodaTypeIsSpecialFishes":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialCorrosive":false,"spawnLemonadeBalloonAfterNumSwitches":6}
+
+L2570
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2571
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":1,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,7],[1,7],[2,7],[3,7],[4,7],[5,7],[6,7],[7,7],[8,7]],[[0,6],[1,6],[2,6],[3,6],[4,6],[5,6],[6,6],[7,6],[8,6]],[[0,5],[1,5],[2,5],[3,5],[4,5],[5,5],[6,5],[7,5],[8,5]],[[5,4],[6,4],[7,4],[8,4]],[[0,3],[1,3],[2,3],[3,3],[5,3],[6,3],[7,3],[8,3]],[[0,2],[1,2],[2,2],[3,2],[5,2],[6,2],[7,2],[8,2]],[[0,1],[1,1],[2,1],[3,1],[5,1],[6,1],[7,1],[8,1]],[[0,0],[1,0],[2,0],[3,0],[5,0],[6,0],[7,0],[8,0]]]}
+
+L2572
+	{"name":"CaramelColorTakeoverTask"}
+
+L2573
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2574
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":2,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[1,7],[3,7],[4,7],[5,7],[7,7]],[[0,6],[3,6],[4,6],[5,6],[8,6]],[[1,5],[3,5],[4,5],[5,5],[7,5]],[[0,4],[3,4],[4,4],[5,4],[8,4]],[[1,3],[3,3],[4,3],[5,3],[7,3]],[[0,2],[3,2],[4,2],[5,2],[8,2]],[[0,1],[3,1],[4,1],[5,1],[8,1]],[[0,0],[3,0],[4,0],[5,0],[8,0]]]}
+
+L2575
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2576
+	{"name":"taskRemoveChocolate","nrOfChocolateToWin":0}
+
+L2577
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2578
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":0,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[7,3],[7,4],[7,5],[7,6],[7,7],[7,8]],[[6,3],[6,4],[6,5],[6,6],[6,7],[6,8]],[[5,3],[5,4],[5,5],[5,6],[5,7],[5,8]],[[4,4],[4,5],[4,6],[4,7],[4,8]],[[3,4],[3,5],[3,6],[3,7],[3,8]],[[2,4],[2,5],[2,6],[2,7],[2,8]],[[1,4],[1,5],[1,6],[1,7],[1,8]],[[0,3],[0,4],[0,5],[0,6],[0,7],[0,8]]]}
+
+L2579
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2580
+	{"name":"CaramelColorTakeoverTask"}
+
+L2581
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2582
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":2,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":true,"manualFillRows":[[[7,0],[0,5],[2,5],[3,5],[4,5],[5,5],[6,5],[8,5],[1,8]],[[6,0],[0,4],[2,4],[3,4],[4,4],[5,4],[6,4],[8,4],[2,8]],[[5,0],[0,3],[2,3],[3,3],[4,3],[5,3],[6,3],[8,3],[3,8]],[[4,0],[0,2],[2,2],[3,2],[4,2],[5,2],[6,2],[8,2],[4,8]],[[3,0],[5,8]],[[2,0],[6,8]],[[1,0],[7,8]],[[0,0],[8,8]]]}
+
+L2583
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2584
+	{"name":"CaramelColorTakeoverTask"}
+
+L2585
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2586
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2587
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2588
+	{"name":"CaramelColorTakeoverTask"}
+
+L2589
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":0,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":true,"manualFillRows":[[[0,7],[2,7],[4,7],[6,7],[8,7]],[[0,6],[2,6],[4,6],[6,6],[8,6]],[[0,5],[1,5],[2,5],[3,5],[4,5],[5,5],[6,5],[7,5],[8,5]],[[2,4],[3,4],[4,4],[5,4],[6,4]],[[0,3],[1,3],[4,3],[7,3],[8,3]],[[0,2],[1,2],[2,2],[3,2],[4,2],[5,2],[6,2],[7,2],[8,2]],[[0,1],[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[7,1],[8,1]],[[0,0],[1,0],[2,0],[3,0],[4,0],[5,0],[6,0],[7,0],[8,0]]]}
+
+L2590
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2591
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2592
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":1,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,15],[1,15],[2,15],[3,15]],[[0,14],[1,14],[2,14],[3,14]],[[0,13],[1,13],[2,13],[3,13]],[[0,12],[1,12],[2,12],[3,12]],[[5,15],[6,15],[7,15],[8,15]],[[5,14],[6,14],[7,14],[8,14]],[[5,13],[6,13],[7,13],[8,13]],[[5,12],[6,12],[7,12],[8,12]],[[5,11],[6,11],[7,11],[8,11]],[[6,6],[6,7],[6,8]],[[5,6],[5,7],[5,8]],[[4,6],[4,7],[4,8]],[[0,7],[1,7],[2,7]],[[0,6],[1,6],[2,6]],[[0,5],[1,5],[2,5]],[[0,4],[1,4],[2,4]],[[0,3],[1,3],[2,3]],[[0,2],[1,2],[2,2]],[[0,1],[1,1],[2,1]],[[4,1],[4,2],[4,3]],[[5,0],[5,1],[5,2],[5,3],[5,4]],[[6,0],[6,1],[6,2],[6,3],[6,4]],[[7,0],[7,1],[7,2],[7,3],[7,4]],[[8,0],[8,1],[8,2],[8,3],[8,4]]]}
+
+L2593
+	{"name":"CaramelColorTakeoverTask"}
+
+L2594
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":1,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":true,"manualFillRows":[[[0,7],[1,7],[2,7],[3,7]],[[0,6],[1,6],[2,6],[3,6]],[[0,5],[1,5],[2,5],[3,5]],[[0,4],[1,4],[2,4],[3,4]],[[0,3],[1,3],[2,3],[3,3]],[[0,2],[1,2],[2,2],[3,2]],[[0,1],[1,1],[2,1],[3,1]],[[0,0],[1,0],[2,0],[3,0],[5,8],[6,8],[7,8],[8,8]],[[5,7],[6,7],[7,7],[8,7]],[[5,6],[6,6],[7,6],[8,6]],[[5,5],[6,5],[7,5],[8,5]],[[5,4],[6,4],[7,4],[8,4]],[[5,3],[6,3],[7,3],[8,3]],[[5,2],[6,2],[7,2],[8,2]],[[5,1],[6,1],[7,1],[8,1]],[[5,0],[6,0],[7,0],[8,0]]]}
+
+L2595
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2596
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2597
+	{"name":"taskRemoveChocolate","nrOfChocolateToWin":0}
+
+L2598
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":1,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,8],[1,8],[2,8],[3,8],[4,8],[5,8],[6,8],[7,8]],[[0,7],[1,7],[2,7],[3,7],[4,7],[5,7],[6,7],[7,7]],[[0,6],[1,6],[2,6],[3,6],[4,6],[5,6],[6,6],[7,6]],[[0,5],[1,5],[2,5],[3,5],[4,5],[5,5],[6,5],[7,5]],[[0,4],[1,4],[2,4],[3,4],[5,4],[6,4],[7,4],[8,4]],[[1,3],[2,3],[3,3],[4,3],[5,3],[6,3],[7,3],[8,3]],[[1,2],[2,2],[3,2],[4,2],[5,2],[6,2],[7,2],[8,2]],[[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[7,1],[8,1]],[[1,0],[2,0],[3,0],[4,0],[5,0],[6,0],[7,0],[8,0]]]}
+
+L2599
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2600
+	{"name":"taskRemoveChocolate","nrOfChocolateToWin":0}
+
+L2601
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2602
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":2,"preferredNumberOfGiantBears":50}
+
+L2603
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2604
+	{"name":"CaramelColorTakeoverTask"}
+
+L2605
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":0,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[2,12],[6,12],[2,13],[6,13]],[[3,12],[5,12],[3,13],[5,13]],[[0,19],[1,19],[7,19],[8,19]],[[0,18],[1,18],[7,18],[8,18]],[[0,17],[1,17],[7,17],[8,17]],[[0,16],[1,16],[7,16],[8,16]],[[0,15],[1,15],[7,15],[8,15]],[[0,27],[0,29],[0,30],[0,31],[1,31],[2,31]],[[0,23],[1,23],[2,23],[4,23],[0,24],[0,25]],[[6,23],[7,23],[8,23],[8,24],[8,25],[8,27]],[[8,29],[8,30],[6,31],[7,31],[8,31]]]}
+
+L2606
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2607
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2608
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":true,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,5],[1,5],[2,5],[3,5]],[[5,5],[6,5],[7,5],[8,5]],[[0,4],[1,4],[2,4],[3,4]],[[5,4],[6,4],[7,4],[8,4]],[[0,3],[1,3],[2,3]],[[6,3],[7,3],[8,3]],[[0,2],[1,2],[2,2]],[[6,2],[7,2],[8,2]],[[0,1],[1,1],[2,1]],[[6,1],[7,1],[8,1]],[[0,0],[1,0],[2,0]],[[6,0],[7,0],[8,0],[4,2]],[[4,1]],[[4,0]]]}
+
+L2609
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":1,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,7]],[[0,6]],[[0,5]],[[0,4]],[[0,3]],[[0,2]],[[0,1]],[[2,8],[3,8],[4,8],[5,8],[6,8],[7,8],[8,8]],[[2,7],[3,7],[4,7],[5,7],[6,7],[7,7],[8,7]],[[2,6],[3,6],[4,6],[5,6],[6,6],[7,6],[8,6]],[[6,5],[7,5],[8,5]],[[2,4],[3,4],[4,4],[5,4],[6,4],[7,4],[8,4]],[[2,3],[3,3],[4,3],[5,3],[6,3],[7,3],[8,3]],[[2,2],[3,2],[4,2],[5,2],[6,2],[7,2],[8,2]],[[2,1],[3,1],[4,1],[5,1],[6,1],[7,1],[8,1]],[[2,0],[3,0],[4,0],[5,0],[6,0],[7,0],[8,0]]]}
+
+L2610
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2611
+	{"name":"CaramelColorTakeoverTask"}
+
+L2612
+	{"name":"taskRemoveChocolate","nrOfChocolateToWin":0}
+
+L2613
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":3,"preferredNumberOfGiantBears":7}
+
+L2614
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":2,"minNumLemonadeBalloonsOnScreen":2,"spawnLemonadeBalloonAfterNumSwitches":1,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,6],[1,6],[2,6],[3,6],[5,6],[6,6],[7,6],[8,6]],[[0,5],[1,5],[2,5],[3,5],[5,5],[6,5],[7,5],[8,5]],[[0,4],[1,4],[2,4],[3,4],[5,4],[6,4],[7,4],[8,4]],[[0,3],[1,3],[2,3],[3,3],[5,3],[6,3],[7,3],[8,3]],[[0,2],[1,2],[2,2],[3,2],[5,2],[6,2],[7,2],[8,2]],[[0,1],[1,1],[2,1],[3,1],[5,1],[6,1],[7,1],[8,1]],[[0,0],[1,0],[2,0],[3,0]],[[11,8],[13,8],[14,8],[15,8],[16,8],[17,8],[19,8]],[[11,7],[13,7],[14,7],[15,7],[16,7],[17,7],[19,7]],[[11,6],[13,6],[14,6],[15,6],[16,6],[17,6],[19,6]],[[11,5],[13,5],[14,5],[15,5],[16,5],[17,5],[19,5]],[[11,4],[13,4],[14,4],[15,4],[16,4],[17,4],[19,4]],[[11,3],[13,3],[14,3],[15,3],[16,3],[17,3],[19,3]],[[11,2],[13,2],[14,2],[15,2],[16,2],[17,2],[19,2]],[[11,1],[13,1],[14,1],[15,1],[16,1],[17,1],[19,1]],[[11,0],[12,0],[13,0],[14,0],[15,0],[16,0],[17,0],[18,0],[19,0]]]}
+
+L2615
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2616
+	{"name":"CaramelColorTakeoverTask"}
+
+L2617
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2618
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":1,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":true,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[4,7],[5,7],[6,7],[7,7],[8,7]],[[5,6],[6,6],[7,6],[8,6]],[[6,5],[7,5],[8,5]],[[6,4],[7,4],[8,4]],[[6,3],[7,3],[8,3]],[[5,2],[6,2],[7,2],[8,2]],[[4,1],[5,1],[6,1],[7,1],[8,1]],[[4,0],[5,0],[6,0],[7,0],[8,0]],[[0,8]],[[0,7],[1,7]],[[0,6],[1,6],[2,6]],[[0,5],[1,5],[2,5]],[[0,4],[1,4],[2,4],[3,4],[4,4]],[[0,3],[1,3],[2,3]],[[0,2],[1,2],[2,2]],[[1,1],[2,1]],[[2,0]]]}
+
+L2619
+	{"name":"taskRemoveChocolate","nrOfChocolateToWin":0}
+
+L2620
+	{"name":"CaramelColorTakeoverTask"}
+
+L2621
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":4,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":6,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[8,0],[8,1],[8,2],[8,3],[8,4],[8,5],[0,8],[1,8],[2,8],[3,8],[4,8],[5,8],[8,8]],[[7,0],[7,1],[7,2],[7,3],[7,4],[0,7],[1,7],[2,7],[3,7],[4,7],[7,7]],[[6,0],[6,1],[6,2],[6,3],[0,6],[1,6],[2,6],[3,6],[6,6]],[[5,0],[5,1],[5,2],[0,5],[1,5],[2,5],[5,5]],[[4,0],[4,1],[0,4],[1,4],[4,4]],[[3,0],[0,3],[3,3]],[[2,2]],[[1,1]],[[1,0]]]}
+
+L2622
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2623
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2624
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2625
+	{"name":"CaramelColorTakeoverTask"}
+
+L2626
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":0,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,13],[1,13],[2,13],[3,13],[4,13],[5,13],[6,13],[7,13],[8,13]],[[3,12],[4,12],[5,12],[6,12],[7,12],[8,12]],[[0,11],[1,11],[2,11],[3,11],[4,11],[5,11],[6,11],[7,11],[8,11]],[[0,10],[1,10],[2,10],[3,10],[4,10],[5,10],[6,10],[7,10],[8,10]],[[3,9],[4,9],[5,9],[6,9],[7,9],[8,9]],[[0,8],[1,8],[2,8],[3,8],[4,8],[5,8],[6,8],[7,8],[8,8],[9,8],[10,8],[11,8]],[[0,7],[1,7],[2,7],[3,7],[4,7],[5,7],[6,7],[7,7],[8,7],[9,7],[10,7],[11,7]],[[0,6],[1,6],[2,6],[3,6],[4,6],[5,6],[6,6],[7,6],[8,6],[9,6],[10,6],[11,6]],[[3,5],[4,5],[5,5],[6,5],[7,5],[8,5]],[[3,4],[4,4],[5,4],[6,4],[7,4],[8,4],[9,4],[10,4],[11,4]],[[3,3],[4,3],[5,3],[6,3],[7,3],[8,3],[9,3],[10,3],[11,3]],[[3,2],[4,2],[5,2],[6,2],[7,2],[8,2]],[[3,1],[4,1],[5,1],[6,1],[7,1],[8,1],[9,1],[10,1],[11,1]],[[3,0],[4,0],[5,0],[6,0],[7,0],[8,0],[9,0],[10,0],[11,0]]]}
+
+L2627
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2628
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":1,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[8,0],[8,1],[8,2],[8,3],[8,4],[8,5],[8,6]],[[7,0],[7,1],[7,2],[7,3],[7,4],[7,5]],[[6,0],[6,1],[6,2],[6,3],[6,4]],[[5,0],[5,1],[5,2],[5,3]],[[4,0],[4,1],[4,2]],[[3,0],[3,1]],[[2,0]],[[7,8]],[[6,7],[6,8]],[[5,6],[5,7],[5,8]],[[4,5],[4,6],[4,7],[4,8]],[[3,4],[3,5],[3,6],[3,7],[3,8]],[[2,3],[2,4],[2,5],[2,6],[2,7],[2,8]],[[1,2],[1,3],[1,4],[1,5],[1,6],[1,7],[1,8]],[[0,1],[0,2],[0,3],[0,4],[0,5],[0,6],[0,7],[0,8]]]}
+
+L2629
+	{"name":"CaramelColorTakeoverTask"}
+
+L2630
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2631
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":true,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[1,6],[2,6]],[[3,6],[4,6]],[[5,6],[6,6]],[[7,6],[7,8]],[[5,8],[6,8]],[[3,8],[4,8]],[[1,8],[2,8]],[[0,4],[2,4],[3,4],[4,4],[5,4],[6,4],[8,4],[0,8]],[[0,3],[2,3],[3,3],[4,3],[5,3],[6,3],[8,3]],[[0,2],[2,2],[3,2],[4,2],[5,2],[6,2],[8,2]],[[0,1],[2,1],[3,1],[4,1],[5,1],[6,1],[8,1]],[[0,0],[2,0],[3,0],[4,0],[5,0],[6,0],[8,0]]]}
+
+L2632
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":3,"preferredNumberOfGiantBears":4}
+
+L2633
+	{"name":"CaramelColorTakeoverTask"}
+
+L2634
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2635
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":8,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[1,0],[1,8]],[[2,0],[2,8]],[[3,0],[3,8]],[[4,0],[4,8]],[[5,0],[5,1],[5,7],[5,8]],[[6,0],[6,1],[6,2],[6,6],[6,7],[6,8]],[[7,0],[7,1],[7,2],[7,6],[7,7],[7,8]],[[8,0],[8,1],[8,2],[6,4],[7,4],[8,4],[8,6],[8,7],[8,8]],[[5,4]],[[4,3],[4,4],[4,5]],[[3,3],[3,4],[3,5]],[[2,2],[2,3],[2,4],[2,5],[2,6]],[[1,2],[1,3],[1,4],[1,5],[1,6]],[[0,2],[0,3],[0,4],[0,5],[0,6]]]}
+
+L2636
+	{"name":"taskRemoveChocolate","nrOfChocolateToWin":0}
+
+L2637
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2638
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":1,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[5,16],[6,16]],[[5,18],[5,19]],[[3,18],[3,19]],[[3,14],[4,14]],[[3,16],[3,17]],[[5,14],[6,14]],[[8,15]],[[8,14]],[[16,19],[18,19],[20,19],[22,19],[24,19]],[[22,15],[23,15],[24,15],[17,18],[23,18]],[[16,15],[17,15],[18,15],[27,15],[16,17],[18,17],[22,17],[24,17]],[[20,18]],[[20,17]],[[20,16]],[[20,15]]]}
+
+L2639
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2640
+	{"name":"CaramelColorTakeoverTask"}
+
+L2641
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2642
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":4,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":6,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[21,5],[38,5],[21,6],[38,6],[21,7],[38,7],[21,8],[38,8]],[[0,5],[13,5],[0,6],[13,6],[0,7],[13,7],[0,8],[13,8]],[[20,5],[20,6],[20,7],[20,8]],[[14,5],[14,6],[14,7],[14,8]],[[19,5],[19,6],[19,7]],[[15,5],[15,6],[15,7],[15,8]],[[18,5],[18,6]],[[16,5],[16,6],[16,7],[16,8]],[[17,0],[17,8]],[[16,2],[16,3]],[[18,0],[18,1],[18,2],[18,3]],[[15,1],[15,2],[15,3]],[[19,0],[19,1],[19,2],[19,3]],[[14,1],[14,2],[14,3]],[[20,0],[20,1],[20,2],[20,3]],[[13,0],[13,1],[13,2],[13,3]],[[21,0],[21,1],[21,2],[21,3]]]}
+
+L2643
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2644
+	{"name":"CaramelColorTakeoverTask"}
+
+L2645
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2646
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2647
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":20}
+
+L2648
+	{"name":"CaramelColorTakeoverTask"}
+
+L2649
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":2,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":6,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[1,8],[7,8]],[[2,8],[6,8]],[[4,7],[3,8],[4,8],[5,8]],[[0,6],[1,6],[2,6],[4,6],[6,6],[7,6],[8,6]],[[0,5],[1,5],[2,5],[3,5],[5,5],[6,5],[7,5],[8,5]],[[0,4],[1,4],[2,4],[3,4],[5,4],[6,4],[7,4],[8,4]],[[0,3],[1,3],[2,3],[4,3],[6,3],[7,3],[8,3]],[[0,2],[1,2],[2,2],[4,2],[6,2],[7,2],[8,2]],[[0,1],[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[7,1],[8,1]],[[0,0],[1,0],[2,0],[3,0],[4,0],[5,0],[6,0],[7,0],[8,0]]]}
+
+L2650
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2651
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":4,"preferredNumberOfGiantBears":25}
+
+L2652
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2653
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":6,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,8],[1,8],[2,8],[4,8],[6,8],[7,8],[8,8]],[[0,7],[1,7],[2,7],[3,7],[5,7],[6,7],[7,7],[8,7]],[[0,6],[1,6],[2,6],[3,6],[5,6],[6,6],[7,6],[8,6]],[[0,5],[1,5],[2,5],[6,5],[7,5],[8,5]],[[0,4],[2,4],[4,4],[6,4],[8,4]],[[0,3],[4,3],[8,3]],[[1,2],[2,2],[3,2],[4,2],[5,2],[6,2],[7,2]],[[0,1],[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[7,1],[8,1]],[[0,0],[1,0],[2,0],[3,0],[5,0],[6,0],[7,0],[8,0]]]}
+
+L2654
+	{"name":"taskRemoveChocolate","nrOfChocolateToWin":0}
+
+L2655
+	{"name":"CaramelColorTakeoverTask"}
+
+L2656
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":0,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":1,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,1],[0,2],[0,3],[0,4],[0,5],[0,6],[0,7],[0,8],[0,9],[0,10],[0,11],[0,12],[0,13],[0,14],[0,15],[0,16],[0,17],[0,18],[7,18],[8,18],[9,18],[0,19],[6,19],[8,19],[10,19]],[[6,16],[7,16],[8,16],[9,16],[10,16],[6,17],[7,17],[8,17],[9,17],[10,17]],[[6,14],[7,14],[8,14],[9,14],[10,14],[6,15],[7,15],[8,15],[9,15],[10,15]],[[6,12],[7,12],[8,12],[9,12],[10,12],[6,13],[7,13],[8,13],[9,13],[10,13]],[[7,10],[8,10],[9,10],[7,11],[8,11],[9,11]],[[7,8],[8,8],[9,8],[8,9]],[[6,6],[7,6],[8,6],[9,6],[10,6],[7,7],[8,7],[9,7]],[[6,4],[7,4],[8,4],[9,4],[10,4],[6,5],[7,5],[8,5],[9,5],[10,5]],[[6,2],[7,2],[8,2],[9,2],[10,2],[6,3],[7,3],[8,3],[9,3],[10,3]],[[6,0],[7,0],[8,0],[9,0],[10,0],[6,1],[10,1]]]}
+
+L2657
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2658
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":1,"preferredNumberOfGiantBears":5}
+
+L2659
+	{"name":"CaramelColorTakeoverTask"}
+
+L2660
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":0,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,5],[1,5],[2,5],[3,5]],[[0,4],[1,4]],[[0,3],[1,3]],[[0,2],[1,2]],[[0,1],[1,1]],[[0,0],[1,0]],[[5,8],[6,8],[7,8],[8,8]],[[5,7],[6,7],[7,7],[8,7]],[[5,6],[6,6],[7,6],[8,6]],[[5,5],[6,5],[7,5],[8,5]],[[7,4],[8,4]],[[7,3],[8,3]],[[7,2],[8,2]],[[7,1],[8,1]],[[7,0],[8,0]],[[3,3],[4,3],[5,3]],[[3,2],[4,2],[5,2]],[[3,1],[4,1],[5,1]],[[3,0],[4,0],[5,0]]]}
+
+L2661
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2662
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":10}
+
+L2663
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2664
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[1,8],[2,8]],[[3,8],[4,8]],[[5,8],[6,8]],[[7,8],[8,8]],[[6,6],[7,6]],[[4,6],[5,6]],[[2,6],[3,6]],[[0,6],[1,6]],[[0,2],[8,2],[0,3],[8,3]],[[0,1],[8,1],[2,3],[3,3],[4,3],[5,3],[6,3],[3,4],[4,4],[5,4]],[[2,1],[3,1],[4,1],[5,1],[6,1],[2,2],[3,2],[4,2],[5,2],[6,2]],[[2,0],[3,0],[4,0],[5,0],[6,0],[2,17],[3,17],[4,17],[5,17],[7,17],[8,17]],[[2,16],[3,16],[4,16],[5,16],[7,16],[8,16]],[[2,15],[3,15],[4,15],[5,15],[7,15],[8,15]],[[2,14],[3,14],[4,14],[5,14],[7,14],[8,14]],[[2,13],[3,13],[4,13],[5,13],[7,13],[8,13]],[[2,12],[3,12],[4,12],[5,12],[7,12],[8,12]],[[2,11],[3,11],[4,11],[5,11],[7,11],[8,11]]]}
+
+L2665
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2666
+	{"name":"CaramelColorTakeoverTask"}
+
+L2667
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2668
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":2,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[1,8],[3,8],[5,8],[7,8]],[[0,7],[1,7],[3,7],[5,7],[7,7],[8,7]],[[0,6],[1,6],[2,6],[3,6],[4,6],[5,6],[6,6],[7,6],[8,6]],[[1,5],[2,5],[3,5],[4,5],[5,5],[6,5],[7,5]],[[0,4],[1,4],[2,4],[3,4],[4,4],[5,4],[6,4],[7,4],[8,4]],[[0,3],[1,3],[2,3],[3,3],[4,3],[5,3],[6,3],[7,3],[8,3]],[[0,1],[2,1],[4,1],[6,1],[8,1]],[[0,0],[2,0],[4,0],[6,0],[8,0]]]}
+
+L2669
+	{"name":"taskRemoveChocolate","nrOfChocolateToWin":0}
+
+L2670
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2671
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":0,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":true,"manualFillRows":[[[0,14]],[[0,13],[2,13]],[[0,12],[2,12]],[[0,11],[2,11],[4,11]],[[0,10],[1,10],[2,10],[3,10],[4,10]],[[0,9],[1,9],[2,9],[3,9],[4,9]],[[0,8],[2,8],[4,8]],[[0,7],[1,7],[2,7],[3,7],[4,7]],[[0,6],[1,6],[2,6],[3,6],[4,6]],[[0,5],[2,5],[4,5]],[[0,4],[1,4],[2,4],[3,4],[4,4]],[[1,3],[3,3]],[[0,2],[2,2],[4,2]],[[0,1],[1,1],[2,1],[3,1],[4,1]],[[0,0],[1,0],[2,0],[3,0],[4,0]]]}
+
+L2672
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2673
+	{"name":"CaramelColorTakeoverTask"}
+
+L2674
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2675
+	{"name":"taskRemoveChocolate","nrOfChocolateToWin":0}
+
+L2676
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":0,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":true,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,7],[1,7],[2,7],[3,7]],[[0,6],[1,6],[2,6],[3,6]],[[0,5],[1,5],[2,5],[3,5]],[[0,4],[1,4],[2,4],[3,4]],[[0,3],[1,3],[2,3],[3,3]],[[0,2],[1,2],[2,2],[3,2]],[[0,1],[1,1],[2,1],[3,1]],[[0,0],[1,0],[2,0],[3,0]],[[5,7],[6,7],[7,7],[8,7]],[[5,6],[6,6],[7,6],[8,6]],[[5,5],[6,5],[7,5],[8,5]],[[5,4],[6,4],[7,4],[8,4]],[[5,3],[6,3],[7,3],[8,3]],[[5,2],[6,2],[7,2],[8,2]],[[5,1],[6,1],[7,1],[8,1]],[[5,0],[6,0],[7,0],[8,0]]]}
+
+L2677
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":4,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":6,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,5],[2,5],[3,5],[4,5],[5,5],[6,5],[8,5]],[[0,4],[1,4],[2,4],[3,4],[4,4],[5,4],[6,4],[7,4],[8,4]],[[0,3],[1,3],[2,3],[3,3],[4,3],[5,3],[6,3],[7,3],[8,3]],[[0,2],[1,2],[2,2],[6,2],[7,2],[8,2]],[[0,1],[2,1],[3,1],[4,1],[5,1],[6,1],[8,1]],[[0,0],[1,0],[2,0],[3,0],[4,0],[5,0],[6,0],[7,0],[8,0]]]}
+
+L2678
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2679
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2680
+	{"name":"CaramelColorTakeoverTask"}
+
+L2681
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2682
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":0,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,20],[1,20],[2,20],[3,20],[4,20],[5,20],[6,20],[7,20],[8,20],[0,21],[2,21],[3,21],[5,21],[6,21],[8,21]],[[0,18],[1,18],[2,18],[3,18],[4,18],[5,18],[6,18],[7,18],[8,18],[0,19],[1,19],[2,19],[3,19],[4,19],[5,19],[6,19],[7,19],[8,19]],[[0,16],[1,16],[2,16],[3,16],[4,16],[5,16],[6,16],[7,16],[8,16],[0,17],[1,17],[2,17],[3,17],[4,17],[5,17],[6,17],[7,17],[8,17]],[[0,14],[1,14],[2,14],[3,14],[4,14],[5,14],[6,14],[7,14],[8,14],[0,15],[4,15],[8,15]],[[0,12],[1,12],[2,12],[3,12],[4,12],[5,12],[6,12],[7,12],[8,12],[0,13],[1,13],[2,13],[3,13],[4,13],[5,13],[6,13],[7,13],[8,13]],[[0,10],[1,10],[3,10],[4,10],[5,10],[7,10],[8,10],[0,11],[1,11],[2,11],[3,11],[4,11],[5,11],[6,11],[7,11],[8,11]],[[0,8],[2,8],[3,8],[4,8],[5,8],[6,8],[8,8],[0,9],[3,9],[4,9],[5,9],[8,9]],[[0,6],[1,6],[2,6],[3,6],[4,6],[5,6],[6,6],[7,6],[8,6],[0,7],[3,7],[4,7],[5,7],[8,7]],[[0,4],[1,4],[2,4],[3,4],[4,4],[5,4],[6,4],[7,4],[8,4],[0,5],[1,5],[2,5],[3,5],[4,5],[5,5],[6,5],[7,5],[8,5]],[[0,2],[1,2],[2,2],[3,2],[4,2],[5,2],[6,2],[7,2],[8,2],[0,3],[1,3],[2,3],[3,3],[4,3],[5,3],[6,3],[7,3],[8,3]]]}
+
+L2683
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2684
+	{"name":"CaramelColorTakeoverTask"}
+
+L2685
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":2,"preferredNumberOfGiantBears":7}
+
+L2686
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,7],[8,7],[2,8],[3,8],[4,8],[5,8],[6,8]],[[0,6],[8,6],[2,7],[3,7],[4,7],[5,7],[6,7]],[[0,5],[8,5],[2,6],[3,6],[4,6],[5,6],[6,6]],[[3,3],[4,3],[5,3],[0,4],[8,4],[2,5],[3,5],[4,5],[5,5],[6,5]],[[0,3],[8,3]],[[0,2],[3,2],[4,2],[5,2],[8,2]],[[0,1],[3,1],[4,1],[5,1],[8,1]],[[0,0],[3,0],[4,0],[5,0],[8,0]]]}
+
+L2687
+	{"name":"taskRemoveChocolate","nrOfChocolateToWin":0}
+
+L2688
+	{"name":"CaramelColorTakeoverTask"}
+
+L2689
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2690
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2691
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":1,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":true,"manualFillRows":[[[5,6],[6,6]],[[4,5],[4,6]],[[4,3],[4,4]],[[5,3],[6,3]],[[7,3],[8,3]],[[8,4],[8,5]],[[8,6],[8,7]],[[7,8],[8,8]],[[5,8],[6,8]],[[3,8],[4,8]],[[0,7],[1,7],[2,7],[0,8],[1,8],[2,8]],[[0,5],[1,5],[2,5],[0,6],[1,6],[2,6]],[[0,3],[1,3],[2,3],[0,4],[1,4],[2,4]],[[0,1],[1,1],[2,1],[4,1],[5,1],[6,1],[7,1],[8,1],[0,2],[1,2],[2,2]],[[0,0],[1,0],[2,0],[4,0],[5,0],[6,0],[7,0],[8,0]]]}
+
+L2692
+	{"name":"CaramelColorTakeoverTask"}
+
+L2693
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,7],[1,7]],[[0,6],[1,6]],[[0,5],[1,5]],[[0,4],[1,4]],[[0,3],[1,3]],[[0,2],[1,2]],[[0,1],[1,1]],[[0,0],[1,0]],[[3,8],[4,8],[5,8],[6,8],[7,8],[8,8]],[[3,7],[4,7],[5,7],[6,7],[7,7]],[[4,6],[5,6],[6,6]],[[3,5],[4,5],[5,5],[6,5],[7,5]],[[4,4],[5,4],[6,4]],[[3,3],[4,3],[5,3],[6,3],[7,3]],[[3,2],[4,2],[5,2],[6,2],[7,2],[8,2]],[[3,1],[4,1],[5,1],[6,1],[7,1],[8,1]],[[3,0],[4,0],[5,0],[6,0],[7,0],[8,0]]]}
+
+L2694
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":5,"preferredNumberOfGiantBears":10}
+
+L2695
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2696
+	{"name":"CaramelColorTakeoverTask"}
+
+L2697
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2698
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":4,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":6,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":true,"manualFillRows":[[[0,8]],[[0,6],[0,7]],[[0,4],[0,5]],[[0,2],[0,3]],[[0,0],[1,0],[0,1]],[[2,0],[3,0]],[[4,0],[5,0]],[[6,0],[7,0],[8,0],[9,0]],[[10,0],[11,0]],[[12,0],[13,0]],[[14,0],[15,0]],[[16,0],[17,0],[17,1]],[[17,2],[17,3]],[[17,4],[17,5]],[[17,6],[17,7]],[[17,8]]]}
+
+L2699
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":4,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":true,"manualFillRows":[[[0,6],[0,7],[0,8]],[[1,6],[1,7],[1,8]],[[2,6],[2,7],[2,8]],[[3,6],[3,7],[3,8]],[[8,6],[8,7],[8,8]],[[7,6],[7,7],[7,8]],[[6,6],[6,7],[6,8]],[[5,6],[5,7],[5,8]]]}
+
+L2700
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2701
+	{"name":"CaramelColorTakeoverTask"}
+
+L2702
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2703
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2704
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2705
+	{"name":"taskRemoveChocolate","nrOfChocolateToWin":0}
+
+L2706
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":6,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,7],[1,7],[2,7],[4,7],[6,7],[7,7],[8,7]],[[0,6],[1,6],[2,6],[6,6],[7,6],[8,6]],[[0,5],[1,5],[2,5],[4,5],[6,5],[7,5],[8,5]],[[0,4],[1,4],[2,4],[6,4],[7,4],[8,4]],[[0,3],[1,3],[2,3],[4,3],[6,3],[7,3],[8,3]],[[0,2],[3,2],[5,2],[8,2]],[[0,1],[1,1],[3,1],[4,1],[5,1],[7,1],[8,1]],[[0,0],[1,0],[2,0],[3,0],[4,0],[5,0],[6,0],[7,0],[8,0]]]}
+
+L2707
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2708
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2709
+	{"name":"CaramelColorTakeoverTask"}
+
+L2710
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":0,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":true,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,12],[1,12],[2,12],[6,12],[7,12],[8,12]],[[0,11],[1,11],[2,11],[4,11],[6,11],[7,11],[8,11]],[[0,10],[1,10],[2,10],[4,10],[6,10],[7,10],[8,10]],[[0,9],[1,9],[2,9],[6,9],[7,9],[8,9]],[[0,8],[1,8],[2,8],[4,8],[6,8],[7,8],[8,8]],[[0,7],[1,7],[2,7],[4,7],[6,7],[7,7],[8,7]],[[0,6],[1,6],[2,6],[6,6],[7,6],[8,6]],[[0,5],[1,5],[2,5],[6,5],[7,5],[8,5]],[[0,4],[1,4],[2,4],[4,4],[6,4],[7,4],[8,4]],[[0,3],[1,3],[2,3],[4,3],[6,3],[7,3],[8,3]],[[0,2],[1,2],[2,2],[6,2],[7,2],[8,2]],[[0,1],[1,1],[2,1],[4,1],[6,1],[7,1],[8,1]],[[0,0],[1,0],[2,0],[4,0],[6,0],[7,0],[8,0]]]}
+
+L2711
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":true,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,8],[1,8],[2,8],[3,8],[4,8],[5,8],[6,8],[7,8],[8,8]],[[0,7],[1,7],[2,7],[3,7],[4,7],[5,7],[6,7],[7,7],[8,7]],[[0,6],[1,6],[2,6],[3,6],[4,6],[5,6],[6,6],[7,6],[8,6]],[[0,5],[1,5],[2,5],[3,5],[4,5],[5,5],[6,5],[7,5],[8,5]],[[0,3],[1,3],[2,3],[3,3],[4,3]],[[0,2],[1,2],[2,2],[3,2],[4,2]],[[0,1],[1,1],[2,1],[3,1],[4,1]],[[0,0],[1,0],[2,0],[3,0],[4,0]],[[6,3],[7,3],[8,3]],[[6,2],[7,2],[8,2]],[[6,1],[7,1],[8,1]],[[6,0],[7,0],[8,0]]]}
+
+L2712
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2713
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":4,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":6,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[4,1]],[[4,5]],[[3,4],[4,4],[5,4]],[[4,3]],[[4,11]],[[4,10]],[[4,9]],[[4,8]],[[4,16]],[[3,15],[4,15],[5,15]],[[4,14]],[[4,18]]]}
+
+L2714
+	{"name":"taskRemoveCookie","chanceToGrow":50,"gumLevel":2,"cookiesToWin":0}
+
+L2715
+	{"name":"CaramelColorTakeoverTask"}
+
+L2716
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2717
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":1,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":3,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,7],[2,7],[4,7],[6,7],[7,7],[8,7]],[[0,6],[2,6],[4,6],[6,6],[7,6],[8,6]],[[0,5],[2,5],[4,5],[6,5],[7,5],[8,5]],[[0,4],[2,4],[4,4],[6,4],[7,4],[8,4]],[[0,3],[2,3],[4,3],[6,3],[7,3],[8,3]],[[0,2],[2,2],[4,2],[6,2],[7,2],[8,2]],[[1,0],[2,0],[3,0],[4,0],[6,1],[7,1],[8,1]],[[6,0],[7,0],[8,0]]]}
+
+L2718
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2719
+	{"name":"CaramelColorTakeoverTask"}
+
+L2720
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
+
+L2721
+	{"name":"SodaToTheBrimTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":0,"minNumLemonadeBalloonsOnScreen":0,"spawnLemonadeBalloonAfterNumSwitches":0,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,7],[1,7],[2,7],[3,7],[4,7],[5,7],[6,7],[7,7],[8,7]],[[0,6],[1,6],[2,6],[3,6],[4,6],[5,6],[6,6],[7,6],[8,6]],[[0,5],[1,5],[2,5],[3,5],[4,5],[5,5],[6,5],[7,5],[8,5]],[[4,4]],[[2,3],[3,3],[4,3],[5,3],[6,3]],[[0,2],[1,2],[2,2],[3,2],[4,2],[5,2],[6,2],[7,2],[8,2]],[[0,1],[1,1],[2,1],[3,1],[4,1],[5,1],[6,1],[7,1],[8,1]],[[0,0],[1,0],[2,0],[3,0],[4,0],[5,0],[6,0],[7,0],[8,0]]]}
+
+L2722
+	{"name":"Bear Memory","preferredNumberOfGiantFishes":20,"preferredNumberOfGiantBears":50}
+
+L2723
+	{"name":"CaramelColorTakeoverTask"}
+
+L2724
+	{"name":"ItemToTargetTask"}
+	{"name":"LemonadeSeaTask","maxNumLemonadeBalloonsOnScreen":4,"minNumLemonadeBalloonsOnScreen":1,"spawnLemonadeBalloonAfterNumSwitches":6,"numLemonadeDropsPerSplash":9,"autoFillLemonade":false,"sodaTypeIsSpecialCorrosive":false,"sodaTypeIsSpecialExplosive":false,"sodaTypeIsSpecialFishes":false,"manualFillRows":[[[0,8],[2,8],[3,8],[4,8],[5,8],[6,8],[8,8]],[[2,7],[3,7],[4,7],[5,7],[6,7]],[[0,6],[2,6],[3,6],[4,6],[5,6],[6,6],[8,6]],[[0,5],[2,5],[3,5],[4,5],[5,5],[6,5],[8,5]],[[3,4],[4,4],[5,4]],[[1,3],[4,3],[7,3]],[[0,2],[3,2],[4,2],[5,2],[8,2]],[[1,1],[4,1],[7,1]],[[0,0],[3,0],[4,0],[5,0],[8,0]]]}
+
+L2725
+	{"name":"Bear Frosting","numberOfPossibleHiddenBears":4,"numberOfAlwaysHiddenBears":18}
 

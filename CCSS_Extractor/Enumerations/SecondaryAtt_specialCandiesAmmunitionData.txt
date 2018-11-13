@@ -3738,12 +3738,12 @@ L0523
 	{"initialSpawnIntervalCounterValue":9,"spawnInterval":9,"ammunitionType":"wrappedCandy","amountPerSpawn":1}
 
 L0524
-	{"initialSpawnIntervalCounterValue":0,"spawnInterval":0,"amountPerSpawn":0,"ammunitionType":"coloring_candy"}
-	{"initialSpawnIntervalCounterValue":0,"spawnInterval":0,"amountPerSpawn":0,"ammunitionType":"colorBomb"}
-	{"initialSpawnIntervalCounterValue":0,"spawnInterval":0,"amountPerSpawn":0,"ammunitionType":"fish"}
-	{"initialSpawnIntervalCounterValue":0,"spawnInterval":0,"amountPerSpawn":0,"ammunitionType":"horizontalStripedCandy"}
-	{"initialSpawnIntervalCounterValue":0,"spawnInterval":0,"amountPerSpawn":0,"ammunitionType":"verticalStripedCandy"}
-	{"initialSpawnIntervalCounterValue":0,"spawnInterval":0,"amountPerSpawn":0,"ammunitionType":"wrappedCandy"}
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
 
 L0525
 	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"coloring_candy","spawnInterval":0,"amountPerSpawn":0}
@@ -4506,12 +4506,12 @@ L0619
 	{"amountPerSpawn":1,"ammunitionType":"wrappedCandy","initialSpawnIntervalCounterValue":-1,"spawnInterval":5}
 
 L0620
-	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"coloring_candy","spawnInterval":0,"amountPerSpawn":0}
-	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"colorBomb","spawnInterval":0,"amountPerSpawn":0}
-	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"fish","spawnInterval":0,"amountPerSpawn":0}
-	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"horizontalStripedCandy","spawnInterval":0,"amountPerSpawn":0}
-	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"verticalStripedCandy","spawnInterval":0,"amountPerSpawn":0}
-	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"wrappedCandy","spawnInterval":0,"amountPerSpawn":0}
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
 
 L0621
 	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"coloring_candy","spawnInterval":0,"amountPerSpawn":0}
@@ -5146,12 +5146,12 @@ L0699
 	{"initialSpawnIntervalCounterValue":0,"amountPerSpawn":0,"ammunitionType":"wrappedCandy","spawnInterval":0}
 
 L0700
-	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"coloring_candy","spawnInterval":0,"amountPerSpawn":0}
-	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"colorBomb","spawnInterval":0,"amountPerSpawn":0}
-	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"fish","spawnInterval":0,"amountPerSpawn":0}
-	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"horizontalStripedCandy","spawnInterval":0,"amountPerSpawn":0}
-	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"verticalStripedCandy","spawnInterval":0,"amountPerSpawn":0}
-	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"wrappedCandy","spawnInterval":0,"amountPerSpawn":0}
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
 
 L0701
 	{"ammunitionType":"coloring_candy","initialSpawnIntervalCounterValue":0,"spawnInterval":0,"amountPerSpawn":0}
@@ -7594,12 +7594,12 @@ L1005
 	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"wrappedCandy","spawnInterval":0,"amountPerSpawn":0}
 
 L1006
-	{"spawnInterval":0,"amountPerSpawn":0,"ammunitionType":"coloring_candy","initialSpawnIntervalCounterValue":0}
-	{"spawnInterval":0,"amountPerSpawn":0,"ammunitionType":"colorBomb","initialSpawnIntervalCounterValue":0}
-	{"spawnInterval":4,"amountPerSpawn":1,"ammunitionType":"fish","initialSpawnIntervalCounterValue":-5}
-	{"spawnInterval":0,"amountPerSpawn":0,"ammunitionType":"horizontalStripedCandy","initialSpawnIntervalCounterValue":0}
-	{"spawnInterval":0,"amountPerSpawn":0,"ammunitionType":"verticalStripedCandy","initialSpawnIntervalCounterValue":0}
-	{"spawnInterval":4,"amountPerSpawn":1,"ammunitionType":"wrappedCandy","initialSpawnIntervalCounterValue":-3}
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":4,"initialSpawnIntervalCounterValue":-5}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":1,"spawnInterval":4,"initialSpawnIntervalCounterValue":-3}
 
 L1007
 	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"coloring_candy","spawnInterval":0,"amountPerSpawn":0}
@@ -10770,12 +10770,12 @@ L1402
 	{"spawnInterval":0,"ammunitionType":"wrappedCandy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
 
 L1403
-	{"amountPerSpawn":0,"spawnInterval":0,"ammunitionType":"coloring_candy","initialSpawnIntervalCounterValue":0}
-	{"amountPerSpawn":0,"spawnInterval":0,"ammunitionType":"colorBomb","initialSpawnIntervalCounterValue":0}
-	{"amountPerSpawn":0,"spawnInterval":0,"ammunitionType":"fish","initialSpawnIntervalCounterValue":0}
-	{"amountPerSpawn":1,"spawnInterval":10,"ammunitionType":"horizontalStripedCandy","initialSpawnIntervalCounterValue":-1}
-	{"amountPerSpawn":0,"spawnInterval":0,"ammunitionType":"verticalStripedCandy","initialSpawnIntervalCounterValue":0}
-	{"amountPerSpawn":0,"spawnInterval":0,"ammunitionType":"wrappedCandy","initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":1,"spawnInterval":10,"initialSpawnIntervalCounterValue":-1}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
 
 L1404
 	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"coloring_candy","spawnInterval":0,"amountPerSpawn":0}
@@ -12466,12 +12466,12 @@ L1614
 	{"spawnInterval":0,"ammunitionType":"wrappedCandy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
 
 L1615
-	{"spawnInterval":0,"ammunitionType":"coloring_candy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"colorBomb","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"fish","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"horizontalStripedCandy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"verticalStripedCandy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"wrappedCandy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
 
 L1616
 	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"coloring_candy","spawnInterval":0,"amountPerSpawn":0}
@@ -13738,12 +13738,12 @@ L1773
 	{"amountPerSpawn":0,"ammunitionType":"wrappedCandy","spawnInterval":0,"initialSpawnIntervalCounterValue":0}
 
 L1774
-	{"amountPerSpawn":0,"initialSpawnIntervalCounterValue":0,"ammunitionType":"coloring_candy","spawnInterval":0}
-	{"amountPerSpawn":0,"initialSpawnIntervalCounterValue":0,"ammunitionType":"colorBomb","spawnInterval":0}
-	{"amountPerSpawn":0,"initialSpawnIntervalCounterValue":0,"ammunitionType":"fish","spawnInterval":0}
-	{"amountPerSpawn":0,"initialSpawnIntervalCounterValue":0,"ammunitionType":"horizontalStripedCandy","spawnInterval":0}
-	{"amountPerSpawn":1,"initialSpawnIntervalCounterValue":0,"ammunitionType":"verticalStripedCandy","spawnInterval":4}
-	{"amountPerSpawn":0,"initialSpawnIntervalCounterValue":0,"ammunitionType":"wrappedCandy","spawnInterval":0}
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
 
 L1775
 	{"initialSpawnIntervalCounterValue":0,"amountPerSpawn":0,"ammunitionType":"coloring_candy","spawnInterval":0}
@@ -14338,12 +14338,12 @@ L1848
 	{"ammunitionType":"wrappedCandy","spawnInterval":9,"amountPerSpawn":1,"initialSpawnIntervalCounterValue":6}
 
 L1849
-	{"spawnInterval":0,"ammunitionType":"coloring_candy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"colorBomb","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":4,"ammunitionType":"fish","initialSpawnIntervalCounterValue":0,"amountPerSpawn":1}
-	{"spawnInterval":5,"ammunitionType":"horizontalStripedCandy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":1}
-	{"spawnInterval":5,"ammunitionType":"verticalStripedCandy","initialSpawnIntervalCounterValue":1,"amountPerSpawn":1}
-	{"spawnInterval":0,"ammunitionType":"wrappedCandy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":4,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":1}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
 
 L1850
 	{"ammunitionType":"coloring_candy","spawnInterval":0,"amountPerSpawn":0,"initialSpawnIntervalCounterValue":0}
@@ -14738,12 +14738,12 @@ L1898
 	{"ammunitionType":"wrappedCandy","spawnInterval":0,"amountPerSpawn":0,"initialSpawnIntervalCounterValue":0}
 
 L1899
-	{"spawnInterval":0,"ammunitionType":"coloring_candy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"colorBomb","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"fish","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"horizontalStripedCandy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"verticalStripedCandy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"wrappedCandy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
 
 L1900
 	{"ammunitionType":"coloring_candy","spawnInterval":0,"amountPerSpawn":0,"initialSpawnIntervalCounterValue":0}
@@ -15058,12 +15058,12 @@ L1938
 	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"wrappedCandy","spawnInterval":0,"amountPerSpawn":0}
 
 L1939
-	{"spawnInterval":0,"ammunitionType":"coloring_candy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"colorBomb","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":10,"ammunitionType":"fish","initialSpawnIntervalCounterValue":3,"amountPerSpawn":1}
-	{"spawnInterval":10,"ammunitionType":"horizontalStripedCandy","initialSpawnIntervalCounterValue":6,"amountPerSpawn":1}
-	{"spawnInterval":10,"ammunitionType":"verticalStripedCandy","initialSpawnIntervalCounterValue":-2,"amountPerSpawn":1}
-	{"spawnInterval":0,"ammunitionType":"wrappedCandy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":10,"initialSpawnIntervalCounterValue":3}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":1,"spawnInterval":10,"initialSpawnIntervalCounterValue":6}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":10,"initialSpawnIntervalCounterValue":-2}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
 
 L1940
 	{"amountPerSpawn":0,"spawnInterval":0,"ammunitionType":"coloring_candy","initialSpawnIntervalCounterValue":0}
@@ -15706,12 +15706,12 @@ L2019
 	{"amountPerSpawn":0,"initialSpawnIntervalCounterValue":0,"ammunitionType":"wrappedCandy","spawnInterval":0}
 
 L2020
-	{"spawnInterval":0,"ammunitionType":"coloring_candy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"colorBomb","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"fish","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"horizontalStripedCandy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"verticalStripedCandy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
-	{"spawnInterval":0,"ammunitionType":"wrappedCandy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
 
 L2021
 	{"spawnInterval":0,"ammunitionType":"coloring_candy","initialSpawnIntervalCounterValue":0,"amountPerSpawn":0}
@@ -20066,6 +20066,1286 @@ L2564
 	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
 
 L2565
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2566
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2567
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2568
+	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"coloring_candy","spawnInterval":0,"amountPerSpawn":0}
+	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"colorBomb","spawnInterval":0,"amountPerSpawn":0}
+	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"fish","spawnInterval":0,"amountPerSpawn":0}
+	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"horizontalStripedCandy","spawnInterval":0,"amountPerSpawn":0}
+	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"verticalStripedCandy","spawnInterval":0,"amountPerSpawn":0}
+	{"initialSpawnIntervalCounterValue":0,"ammunitionType":"wrappedCandy","spawnInterval":0,"amountPerSpawn":0}
+
+L2569
+	{"spawnInterval":0,"amountPerSpawn":0,"initialSpawnIntervalCounterValue":0,"ammunitionType":"coloring_candy"}
+	{"spawnInterval":0,"amountPerSpawn":0,"initialSpawnIntervalCounterValue":0,"ammunitionType":"colorBomb"}
+	{"spawnInterval":6,"amountPerSpawn":1,"initialSpawnIntervalCounterValue":3,"ammunitionType":"fish"}
+	{"spawnInterval":0,"amountPerSpawn":0,"initialSpawnIntervalCounterValue":0,"ammunitionType":"horizontalStripedCandy"}
+	{"spawnInterval":0,"amountPerSpawn":0,"initialSpawnIntervalCounterValue":0,"ammunitionType":"verticalStripedCandy"}
+	{"spawnInterval":0,"amountPerSpawn":0,"initialSpawnIntervalCounterValue":0,"ammunitionType":"wrappedCandy"}
+
+L2570
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":1,"spawnInterval":7,"initialSpawnIntervalCounterValue":-2}
+
+L2571
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2572
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":4,"initialSpawnIntervalCounterValue":2}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2573
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2574
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2575
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2576
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2577
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":12,"initialSpawnIntervalCounterValue":4}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":1,"spawnInterval":12,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":12,"initialSpawnIntervalCounterValue":-4}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2578
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2579
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2580
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2581
+	{"amountPerSpawn":0,"spawnInterval":0,"ammunitionType":"coloring_candy","initialSpawnIntervalCounterValue":0}
+	{"amountPerSpawn":0,"spawnInterval":0,"ammunitionType":"colorBomb","initialSpawnIntervalCounterValue":0}
+	{"amountPerSpawn":0,"spawnInterval":0,"ammunitionType":"fish","initialSpawnIntervalCounterValue":0}
+	{"amountPerSpawn":0,"spawnInterval":0,"ammunitionType":"horizontalStripedCandy","initialSpawnIntervalCounterValue":0}
+	{"amountPerSpawn":0,"spawnInterval":0,"ammunitionType":"verticalStripedCandy","initialSpawnIntervalCounterValue":0}
+	{"amountPerSpawn":0,"spawnInterval":0,"ammunitionType":"wrappedCandy","initialSpawnIntervalCounterValue":0}
+
+L2582
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2583
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2584
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":3}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":1,"spawnInterval":8,"initialSpawnIntervalCounterValue":5}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2585
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":8,"initialSpawnIntervalCounterValue":4}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2586
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":7,"initialSpawnIntervalCounterValue":4}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2587
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2588
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":10,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2589
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2590
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2591
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":6,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2592
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2593
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2594
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2595
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2596
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2597
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":2}
+
+L2598
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":1,"spawnInterval":7,"initialSpawnIntervalCounterValue":-2}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2599
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2600
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":6,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2601
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2602
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":1,"spawnInterval":8,"initialSpawnIntervalCounterValue":4}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":8,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2603
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2604
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2605
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2606
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2607
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":7,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2608
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2609
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2610
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":4,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2611
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2612
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2613
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":7,"initialSpawnIntervalCounterValue":3}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2614
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2615
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2616
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2617
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2618
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2619
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2620
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2621
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2622
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2623
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2624
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2625
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":13,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2626
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2627
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":1,"spawnInterval":7,"initialSpawnIntervalCounterValue":2}
+
+L2628
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2629
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":4,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2630
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2631
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":6,"initialSpawnIntervalCounterValue":3}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2632
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2633
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":1,"spawnInterval":10,"initialSpawnIntervalCounterValue":1}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":10,"initialSpawnIntervalCounterValue":6}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2634
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2635
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2636
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2637
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2638
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":2,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":1,"spawnInterval":3,"initialSpawnIntervalCounterValue":-10}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":3,"initialSpawnIntervalCounterValue":-10}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2639
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2640
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2641
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2642
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2643
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":4}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2644
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":3}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2645
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2646
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":3,"initialSpawnIntervalCounterValue":2}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2647
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2648
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2649
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2650
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2651
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2652
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2653
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":-5}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2654
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":8,"initialSpawnIntervalCounterValue":7}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":1,"spawnInterval":8,"initialSpawnIntervalCounterValue":3}
+
+L2655
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":8,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2656
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2657
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":1,"spawnInterval":10,"initialSpawnIntervalCounterValue":5}
+
+L2658
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2659
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2660
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2661
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":7,"initialSpawnIntervalCounterValue":2}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2662
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2663
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":8,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2664
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":8,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2665
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":8,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":1,"spawnInterval":8,"initialSpawnIntervalCounterValue":-10}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2666
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2667
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2668
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":7,"initialSpawnIntervalCounterValue":-2}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2669
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2670
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2671
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2672
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":-2}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2673
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2674
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2675
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2676
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2677
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2678
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":4,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":1,"spawnInterval":6,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":8,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2679
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":4,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2680
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2681
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2682
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":6,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2683
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2684
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2685
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":7,"initialSpawnIntervalCounterValue":3}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2686
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":4,"initialSpawnIntervalCounterValue":1}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2687
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":6,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2688
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2689
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2690
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":1,"spawnInterval":8,"initialSpawnIntervalCounterValue":4}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":8,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":1,"spawnInterval":12,"initialSpawnIntervalCounterValue":0}
+
+L2691
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2692
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":10,"initialSpawnIntervalCounterValue":5}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2693
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":8,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2694
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":4,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2695
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2696
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2697
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2698
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2699
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2700
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2701
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2702
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2703
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2704
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2705
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2706
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2707
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":10,"initialSpawnIntervalCounterValue":-5}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2708
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2709
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2710
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2711
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2712
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":6,"initialSpawnIntervalCounterValue":3}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2713
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2714
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2715
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2716
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":7,"initialSpawnIntervalCounterValue":4}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2717
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2718
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":10,"initialSpawnIntervalCounterValue":4}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2719
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":1,"spawnInterval":5,"initialSpawnIntervalCounterValue":-3}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":1,"spawnInterval":4,"initialSpawnIntervalCounterValue":2}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2720
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2721
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2722
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2723
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":1,"spawnInterval":7,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2724
+	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"horizontalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"verticalStripedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+	{"ammunitionType":"wrappedCandy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
+
+L2725
 	{"ammunitionType":"coloring_candy","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
 	{"ammunitionType":"colorBomb","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
 	{"ammunitionType":"fish","amountPerSpawn":0,"spawnInterval":0,"initialSpawnIntervalCounterValue":0}
