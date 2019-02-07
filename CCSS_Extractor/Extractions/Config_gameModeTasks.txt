@@ -15,7 +15,7 @@
 "sodaTypeIsOrangeCorrosive" (0)	
 "sodaTypeIsOrangeExplosive" (1)	L313 
 "sodaTypeIsOrangeFishes" (1)	L313 
-"sodaTypeIsSpecialCorrosive" (673)
-"sodaTypeIsSpecialExplosive" (673)
-"sodaTypeIsSpecialFishes" (673)
+"sodaTypeIsSpecialCorrosive" (674)
+"sodaTypeIsSpecialExplosive" (674)
+"sodaTypeIsSpecialFishes" (674)
 "spawnLemonadeBalloonAfterNumSwitches" (709)

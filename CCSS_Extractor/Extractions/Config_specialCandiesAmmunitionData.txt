@@ -1,5 +1,5 @@
-"ammunitionType" (15809)
-"amountPerSpawn" (15809)
-"initialSpawnIntervalCounterValue" (15809)
+"ammunitionType" (15815)
+"amountPerSpawn" (15815)
+"initialSpawnIntervalCounterValue" (15815)
 "maxOnScreen" (47)	L112 L112 L112 L112 L112 L113 L113 L113 L113 L113 L113 L119 L119 L119 L119 L119 L119 L126 L126 L126 L126 L126 L126 L134 L134 L134 L134 L134 L134 L153 L153 L153 L153 L153 L153 L157 L157 L157 L157 L157 L157 L161 L161 L161 L161 L161 L161 
-"spawnInterval" (15809)
+"spawnInterval" (15815)
