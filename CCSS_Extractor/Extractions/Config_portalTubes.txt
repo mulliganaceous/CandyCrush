@@ -1,3 +1,3 @@
-"portalAId" (5485)
-"portalBId" (5485)
-"segmentCoordinates" (5485)
+"portalAId" (6024)
+"portalBId" (6024)
+"segmentCoordinates" (6024)
