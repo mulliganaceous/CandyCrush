@@ -1,3 +1,0 @@
-"portalAId" (6024)
-"portalBId" (6024)
-"segmentCoordinates" (6024)

@@ -1,4 +1,0 @@
-"connectionId" (13215)
-"coordinate" (13215)
-"id" (13215)
-"normal" (13215)

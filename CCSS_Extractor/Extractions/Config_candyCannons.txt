@@ -1,4 +1,0 @@
-"ammunition" (41693)
-"colors" (41693)
-"coordinate" (41693)
-"normalType" (41693)
