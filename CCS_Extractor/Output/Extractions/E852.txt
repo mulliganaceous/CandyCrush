@@ -1,0 +1,581 @@
+***Config Information for Level 852-1 (12756) @ ***
+***Config Information for Level 852-1 (12756) @ ***
+Level Type      :	Ingredient
+Moves           :	26
+Target Scores   :	40000
+                 	60000
+                 	80000
+Colors          :	6
+Ingredients     :	4
+Ingredient Spawn:	One per 1 moves, 1 on board
+Waffle Spawn    :	One per 1 moves
+Fixed Colors:   :	5B 4G 3O 4P 3R 5Y 
+Dispensers:     :
+	(0,0): 	IWX (2)
+	(1,4): 	WX (1)
+	(2,0): 	IWX (2)
+	(2,7): 	WX (1)
+	(3,4): 	CbX (1)
+	(3,7): 	WX (1)
+	(4,0): 	WX (1)
+	(4,7): 	WX (1)
+	(5,0): 	WX (1)
+	(5,3): 	CbX (1)
+	(6,0): 	WX (1)
+Elements:       :
+	New Element 165 ×5
+	New Element 166 ×4
+	New Element 167 ×7
+	New Element 181 ×10
+	New Element 214 ×5
+	New Element 215 ×5
+	New Element 216 ×2
+	New Element 217 ×5
+	New Element 218 ×2
+	New Element 219 ×5
+	Ingredient Cannon ×2
+	Color Bomb ×2
+	Red ×3
+	Yellow ×5
+	Blue ×5
+	Green ×4
+	Orange ×3
+	Purple ×4
+	Waffle II ×14
+	Waffle V ×2
+	Waffle III Cannon ×9
+	Color Bomb Cannon ×2
+
+
+
+***Config Information for Level 852-2 (12757) @ ***
+***Config Information for Level 852-2 (12757) @ ***
+Level Type      :	NEW!
+Moves           :	35
+Target Scores   :	36400
+                 	54600
+                 	72800
+Colors          :	5
+Ingredient Spawn:	One per 1 moves
+Waffle Spawn    :	One per 2 moves
+Striped Row Spawn:	One per 3 moves
+Wrapped Spawn   :	One per 3 moves
+Fixed Colors:   :	3G 8P 4Y+ 
+Dispensers:     :
+	(0,0): 	WWr (2)
+	(1,0): 	Sh (1)
+	(3,0): 	Sh (1)
+	(4,0): 	WWr (2)
+	(5,1): 	IW (2)
+Magic Mixer     :	4 per -1 turns: NEW 17-> NEW 18-> : 4 per -1 moves
+Elements:       :
+	New Element 161 ×12
+	New Element 162 ×14
+	New Element 164 ×1
+	New Element 166 ×1
+	New Element 167 ×1
+	New Element 181 ×3
+	New Element 222 ×1
+	New Element 227 ×1
+	Marmalade ×5
+	Dispenser ×16
+	Ingredient Cannon ×1
+	Frog ×1
+	Yellow ×4
+	Green ×3
+	Purple ×8
+	Magic Mixer ×1
+	Wrapped Cannon ×2
+	Waffle I ×7
+	Waffle II ×7
+	Waffle III ×4
+	Waffle V ×1
+	Cane (L) ×4
+	Cane (R) ×5
+	Waffle III Cannon ×3
+	Striped Row Cannon ×2
+	Crystal II ×26
+
+
+
+***Config Information for Level 852-3 (12758) @ ***
+***Config Information for Level 852-3 (12758) @ ***
+Level Type      :	Jelly
+Moves           :	25
+Target Scores   :	138000
+                 	207000
+                 	276000
+Colors          :	4
+Jellies         :	21 single, 54 double
+Fixed Colors:   :	8B 8G 3P 3Y+ 
+Dispensers:     :
+Elements:       :
+	New Element 129 ×2
+	New Element 130 ×4
+	New Element 131 ×4
+	New Element 132 ×10
+	New Element 133 ×22
+	New Element 173 ×6
+	New Element 176 ×2
+	New Element 177 ×8
+	New Element 178 ×2
+	New Element 179 ×2
+	New Element 221 ×3
+	Dispenser ×8
+	Cake Bomb ×4
+	Yellow ×3
+	Blue ×8
+	Green ×8
+	Purple ×3
+
+
+
+***Config Information for Level 852-4 (12759) @ ***
+***Config Information for Level 852-4 (12759) @ ***
+Level Type      :	NEW!
+Moves           :	27
+Target Scores   :	153000
+                 	229500
+                 	306000
+Colors          :	3
+Waffle Spawn    :	One per 1 moves
+Sugar Key Spawn :	One per 3 moves
+Striped Spawn   :	One per 3 moves
+Wrapped Spawn   :	One per 3 moves
+Fixed Colors:   :	6G 6Y+ 
+Dispensers:     :
+	(0,4): 	WSt (2)
+	(1,0): 	KStWrX (3)
+	(2,0): 	W (1)
+	(3,0): 	W (1)
+	(4,0): 	W (1)
+	(4,4): 	W (1)
+	(5,0): 	W (1)
+	(6,0): 	W (1)
+	(7,0): 	W (1)
+	(8,0): 	WStWr (3)
+Elements:       :
+	New Element 128 ×5
+	New Element 136 ×12
+	New Element 140 ×17
+	New Element 141 ×17
+	New Element 142 ×3
+	New Element 143 ×1
+	New Element 144 ×1
+	New Element 145 ×1
+	New Element 146 ×2
+	New Element 147 ×2
+	New Element 148 ×1
+	New Element 149 ×2
+	New Element 150 ×2
+	New Element 153 ×1
+	New Element 156 ×4
+	New Element 215 ×6
+	New Element 219 ×6
+	New Element 221 ×5
+	Dispenser ×19
+	Key Cannon ×1
+	Chest II ×16
+	Yellow ×6
+	Green ×6
+	Striped Cannon ×3
+	Wrapped Cannon ×2
+	Waffle I ×16
+	Waffle III ×16
+	Waffle III Cannon ×9
+
+
+
+***Config Information for Level 852-5 (12760) @ ***
+***Config Information for Level 852-5 (12760) @ ***
+Level Type      :	NEW!
+Moves           :	31
+Target Scores   :	49000
+                 	73500
+                 	98000
+Colors          :	4
+Striped Row Spawn:	One per 4 moves
+Dispensers:     :
+	(3,0): 	Sh (1)
+	(5,0): 	Sh (1)
+Elements:       :
+	New Element 140 ×6
+	New Element 141 ×6
+	New Element 142 ×2
+	New Element 143 ×2
+	New Element 144 ×3
+	New Element 145 ×3
+	New Element 149 ×1
+	New Element 152 ×2
+	New Element 153 ×1
+	New Element 156 ×4
+	New Element 172 ×2
+	New Element 174 ×4
+	New Element 175 ×4
+	New Element 178 ×2
+	New Element 179 ×2
+	New Element 180 ×4
+	New Element 228 ×4
+	Licorice Lock ×2
+	Dispenser ×3
+	Chest I ×10
+	Chest II ×13
+	Sugar Key ×2
+	Bobber ×2
+	Waffle II ×7
+	Waffle III ×16
+	Waffle IV ×2
+	Waffle V ×4
+	Cane (U) ×6
+	Cane (D) ×5
+	Cane (L) ×3
+	Cane (R) ×13
+	Striped Row Cannon ×2
+
+
+
+***Config Information for Level 852-6 (12761) @ ***
+***Config Information for Level 852-6 (12761) @ ***
+Level Type      :	Jelly
+Moves           :	25
+Target Scores   :	83000
+                 	124500
+                 	166000
+Colors          :	5
+Jellies         :	21 single, 28 double
+Waffle Spawn    :	One per 5 moves
+Fixed Colors:   :	5B 6G 3P 
+Dispensers:     :
+	(1,3): 	WX (1)
+	(2,2): 	WX (1)
+	(3,1): 	W (1)
+	(4,0): 	W (1)
+	(5,1): 	W (1)
+	(6,2): 	WX (1)
+	(7,3): 	WX (1)
+Elements:       :
+	New Element 159 ×1
+	New Element 161 ×2
+	New Element 162 ×4
+	New Element 181 ×1
+	New Element 214 ×4
+	New Element 215 ×4
+	New Element 216 ×2
+	New Element 217 ×2
+	New Element 219 ×2
+	New Element 221 ×3
+	Dispenser ×5
+	Blue ×5
+	Green ×6
+	Purple ×3
+	Wrapper UFO ×1
+	Waffle I ×1
+	Waffle II ×8
+	Waffle III ×5
+	Waffle IV ×5
+	Waffle III Cannon ×7
+
+
+
+***Config Information for Level 852-7 (12762) @ ***
+***Config Information for Level 852-7 (12762) @ ***
+Level Type      :	Ingredient
+Moves           :	28
+Target Scores   :	80000
+                 	120000
+                 	160000
+Colors          :	4
+Ingredients     :	8
+Ingredient Spawn:	4 on board
+Fixed Colors:   :	3G 3O 
+Dispensers:     :
+	(3,0): 	I (1)
+	(5,0): 	I (1)
+Elements:       :
+	New Element 134 ×11
+	New Element 228 ×2
+	Icing II ×4
+	Icing IV ×8
+	Icing V ×5
+	Dispenser ×9
+	Ingredient Cannon ×2
+	Green ×3
+	Orange ×3
+	Waffle I ×9
+	Waffle III ×6
+	Waffle IV ×10
+	Waffle V ×6
+	Curl III (U) ×1
+	Curl III (D) ×3
+	Curl III (L) ×5
+	Curl III (R) ×3
+
+
+
+***Config Information for Level 852-8 (12763) @ ***
+***Config Information for Level 852-8 (12763) @ ***
+Level Type      :	Mixed!(JO.)
+Moves           :	29
+Target Scores   :	123700
+                 	185550
+                 	247400
+Colors          :	5
+Swirl Spawn     :	One per 1 moves, 2 on board
+Fixed Colors:   :	3B 5G 3O 
+Dispensers:     :
+	(0,1): 	L (1)
+	(1,1): 	L (1)
+	(2,0): 	L (1)
+	(3,0): 	L (1)
+	(4,0): 	L (1)
+	(5,0): 	L (1)
+	(6,0): 	L (1)
+	(7,1): 	L (1)
+	(8,1): 	L (1)
+Elements:       :
+	New Element 181 ×28
+	New Element 198 ×2
+	New Element 221 ×5
+	Licorice Swirl ×26
+	Icing III ×6
+	Icing IV ×11
+	Dispenser ×9
+	Swirl Cannon ×9
+	Chest II ×11
+	Sugar Key ×2
+	Blue ×3
+	Green ×5
+	Orange ×3
+
+
+
+***Config Information for Level 852-9 (12764) @ ***
+***Config Information for Level 852-9 (12764) @ ***
+Level Type      :	NEW!
+Moves           :	21
+Target Scores   :	27400
+                 	41100
+                 	54800
+Colors          :	4
+Fixed Colors:   :	7B 8G 6Y+ 
+Dispensers:     :
+Elements:       :
+	New Element 165 ×10
+	New Element 166 ×5
+	New Element 167 ×4
+	New Element 181 ×4
+	New Element 187 ×1
+	New Element 191 ×1
+	Icing I ×6
+	Icing II ×4
+	Icing III ×6
+	Icing IV ×9
+	Dispenser ×18
+	Color Bomb ×4
+	Yellow ×6
+	Blue ×7
+	Green ×8
+	Cane (D) ×1
+	Crystal II ×8
+
+
+
+***Config Information for Level 852-10 (12765) @ ***
+***Config Information for Level 852-10 (12765) @ ***
+Level Type      :	Mixed!(JI.)
+Moves           :	27
+Target Scores   :	143000
+                 	214500
+                 	286000
+Colors          :	4
+Fixed Colors:   :	3O 3Y+ 
+Dispensers:     :
+Elements:       :
+	New Element 131 ×3
+	New Element 132 ×4
+	New Element 133 ×9
+	New Element 135 ×23
+	New Element 161 ×4
+	New Element 162 ×4
+	New Element 164 ×2
+	New Element 221 ×3
+	Licorice Lock ×4
+	Dispenser ×9
+	Chest I ×2
+	Chest III ×2
+	Chest IV ×1
+	Chest V ×16
+	Coconut Wheel ×2
+	Striped H ×2
+	Wrapped ×2
+	Sugar Key ×5
+	Yellow ×3
+	Orange ×3
+	Cane (L) ×2
+	Cane (R) ×2
+
+
+
+***Config Information for Level 852-11 (12766) @ ***
+***Config Information for Level 852-11 (12766) @ ***
+Level Type      :	Order
+Moves           :	30
+Target Scores   :	10000
+                 	15000
+                 	20000
+Colors          :	5
+Orders          :	Waffle: 40, Swirl: 19, ERROR! (29): 41
+Fixed Colors:   :	10G 4O 6R 
+Dispensers:     :
+Elements:       :
+	New Element 131 ×1
+	New Element 132 ×2
+	New Element 133 ×6
+	New Element 157 ×2
+	New Element 184 ×1
+	New Element 197 ×2
+	Licorice Lock ×8
+	Licorice Swirl ×19
+	Dispenser ×8
+	Red ×6
+	Green ×10
+	Orange ×4
+	Waffle IV ×5
+	Waffle V ×4
+
+
+
+***Config Information for Level 852-12 (12767) @ ***
+***Config Information for Level 852-12 (12767) @ ***
+Level Type      :	Mixed!(JO.)
+Moves           :	26
+Target Scores   :	104000
+                 	156000
+                 	208000
+Colors          :	4
+Swirl Spawn     :	One per 1 moves, 1 on board
+Striped Row Spawn:	One per 2 moves
+Fixed Colors:   :	5B 5G 5P 5Y+ 
+Dispensers:     :
+	(0,0): 	L (1)
+	(2,0): 	L (1)
+	(4,0): 	Sh (1)
+	(7,5): 	L (1)
+Elements:       :
+	New Element 161 ×2
+	New Element 162 ×2
+	New Element 181 ×3
+	New Element 188 ×2
+	New Element 192 ×2
+	New Element 221 ×3
+	Licorice Swirl ×12
+	Icing II ×5
+	Icing III ×1
+	Icing IV ×6
+	Dispenser ×12
+	Swirl Cannon ×3
+	Yellow ×5
+	Blue ×5
+	Green ×5
+	Purple ×5
+	Striped Row Cannon ×1
+
+
+
+***Config Information for Level 852-13 (12768) @ ***
+***Config Information for Level 852-13 (12768) @ ***
+Level Type      :	Ingredient
+Moves           :	23
+Target Scores   :	50000
+                 	75000
+                 	100000
+Colors          :	4
+Ingredients     :	5
+Ingredient Spawn:	One per 2 moves, 1 on board
+Wrapped Spawn   :	One per 5 moves
+Fixed Colors:   :	10B 8R+ 
+Dispensers:     :
+	(1,0): 	Wr (1)
+	(4,0): 	I (1)
+	(7,0): 	Wr (1)
+Elements:       :
+	New Element 160 ×2
+	New Element 161 ×4
+	New Element 162 ×4
+	Licorice Lock ×16
+	Icing III ×10
+	Icing IV ×8
+	Icing V ×4
+	Dispenser ×9
+	Ingredient Cannon ×1
+	Popcorn ×2
+	Red ×8
+	Blue ×10
+	Wrapped Cannon ×2
+
+
+
+***Config Information for Level 852-14 (12769) @ ***
+***Config Information for Level 852-14 (12769) @ ***
+Level Type      :	Mixed!(JI.)
+Moves           :	30
+Target Scores   :	162000
+                 	243000
+                 	324000
+Colors          :	4
+Ingredient Spawn:	One per 1 moves, 1 on board
+Striped Col Spawn:	One per 4 moves
+Dispensers:     :
+	(3,0): 	Sv (1)
+	(4,1): 	I (1)
+	(5,0): 	Sv (1)
+Elements:       :
+	New Element 168 ×6
+	New Element 170 ×1
+	New Element 171 ×1
+	New Element 176 ×18
+	New Element 178 ×3
+	New Element 179 ×3
+	New Element 221 ×2
+	New Element 223 ×1
+	New Element 227 ×1
+	Licorice Swirl ×12
+	Marmalade ×24
+	Dispenser ×9
+	Ingredient Cannon ×1
+	Cake Bomb ×8
+	Striped H ×2
+	Striped V ×2
+	Waffle I ×8
+	Waffle IV ×12
+	Cane (L) ×7
+	Cane (R) ×7
+	Striped Col Cannon ×2
+	Curl II (U) ×4
+	Curl II (L) ×2
+	Curl II (R) ×2
+
+
+
+***Config Information for Level 852-15 (12770) @ ***
+***Config Information for Level 852-15 (12770) @ ***
+Level Type      :	NEW!
+Moves           :	24
+Target Scores   :	90000
+                 	110000
+                 	140000
+Colors          :	4
+Dispensers:     :
+Magic Mixer     :	1 per -1 turns: NEW 31-> : 1 per -1 moves
+Elements:       :
+	New Element 140 ×72
+	New Element 152 ×9
+	New Element 156 ×9
+	Dispenser ×9
+	Waffle II ×35
+	Waffle III ×8
+	Waffle IV ×4
+
+
+
+

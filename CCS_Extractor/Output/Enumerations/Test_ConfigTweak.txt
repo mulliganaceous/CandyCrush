@@ -1,0 +1,2961 @@
+***Config Information for Level 109-3 (1613) @ t329b***
+Level Type      :	Ingredient
+Moves           :	20
+Target Scores   :	10000
+                 	100000
+                 	200000
+Colors          :	4
+Ingredients     :	1
+Bomb Timer      :	15
+Striped Row Spawn:	One per 3 moves
+Dispensers:     :
+	(1,0): 	Sh (1)
+	(4,0): 	Sh (1)
+	(8,0): 	I (1)
+Magic Mixer     :	2 per 3 turns: Icing1-> : 2 per 3 moves
+Elements:       :
+	Candy Bomb ×14
+	Icing II ×10
+	Icing III ×4
+	Marmalade ×8
+	Dispenser ×7
+	Ingredient Cannon ×1
+	Cake Bomb ×8
+	Popcorn ×1
+	Magic Mixer ×3
+	Striped Row Cannon ×2
+
+
+***Config Information for Level 270-1 (4026) @ t329b***
+Level Type      :	Mixed!(J.O.)
+Moves           :	26
+Target Scores   :	36000
+                 	80000
+                 	90000
+Colors          :	4
+Swirl Spawn     :	3 on board
+Sugar Key Spawn :	1 on board
+Striped Row Spawn:	1 on board
+Striped Col Spawn:	1 on board
+Dispensers:     :
+	(1,0): 	Sv (1)
+	(2,0): 	Sv (1)
+	(3,0): 	Sh (1)
+	(6,0): 	K (1)
+	(7,0): 	K (1)
+	(8,0): 	K (1)
+Elements:       :
+	Basic Icing ×1
+	Chocolate ×10
+	Licorice Swirl ×9
+	Icing I ×4
+	Marmalade ×2
+	Dispenser ×13
+	Key Cannon ×3
+	Chest I ×8
+	Chest V ×19
+	Striped H ×1
+	Wrapped ×2
+	Sugar Key ×1
+	Popcorn ×2
+	Waffle I ×4
+	Cane (U) ×6
+	Cane (D) ×6
+	Cane (L) ×6
+	Cane (R) ×4
+	Striped Row Cannon ×1
+	Striped Col Cannon ×2
+
+
+***Config Information for Level 279-2 (4162) @ t329b***
+Level Type      :	Jelly
+Moves           :	26
+Target Scores   :	100000
+                 	270000
+                 	350000
+Colors          :	4
+Jellies         :	34 single, 24 double
+Swirl Spawn     :	One per 2 moves, 6 on board
+Wrapped Spawn   :	One per 1 moves, 1 on board
+Fixed Colors:   :	3B 10G 3P 2R+ 
+Dispensers:     :
+	(3,6): 	LX (1)
+	(4,7): 	WrX (1)
+	(5,6): 	LX (1)
+Elements:       :
+	Chocolate ×2
+	Licorice Swirl ×8
+	Icing II ×10
+	Icing III ×12
+	Chocolate Spawner ×2
+	Marmalade ×40
+	Dispenser ×9
+	Swirl Cannon ×2
+	Frog ×1
+	Color Bomb ×1
+	Wrapped ×2
+	Popcorn ×7
+	Red ×2
+	Blue ×3
+	Green ×10
+	Purple ×3
+	Wrapped Cannon ×1
+
+
+***Config Information for Level 290-4 (4329) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	23
+Target Scores   :	93000
+                 	120000
+                 	160000
+Colors          :	5
+Ingredient Spawn:	5 on board
+Elements:       :
+	Jelly Fish ×10
+	Waffle V ×15
+	Cane (U) ×15
+	Cane (D) ×15
+	Curl III (L) ×16
+	Curl III (R) ×16
+
+
+***Config Information for Level 290-15 (4340) @ t329b***
+Level Type      :	Jelly
+Moves           :	29
+Target Scores   :	200000
+                 	280000
+                 	360000
+Colors          :	5
+Jellies         :	0 single, 73 double
+Bomb Timer      :	15
+Bomb Spawn      :	One per 3 moves
+Dispensers:     :
+	(0,3): 	B (1)
+	(8,3): 	B (1)
+Magic Mixer     :	1 per 3 turns: Lock  -> : 1 per 3 moves
+Elements:       :
+	Licorice Lock ×2
+	Dispenser ×11
+	Bomb Cannon ×2
+	Magic Mixer ×1
+	Chocolate I ×2
+	Chocolate II ×2
+	Curl III (U) ×5
+	Curl III (D) ×5
+	Curl III (L) ×4
+	Curl III (R) ×4
+
+
+***Config Information for Level 301-2 (4492) @ t329b***
+Level Type      :	Ingredient
+Moves           :	23
+Target Scores   :	30000
+                 	130000
+                 	160000
+Colors          :	5
+Ingredients     :	3
+Bomb Timer      :	10
+Ingredient Spawn:	One per 3 moves
+Mystery Candy Spawn:	One per 2 moves
+Waffle Spawn    :	One per 4 moves
+Sugar Key Spawn :	2 on board
+Striped Spawn   :	One per 2 moves
+Wrapped Spawn   :	1 on board
+Dispensers:     :
+	(1,1): 	KWr (2)
+	(1,5): 	IWSt (3)
+	(7,1): 	KWr (2)
+	(7,5): 	IWSt (3)
+Elements:       :
+	Licorice Lock ×3
+	Icing III ×2
+	Dispenser ×7
+	Ingredient Cannon ×2
+	Key Cannon ×2
+	Chest I ×1
+	Chest II ×1
+	Popcorn ×3
+	Striped Cannon ×2
+	Wrapped Cannon ×2
+	Waffle V ×3
+	Waffle III Cannon ×2
+
+
+***Config Information for Level 316-12 (4727) @ t329b***
+Level Type      :	Jelly
+Moves           :	30
+Target Scores   :	134000
+                 	234000
+                 	334000
+Colors          :	4
+Jellies         :	0 single, 67 double
+Wrapped Spawn   :	One per 3 moves
+Dispensers:     :
+Elements:       :
+	Licorice Swirl ×10
+	Icing II ×6
+	Dispenser ×9
+	Waffle V ×12
+	Cane (L) ×4
+	Cane (R) ×16
+
+
+***Config Information for Level 318-2 (4747) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	25
+Target Scores   :	25000
+                 	195000
+                 	230000
+Colors          :	4
+Sugar Key Spawn :	One per 2 moves
+Striped Spawn   :	One per 3 moves
+Dispensers:     :
+	(1,3): 	K (1)
+	(4,0): 	St (1)
+	(7,3): 	K (1)
+Elements:       :
+	Basic Icing ×26
+	Licorice Swirl ×5
+	Icing II ×6
+	Icing V ×4
+	Marmalade ×12
+	Dispenser ×7
+	Key Cannon ×2
+	Chest V ×2
+	Striped Cannon ×1
+	Cane (U) ×3
+	Cane (L) ×18
+	Cane (R) ×18
+
+
+***Config Information for Level 318-9 (4754) @ t329b***
+Level Type      :	Mixed!(J.O.)
+Moves           :	30
+Target Scores   :	37000
+                 	60000
+                 	90000
+Colors          :	4
+Striped Col Spawn:	One per 3 moves
+Dispensers:     :
+	(2,0): 	Sv (1)
+	(6,0): 	Sv (1)
+Magic Mixer     :	1 per 3 turns: Icing1-> : 1 per 3 moves
+Elements:       :
+	Licorice Swirl ×13
+	Dispenser ×9
+	Cake Bomb ×8
+	Magic Mixer ×4
+	Cane (U) ×2
+	Cane (D) ×2
+	Cane (L) ×2
+	Cane (R) ×2
+	Striped Col Cannon ×2
+
+
+***Config Information for Level 319-9 (4769) @ t329b***
+Level Type      :	Ingredient
+Moves           :	29
+Target Scores   :	20000
+                 	82000
+                 	130000
+Colors          :	4
+Ingredients     :	2
+Striped Row Spawn:	One per 2 moves
+Striped Col Spawn:	One per 2 moves
+Wrapped Spawn   :	One per 3 moves
+Dispensers:     :
+	(1,0): 	ShX (1)
+	(1,2): 	Wr (1)
+	(1,8): 	SvX (1)
+	(3,0): 	ShX (1)
+	(3,8): 	SvX (1)
+	(5,0): 	ShX (1)
+	(5,8): 	SvX (1)
+	(7,0): 	ShX (1)
+	(7,2): 	Wr (1)
+	(7,8): 	SvX (1)
+Elements:       :
+	Dispenser ×4
+	Wrapped Cannon ×2
+	Waffle I ×2
+	Waffle II ×2
+	Waffle III ×2
+	Waffle IV ×2
+	Waffle V ×2
+	Cane (U) ×10
+	Cane (D) ×14
+	Cane (L) ×16
+	Cane (R) ×16
+	Chocolate I ×3
+	Chocolate II ×3
+	Chocolate III ×6
+	Striped Row Cannon ×4
+	Striped Col Cannon ×4
+
+
+***Config Information for Level 323-11 (4831) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	25
+Target Scores   :	150000
+                 	225000
+                 	300000
+Colors          :	4
+Ingredient Spawn:	One per 1 moves
+Waffle Spawn    :	8 on board
+Dispensers:     :
+	(1,0): 	W (1)
+	(3,0): 	W (1)
+	(4,0): 	I (1)
+	(5,0): 	W (1)
+	(7,0): 	W (1)
+Elements:       :
+	Dispenser ×5
+	Ingredient Cannon ×1
+	Waffle III ×12
+	Waffle III Cannon ×4
+	Chocolate I ×12
+	Chocolate III ×4
+
+
+***Config Information for Level 324-6 (4841) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	28
+Target Scores   :	10000
+                 	150000
+                 	235000
+Colors          :	4
+Striped Row Spawn:	One per 4 moves
+Wrapped Spawn   :	One per 4 moves
+Dispensers:     :
+	(0,0): 	Wr (1)
+	(1,0): 	Wr (1)
+	(2,0): 	Wr (1)
+	(6,0): 	Sh (1)
+	(7,0): 	Sh (1)
+	(8,0): 	Sh (1)
+Elements:       :
+	Licorice Swirl ×14
+	Dispenser ×7
+	Wrapped Cannon ×3
+	Waffle II ×1
+	Waffle III ×1
+	Waffle IV ×2
+	Waffle V ×1
+	Striped Row Cannon ×3
+
+
+***Config Information for Level 324-9 (4844) @ t329b***
+Level Type      :	Ingredient
+Moves           :	25
+Target Scores   :	46000
+                 	110000
+                 	130000
+Colors          :	4
+Ingredients     :	8
+Striped Row Spawn:	One per 2 moves
+Striped Col Spawn:	One per 1 moves
+Wrapped Spawn   :	One per 3 moves
+Dispensers:     :
+	(0,0): 	Sv (1)
+	(1,0): 	Sv (1)
+	(2,0): 	Sv (1)
+	(3,0): 	Sv (1)
+	(4,0): 	Sv (1)
+	(5,0): 	Sv (1)
+	(6,0): 	Sv (1)
+	(6,6): 	Sh (1)
+	(7,0): 	Sv (1)
+	(7,6): 	Sh (1)
+	(8,0): 	Sv (1)
+	(8,6): 	Sh (1)
+Elements:       :
+	Licorice Lock ×16
+	Licorice Swirl ×2
+	Icing II ×7
+	Icing III ×5
+	Icing IV ×3
+	Icing V ×1
+	Dispenser ×12
+	Chest I ×1
+	Chest II ×5
+	Chest III ×6
+	Chest IV ×4
+	Chest V ×2
+	Wrapped ×3
+	Sugar Key ×5
+	Waffle IV ×7
+	Chocolate I ×3
+	Chocolate II ×7
+	Chocolate III ×5
+	Striped Row Cannon ×3
+	Striped Col Cannon ×9
+	Curl II (D) ×6
+	Curl II (L) ×6
+	Curl III (U) ×11
+
+
+***Config Information for Level 324-11 (4846) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	25
+Target Scores   :	190000
+                 	300000
+                 	350000
+Colors          :	4
+Fixed Colors:   :	3R+ 6Y+ 
+Dispensers:     :
+	(6,0): 	LX (1)
+Elements:       :
+	Licorice Swirl ×13
+	Marmalade ×6
+	Dispenser ×6
+	Swirl Cannon ×1
+	Chest I ×19
+	Chest II ×1
+	Chest III ×20
+	Chest IV ×1
+	Chest V ×10
+	Sugar Key ×5
+	Red ×3
+	Yellow ×6
+	Waffle III ×4
+	Waffle IV ×4
+	Cane (U) ×1
+	Cane (D) ×2
+	Cane (L) ×18
+	Cane (R) ×6
+	Chocolate II ×8
+	Curl I (U) ×1
+	Curl I (D) ×2
+	Curl I (L) ×1
+	Curl I (R) ×3
+	Curl II (U) ×6
+	Curl II (L) ×4
+	Curl III (U) ×2
+	Curl III (L) ×2
+	Crystal I ×6
+	Crystal II ×2
+
+
+***Config Information for Level 324-12 (4847) @ t329b***
+Level Type      :	Order
+Moves           :	20
+Target Scores   :	200000
+                 	350000
+                 	500000
+Colors          :	4
+Orders          :	WR: 50
+Wrapped Spawn   :	8 on board
+Dispensers:     :
+	(1,1): 	WrX (1)
+	(7,1): 	WrX (1)
+Elements:       :
+	Dispenser ×7
+	Wrapped Cannon ×2
+	Waffle IV ×6
+	Waffle V ×2
+	Cane (D) ×12
+	Cane (L) ×16
+	Cane (R) ×4
+
+
+***Config Information for Level 325-1 (4851) @ t329b***
+Level Type      :	Ingredient
+Moves           :	24
+Target Scores   :	20000
+                 	280000
+                 	300000
+Colors          :	3
+Ingredients     :	2
+Bomb Timer      :	12
+Ingredient Spawn:	2 on board
+Bomb Spawn      :	15 on board
+Striped Row Spawn:	One per 3 moves
+Striped Col Spawn:	One per 3 moves
+Wrapped Spawn   :	1 on board
+Dispensers:     :
+	(2,2): 	Sv (1)
+	(3,4): 	BX (1)
+	(4,4): 	Wr (1)
+	(5,4): 	BX (1)
+	(6,2): 	Sv (1)
+Magic Mixer     :	4 per 3 turns: Choco3-> : 4 per 3 moves
+Elements:       :
+	Licorice Swirl ×20
+	Dispenser ×8
+	Bomb Cannon ×2
+	Wrapped ×1
+	Wrapped Cannon ×1
+	Waffle II ×4
+	Waffle III ×10
+	Cane (D) ×12
+	Cane (L) ×24
+	Cane (R) ×10
+	Striped Col Cannon ×2
+	Crystal II ×8
+
+
+***Config Information for Level 325-3 (4853) @ t329b***
+Level Type      :	Moves
+Moves           :	24
+Target Scores   :	400000
+                 	450000
+                 	500000
+Colors          :	4
+Bomb Timer      :	99
+Swirl Spawn     :	99 on board
+Bomb Spawn      :	99 on board
+Striped Row Spawn:	One per 2 moves
+Striped Col Spawn:	99 on board
+Dispensers:     :
+	(0,4): 	BX (1)
+	(0,6): 	SvX (1)
+	(1,2): 	BX (1)
+	(1,7): 	SvX (1)
+	(2,0): 	BX (1)
+	(2,8): 	SvX (1)
+	(3,2): 	LX (1)
+	(4,8): 	Sh (1)
+	(6,7): 	Sh (1)
+	(8,6): 	Sh (1)
+Magic Mixer     :	1 per 3 turns: Bomb  -> : 1 per 3 moves
+Elements:       :
+	Licorice Lock ×1
+	Chocolate ×6
+	Licorice Swirl ×6
+	Dispenser ×5
+	Swirl Cannon ×1
+	Bomb Cannon ×3
+	Chest I ×2
+	Striped V ×3
+	Sugar Key ×1
+	Magic Mixer ×3
+	Cane (U) ×3
+	Cane (D) ×2
+	Cane (L) ×2
+	Cane (R) ×3
+	Chocolate I ×7
+	Striped Row Cannon ×3
+	Striped Col Cannon ×3
+	Curl III (U) ×4
+	Curl III (D) ×1
+	Crystal III ×3
+
+
+***Config Information for Level 325-4 (4854) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	24
+Target Scores   :	67000
+                 	160000
+                 	200000
+Colors          :	4
+Ingredient Spawn:	One per 3 moves
+Striped Spawn   :	One per 2 moves
+Dispensers:     :
+	(6,0): 	ISt (2)
+	(7,0): 	ISt (2)
+	(8,0): 	ISt (2)
+Elements:       :
+	Licorice Lock ×19
+	Chocolate ×14
+	Dispenser ×6
+	Ingredient Cannon ×3
+	Color Bomb ×1
+	Striped H ×4
+	Jelly Fish ×4
+	Striped Cannon ×3
+	Waffle II ×3
+	Waffle IV ×3
+	Waffle V ×6
+	Cane (L) ×8
+	Chocolate III ×6
+	Crystal I ×10
+	Crystal II ×10
+
+
+***Config Information for Level 325-9 (4859) @ t329b***
+Level Type      :	Ingredient
+Moves           :	21
+Target Scores   :	10000
+                 	90000
+                 	100000
+Colors          :	5
+Ingredients     :	6
+Ingredient Spawn:	One per 3 moves, 1 on board
+Waffle Spawn    :	6 on board
+Sugar Key Spawn :	One per 3 moves
+Striped Spawn   :	One per 2 moves
+Striped Row Spawn:	One per 3 moves
+Dispensers:     :
+	(0,0): 	WKX (2)
+	(0,2): 	St (1)
+	(0,8): 	IWX (2)
+	(1,0): 	WKX (2)
+	(1,2): 	St (1)
+	(1,8): 	IWX (2)
+	(2,0): 	WKX (2)
+	(2,2): 	St (1)
+	(2,8): 	IWX (2)
+	(3,0): 	WKX (2)
+	(3,2): 	St (1)
+	(3,8): 	IWX (2)
+	(4,0): 	WKX (2)
+	(4,2): 	St (1)
+	(4,8): 	IWX (2)
+	(5,0): 	WKX (2)
+	(5,2): 	St (1)
+	(5,8): 	IWX (2)
+	(6,0): 	WKX (2)
+	(6,2): 	St (1)
+	(6,8): 	IWX (2)
+	(7,0): 	WKX (2)
+	(7,2): 	St (1)
+	(7,8): 	IWX (2)
+	(8,0): 	WKX (2)
+	(8,2): 	St (1)
+	(8,8): 	IWX (2)
+Elements:       :
+	Dispenser ×9
+	Ingredient Cannon ×9
+	Key Cannon ×9
+	Chest II ×2
+	Chest III ×2
+	Chest IV ×2
+	Chest V ×3
+	Sugar Key ×3
+	Striped Cannon ×9
+	Waffle IV ×6
+	Waffle V ×6
+	Waffle III Cannon ×18
+
+
+***Config Information for Level 325-10 (4860) @ t329b***
+Level Type      :	Jelly
+Moves           :	17
+Target Scores   :	140000
+                 	220000
+                 	265000
+Colors          :	4
+Jellies         :	0 single, 70 double
+Elements:       :
+	Licorice Swirl ×34
+	Crystal I ×17
+	Crystal II ×10
+	Crystal III ×18
+
+
+***Config Information for Level 325-13 (4863) @ t329b***
+Level Type      :	Mixed!(J.O.)
+Moves           :	34
+Target Scores   :	19000
+                 	180000
+                 	230000
+Colors          :	5
+Sugar Key Spawn :	One per 2 moves
+Lucky Candy Spawn:	12 on board
+Striped Spawn   :	One per 1 moves
+Striped Row Spawn:	One per 3 moves
+Striped Col Spawn:	One per 2 moves
+Wrapped Spawn   :	One per 3 moves
+Dispensers:     :
+	(0,0): 	LcSh (2)
+	(1,0): 	Sv (1)
+	(1,5): 	Wr (1)
+	(2,0): 	Sv (1)
+	(2,5): 	Wr (1)
+	(3,5): 	Wr (1)
+	(4,0): 	KSt (2)
+	(5,0): 	KSt (2)
+	(6,0): 	KSt (2)
+	(7,0): 	KSt (2)
+	(8,0): 	KSt (2)
+Elements:       :
+	Basic Icing ×8
+	Dispenser ×11
+	Key Cannon ×5
+	Chest I ×8
+	Chest II ×5
+	Chest III ×16
+	Chest IV ×2
+	Lucky ×14
+	Popcorn ×2
+	Lucky Cannon ×1
+	Striped Cannon ×5
+	Wrapped Cannon ×3
+	Waffle I ×3
+	Waffle III ×2
+	Cane (U) ×10
+	Cane (D) ×7
+	Cane (L) ×4
+	Cane (R) ×14
+	Chocolate I ×14
+	Chocolate II ×2
+	Striped Row Cannon ×1
+	Striped Col Cannon ×2
+	Crystal II ×14
+
+
+***Config Information for Level 326-3 (4868) @ t329b***
+Level Type      :	Moves
+Moves           :	20
+Target Scores   :	5000000
+                 	6000000
+                 	7000000
+Colors          :	4
+Bomb Timer      :	10
+Bomb Spawn      :	28 on board
+Dispensers:     :
+	(3,0): 	B (1)
+	(4,0): 	B (1)
+	(5,0): 	B (1)
+Elements:       :
+	Licorice Lock ×5
+	Candy Bomb ×28
+	Dispenser ×3
+	Bomb Cannon ×3
+	Wrapped ×5
+	Popcorn ×4
+	Curl III (U) ×14
+	Curl III (D) ×14
+
+
+***Config Information for Level 326-4 (4869) @ t329b***
+Level Type      :	Mixed!(J.O.)
+Moves           :	20
+Target Scores   :	56000
+                 	80000
+                 	100000
+Colors          :	5
+Swirl Spawn     :	99 on board
+Fixed Colors:   :	2R 5Y+ 
+Dispensers:     :
+	(4,4): 	LX (1)
+Elements:       :
+	Basic Icing ×5
+	Licorice Swirl ×4
+	Icing I ×4
+	Dispenser ×8
+	Swirl Cannon ×1
+	Cake Bomb ×4
+	Chest IV ×20
+	Striped H ×1
+	Striped V ×2
+	Sugar Key ×8
+	Red ×2
+	Yellow ×5
+	Waffle V ×4
+	Cane (D) ×4
+	Cane (L) ×11
+	Cane (R) ×11
+	Curl III (L) ×4
+	Crystal I ×6
+
+
+***Config Information for Level 326-6 (4871) @ t329b***
+Level Type      :	Jelly
+Moves           :	20
+Target Scores   :	140000
+                 	200000
+                 	280000
+Colors          :	4
+Jellies         :	0 single, 68 double
+Bomb Timer      :	10
+Swirl Spawn     :	14 on board
+Bomb Spawn      :	One per 1 moves
+Mystery Candy Spawn:	One per 2 moves
+Dispensers:     :
+	(0,0): 	L (1)
+	(2,0): 	L (1)
+	(4,0): 	L (1)
+	(4,2): 	BX (1)
+	(6,0): 	L (1)
+	(8,0): 	L (1)
+Elements:       :
+	Dispenser ×9
+	Swirl Cannon ×5
+	Bomb Cannon ×1
+	Cake Bomb ×8
+	Curl III (D) ×9
+	Curl III (L) ×5
+	Curl III (R) ×5
+
+
+***Config Information for Level 326-8 (4873) @ t329b***
+Level Type      :	Order
+Moves           :	28
+Target Scores   :	50000
+                 	75000
+                 	90000
+Colors          :	4
+Orders          :	Swirl: 10, Waffle: 32
+Striped Col Spawn:	1 on board
+Dispensers:     :
+	(4,0): 	Sv (1)
+Magic Mixer     :	3 per 3 turns: Swirl -> : 3 per 3 moves
+Elements:       :
+	Licorice Swirl ×9
+	Dispenser ×9
+	Chest I ×2
+	Chest II ×2
+	Chest III ×2
+	Chest IV ×2
+	Chest V ×1
+	Sugar Key ×9
+	Magic Mixer ×1
+	Waffle IV ×8
+	Striped Col Cannon ×1
+	Curl III (U) ×6
+	Curl III (D) ×6
+	Curl III (L) ×8
+	Curl III (R) ×8
+
+
+***Config Information for Level 326-9 (4874) @ t329b***
+Level Type      :	Jelly
+Moves           :	20
+Target Scores   :	10000
+                 	240000
+                 	350000
+Colors          :	4
+Jellies         :	0 single, 66 double
+Striped Spawn   :	One per 2 moves
+Wrapped Spawn   :	One per 3 moves
+Dispensers:     :
+	(1,4): 	Wr (1)
+	(1,6): 	St (1)
+	(2,6): 	St (1)
+	(3,6): 	St (1)
+	(5,4): 	Wr (1)
+	(8,8): 	St (1)
+Elements:       :
+	Icing IV ×4
+	Icing V ×3
+	Dispenser ×18
+	Cake Bomb ×12
+	Color Bomb ×2
+	Popcorn ×2
+	Striped Cannon ×4
+	Wrapped Cannon ×2
+	Waffle I ×12
+	Waffle II ×11
+	Cane (U) ×1
+	Cane (D) ×1
+	Cane (L) ×1
+	Cane (R) ×1
+	Curl II (U) ×5
+	Curl II (L) ×5
+
+
+***Config Information for Level 327-1 (4881) @ t329b***
+Level Type      :	Order
+Moves           :	20
+Target Scores   :	10000
+                 	55000
+                 	75000
+Colors          :	4
+Orders          :	Popcorn: 8
+Swirl Spawn     :	One per 2 moves
+Striped Spawn   :	One per 5 moves
+Wrapped Spawn   :	One per 5 moves
+Dispensers:     :
+	(0,3): 	WrX (1)
+	(1,2): 	LSt (2)
+	(2,1): 	LSt (2)
+	(3,0): 	Wr (1)
+	(8,3): 	Sv (1)
+Elements:       :
+	Licorice Swirl ×10
+	Icing II ×4
+	Dispenser ×9
+	Swirl Cannon ×2
+	Popcorn ×8
+	Striped Cannon ×2
+	Wrapped Cannon ×2
+	Waffle III ×5
+	Waffle IV ×5
+	Waffle V ×1
+	Cane (U) ×8
+	Cane (D) ×8
+	Cane (L) ×8
+	Cane (R) ×12
+	Striped Col Cannon ×1
+
+
+***Config Information for Level 327-2 (4882) @ t329b***
+Level Type      :	Jelly
+Moves           :	26
+Target Scores   :	30000
+                 	185000
+                 	215000
+Colors          :	4
+Jellies         :	0 single, 65 double
+Swirl Spawn     :	One per 3 moves
+Striped Spawn   :	One per 3 moves
+Wrapped Spawn   :	One per 3 moves
+Dispensers:     :
+	(0,1): 	Wr (1)
+	(0,7): 	St (1)
+	(1,0): 	Wr (1)
+	(2,7): 	St (1)
+	(3,0): 	L (1)
+	(4,0): 	L (1)
+	(5,0): 	L (1)
+	(6,7): 	St (1)
+	(7,0): 	Wr (1)
+	(8,1): 	Wr (1)
+	(8,7): 	St (1)
+Elements:       :
+	Basic Icing ×8
+	Licorice Lock ×16
+	Licorice Swirl ×18
+	Icing II ×16
+	Dispenser ×13
+	Swirl Cannon ×3
+	Striped Cannon ×4
+	Wrapped Cannon ×4
+
+
+***Config Information for Level 327-3 (4883) @ t329b***
+Level Type      :	Moves
+Moves           :	20
+Target Scores   :	275000
+                 	325000
+                 	375000
+Colors          :	4
+Swirl Spawn     :	5 on board
+Striped Row Spawn:	One per 4 moves
+Wrapped Spawn   :	One per 1 moves
+Dispensers:     :
+	(0,4): 	L (1)
+	(1,3): 	L (1)
+	(2,0): 	WrX (1)
+	(2,2): 	L (1)
+	(3,0): 	ShX (1)
+	(3,2): 	L (1)
+	(4,0): 	WrX (1)
+	(4,2): 	L (1)
+	(5,0): 	ShX (1)
+	(5,2): 	L (1)
+	(6,0): 	WrX (1)
+	(6,2): 	L (1)
+	(7,3): 	L (1)
+	(8,4): 	L (1)
+Elements:       :
+	Licorice Swirl ×9
+	Dispenser ×9
+	Swirl Cannon ×9
+	Striped H ×2
+	Popcorn ×3
+	Wrapped Cannon ×3
+	Cane (D) ×11
+	Cane (L) ×3
+	Cane (R) ×9
+	Striped Row Cannon ×2
+
+
+***Config Information for Level 327-5 (4885) @ t329b***
+Level Type      :	Mixed!(J.O.)
+Moves           :	25
+Target Scores   :	70000
+                 	90000
+                 	130000
+Colors          :	5
+Dispensers:     :
+Elements:       :
+	Licorice Lock ×11
+	Icing II ×10
+	Marmalade ×1
+	Dispenser ×9
+	Chest III ×8
+	Wrapped ×1
+	Sugar Key ×3
+	Popcorn ×2
+	Bobber ×6
+	Curl I (D) ×6
+	Curl I (L) ×6
+	Curl II (L) ×6
+	Curl III (D) ×11
+	Curl III (L) ×5
+
+
+***Config Information for Level 327-6 (4886) @ t329b***
+Level Type      :	Jelly
+Moves           :	20
+Target Scores   :	140000
+                 	210000
+                 	300000
+Colors          :	4
+Jellies         :	0 single, 70 double
+Sugar Key Spawn :	One per 3 moves
+Wrapped Spawn   :	One per 3 moves
+Dispensers:     :
+	(2,0): 	Wr (1)
+	(4,4): 	K (1)
+	(6,0): 	Wr (1)
+Elements:       :
+	Licorice Swirl ×21
+	Dispenser ×9
+	Key Cannon ×1
+	Chest IV ×6
+	Wrapped Cannon ×2
+	Waffle IV ×14
+
+
+***Config Information for Level 327-8 (4888) @ t329b***
+Level Type      :	Ingredient
+Moves           :	27
+Target Scores   :	15000
+                 	90000
+                 	115000
+Colors          :	4
+Ingredients     :	7
+Elements:       :
+	Licorice Lock ×5
+	Icing IV ×2
+	Icing V ×5
+	Waffle III ×16
+	Cane (L) ×9
+	Cane (R) ×9
+
+
+***Config Information for Level 327-9 (4889) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	22
+Target Scores   :	130000
+                 	160000
+                 	190000
+Colors          :	5
+Ingredient Spawn:	6 on board
+Striped Row Spawn:	One per 3 moves
+Dispensers:     :
+	(3,0): 	Sh (1)
+	(5,0): 	Sh (1)
+Elements:       :
+	Icing II ×2
+	Dispenser ×7
+	Waffle I ×6
+	Waffle II ×6
+	Cane (U) ×4
+	Cane (D) ×4
+	Cane (L) ×9
+	Cane (R) ×9
+	Striped Row Cannon ×2
+
+
+***Config Information for Level 327-11 (4891) @ t329b***
+Level Type      :	Jelly
+Moves           :	25
+Target Scores   :	50000
+                 	285000
+                 	325000
+Colors          :	4
+Jellies         :	0 single, 61 double
+Sugar Key Spawn :	One per 3 moves
+Striped Col Spawn:	One per 5 moves
+Wrapped Spawn   :	One per 4 moves
+Dispensers:     :
+	(1,0): 	Sv (1)
+	(3,0): 	L (1)
+	(4,0): 	LWr (2)
+	(5,0): 	L (1)
+	(7,0): 	Sv (1)
+Elements:       :
+	Licorice Lock ×2
+	Licorice Swirl ×12
+	Dispenser ×7
+	Swirl Cannon ×3
+	Chest I ×4
+	Chest II ×4
+	Chest III ×4
+	Chest IV ×4
+	Color Bomb ×1
+	Sugar Key ×5
+	Wrapped Cannon ×1
+	Striped Col Cannon ×2
+
+
+***Config Information for Level 327-12 (4892) @ t329b***
+Level Type      :	Ingredient
+Moves           :	25
+Target Scores   :	40000
+                 	80000
+                 	130000
+Colors          :	4
+Ingredients     :	3
+Striped Spawn   :	One per 8 moves
+Wrapped Spawn   :	One per 5 moves
+Dispensers:     :
+	(0,0): 	St (1)
+	(4,0): 	Wr (1)
+	(8,0): 	St (1)
+Elements:       :
+	Licorice Lock ×3
+	Licorice Swirl ×6
+	Icing III ×2
+	Icing IV ×8
+	Icing V ×4
+	Marmalade ×3
+	Dispenser ×9
+	Striped Cannon ×2
+	Wrapped Cannon ×1
+
+
+***Config Information for Level 327-15 (4895) @ t329b***
+Level Type      :	Jelly
+Moves           :	25
+Target Scores   :	50000
+                 	135000
+                 	185000
+Colors          :	4
+Jellies         :	0 single, 57 double
+Sugar Key Spawn :	One per 3 moves
+Striped Row Spawn:	One per 2 moves
+Striped Col Spawn:	One per 2 moves
+Dispensers:     :
+	(0,0): 	K (1)
+	(3,0): 	ShX (1)
+	(3,3): 	Sv (1)
+	(3,8): 	ShX (1)
+	(4,4): 	Sv (1)
+	(5,0): 	ShX (1)
+	(5,3): 	Sv (1)
+	(5,8): 	ShX (1)
+	(8,0): 	K (1)
+Elements:       :
+	Licorice Lock ×2
+	Licorice Swirl ×8
+	Icing IV ×4
+	Icing V ×1
+	Dispenser ×9
+	Key Cannon ×2
+	Chest II ×6
+	Striped Row Cannon ×4
+	Striped Col Cannon ×3
+
+
+***Config Information for Level 328-3 (4898) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	28
+Target Scores   :	98000
+                 	130000
+                 	300000
+Colors          :	4
+Swirl Spawn     :	15 on board
+Dispensers:     :
+	(0,2): 	L (1)
+	(1,0): 	L (1)
+	(2,0): 	L (1)
+	(3,0): 	L (1)
+	(3,8): 	LX (1)
+	(5,8): 	LX (1)
+Elements:       :
+	Licorice Swirl ×15
+	Icing III ×4
+	Marmalade ×2
+	Dispenser ×9
+	Swirl Cannon ×6
+	Cake Bomb ×8
+	Popcorn ×1
+	Cane (L) ×4
+	Cane (R) ×4
+	Chocolate III ×9
+	Curl III (U) ×1
+	Curl III (D) ×17
+	Curl III (L) ×5
+	Curl III (R) ×5
+
+
+***Config Information for Level 328-4 (4899) @ t329b***
+Level Type      :	Order
+Moves           :	20
+Target Scores   :	10000
+                 	1500000
+                 	1800000
+Colors          :	4
+Orders          :	Choco: 70
+Bomb Timer      :	10
+Bomb Spawn      :	99 on board
+Lucky Candy Spawn:	10 on board
+Dispensers:     :
+	(0,3): 	Lc (1)
+	(1,3): 	Lc (1)
+	(2,4): 	Lc (1)
+	(3,0): 	BX (1)
+	(3,5): 	Lc (1)
+	(4,0): 	BX (1)
+	(5,0): 	BX (1)
+	(5,7): 	Lc (1)
+	(6,0): 	BX (1)
+	(7,0): 	BX (1)
+	(8,0): 	BX (1)
+Elements:       :
+	Candy Bomb ×26
+	Dispenser ×5
+	Bomb Cannon ×6
+	Striped H ×6
+	Wrapped ×3
+	Lucky ×14
+	Lucky Cannon ×5
+	Cane (U) ×1
+	Cane (D) ×1
+	Cane (L) ×3
+	Cane (R) ×3
+	Crystal III ×6
+
+
+***Config Information for Level 328-11 (4906) @ t329b***
+Level Type      :	Order
+Moves           :	18
+Target Scores   :	5000
+                 	40000
+                 	80000
+Colors          :	4
+Orders          :	Y+: 3, Waffle: 57
+Fixed Colors:   :	3R+ 3Y+ 
+Dispensers:     :
+Elements:       :
+	Licorice Swirl ×4
+	Dispenser ×6
+	Chest I ×4
+	Chest II ×8
+	Chest III ×3
+	Striped H ×4
+	Striped V ×4
+	Sugar Key ×3
+	Red ×3
+	Yellow ×3
+	Waffle III ×19
+	Cane (U) ×10
+	Cane (D) ×8
+	Cane (L) ×9
+	Cane (R) ×9
+
+
+***Config Information for Level 328-13 (4908) @ t329b***
+Level Type      :	Jelly
+Moves           :	21
+Target Scores   :	152000
+                 	300000
+                 	400000
+Colors          :	4
+Jellies         :	0 single, 77 double
+Fixed Colors:   :	1B 1G 1O 1P 
+Dispensers:     :
+	(4,0): 	L (1)
+Elements:       :
+	Licorice Swirl ×13
+	Icing II ×8
+	Icing III ×10
+	Dispenser ×9
+	Swirl Cannon ×1
+	Chest I ×1
+	Chest II ×1
+	Chest III ×1
+	Chest IV ×1
+	Chest V ×3
+	Color Bomb ×2
+	Sugar Key ×5
+	Blue ×1
+	Green ×1
+	Orange ×1
+	Purple ×1
+	Wrapper UFO ×1
+	Cane (U) ×8
+	Cane (D) ×8
+	Cane (L) ×9
+	Cane (R) ×9
+	Curl III (U) ×1
+	Curl III (L) ×1
+	Curl III (R) ×1
+
+
+***Config Information for Level 328-14 (4909) @ t329b***
+Level Type      :	Order
+Moves           :	28
+Target Scores   :	12000
+                 	30000
+                 	70000
+Colors          :	4
+Orders          :	Y+: 17
+Fixed Colors:   :	2R+ 17Y+ 
+Dispensers:     :
+Elements:       :
+	Licorice Lock ×16
+	Licorice Swirl ×16
+	Dispenser ×3
+	Chest II ×1
+	Sugar Key ×2
+	Popcorn ×1
+	Red ×2
+	Yellow ×17
+	Cane (U) ×10
+	Cane (D) ×10
+	Cane (L) ×10
+	Cane (R) ×10
+	Chocolate III ×14
+
+
+***Config Information for Level 329-2 (4912) @ t329b***
+Level Type      :	Ingredient
+Moves           :	27
+Target Scores   :	80000
+                 	100000
+                 	130000
+Colors          :	5
+Ingredients     :	4
+Striped Row Spawn:	1 on board
+Dispensers:     :
+	(0,3): 	Sh (1)
+	(8,0): 	Sh (1)
+Elements:       :
+	Licorice Lock ×4
+	Licorice Swirl ×25
+	Icing III ×8
+	Dispenser ×10
+	Striped Row Cannon ×2
+
+
+***Config Information for Level 329-3 (4913) @ t329b***
+Level Type      :	Jelly
+Moves           :	25
+Target Scores   :	30000
+                 	170000
+                 	200000
+Colors          :	4
+Jellies         :	30 single, 33 double
+Swirl Spawn     :	One per 5 moves
+Dispensers:     :
+	(0,0): 	L (1)
+	(1,0): 	L (1)
+	(7,0): 	L (1)
+	(8,0): 	L (1)
+Elements:       :
+	Basic Icing ×7
+	Licorice Swirl ×5
+	Icing II ×3
+	Dispenser ×9
+	Swirl Cannon ×4
+	Striped V ×3
+	Waffle II ×3
+
+
+***Config Information for Level 329-4 (4914) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	28
+Target Scores   :	60000
+                 	230000
+                 	260000
+Colors          :	4
+Sugar Key Spawn :	One per 3 moves
+Dispensers:     :
+	(3,0): 	K (1)
+	(4,0): 	K (1)
+Elements:       :
+	Dispenser ×9
+	Key Cannon ×2
+	Chest I ×3
+	Chest II ×6
+	Chest III ×6
+	Chest IV ×6
+	Chest V ×6
+	Color Bomb ×4
+	Waffle II ×9
+	Waffle III ×11
+	Cane (L) ×9
+	Chocolate I ×8
+	Chocolate II ×7
+	Chocolate III ×9
+	Curl II (L) ×18
+
+
+***Config Information for Level 329-6 (4916) @ t329b***
+Level Type      :	Jelly
+Moves           :	20
+Target Scores   :	138000
+                 	308000
+                 	478000
+Colors          :	4
+Jellies         :	0 single, 69 double
+Waffle Spawn    :	One per 2 moves
+Striped Row Spawn:	One per 4 moves
+Dispensers:     :
+	(6,0): 	W (1)
+	(7,0): 	Sh (1)
+	(8,0): 	W (1)
+Elements:       :
+	Icing III ×3
+	Icing IV ×3
+	Icing V ×11
+	Dispenser ×6
+	Cane (L) ×4
+	Cane (R) ×4
+	Waffle III Cannon ×2
+	Striped Row Cannon ×1
+
+
+***Config Information for Level 329-7 (4917) @ t329b***
+Level Type      :	Moves
+Moves           :	25
+Target Scores   :	700000
+                 	775000
+                 	850000
+Colors          :	5
+Bomb Timer      :	99
+Bomb Spawn      :	99 on board
+Sugar Key Spawn :	1 on board
+Striped Row Spawn:	One per 5 moves
+Fixed Colors:   :	3Y+ 
+Dispensers:     :
+	(0,2): 	BX (1)
+	(1,4): 	K (1)
+	(2,4): 	K (1)
+	(3,4): 	KSh (2)
+	(4,4): 	K (1)
+	(5,4): 	K (1)
+	(6,0): 	BX (1)
+	(7,0): 	BX (1)
+	(8,0): 	BX (1)
+Elements:       :
+	Chocolate ×4
+	Licorice Swirl ×5
+	Candy Bomb ×12
+	Chocolate Spawner ×1
+	Dispenser ×6
+	Bomb Cannon ×4
+	Key Cannon ×5
+	Chest I ×14
+	Chest V ×3
+	Wrapped ×1
+	Sugar Key ×1
+	Yellow ×3
+	Cane (U) ×9
+	Cane (D) ×9
+	Cane (L) ×10
+	Cane (R) ×7
+	Chocolate I ×5
+	Striped Row Cannon ×1
+
+
+***Config Information for Level 329-9 (4919) @ t329b***
+Level Type      :	Mixed!(J.O.)
+Moves           :	20
+Target Scores   :	128000
+                 	328000
+                 	628000
+Colors          :	3
+Striped Row Spawn:	One per 2 moves
+Wrapped Spawn   :	One per 2 moves
+Dispensers:     :
+	(4,4): 	ShX (1)
+	(5,4): 	WrX (1)
+Elements:       :
+	Licorice Swirl ×12
+	Dispenser ×8
+	Cake Bomb ×4
+	Popcorn ×8
+	Wrapped Cannon ×1
+	Cane (D) ×2
+	Cane (R) ×4
+	Striped Row Cannon ×1
+	Crystal II ×12
+	Crystal III ×6
+
+
+***Config Information for Level 329-10 (4920) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	22
+Target Scores   :	122000
+                 	300000
+                 	390000
+Colors          :	4
+Bomb Timer      :	13
+Bomb Spawn      :	12 on board
+Waffle Spawn    :	6 on board
+Striped Col Spawn:	One per 2 moves
+Dispensers:     :
+	(0,0): 	B (1)
+	(1,0): 	W (1)
+	(2,0): 	W (1)
+	(3,0): 	W (1)
+	(4,0): 	B (1)
+	(5,3): 	Sv (1)
+	(6,3): 	Sv (1)
+	(7,3): 	Sv (1)
+	(8,3): 	Sv (1)
+Elements:       :
+	Candy Bomb ×12
+	Icing I ×3
+	Icing II ×4
+	Icing IV ×2
+	Marmalade ×1
+	Dispenser ×9
+	Bomb Cannon ×2
+	Chest I ×2
+	Chest II ×2
+	Chest III ×2
+	Chest IV ×1
+	Sugar Key ×4
+	Waffle I ×13
+	Waffle II ×1
+	Waffle III ×1
+	Waffle IV ×1
+	Cane (U) ×1
+	Cane (D) ×8
+	Cane (L) ×10
+	Cane (R) ×9
+	Waffle III Cannon ×3
+	Chocolate III ×2
+	Striped Col Cannon ×4
+	Curl III (D) ×1
+	Curl III (L) ×14
+	Crystal III ×5
+
+
+***Config Information for Level 329-12 (4922) @ t329b***
+Level Type      :	Ingredient
+Moves           :	25
+Target Scores   :	10000
+                 	35000
+                 	45000
+Colors          :	4
+Ingredients     :	3
+Ingredient Spawn:	One per 1 moves, 3 on board
+Striped Row Spawn:	One per 2 moves
+Dispensers:     :
+	(0,0): 	Sh (1)
+	(4,0): 	I (1)
+	(8,0): 	Sh (1)
+Elements:       :
+	Licorice Swirl ×1
+	Dispenser ×7
+	Ingredient Cannon ×1
+	Striped H ×2
+	Popcorn ×1
+	Waffle II ×6
+	Waffle III ×6
+	Striped Row Cannon ×2
+	Crystal I ×18
+	Crystal III ×12
+
+
+***Config Information for Level 329-15 (4925) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	23
+Target Scores   :	150000
+                 	280000
+                 	370000
+Colors          :	4
+Fixed Colors:   :	3Y+ 
+Dispensers:     :
+Elements:       :
+	Licorice Lock ×3
+	Licorice Swirl ×13
+	Icing III ×3
+	Icing IV ×2
+	Icing V ×4
+	Dispenser ×9
+	Chest I ×1
+	Chest III ×1
+	Chest IV ×1
+	Chest V ×6
+	Jelly Fish ×3
+	Sugar Key ×4
+	Yellow ×3
+	Cane (U) ×1
+	Cane (D) ×10
+	Cane (L) ×8
+	Cane (R) ×8
+	Chocolate III ×14
+	Curl III (U) ×1
+	Curl III (D) ×1
+	Curl III (L) ×1
+	Curl III (R) ×1
+
+
+***Config Information for Level 330-4 (4929) @ t329b***
+Level Type      :	Order
+Moves           :	25
+Target Scores   :	5000
+                 	35000
+                 	43000
+Colors          :	4
+Orders          :	MultiChoco: 8, Choco: 8, Swirl: 40
+Swirl Spawn     :	99 on board
+Dispensers:     :
+	(7,1): 	LX (1)
+	(8,1): 	LX (1)
+Elements:       :
+	Licorice Lock ×4
+	Chocolate ×6
+	Licorice Swirl ×2
+	Icing V ×2
+	Dispenser ×4
+	Swirl Cannon ×2
+	Chest IV ×5
+	Striped H ×2
+	Wrapped ×1
+	Sugar Key ×4
+	Bobber ×7
+	Cane (L) ×7
+	Cane (R) ×3
+	Chocolate I ×6
+	Curl III (L) ×2
+	Crystal III ×6
+
+
+***Config Information for Level 330-10 (4935) @ t329b***
+Level Type      :	Mixed!(J.O.)
+Moves           :	30
+Target Scores   :	40000
+                 	70000
+                 	110000
+Colors          :	5
+Bomb Timer      :	18
+Striped Row Spawn:	One per 5 moves
+Dispensers:     :
+	(4,0): 	Sh (1)
+Elements:       :
+	Licorice Swirl ×8
+	Candy Bomb ×8
+	Marmalade ×8
+	Dispenser ×9
+	Waffle I ×24
+	Striped Row Cannon ×1
+	Curl I (U) ×7
+	Curl I (D) ×7
+	Curl I (L) ×8
+	Curl I (R) ×8
+	Curl II (U) ×8
+	Curl II (D) ×8
+
+
+***Config Information for Level 330-15 (4940) @ t329b***
+Level Type      :	Jelly
+Moves           :	25
+Target Scores   :	10000
+                 	115000
+                 	125000
+Colors          :	4
+Jellies         :	50 single, 9 double
+Striped Spawn   :	One per 2 moves
+Striped Col Spawn:	One per 3 moves
+Wrapped Spawn   :	One per 3 moves
+Dispensers:     :
+	(0,3): 	Sv (1)
+	(1,2): 	WrSv (2)
+	(1,7): 	StX (1)
+	(2,1): 	Sv (1)
+	(2,7): 	StX (1)
+	(3,7): 	StX (1)
+	(4,0): 	Wr (1)
+	(5,7): 	StX (1)
+	(6,1): 	Sv (1)
+	(6,7): 	StX (1)
+	(7,2): 	WrSv (2)
+	(7,7): 	StX (1)
+	(8,3): 	Sv (1)
+Elements:       :
+	Licorice Swirl ×11
+	Icing III ×6
+	Dispenser ×9
+	Striped Cannon ×6
+	Wrapped Cannon ×3
+	Waffle IV ×6
+	Striped Col Cannon ×6
+	Curl III (L) ×11
+	Curl III (R) ×11
+	Crystal III ×2
+
+
+***Config Information for Level 332-1 (4956) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	35
+Target Scores   :	170000
+                 	235000
+                 	270000
+Colors          :	4
+Waffle Spawn    :	10 on board
+Dispensers:     :
+	(3,0): 	W (1)
+	(4,0): 	W (1)
+	(5,0): 	W (1)
+Elements:       :
+	Dispenser ×9
+	Bobber ×3
+	Waffle III ×10
+	Cane (U) ×1
+	Cane (L) ×8
+	Cane (R) ×8
+	Waffle III Cannon ×3
+
+
+***Config Information for Level 332-3 (4958) @ t329b***
+Level Type      :	Jelly
+Moves           :	28
+Target Scores   :	63000
+                 	90000
+                 	120000
+Colors          :	4
+Jellies         :	45 single, 14 double
+Striped Col Spawn:	One per 5 moves, 1 on board
+Wrapped Spawn   :	One per 5 moves, 1 on board
+Dispensers:     :
+	(1,6): 	Sh (1)
+	(3,6): 	Wr (1)
+	(5,6): 	Wr (1)
+	(7,6): 	Sh (1)
+Elements:       :
+	Chocolate ×9
+	Licorice Swirl ×3
+	Dispenser ×16
+	Striped V ×5
+	Wrapped Cannon ×2
+	Waffle II ×11
+	Cane (U) ×5
+	Chocolate I ×5
+	Chocolate II ×5
+	Striped Row Cannon ×2
+
+
+***Config Information for Level 332-4 (4959) @ t329b***
+Level Type      :	Order
+Moves           :	26
+Target Scores   :	80000
+                 	150000
+                 	300000
+Colors          :	4
+Orders          :	MultiChoco: 34, Bomb: 44
+Bomb Timer      :	10
+Bomb Spawn      :	15 on board
+Wrapped Spawn   :	One per 2 moves
+Dispensers:     :
+	(8,2): 	BWrX (2)
+Elements:       :
+	Dispenser ×7
+	Bomb Cannon ×1
+	Chest I ×3
+	Chest II ×3
+	Chest III ×16
+	Sugar Key ×3
+	Wrapped Cannon ×1
+	Cane (L) ×8
+	Chocolate I ×3
+	Chocolate II ×5
+	Chocolate III ×7
+
+
+***Config Information for Level 332-5 (4960) @ t329b***
+Level Type      :	Ingredient
+Moves           :	28
+Target Scores   :	80000
+                 	100000
+                 	120000
+Colors          :	4
+Ingredients     :	6
+Ingredient Spawn:	8 on board
+Swirl Spawn     :	One per 2 moves
+Dispensers:     :
+	(4,0): 	L (1)
+Elements:       :
+	Licorice Swirl ×19
+	Marmalade ×16
+	Dispenser ×9
+	Swirl Cannon ×1
+	Cane (U) ×4
+	Cane (D) ×4
+	Cane (L) ×12
+	Cane (R) ×12
+
+
+***Config Information for Level 332-7 (4962) @ t329b***
+Level Type      :	Jelly
+Moves           :	19
+Target Scores   :	100000
+                 	310000
+                 	370000
+Colors          :	4
+Jellies         :	0 single, 65 double
+Fixed Colors:   :	8B 
+Dispensers:     :
+	(1,6): 	 (1)
+	(7,6): 	 (1)
+Elements:       :
+	Licorice Lock ×12
+	Licorice Swirl ×8
+	Dispenser ×25
+	Frog ×1
+	Blue ×8
+	Waffle I ×4
+	Cane (L) ×6
+	Cane (R) ×6
+	Curl III (U) ×6
+	Curl III (R) ×16
+	Color Bomb Cannon ×2
+
+
+***Config Information for Level 332-8 (4963) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	30
+Target Scores   :	140000
+                 	170000
+                 	200000
+Colors          :	5
+Ingredient Spawn:	9 on board
+Dispensers:     :
+Elements:       :
+	Icing III ×9
+	Dispenser ×9
+	Cane (L) ×1
+	Cane (R) ×7
+	Curl II (U) ×10
+	Curl II (D) ×3
+	Curl III (U) ×7
+	Curl III (D) ×6
+
+
+***Config Information for Level 335-1 (5001) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	28
+Target Scores   :	10000
+                 	115000
+                 	135000
+Colors          :	3
+Striped Spawn   :	One per 3 moves
+Wrapped Spawn   :	One per 2 moves
+Dispensers:     :
+	(2,0): 	St (1)
+	(2,5): 	Wr (1)
+	(3,0): 	St (1)
+	(3,5): 	Wr (1)
+	(4,0): 	St (1)
+	(4,6): 	X (1)
+	(5,0): 	St (1)
+	(5,5): 	Wr (1)
+	(6,0): 	St (1)
+	(6,5): 	Wr (1)
+Elements:       :
+	Chocolate ×10
+	Licorice Swirl ×10
+	Icing V ×1
+	Dispenser ×13
+	Striped Cannon ×5
+	Wrapped Cannon ×4
+	Waffle III ×4
+	Waffle IV ×8
+	Crystal II ×22
+	Color Bomb Cannon ×1
+
+
+***Config Information for Level 335-4 (5004) @ t329b***
+Level Type      :	Ingredient
+Moves           :	20
+Target Scores   :	20000
+                 	40000
+                 	60000
+Colors          :	4
+Ingredients     :	10
+Dispensers:     :
+Elements:       :
+	Licorice Lock ×6
+	Licorice Swirl ×11
+	Dispenser ×6
+	Cane (L) ×7
+	Cane (R) ×25
+
+
+***Config Information for Level 335-8 (5008) @ t329b***
+Level Type      :	Jelly
+Moves           :	25
+Target Scores   :	25000
+                 	140000
+                 	155000
+Colors          :	4
+Jellies         :	49 single, 18 double
+Sugar Key Spawn :	One per 2 moves
+Striped Spawn   :	One per 4 moves
+Wrapped Spawn   :	One per 4 moves
+Dispensers:     :
+	(0,4): 	StWr (2)
+	(1,4): 	StWr (2)
+	(2,4): 	StWr (2)
+	(3,4): 	StWr (2)
+	(4,0): 	K (1)
+	(5,4): 	StWr (2)
+	(6,4): 	StWr (2)
+	(7,4): 	StWr (2)
+	(8,4): 	StWr (2)
+Elements:       :
+	Licorice Swirl ×10
+	Dispenser ×9
+	Key Cannon ×1
+	Cake Bomb ×8
+	Chest V ×10
+	Striped Cannon ×8
+	Wrapped Cannon ×8
+	Waffle V ×9
+
+
+***Config Information for Level 335-10 (5010) @ t329b***
+Level Type      :	Ingredient
+Moves           :	25
+Target Scores   :	10000
+                 	120000
+                 	135000
+Colors          :	4
+Ingredients     :	6
+Ingredient Spawn:	2 on board
+Sugar Key Spawn :	One per 4 moves
+Dispensers:     :
+	(0,0): 	IK (2)
+	(1,0): 	IK (2)
+	(2,0): 	IK (2)
+	(3,0): 	IK (2)
+	(4,0): 	IK (2)
+	(5,0): 	IK (2)
+	(6,0): 	IK (2)
+	(7,0): 	IK (2)
+	(8,0): 	IK (2)
+Elements:       :
+	Licorice Lock ×4
+	Chocolate ×18
+	Licorice Swirl ×9
+	Dispenser ×9
+	Ingredient Cannon ×9
+	Key Cannon ×9
+	Chest III ×1
+	Chest V ×1
+	Waffle II ×9
+	Crystal II ×18
+
+
+***Config Information for Level 335-14 (5014) @ t329b***
+Level Type      :	Jelly
+Moves           :	17
+Target Scores   :	156000
+                 	500000
+                 	1000000
+Colors          :	4
+Jellies         :	0 single, 78 double
+Bomb Timer      :	6
+Bomb Spawn      :	6 on board
+Striped Row Spawn:	1 on board
+Fixed Colors:   :	1Y+ 
+Dispensers:     :
+	(0,0): 	B (1)
+	(4,0): 	Sh (1)
+	(8,0): 	B (1)
+Elements:       :
+	Licorice Lock ×2
+	Licorice Swirl ×19
+	Marmalade ×1
+	Dispenser ×9
+	Bomb Cannon ×2
+	Cake Bomb ×8
+	Chest I ×39
+	Sugar Key ×1
+	Yellow ×1
+	Striped Row Cannon ×1
+
+
+***Config Information for Level 342-1 (5106) @ t329b***
+Level Type      :	Jelly
+Moves           :	25
+Target Scores   :	15000
+                 	220000
+                 	290000
+Colors          :	5
+Jellies         :	42 single, 27 double
+Fixed Colors:   :	9B 8G 5O 8P 3R 
+Dispensers:     :
+Elements:       :
+	Licorice Lock ×18
+	Marmalade ×18
+	Dispenser ×3
+	Color Bomb ×1
+	Red ×3
+	Blue ×9
+	Green ×8
+	Orange ×5
+	Purple ×8
+
+
+***Config Information for Level 342-2 (5107) @ t329b***
+Level Type      :	Order
+Moves           :	20
+Target Scores   :	15000
+                 	350000
+                 	400000
+Colors          :	4
+Orders          :	Icing: 54, Popcorn: 4
+Fixed Colors:   :	10B 11G 8O 8P 
+Dispensers:     :
+Elements:       :
+	Licorice Lock ×6
+	Icing III ×6
+	Icing IV ×4
+	Icing V ×4
+	Dispenser ×9
+	Popcorn ×4
+	Blue ×10
+	Green ×11
+	Orange ×8
+	Purple ×8
+
+
+***Config Information for Level 342-3 (5108) @ t329b***
+Level Type      :	Ingredient
+Moves           :	20
+Target Scores   :	10000
+                 	90000
+                 	110000
+Colors          :	4
+Ingredients     :	1
+Bomb Timer      :	5
+Fixed Colors:   :	1B 1G 1O 2P 
+Dispensers:     :
+Elements:       :
+	Licorice Lock ×4
+	Icing I ×9
+	Icing II ×6
+	Icing III ×10
+	Icing IV ×2
+	Icing V ×3
+	Marmalade ×1
+	Dispenser ×7
+	Chest I ×2
+	Chest II ×5
+	Chest III ×8
+	Chest IV ×2
+	Chest V ×9
+	Sugar Key ×5
+	Blue ×1
+	Green ×1
+	Orange ×1
+	Purple ×2
+	Cane (U) ×5
+	Cane (D) ×3
+	Cane (L) ×1
+	Cane (R) ×1
+	Crystal III ×3
+
+
+***Config Information for Level 342-4 (5109) @ t329b***
+Level Type      :	Order
+Moves           :	20
+Target Scores   :	36000
+                 	56000
+                 	66000
+Colors          :	3
+Orders          :	Waffle: 36
+Swirl Spawn     :	One per 1 moves, 5 on board
+Waffle Spawn    :	One per 2 moves, 1 on board
+Sugar Key Spawn :	1 on board
+Striped Row Spawn:	One per 1 moves
+Dispensers:     :
+	(0,0): 	KX (1)
+	(2,3): 	L (1)
+	(3,3): 	L (1)
+	(4,3): 	L (1)
+	(8,0): 	WX (1)
+Elements:       :
+	Licorice Swirl ×6
+	Icing V ×7
+	Dispenser ×3
+	Swirl Cannon ×3
+	Key Cannon ×1
+	Chest I ×6
+	Chest III ×6
+	Chest V ×6
+	Waffle III ×3
+	Cane (L) ×26
+	Cane (R) ×9
+	Waffle III Cannon ×1
+	Curl III (U) ×2
+	Curl III (D) ×1
+	Curl III (L) ×8
+	Curl III (R) ×2
+
+
+***Config Information for Level 342-5 (5110) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	30
+Target Scores   :	150000
+                 	275000
+                 	300000
+Colors          :	4
+Ingredient Spawn:	One per 1 moves
+Swirl Spawn     :	19 on board
+Waffle Spawn    :	3 on board
+Striped Row Spawn:	1 on board
+Dispensers:     :
+	(0,2): 	W (1)
+	(1,2): 	W (1)
+	(2,2): 	W (1)
+	(3,2): 	W (1)
+	(4,6): 	Sh (1)
+	(5,0): 	IL (2)
+	(6,0): 	IL (2)
+	(7,0): 	IL (2)
+Elements:       :
+	Dispenser ×8
+	Ingredient Cannon ×3
+	Swirl Cannon ×3
+	Cake Bomb ×8
+	Waffle III ×3
+	Waffle III Cannon ×4
+	Striped Row Cannon ×1
+	Curl I (D) ×12
+	Curl II (D) ×12
+	Curl III (L) ×9
+	Curl III (R) ×9
+
+
+***Config Information for Level 342-6 (5111) @ t329b***
+Level Type      :	Jelly
+Moves           :	30
+Target Scores   :	50000
+                 	250000
+                 	330000
+Colors          :	4
+Jellies         :	0 single, 68 double
+Striped Spawn   :	One per 3 moves
+Dispensers:     :
+	(0,0): 	St (1)
+	(2,0): 	St (1)
+	(4,0): 	St (1)
+	(6,0): 	St (1)
+	(8,0): 	St (1)
+Elements:       :
+	Licorice Lock ×28
+	Chocolate ×16
+	Icing I ×4
+	Icing II ×4
+	Icing III ×8
+	Icing IV ×8
+	Icing V ×2
+	Chocolate Spawner ×2
+	Dispenser ×9
+	Striped Cannon ×5
+	Waffle IV ×3
+
+
+***Config Information for Level 342-7 (5112) @ t329b***
+Level Type      :	Ingredient
+Moves           :	22
+Target Scores   :	50000
+                 	75000
+                 	90000
+Colors          :	4
+Ingredients     :	5
+Ingredient Spawn:	One per 1 moves
+Waffle Spawn    :	4 on board
+Dispensers:     :
+	(4,0): 	W (1)
+	(4,5): 	I (1)
+Elements:       :
+	Chocolate Spawner ×2
+	Dispenser ×2
+	Ingredient Cannon ×1
+	Bobber ×4
+	Waffle IV ×4
+	Cane (U) ×4
+	Cane (D) ×4
+	Cane (L) ×14
+	Cane (R) ×14
+	Waffle III Cannon ×1
+	Chocolate III ×6
+	Crystal III ×10
+
+
+***Config Information for Level 342-8 (5113) @ t329b***
+Level Type      :	Mixed!(J.O.)
+Moves           :	25
+Target Scores   :	140000
+                 	260000
+                 	380000
+Colors          :	4
+Swirl Spawn     :	12 on board
+Sugar Key Spawn :	1 on board
+Striped Spawn   :	1 on board
+Dispensers:     :
+	(0,0): 	L (1)
+	(1,0): 	L (1)
+	(2,0): 	L (1)
+	(3,0): 	K (1)
+	(6,0): 	St (1)
+	(7,0): 	St (1)
+	(8,0): 	St (1)
+Elements:       :
+	Licorice Swirl ×12
+	Icing III ×14
+	Dispenser ×7
+	Swirl Cannon ×3
+	Key Cannon ×1
+	Frog ×1
+	Chest I ×8
+	Chest II ×4
+	Chest III ×1
+	Chest IV ×4
+	Sugar Key ×4
+	Striped Cannon ×3
+	Cane (U) ×6
+	Cane (D) ×3
+	Crystal III ×8
+
+
+***Config Information for Level 342-9 (5114) @ t329b***
+Level Type      :	Moves
+Moves           :	20
+Target Scores   :	550000
+                 	590000
+                 	600000
+Colors          :	3
+Bomb Timer      :	7
+Bomb Spawn      :	One per 2 moves, 2 on board
+Mystery Candy Spawn:	One per 1 moves, 2 on board
+Striped Spawn   :	9 on board
+Fixed Colors:   :	4R+ 5Y+ 
+Dispensers:     :
+	(4,0): 	BMy (2)
+Elements:       :
+	Icing I ×8
+	Icing II ×6
+	Icing III ×4
+	Icing IV ×2
+	Dispenser ×9
+	Bomb Cannon ×1
+	Mystery Cannon ×1
+	Mystery Candy ×9
+	Red ×4
+	Yellow ×5
+	Cane (D) ×1
+	Cane (L) ×9
+	Cane (R) ×9
+
+
+***Config Information for Level 342-10 (5115) @ t329b***
+Level Type      :	Order
+Moves           :	30
+Target Scores   :	70000
+                 	130000
+                 	190000
+Colors          :	4
+Orders          :	Y+: 50
+Lucky Candy Spawn:	30 on board
+Striped Row Spawn:	One per 3 moves
+Dispensers:     :
+	(0,0): 	LcX (1)
+	(0,6): 	ShX (1)
+	(8,0): 	Sh (1)
+Elements:       :
+	Dispenser ×6
+	Popcorn ×10
+	Lucky Cannon ×1
+	Cane (U) ×1
+	Cane (D) ×4
+	Cane (L) ×10
+	Cane (R) ×20
+	Striped Row Cannon ×2
+
+
+***Config Information for Level 342-11 (5116) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	24
+Target Scores   :	34000
+                 	170000
+                 	230000
+Colors          :	4
+Ingredient Spawn:	1 on board
+Sugar Key Spawn :	One per 2 moves
+Dispensers:     :
+	(0,1): 	K (1)
+	(1,0): 	K (1)
+	(2,0): 	K (1)
+	(3,1): 	K (1)
+	(4,1): 	I (1)
+	(5,1): 	K (1)
+	(6,0): 	K (1)
+	(7,0): 	K (1)
+	(8,1): 	K (1)
+Magic Mixer     :	1 per 3 turns: Choco1-> : 1 per 3 moves
+Elements:       :
+	Dispenser ×9
+	Ingredient Cannon ×1
+	Key Cannon ×8
+	Chest II ×2
+	Chest III ×2
+	Chest IV ×2
+	Chest V ×2
+	Magic Mixer ×4
+	Cane (D) ×4
+	Cane (L) ×2
+	Cane (R) ×6
+	Chocolate I ×16
+	Chocolate III ×4
+
+
+***Config Information for Level 342-12 (5117) @ t329b***
+Level Type      :	Mixed!(J.O.)
+Moves           :	27
+Target Scores   :	20000
+                 	310000
+                 	380000
+Colors          :	4
+Bomb Timer      :	10
+Mystery Candy Spawn:	One per 1 moves, 3 on board
+Lucky Candy Spawn:	One per 1 moves, 3 on board
+Fixed Colors:   :	1B 1G 1O 
+Dispensers:     :
+	(0,3): 	MyLcX (2)
+	(0,7): 	MyX (1)
+	(1,3): 	MyLcX (2)
+	(1,7): 	MyX (1)
+	(2,4): 	MyLcX (2)
+	(2,7): 	MyX (1)
+	(3,4): 	MyLcX (2)
+	(4,4): 	MyLcX (2)
+Elements:       :
+	Licorice Lock ×7
+	Icing II ×11
+	Icing III ×4
+	Icing IV ×1
+	Dispenser ×15
+	Mystery Cannon ×8
+	Chest I ×2
+	Chest II ×2
+	Chest III ×2
+	Sugar Key ×3
+	Lucky ×4
+	Popcorn ×5
+	Blue ×1
+	Green ×1
+	Orange ×1
+	Lucky Cannon ×5
+
+
+***Config Information for Level 342-13 (5118) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	30
+Target Scores   :	224000
+                 	274000
+                 	324000
+Colors          :	4
+Striped Spawn   :	One per 3 moves
+Fixed Colors:   :	1B 1G 1O 1P 
+Dispensers:     :
+	(2,3): 	St (1)
+	(4,5): 	St (1)
+	(6,7): 	St (1)
+Elements:       :
+	Licorice Lock ×7
+	Dispenser ×8
+	Wrapped ×4
+	Blue ×1
+	Green ×1
+	Orange ×1
+	Purple ×1
+	Striped Cannon ×3
+	Waffle I ×15
+	Waffle II ×6
+	Waffle III ×7
+	Waffle IV ×4
+	Cane (D) ×8
+	Cane (L) ×8
+
+
+***Config Information for Level 342-14 (5119) @ t329b***
+Level Type      :	Jelly
+Moves           :	27
+Target Scores   :	34000
+                 	130000
+                 	160000
+Colors          :	4
+Jellies         :	0 single, 34 double
+Striped Row Spawn:	One per 1 moves, 1 on board
+Striped Col Spawn:	One per 1 moves, 1 on board
+Dispensers:     :
+	(0,0): 	SvX (1)
+	(0,3): 	SvX (1)
+	(0,7): 	SvX (1)
+	(8,0): 	ShX (1)
+	(8,3): 	ShX (1)
+	(8,7): 	ShX (1)
+Elements:       :
+	Icing I ×2
+	Icing V ×26
+	Dispenser ×3
+	Cane (U) ×2
+	Cane (D) ×2
+	Cane (L) ×5
+	Cane (R) ×5
+	Striped Row Cannon ×3
+	Striped Col Cannon ×3
+
+
+***Config Information for Level 342-15 (5120) @ t329b***
+Level Type      :	Order
+Moves           :	23
+Target Scores   :	20000
+                 	85000
+                 	110000
+Colors          :	3
+Orders          :	G: 199, MagicMixer: 4
+Striped Row Spawn:	One per 1 moves, 1 on board
+Striped Col Spawn:	One per 1 moves, 1 on board
+Dispensers:     :
+	(1,2): 	SvX (1)
+	(2,7): 	ShX (1)
+	(6,7): 	SvX (1)
+	(7,2): 	ShX (1)
+Magic Mixer     :	3 per 3 turns: Swirl -> : 3 per 3 moves
+Elements:       :
+	Licorice Swirl ×32
+	Marmalade ×2
+	Dispenser ×16
+	Chest I ×15
+	Chest II ×15
+	Chest III ×15
+	Chest IV ×1
+	Sugar Key ×4
+	Magic Mixer ×4
+	Striped Row Cannon ×2
+	Striped Col Cannon ×2
+	Crystal I ×15
+
+
+***Config Information for Level 343-1 (5121) @ t329b***
+Level Type      :	Jelly
+Moves           :	25
+Target Scores   :	150000
+                 	350000
+                 	500000
+Colors          :	4
+Jellies         :	0 single, 72 double
+Swirl Spawn     :	4 on board
+Waffle Spawn    :	4 on board
+Wrapped Spawn   :	1 on board
+Dispensers:     :
+	(0,0): 	L (1)
+	(0,5): 	W (1)
+	(1,0): 	L (1)
+	(1,5): 	W (1)
+	(2,0): 	L (1)
+	(2,5): 	W (1)
+	(3,0): 	Wr (1)
+Magic Mixer     :	1 per 3 turns: Choco3-> : 1 per 3 moves
+Elements:       :
+	Icing I ×8
+	Icing II ×6
+	Icing III ×6
+	Dispenser ×11
+	Swirl Cannon ×3
+	Cake Bomb ×8
+	Magic Mixer ×1
+	Wrapped Cannon ×1
+	Waffle III Cannon ×3
+	Chocolate III ×4
+
+
+***Config Information for Level 343-2 (5122) @ t329b***
+Level Type      :	Mixed!(J.O.)
+Moves           :	23
+Target Scores   :	36000
+                 	300000
+                 	360000
+Colors          :	4
+Bomb Timer      :	10
+Striped Spawn   :	One per 1 moves
+Wrapped Spawn   :	One per 1 moves
+Fixed Colors:   :	12Y+ 
+Dispensers:     :
+	(1,0): 	Wr (1)
+Elements:       :
+	Candy Bomb ×6
+	Icing V ×18
+	Dispenser ×8
+	Yellow ×12
+	Wrapped Cannon ×1
+	Cane (D) ×15
+	Curl III (D) ×8
+	Crystal III ×18
+
+
+***Config Information for Level 343-3 (5123) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	24
+Target Scores   :	170000
+                 	280000
+                 	390000
+Colors          :	4
+Ingredient Spawn:	One per 1 moves
+Waffle Spawn    :	16 on board
+Dispensers:     :
+	(0,0): 	W (1)
+	(1,0): 	I (1)
+	(2,0): 	I (1)
+	(3,0): 	W (1)
+	(4,0): 	I (1)
+	(5,0): 	W (1)
+	(6,0): 	I (1)
+	(7,0): 	I (1)
+	(8,0): 	W (1)
+Elements:       :
+	Licorice Lock ×16
+	Icing V ×12
+	Dispenser ×9
+	Ingredient Cannon ×5
+	Waffle III ×16
+	Waffle III Cannon ×4
+
+
+***Config Information for Level 343-4 (5124) @ t329b***
+Level Type      :	Moves
+Moves           :	25
+Target Scores   :	67000
+                 	92000
+                 	120000
+Colors          :	5
+Chameleon Spawn :	5 on board
+Striped Spawn   :	One per 1 moves
+Wrapped Spawn   :	One per 3 moves
+Dispensers:     :
+	(1,0): 	Ch (1)
+	(2,0): 	St (1)
+	(2,4): 	Wr (1)
+	(3,0): 	Ch (1)
+	(4,0): 	St (1)
+	(4,4): 	Wr (1)
+	(5,0): 	Ch (1)
+	(6,0): 	St (1)
+	(7,0): 	Ch (1)
+	(8,1): 	St (1)
+Elements:       :
+	Licorice Lock ×10
+	Licorice Swirl ×4
+	Dispenser ×10
+	Chameleon Candy ×6
+	Coconut Wheel ×1
+	Wrapped ×1
+	Popcorn ×8
+	Chameleon Cannon ×4
+	Striped Cannon ×4
+	Wrapped Cannon ×2
+	Chocolate II ×4
+	Chocolate III ×3
+	Curl III (U) ×11
+	Curl III (D) ×1
+	Curl III (L) ×1
+	Curl III (R) ×11
+
+
+***Config Information for Level 343-5 (5125) @ t329b***
+Level Type      :	Jelly
+Moves           :	25
+Target Scores   :	118000
+                 	200000
+                 	250000
+Colors          :	4
+Jellies         :	0 single, 59 double
+Striped Col Spawn:	One per 3 moves
+Dispensers:     :
+	(0,4): 	Sv (1)
+	(4,0): 	Sv (1)
+	(8,4): 	Sv (1)
+Elements:       :
+	Licorice Swirl ×3
+	Icing II ×24
+	Dispenser ×3
+	Chest II ×8
+	Chest III ×12
+	Chest IV ×5
+	Chest V ×3
+	Sugar Key ×5
+	Striped Col Cannon ×3
+
+
+***Config Information for Level 343-6 (5126) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	30
+Target Scores   :	100000
+                 	250000
+                 	400000
+Colors          :	4
+Ingredient Spawn:	One per 1 moves
+Swirl Spawn     :	14 on board
+Waffle Spawn    :	4 on board
+Striped Col Spawn:	1 on board
+Wrapped Spawn   :	1 on board
+Dispensers:     :
+	(0,0): 	Sv (1)
+	(1,0): 	Sv (1)
+	(1,2): 	LWr (2)
+	(2,0): 	Sv (1)
+	(3,0): 	W (1)
+	(4,0): 	W (1)
+	(5,0): 	W (1)
+	(6,0): 	IL (2)
+	(7,0): 	IL (2)
+	(8,0): 	IL (2)
+Elements:       :
+	Licorice Swirl ×21
+	Dispenser ×10
+	Ingredient Cannon ×3
+	Swirl Cannon ×4
+	Bobber ×8
+	Wrapped Cannon ×1
+	Waffle III ×4
+	Cane (U) ×3
+	Cane (D) ×3
+	Cane (L) ×16
+	Waffle III Cannon ×3
+	Chocolate III ×2
+	Striped Col Cannon ×3
+
+
+***Config Information for Level 343-7 (5127) @ t329b***
+Level Type      :	Mixed!(J.O.)
+Moves           :	26
+Target Scores   :	68000
+                 	265000
+                 	289000
+Colors          :	4
+Lucky Candy Spawn:	One per 1 moves, 2 on board
+Dispensers:     :
+	(2,5): 	Lc (1)
+	(6,5): 	Lc (1)
+Elements:       :
+	Licorice Lock ×11
+	Marmalade ×23
+	Dispenser ×12
+	Striped H ×2
+	Wrapped ×4
+	Lucky ×9
+	Lucky Cannon ×2
+	Waffle I ×14
+	Waffle V ×8
+
+
+***Config Information for Level 343-8 (5128) @ t329b***
+Level Type      :	Ingredient
+Moves           :	18
+Target Scores   :	80000
+                 	120000
+                 	140000
+Colors          :	4
+Ingredients     :	8
+Ingredient Spawn:	8 on board
+Swirl Spawn     :	4 on board
+Chameleon Spawn :	8 on board
+Sugar Key Spawn :	1 on board
+Fixed Colors:   :	8B 8G 8P 
+Dispensers:     :
+	(0,0): 	LCh (2)
+	(0,3): 	I (1)
+	(1,0): 	 (1)
+	(1,3): 	I (1)
+	(2,0): 	LChX (2)
+	(2,3): 	I (1)
+	(3,0): 	LCh (2)
+	(4,0): 	 (1)
+	(4,2): 	K (1)
+	(5,0): 	LCh (2)
+	(6,0): 	LCh (2)
+	(6,3): 	I (1)
+	(7,0): 	 (1)
+	(7,3): 	I (1)
+	(8,0): 	LCh (2)
+	(8,3): 	I (1)
+Elements:       :
+	Licorice Swirl ×4
+	Icing I ×6
+	Icing II ×6
+	Icing III ×6
+	Dispenser ×15
+	Ingredient Cannon ×6
+	Swirl Cannon ×6
+	Key Cannon ×1
+	Chameleon Candy ×2
+	Chest I ×2
+	Chest II ×2
+	Chest III ×2
+	Chest IV ×2
+	Chest V ×5
+	Color Bomb ×3
+	Blue ×8
+	Green ×8
+	Purple ×8
+	Chameleon Cannon ×6
+	Cane (D) ×11
+	Cane (L) ×28
+	Cane (R) ×28
+	Color Bomb Cannon ×3
+
+
+***Config Information for Level 343-9 (5129) @ t329b***
+Level Type      :	Order
+Moves           :	25
+Target Scores   :	20000
+                 	210000
+                 	275000
+Colors          :	4
+Orders          :	MultiChoco: 25, Mystery: 6, B: 220
+Bomb Timer      :	20
+Lucky Candy Spawn:	10 on board
+Dispensers:     :
+	(3,8): 	LcX (1)
+	(4,8): 	LcX (1)
+	(5,8): 	LcX (1)
+Elements:       :
+	Licorice Lock ×3
+	Licorice Swirl ×6
+	Icing II ×7
+	Icing III ×6
+	Icing IV ×1
+	Dispenser ×8
+	Mystery Candy ×6
+	Chest I ×7
+	Chest II ×7
+	Chest III ×3
+	Coconut Wheel ×3
+	Sugar Key ×3
+	Lucky ×3
+	Lucky Cannon ×3
+	Cane (U) ×3
+	Cane (D) ×6
+	Cane (L) ×4
+	Cane (R) ×3
+	Curl I (U) ×1
+	Curl I (D) ×9
+	Curl I (L) ×1
+	Curl I (R) ×1
+	Curl II (U) ×1
+	Curl II (D) ×7
+	Curl II (R) ×1
+	Curl III (U) ×1
+	Curl III (D) ×13
+	Curl III (L) ×6
+	Curl III (R) ×3
+
+
+***Config Information for Level 343-10 (5130) @ t329b***
+Level Type      :	Mixed!(J.O.)
+Moves           :	30
+Target Scores   :	140000
+                 	360000
+                 	420000
+Colors          :	4
+Swirl Spawn     :	10 on board
+Waffle Spawn    :	15 on board
+Sugar Key Spawn :	4 on board
+Striped Row Spawn:	1 on board
+Dispensers:     :
+	(0,0): 	K (1)
+	(1,1): 	L (1)
+	(1,3): 	W (1)
+	(2,0): 	K (1)
+	(4,8): 	Sh (1)
+	(6,0): 	K (1)
+	(7,1): 	L (1)
+	(7,3): 	W (1)
+	(8,0): 	K (1)
+Elements:       :
+	Licorice Swirl ×10
+	Dispenser ×11
+	Swirl Cannon ×2
+	Key Cannon ×4
+	Frog ×1
+	Chest II ×2
+	Chest III ×2
+	Chest IV ×2
+	Chest V ×12
+	Sugar Key ×4
+	Waffle III ×18
+	Cane (D) ×6
+	Cane (L) ×8
+	Cane (R) ×8
+	Waffle III Cannon ×2
+	Striped Row Cannon ×1
+
+
+***Config Information for Level 343-11 (5131) @ t329b***
+Level Type      :	Ingredient
+Moves           :	30
+Target Scores   :	15000
+                 	30000
+                 	60000
+Colors          :	4
+Ingredients     :	15
+Swirl Spawn     :	10 on board
+Waffle Spawn    :	10 on board
+Dispensers:     :
+	(0,0): 	I (1)
+	(0,2): 	L (1)
+	(1,0): 	W (1)
+	(2,0): 	I (1)
+	(3,0): 	W (1)
+	(4,0): 	I (1)
+	(5,0): 	W (1)
+	(6,0): 	I (1)
+	(7,0): 	W (1)
+	(8,0): 	I (1)
+	(8,2): 	L (1)
+Magic Mixer     :	1 per 3 turns: Lock  -> : 1 per 3 moves
+Elements:       :
+	Licorice Lock ×14
+	Licorice Swirl ×10
+	Dispenser ×11
+	Ingredient Cannon ×5
+	Swirl Cannon ×2
+	Wrapper UFO ×4
+	Magic Mixer ×1
+	Waffle III ×14
+	Cane (D) ×8
+	Cane (L) ×5
+	Cane (R) ×5
+	Waffle III Cannon ×4
+	Chocolate III ×6
+
+
+***Config Information for Level 343-12 (5132) @ t329b***
+Level Type      :	Order
+Moves           :	30
+Target Scores   :	100000
+                 	225000
+                 	300000
+Colors          :	4
+Orders          :	Icing: 50, Waffle: 25, MultiChoco: 15
+Waffle Spawn    :	5 on board
+Sugar Key Spawn :	1 on board
+Dispensers:     :
+	(0,0): 	W (1)
+	(1,0): 	W (1)
+	(2,1): 	K (1)
+	(3,0): 	W (1)
+	(4,0): 	W (1)
+	(5,0): 	W (1)
+	(6,1): 	K (1)
+	(7,0): 	W (1)
+	(8,0): 	W (1)
+Elements:       :
+	Icing II ×4
+	Icing III ×4
+	Icing V ×6
+	Dispenser ×9
+	Key Cannon ×2
+	Chest II ×3
+	Chest III ×4
+	Chest IV ×3
+	Chest V ×4
+	Waffle III Cannon ×7
+	Chocolate I ×4
+	Chocolate III ×3
+	Curl III (U) ×7
+	Curl III (D) ×7
+	Curl III (L) ×1
+	Curl III (R) ×1
+
+
+***Config Information for Level 343-13 (5133) @ t329b***
+Level Type      :	Mixed!(J.I.)
+Moves           :	26
+Target Scores   :	66000
+                 	620000
+                 	653000
+Colors          :	4
+Bomb Timer      :	10
+Ingredient Spawn:	One per 4 moves
+Wrapped Spawn   :	One per 4 moves
+Dispensers:     :
+	(4,0): 	I (1)
+	(5,0): 	I (1)
+	(6,0): 	IWr (2)
+	(7,0): 	IWr (2)
+	(8,0): 	IWr (2)
+Magic Mixer     :	1 per 3 turns: Special-> : 1 per 3 moves
+Elements:       :
+	Licorice Lock ×9
+	Chocolate ×5
+	Licorice Swirl ×20
+	Icing III ×5
+	Dispenser ×9
+	Ingredient Cannon ×5
+	Magic Mixer ×3
+	Wrapped Cannon ×3
+	Crystal I ×25
+	Crystal II ×10
+
+
+***Config Information for Level 343-14 (5134) @ t329b***
+Level Type      :	Jelly
+Moves           :	26
+Target Scores   :	54000
+                 	200000
+                 	230000
+Colors          :	4
+Jellies         :	18 single, 36 double
+Swirl Spawn     :	One per 1 moves
+Sugar Key Spawn :	One per 2 moves
+Striped Row Spawn:	One per 1 moves
+Striped Col Spawn:	One per 1 moves
+Wrapped Spawn   :	One per 1 moves
+Dispensers:     :
+	(1,0): 	LWr (2)
+	(2,0): 	L (1)
+	(3,1): 	Sh (1)
+	(4,1): 	Sh (1)
+	(5,1): 	Sh (1)
+	(6,0): 	L (1)
+	(7,0): 	LWr (2)
+Magic Mixer     :	1 per 3 turns: Choco -> : 1 per 3 moves
+Elements:       :
+	Licorice Swirl ×20
+	Dispenser ×9
+	Swirl Cannon ×4
+	Wrapped Cannon ×2
+	Waffle III ×34
+	Cane (U) ×16
+	Cane (D) ×23
+	Cane (L) ×8
+	Cane (R) ×8
+	Striped Row Cannon ×3
+
+
+***Config Information for Level 343-15 (5135) @ t329b***
+Level Type      :	Mixed!(J.O.)
+Moves           :	30
+Target Scores   :	160000
+                 	290000
+                 	360000
+Colors          :	4
+Swirl Spawn     :	5 on board
+Mystery Candy Spawn:	1 on board
+Chameleon Spawn :	4 on board
+Lucky Candy Spawn:	18 on board
+Dispensers:     :
+	(0,0): 	Lc (1)
+	(1,0): 	Lc (1)
+	(2,0): 	Lc (1)
+	(3,0): 	LCh (2)
+	(4,0): 	 (1)
+	(4,5): 	My (1)
+	(5,0): 	LCh (2)
+	(6,0): 	Lc (1)
+	(7,0): 	Lc (1)
+	(8,0): 	Lc (1)
+Elements:       :
+	Licorice Swirl ×5
+	Dispenser ×10
+	Swirl Cannon ×2
+	Mystery Cannon ×1
+	Chameleon Candy ×4
+	Color Bomb ×2
+	Chameleon Cannon ×2
+	Lucky Cannon ×6
+	Cane (U) ×1
+	Cane (D) ×5
+	Cane (L) ×5
+	Cane (R) ×5
+	Chocolate I ×4
+	Chocolate III ×12
+	Color Bomb Cannon ×1
+
+

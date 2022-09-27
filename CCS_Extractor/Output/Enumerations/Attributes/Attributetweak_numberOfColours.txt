@@ -1,0 +1,12770 @@
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L  18	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L  28	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L  58	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L 591	5
+L 592	5
+L 593	5
+L 594	5
+L 595	5
+L 596	5
+L 597	4
+L 598	4
+L 599	5
+L 600	5
+L 601	4
+L 602	5
+L 603	4
+L 604	5
+L 605	5
+U	
+L 607	5
+L 608	4
+L 609	5
+L 610	5
+L 611	4
+L 612	4
+L 613	5
+L 614	5
+L 615	5
+L 616	4
+L 617	5
+L 618	4
+L 619	5
+L 620	5
+L 621	4
+L 622	4
+L 623	4
+L 624	4
+L 625	5
+L 626	4
+L 627	5
+L 628	4
+L 629	5
+L 630	5
+L 631	5
+L 632	5
+L 633	5
+L 634	5
+L 635	5
+L 636	4
+L 637	4
+L 638	5
+L 639	5
+L 640	5
+L 641	4
+L 642	5
+L 643	5
+L 644	4
+L 645	5
+L 646	3
+L 647	5
+L 648	4
+L 649	5
+L 650	5
+L 651	4
+L 652	5
+L 653	5
+L 654	4
+L 655	5
+L 656	4
+L 657	5
+L 658	4
+L 659	5
+L 660	5
+L 661	4
+L 662	5
+L 663	3
+L 664	5
+L 665	5
+L 666	4
+L 667	4
+L 668	6
+L 669	5
+L 670	5
+L 671	5
+L 672	4
+L 673	4
+L 674	5
+L 675	4
+L 676	4
+L 677	5
+L 678	4
+L 679	4
+L 680	5
+L 681	5
+L 682	4
+L 683	5
+L 684	5
+L 685	5
+L 686	4
+L 687	5
+L 688	4
+L 689	4
+L 690	5
+L 691	4
+L 692	5
+L 693	4
+L 694	5
+L 695	5
+L 696	5
+L 697	5
+L 698	4
+L 699	4
+L 700	5
+L 701	4
+L 702	4
+L 703	3
+L 704	5
+L 705	5
+L 706	4
+L 707	5
+L 708	4
+L 709	4
+L 710	5
+L 711	4
+L 712	5
+L 713	4
+L 714	5
+L 715	5
+L 716	4
+L 717	4
+L 718	5
+L 719	4
+L 720	5
+L 721	5
+L 722	5
+L 723	4
+L 724	4
+L 725	5
+L 726	4
+L 727	5
+L 728	3
+L 729	5
+L 730	5
+L 731	4
+L 732	5
+L 733	4
+L 734	5
+L 735	4
+L 736	4
+L 737	5
+L 738	4
+L 739	4
+L 740	5
+L 741	4
+L 742	5
+L 743	4
+L 744	4
+L 745	5
+L 746	5
+L 747	4
+L 748	5
+L 749	5
+L 750	5
+L 751	4
+L 752	4
+L 753	4
+L 754	5
+L 755	5
+L 756	4
+L 757	5
+L 758	4
+L 759	5
+L 760	5
+L 761	5
+L 762	4
+L 763	5
+L 764	5
+L 765	5
+L 766	5
+L 767	5
+L 768	4
+L 769	5
+L 770	5
+L 771	5
+L 772	5
+L 773	5
+L 774	4
+L 775	5
+L 776	5
+L 777	4
+L 778	5
+L 779	5
+L 780	5
+L 781	5
+L 782	4
+L 783	5
+L 784	5
+L 785	5
+L 786	5
+L 787	5
+L 788	4
+L 789	6
+L 790	5
+L 791	4
+L 792	4
+L 793	4
+L 794	4
+L 795	5
+L 796	5
+L 797	4
+L 798	4
+L 799	5
+L 800	5
+U	
+L 802	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L 817	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L 825	5
+U	
+U	
+L 828	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L 851	5
+U	
+L 853	3
+U	
+U	
+U	
+L 857	5
+L 858	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L 871	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L 884	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L 893	5
+U	
+L 895	5
+U	
+L 897	5
+U	
+U	
+U	
+U	
+U	
+L 903	5
+U	
+U	
+U	
+U	
+U	
+L 909	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L 919	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L 928	5
+U	
+L 930	4
+U	
+L 932	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L 942	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L 962	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L 980	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1010	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1027	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1041	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1049	4
+U	
+U	
+U	
+U	
+L1054	5
+U	
+U	
+U	
+U	
+L1059	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1067	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1085	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1120	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1130	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1144	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1153	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1161	5
+L1162	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1173	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1184	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1206	5
+U	
+U	
+U	
+L1210	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1233	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1244	4
+U	
+U	
+U	
+U	
+U	
+L1250	5
+U	
+U	
+U	
+L1254	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1262	4
+U	
+U	
+U	
+U	
+U	
+L1268	5
+U	
+U	
+L1271	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1285	4
+U	
+L1287	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1301	5
+U	
+L1303	5
+U	
+U	
+L1306	4
+U	
+L1308	5
+L1309	4
+U	
+U	
+L1312	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1327	4
+U	
+U	
+L1330	4
+U	
+U	
+L1333	4
+U	
+U	
+U	
+U	
+L1338	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1351	5
+U	
+U	
+L1354	5
+L1355	5
+U	
+U	
+U	
+U	
+U	
+U	
+L1362	5
+U	
+U	
+L1365	5
+L1366	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1374	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1387	5
+L1388	5
+L1389	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1397	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1435	4
+U	
+U	
+L1438	5
+L1439	5
+U	
+L1441	5
+L1442	5
+L1443	5
+L1444	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1476	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1484	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1492	5
+U	
+L1494	4
+U	
+L1496	5
+U	
+U	
+U	
+U	
+L1501	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1523	5
+U	
+L1525	4
+L1526	5
+U	
+L1528	5
+U	
+U	
+U	
+L1532	4
+L1533	4
+U	
+U	
+U	
+U	
+U	
+L1539	5
+U	
+L1541	5
+L1542	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1551	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1559	5
+L1560	5
+L1561	4
+U	
+U	
+U	
+U	
+U	
+L1567	4
+L1568	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1578	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1592	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1613	4
+U	
+U	
+U	
+U	
+L1618	5
+U	
+U	
+U	
+U	
+U	
+L1624	5
+U	
+U	
+U	
+L1628	4
+U	
+U	
+U	
+U	
+U	
+U	
+L1635	5
+U	
+U	
+U	
+L1639	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1657	5
+U	
+L1659	5
+U	
+L1661	5
+U	
+U	
+L1664	5
+U	
+U	
+U	
+L1668	5
+U	
+L1670	5
+U	
+U	
+U	
+U	
+L1675	5
+U	
+U	
+U	
+U	
+L1680	5
+U	
+U	
+L1683	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1704	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1715	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1731	5
+U	
+U	
+L1734	5
+U	
+L1736	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1750	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1763	5
+U	
+U	
+U	
+U	
+L1768	5
+U	
+L1770	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1779	3
+U	
+L1781	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1789	4
+U	
+U	
+L1792	4
+U	
+U	
+U	
+L1796	4
+U	
+U	
+U	
+U	
+U	
+L1802	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1824	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1839	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1848	4
+U	
+U	
+U	
+L1852	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1860	5
+U	
+L1862	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1877	5
+U	
+U	
+U	
+L1881	4
+U	
+U	
+L1884	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1901	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1912	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1926	5
+U	
+U	
+U	
+U	
+U	
+U	
+L1933	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1952	4
+U	
+U	
+U	
+L1956	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1966	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1974	4
+L1975	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L1997	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2005	4
+U	
+U	
+U	
+U	
+U	
+U	
+L2012	5
+U	
+U	
+L2015	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2035	4
+L2036	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2066	5
+L2067	4
+U	
+L2069	5
+U	
+U	
+L2072	4
+U	
+U	
+U	
+U	
+L2077	5
+U	
+U	
+U	
+L2081	5
+U	
+U	
+U	
+L2085	4
+U	
+U	
+L2088	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2109	5
+U	
+L2111	4
+U	
+U	
+U	
+U	
+U	
+L2117	3
+L2118	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2130	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2139	4
+U	
+U	
+U	
+U	
+U	
+U	
+L2146	4
+U	
+U	
+U	
+U	
+L2151	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2159	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2214	4
+U	
+U	
+L2217	4
+U	
+U	
+U	
+L2221	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2239	4
+U	
+U	
+U	
+U	
+L2244	4
+L2245	3
+L2246	4
+U	
+U	
+L2249	4
+U	
+U	
+U	
+U	
+U	
+L2255	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2297	4
+U	
+L2299	4
+U	
+U	
+U	
+U	
+U	
+L2305	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2316	4
+L2317	5
+U	
+U	
+L2320	5
+L2321	3
+L2322	5
+U	
+U	
+U	
+U	
+U	
+L2328	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2341	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2381	5
+U	
+U	
+U	
+L2385	4
+U	
+U	
+U	
+U	
+U	
+L2391	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2399	4
+U	
+U	
+U	
+U	
+L2404	4
+L2405	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2415	5
+U	
+U	
+L2418	5
+U	
+U	
+U	
+L2422	5
+U	
+U	
+U	
+L2426	4
+U	
+U	
+L2429	4
+U	
+U	
+U	
+U	
+L2434	5
+U	
+U	
+U	
+U	
+U	
+L2440	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2450	4
+U	
+U	
+U	
+L2454	5
+L2455	5
+U	
+U	
+U	
+U	
+U	
+L2461	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2472	4
+U	
+L2474	5
+U	
+U	
+L2477	4
+U	
+U	
+U	
+L2481	4
+U	
+U	
+U	
+U	
+U	
+U	
+L2488	4
+L2489	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2497	5
+U	
+U	
+U	
+U	
+L2502	5
+L2503	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2515	5
+U	
+U	
+U	
+U	
+U	
+U	
+L2522	5
+U	
+U	
+U	
+U	
+U	
+L2528	4
+U	
+U	
+L2531	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2583	4
+U	
+L2585	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2598	3
+U	
+L2600	4
+U	
+L2602	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2610	4
+U	
+U	
+U	
+U	
+U	
+U	
+L2617	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2640	4
+U	
+U	
+U	
+U	
+L2645	5
+U	
+U	
+L2648	4
+U	
+U	
+U	
+U	
+U	
+U	
+L2655	5
+U	
+U	
+U	
+U	
+L2660	3
+U	
+U	
+U	
+U	
+L2665	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2688	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2709	4
+U	
+L2711	4
+U	
+L2713	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2723	5
+U	
+U	
+U	
+L2727	5
+U	
+U	
+U	
+U	
+L2732	4
+U	
+U	
+L2735	5
+U	
+U	
+L2738	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2746	4
+U	
+L2748	3
+L2749	5
+U	
+L2751	5
+U	
+U	
+U	
+U	
+L2756	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2764	4
+U	
+L2766	5
+U	
+U	
+L2769	4
+U	
+L2771	5
+U	
+L2773	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2788	4
+U	
+L2790	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2803	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2818	4
+U	
+U	
+U	
+U	
+U	
+L2824	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2850	4
+L2851	4
+U	
+U	
+U	
+L2855	4
+U	
+U	
+U	
+L2859	4
+U	
+L2861	5
+L2862	5
+U	
+U	
+U	
+L2866	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2881	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2899	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2908	4
+L2909	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2919	4
+U	
+U	
+L2922	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2938	5
+U	
+L2940	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2952	4
+L2953	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2962	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2973	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L2981	5
+U	
+U	
+U	
+L2985	3
+U	
+U	
+U	
+L2989	4
+U	
+U	
+L2992	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3018	4
+L3019	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3029	4
+U	
+L3031	4
+U	
+U	
+U	
+L3035	4
+U	
+U	
+L3038	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3064	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3078	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3091	4
+U	
+U	
+U	
+L3095	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3112	4
+L3113	3
+U	
+L3115	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3140	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3159	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3185	5
+L3186	3
+U	
+U	
+U	
+U	
+U	
+L3192	3
+U	
+U	
+U	
+L3196	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3209	4
+L3210	4
+U	
+U	
+U	
+L3214	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3223	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3236	4
+U	
+U	
+U	
+L3240	5
+U	
+L3242	4
+U	
+L3244	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3252	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3268	4
+U	
+U	
+L3271	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3285	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3296	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3308	3
+U	
+L3310	4
+L3311	4
+L3312	4
+U	
+U	
+U	
+U	
+U	
+U	
+L3319	4
+U	
+L3321	4
+U	
+L3323	4
+L3324	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3332	3
+L3333	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3341	4
+U	
+U	
+L3344	4
+U	
+U	
+U	
+U	
+L3349	4
+U	
+L3351	5
+U	
+U	
+L3354	5
+L3355	4
+L3356	5
+L3357	4
+U	
+L3359	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3373	5
+U	
+U	
+U	
+L3377	5
+U	
+U	
+U	
+U	
+U	
+U	
+L3384	3
+L3385	4
+U	
+U	
+L3388	3
+U	
+L3390	4
+U	
+L3392	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3402	4
+U	
+U	
+U	
+L3406	5
+L3407	4
+U	
+U	
+U	
+U	
+U	
+U	
+L3414	5
+U	
+U	
+U	
+U	
+U	
+L3420	4
+U	
+L3422	4
+U	
+U	
+U	
+U	
+L3427	4
+U	
+U	
+U	
+L3431	5
+U	
+U	
+L3434	4
+U	
+L3436	4
+U	
+U	
+U	
+U	
+U	
+U	
+L3443	4
+L3444	4
+U	
+U	
+L3447	3
+U	
+L3449	5
+U	
+U	
+U	
+L3453	5
+U	
+U	
+L3456	4
+U	
+U	
+U	
+U	
+U	
+L3462	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3470	4
+U	
+U	
+L3473	4
+U	
+U	
+U	
+U	
+L3478	4
+L3479	4
+U	
+U	
+L3482	5
+L3483	4
+U	
+U	
+U	
+U	
+U	
+L3489	4
+U	
+U	
+U	
+U	
+U	
+L3495	5
+L3496	4
+U	
+U	
+L3499	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3511	4
+L3512	3
+U	
+U	
+L3515	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3527	5
+U	
+L3529	4
+L3530	4
+U	
+L3532	4
+U	
+L3534	4
+U	
+U	
+U	
+U	
+U	
+L3540	5
+U	
+U	
+U	
+U	
+L3545	4
+U	
+U	
+U	
+U	
+L3550	5
+U	
+U	
+U	
+U	
+U	
+U	
+L3557	4
+U	
+L3559	4
+U	
+U	
+U	
+U	
+U	
+U	
+L3566	4
+U	
+U	
+U	
+U	
+U	
+U	
+L3573	4
+U	
+L3575	3
+L3576	5
+U	
+U	
+U	
+L3580	5
+U	
+L3582	5
+U	
+U	
+U	
+L3586	4
+U	
+U	
+U	
+U	
+U	
+L3592	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3613	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3621	4
+U	
+U	
+U	
+U	
+L3626	3
+U	
+U	
+U	
+U	
+L3631	5
+U	
+L3633	5
+U	
+U	
+L3636	3
+L3637	5
+U	
+U	
+L3640	4
+U	
+U	
+U	
+L3644	4
+U	
+U	
+U	
+U	
+U	
+L3650	4
+U	
+U	
+L3653	4
+U	
+U	
+L3656	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3673	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3699	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3707	4
+U	
+U	
+U	
+U	
+U	
+L3713	4
+U	
+U	
+U	
+U	
+U	
+L3719	4
+U	
+U	
+U	
+U	
+U	
+U	
+L3726	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3734	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3749	3
+U	
+U	
+L3752	4
+L3753	4
+U	
+L3755	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3782	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3791	4
+U	
+U	
+L3794	4
+U	
+U	
+U	
+U	
+U	
+L3800	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3818	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3832	4
+U	
+U	
+U	
+U	
+L3837	4
+U	
+U	
+U	
+U	
+U	
+L3843	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3868	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3887	5
+L3888	4
+U	
+U	
+U	
+U	
+U	
+L3894	4
+U	
+U	
+U	
+L3898	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3908	3
+L3909	5
+U	
+L3911	5
+U	
+L3913	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3933	5
+L3934	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3945	4
+U	
+L3947	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L3966	4
+U	
+U	
+U	
+U	
+L3971	3
+L3972	5
+U	
+U	
+U	
+U	
+L3977	4
+U	
+L3979	4
+U	
+U	
+U	
+U	
+U	
+L3985	4
+U	
+L3987	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4004	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4015	5
+U	
+U	
+U	
+L4019	4
+U	
+U	
+U	
+U	
+U	
+L4025	5
+U	
+U	
+U	
+U	
+U	
+U	
+L4032	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4045	4
+U	
+U	
+U	
+L4049	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4065	5
+U	
+L4067	3
+U	
+U	
+U	
+L4071	5
+U	
+U	
+L4074	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4092	4
+U	
+U	
+U	
+U	
+U	
+U	
+L4099	4
+U	
+U	
+L4102	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4132	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4142	4
+U	
+U	
+L4145	4
+U	
+U	
+U	
+U	
+L4150	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4169	5
+U	
+U	
+U	
+U	
+L4174	5
+U	
+U	
+U	
+U	
+U	
+U	
+L4181	4
+U	
+U	
+U	
+U	
+L4186	5
+L4187	3
+U	
+U	
+L4190	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4200	4
+U	
+U	
+L4203	4
+U	
+L4205	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4220	4
+U	
+L4222	4
+U	
+L4224	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4238	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4261	4
+L4262	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4271	4
+U	
+L4273	4
+L4274	4
+U	
+U	
+U	
+U	
+U	
+L4280	4
+U	
+U	
+U	
+U	
+U	
+U	
+L4287	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4295	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4303	3
+U	
+U	
+L4306	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4324	4
+U	
+U	
+U	
+U	
+L4329	4
+U	
+L4331	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4361	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4374	4
+U	
+U	
+L4377	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4428	3
+U	
+L4430	4
+U	
+L4432	4
+U	
+U	
+U	
+L4436	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4446	5
+U	
+U	
+L4449	5
+U	
+U	
+L4452	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4463	5
+U	
+L4465	5
+U	
+U	
+U	
+L4469	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4482	4
+U	
+L4484	4
+U	
+U	
+U	
+U	
+U	
+U	
+L4491	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4506	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4514	4
+U	
+U	
+L4517	4
+U	
+L4519	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4548	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4579	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4587	5
+U	
+U	
+L4590	4
+U	
+U	
+L4593	4
+U	
+U	
+U	
+U	
+L4598	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4609	4
+U	
+U	
+U	
+U	
+U	
+L4615	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4633	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4648	4
+U	
+U	
+L4651	4
+U	
+U	
+L4654	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4671	4
+U	
+U	
+L4674	5
+U	
+U	
+L4677	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4706	4
+U	
+U	
+L4709	5
+L4710	3
+U	
+L4712	4
+U	
+U	
+U	
+U	
+U	
+L4718	5
+L4719	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4730	5
+U	
+U	
+L4733	4
+U	
+U	
+U	
+L4737	5
+L4738	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4758	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4773	5
+U	
+U	
+L4776	3
+U	
+U	
+L4779	3
+L4780	5
+U	
+U	
+U	
+U	
+U	
+L4786	4
+U	
+L4788	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4796	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4830	3
+U	
+U	
+U	
+U	
+L4835	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4844	4
+U	
+U	
+U	
+U	
+L4849	3
+L4850	4
+L4851	3
+L4852	4
+L4853	4
+U	
+U	
+L4856	4
+U	
+U	
+L4859	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4896	5
+U	
+U	
+U	
+U	
+U	
+U	
+L4903	4
+U	
+U	
+U	
+U	
+U	
+U	
+L4910	5
+U	
+U	
+U	
+U	
+L4915	4
+U	
+L4917	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4938	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4971	4
+L4972	3
+U	
+U	
+U	
+U	
+U	
+L4978	3
+L4979	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L4989	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5001	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5020	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5030	4
+L5031	4
+U	
+U	
+U	
+L5035	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5045	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5055	4
+L5056	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5074	5
+U	
+U	
+L5077	4
+U	
+U	
+U	
+U	
+U	
+L5083	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5092	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5102	4
+U	
+L5104	4
+U	
+U	
+U	
+U	
+L5109	3
+U	
+U	
+U	
+U	
+L5114	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5122	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5148	3
+U	
+U	
+L5151	5
+U	
+U	
+U	
+U	
+U	
+L5157	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5166	4
+L5167	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5176	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5191	4
+U	
+U	
+U	
+U	
+L5196	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5212	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5239	4
+L5240	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5250	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5258	5
+U	
+U	
+L5261	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5278	4
+L5279	3
+L5280	4
+U	
+U	
+U	
+U	
+U	
+U	
+L5287	3
+L5288	4
+U	
+U	
+U	
+L5292	4
+U	
+U	
+U	
+L5296	4
+U	
+U	
+L5299	5
+L5300	4
+U	
+U	
+U	
+U	
+U	
+L5306	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5326	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5362	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5376	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5389	3
+U	
+U	
+L5392	5
+L5393	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5412	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5431	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5463	3
+U	
+U	
+L5466	4
+L5467	5
+U	
+U	
+L5470	4
+U	
+U	
+U	
+U	
+U	
+L5476	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5513	5
+U	
+L5515	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5526	4
+U	
+L5528	5
+U	
+U	
+U	
+L5532	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5541	4
+U	
+U	
+L5544	4
+U	
+U	
+U	
+U	
+U	
+L5550	4
+U	
+U	
+L5553	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5562	4
+U	
+U	
+L5565	4
+U	
+U	
+U	
+L5569	5
+U	
+L5571	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5580	4
+U	
+U	
+U	
+U	
+U	
+L5586	4
+U	
+U	
+L5589	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5600	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5610	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5634	4
+U	
+U	
+U	
+L5638	5
+L5639	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5652	4
+U	
+U	
+U	
+L5656	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5666	4
+U	
+U	
+U	
+U	
+L5671	3
+U	
+U	
+U	
+U	
+U	
+L5677	4
+U	
+L5679	4
+U	
+U	
+U	
+U	
+L5684	4
+U	
+U	
+U	
+L5688	5
+U	
+U	
+U	
+U	
+U	
+U	
+L5695	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5707	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5718	5
+U	
+L5720	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5736	5
+U	
+U	
+L5739	4
+U	
+U	
+U	
+U	
+U	
+U	
+L5746	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5758	4
+L5759	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5790	5
+U	
+U	
+U	
+U	
+U	
+U	
+L5797	4
+U	
+U	
+L5800	5
+U	
+L5802	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5812	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5824	5
+U	
+L5826	5
+U	
+U	
+U	
+U	
+L5831	5
+U	
+L5833	4
+U	
+U	
+U	
+L5837	5
+U	
+L5839	5
+L5840	5
+U	
+U	
+U	
+U	
+U	
+U	
+L5847	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5858	4
+U	
+U	
+U	
+U	
+U	
+L5864	4
+U	
+U	
+L5867	4
+U	
+U	
+U	
+U	
+L5872	5
+U	
+U	
+U	
+L5876	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5889	5
+U	
+U	
+U	
+U	
+U	
+L5895	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5904	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5914	5
+L5915	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5930	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5939	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5955	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5966	4
+U	
+L5968	4
+L5969	5
+U	
+U	
+U	
+U	
+U	
+L5975	4
+L5976	4
+L5977	4
+L5978	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L5994	4
+U	
+U	
+U	
+U	
+U	
+L6000	4
+U	
+L6002	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6021	5
+U	
+U	
+L6024	4
+U	
+U	
+U	
+U	
+U	
+L6030	5
+U	
+U	
+U	
+U	
+L6035	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6044	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6059	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6069	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6093	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6111	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6127	4
+U	
+U	
+L6130	4
+U	
+U	
+L6133	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6152	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6166	4
+U	
+U	
+U	
+U	
+U	
+L6172	5
+L6173	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6209	5
+L6210	5
+L6211	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6224	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6237	4
+U	
+L6239	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6272	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6283	4
+U	
+L6285	4
+U	
+U	
+U	
+L6289	4
+U	
+L6291	5
+L6292	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6303	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6312	4
+L6313	5
+L6314	4
+L6315	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6323	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6332	4
+U	
+U	
+L6335	3
+U	
+L6337	4
+U	
+U	
+U	
+U	
+L6342	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6360	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6368	4
+L6369	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6377	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6393	4
+U	
+U	
+U	
+U	
+L6398	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6406	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6419	4
+U	
+U	
+U	
+L6423	4
+U	
+L6425	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6438	4
+U	
+L6440	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6453	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6465	3
+U	
+U	
+U	
+U	
+U	
+U	
+L6472	4
+U	
+U	
+U	
+U	
+L6477	2
+U	
+L6479	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6496	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6505	3
+U	
+U	
+U	
+U	
+U	
+L6511	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6536	4
+U	
+U	
+L6539	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6547	5
+U	
+U	
+U	
+U	
+U	
+L6553	5
+U	
+U	
+U	
+U	
+U	
+L6559	4
+U	
+U	
+U	
+L6563	4
+U	
+U	
+L6566	4
+L6567	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6575	4
+U	
+U	
+U	
+U	
+U	
+L6581	4
+U	
+U	
+L6584	4
+U	
+U	
+U	
+U	
+L6589	4
+U	
+L6591	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6608	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6621	4
+L6622	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6632	4
+U	
+U	
+U	
+U	
+U	
+L6638	4
+L6639	3
+L6640	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6664	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6672	4
+U	
+U	
+U	
+U	
+L6677	4
+U	
+U	
+L6680	4
+U	
+L6682	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6691	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6699	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6720	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6729	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6739	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6754	3
+U	
+L6756	4
+U	
+U	
+L6759	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6781	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6812	4
+U	
+U	
+L6815	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6851	5
+U	
+U	
+U	
+L6855	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6873	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6898	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6919	4
+U	
+L6921	4
+U	
+L6923	4
+U	
+L6925	3
+L6926	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6943	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6951	4
+U	
+U	
+U	
+U	
+U	
+L6957	4
+U	
+L6959	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6988	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L6996	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7057	4
+U	
+U	
+L7060	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7082	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7106	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7135	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7155	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7164	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7183	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7202	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7220	3
+U	
+U	
+U	
+U	
+U	
+U	
+L7227	4
+U	
+U	
+U	
+U	
+L7232	4
+U	
+U	
+U	
+U	
+U	
+U	
+L7239	4
+U	
+L7241	4
+L7242	4
+U	
+U	
+U	
+L7246	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7258	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7284	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7293	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7329	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7378	5
+U	
+U	
+U	
+U	
+U	
+U	
+L7385	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7398	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7426	4
+U	
+U	
+U	
+L7430	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7438	5
+U	
+U	
+U	
+L7442	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7481	4
+U	
+U	
+L7484	4
+U	
+U	
+U	
+U	
+L7489	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7497	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7513	4
+U	
+L7515	4
+U	
+L7517	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7546	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7561	5
+U	
+L7563	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7587	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7595	4
+L7596	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7632	3
+L7633	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7663	4
+U	
+U	
+U	
+U	
+L7668	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7688	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7708	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7719	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7756	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7779	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7787	4
+L7788	4
+U	
+U	
+U	
+U	
+U	
+L7794	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7808	4
+U	
+L7810	3
+L7811	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7831	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7839	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7847	5
+U	
+L7849	4
+U	
+U	
+L7852	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7863	5
+U	
+L7865	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7880	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7889	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7914	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7940	5
+U	
+U	
+L7943	4
+U	
+U	
+L7946	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7974	4
+U	
+L7976	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L7988	4
+L7989	4
+L7990	4
+L7991	4
+L7992	3
+U	
+U	
+U	
+U	
+U	
+U	
+L7999	5
+L8000	3
+L8001	4
+L8002	4
+U	
+L8004	4
+L8005	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8025	4
+U	
+U	
+L8028	4
+U	
+L8030	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8051	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8065	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8086	4
+U	
+L8088	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8096	4
+U	
+U	
+U	
+U	
+L8101	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8120	4
+L8121	4
+L8122	4
+U	
+U	
+L8125	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8140	4
+U	
+U	
+U	
+L8144	4
+U	
+U	
+U	
+U	
+L8149	4
+U	
+U	
+U	
+U	
+L8154	4
+U	
+U	
+U	
+U	
+U	
+L8160	4
+U	
+L8162	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8179	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8189	4
+U	
+U	
+U	
+U	
+U	
+L8195	4
+U	
+U	
+U	
+U	
+L8200	4
+U	
+U	
+U	
+U	
+U	
+L8206	4
+U	
+L8208	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8252	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8282	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8290	5
+U	
+L8292	3
+U	
+U	
+L8295	4
+L8296	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8313	4
+U	
+U	
+L8316	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8324	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8337	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8348	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8393	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8420	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8428	3
+U	
+U	
+L8431	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8440	3
+U	
+U	
+U	
+U	
+L8445	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8471	4
+U	
+U	
+U	
+U	
+U	
+L8477	4
+U	
+L8479	4
+U	
+U	
+U	
+L8483	4
+U	
+U	
+U	
+L8487	4
+U	
+U	
+U	
+U	
+L8492	4
+U	
+U	
+U	
+U	
+U	
+L8498	3
+U	
+U	
+U	
+L8502	4
+U	
+U	
+U	
+L8506	4
+U	
+U	
+L8509	4
+U	
+L8511	4
+U	
+L8513	5
+L8514	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8525	4
+U	
+U	
+L8528	4
+U	
+L8530	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8543	4
+U	
+U	
+U	
+U	
+L8548	4
+U	
+U	
+U	
+U	
+U	
+L8554	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8565	4
+U	
+U	
+U	
+U	
+L8570	4
+U	
+U	
+L8573	4
+U	
+U	
+U	
+L8577	4
+U	
+L8579	4
+U	
+U	
+U	
+U	
+U	
+U	
+L8586	4
+U	
+U	
+U	
+U	
+U	
+U	
+L8593	4
+U	
+U	
+L8596	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8624	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8634	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8644	4
+U	
+L8646	4
+U	
+U	
+L8649	4
+U	
+U	
+U	
+U	
+U	
+U	
+L8656	4
+U	
+U	
+U	
+L8660	4
+L8661	4
+U	
+U	
+U	
+L8665	4
+U	
+U	
+U	
+L8669	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8677	4
+U	
+U	
+U	
+U	
+L8682	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8700	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8710	4
+U	
+U	
+U	
+L8714	4
+U	
+U	
+L8717	4
+L8718	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8734	4
+U	
+U	
+U	
+U	
+U	
+L8740	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8750	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8765	4
+U	
+U	
+U	
+L8769	4
+U	
+U	
+L8772	5
+U	
+U	
+L8775	5
+L8776	4
+U	
+L8778	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8789	4
+L8790	4
+U	
+L8792	4
+U	
+U	
+U	
+U	
+U	
+L8798	5
+U	
+U	
+U	
+U	
+U	
+U	
+L8805	4
+L8806	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8818	5
+L8819	4
+L8820	4
+L8821	4
+L8822	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8836	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8844	4
+U	
+U	
+U	
+U	
+L8849	4
+U	
+U	
+L8852	4
+U	
+U	
+U	
+U	
+L8857	3
+U	
+U	
+U	
+U	
+L8862	4
+U	
+U	
+U	
+U	
+U	
+U	
+L8869	3
+L8870	4
+U	
+U	
+U	
+U	
+U	
+L8876	4
+U	
+U	
+U	
+U	
+L8881	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8895	4
+U	
+U	
+U	
+L8899	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8911	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8931	4
+U	
+L8933	4
+L8934	4
+U	
+L8936	5
+L8937	4
+U	
+U	
+U	
+L8941	4
+U	
+L8943	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8958	4
+L8959	4
+L8960	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8971	3
+U	
+U	
+U	
+L8975	5
+L8976	4
+U	
+L8978	4
+L8979	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L8990	4
+U	
+U	
+U	
+U	
+L8995	4
+L8996	5
+U	
+U	
+U	
+L9000	4
+L9001	4
+U	
+L9003	4
+U	
+L9005	5
+L9006	4
+U	
+U	
+U	
+L9010	3
+L9011	4
+U	
+U	
+U	
+L9015	4
+U	
+U	
+L9018	4
+L9019	4
+L9020	4
+U	
+U	
+L9023	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9047	4
+U	
+U	
+L9050	4
+U	
+U	
+U	
+U	
+L9055	4
+U	
+L9057	4
+L9058	4
+L9059	4
+U	
+U	
+U	
+U	
+L9064	4
+U	
+U	
+U	
+U	
+U	
+L9070	4
+U	
+U	
+U	
+L9074	4
+U	
+U	
+U	
+U	
+L9079	4
+L9080	4
+U	
+U	
+L9083	5
+L9084	6
+L9085	4
+L9086	4
+U	
+L9088	3
+U	
+L9090	4
+U	
+U	
+L9093	3
+U	
+L9095	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9110	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9119	3
+L9120	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9129	4
+U	
+L9131	4
+U	
+L9133	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9151	5
+U	
+U	
+U	
+U	
+L9156	4
+U	
+U	
+L9159	4
+U	
+U	
+U	
+U	
+U	
+L9165	4
+U	
+L9167	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9182	4
+U	
+U	
+U	
+U	
+U	
+U	
+L9189	4
+U	
+U	
+L9192	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9213	4
+U	
+L9215	4
+U	
+U	
+L9218	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9226	4
+U	
+U	
+L9229	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9240	4
+L9241	5
+L9242	4
+U	
+U	
+L9245	4
+U	
+L9247	4
+U	
+U	
+L9250	4
+U	
+L9252	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9261	4
+U	
+U	
+L9264	4
+U	
+U	
+U	
+L9268	5
+U	
+U	
+U	
+U	
+L9273	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9288	4
+L9289	4
+U	
+L9291	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9303	4
+U	
+U	
+U	
+L9307	5
+U	
+L9309	4
+U	
+U	
+L9312	4
+U	
+U	
+U	
+U	
+U	
+U	
+L9319	5
+L9320	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9341	4
+L9342	4
+U	
+U	
+U	
+U	
+U	
+U	
+L9349	4
+U	
+U	
+U	
+U	
+U	
+U	
+L9356	4
+U	
+U	
+U	
+U	
+L9361	5
+U	
+U	
+U	
+L9365	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9377	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9389	4
+U	
+U	
+U	
+U	
+U	
+U	
+L9396	4
+L9397	4
+U	
+U	
+L9400	4
+U	
+U	
+U	
+U	
+L9405	5
+U	
+L9407	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9428	4
+U	
+L9430	4
+U	
+U	
+L9433	5
+U	
+U	
+U	
+U	
+U	
+L9439	4
+U	
+U	
+L9442	4
+U	
+U	
+U	
+U	
+U	
+U	
+L9449	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9464	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9485	5
+U	
+U	
+U	
+U	
+U	
+L9491	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9502	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9546	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9569	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9587	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9665	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9680	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9695	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9749	4
+U	
+U	
+U	
+U	
+U	
+L9755	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9800	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9845	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9860	4
+U	
+U	
+U	
+U	
+L9865	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9905	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9950	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L9995	5
+U	
+U	
+U	
+L9999	6
+U	
+L10001	5
+L10002	5
+L10003	4
+U	
+L10005	5
+L10006	4
+U	
+U	
+U	
+L10010	5
+L10011	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10023	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10040	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10060	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10075	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10100	5
+U	
+U	
+L10103	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10130	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10150	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10190	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10223	5
+U	
+L10225	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10235	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10280	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10295	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10310	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10321	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10355	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10445	3
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10535	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L10640	5
+U	
+L10642	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L12304	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L12319	5
+U	
+U	
+U	
+U	
+U	
+L12325	5
+U	
+U	
+U	
+U	
+L12330	4
+U	
+U	
+L12333	5
+U	
+U	
+U	
+L12337	5
+U	
+U	
+U	
+L12341	5
+U	
+L12343	5
+U	
+U	
+L12346	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L12358	4
+U	
+L12360	4
+L12361	5
+U	
+L12363	4
+L12364	5
+U	
+L12366	5
+U	
+U	
+L12369	4
+L12370	5
+U	
+U	
+L12373	5
+U	
+U	
+U	
+U	
+L12378	5
+L12379	5
+U	
+U	
+L12382	5
+U	
+U	
+U	
+U	
+L12387	4
+L12388	4
+U	
+L12390	5
+L12391	4
+U	
+U	
+L12394	4
+U	
+U	
+L12397	4
+U	
+U	
+L12400	5
+U	
+U	
+L12403	4
+U	
+U	
+L12406	5
+U	
+U	
+L12409	5
+U	
+U	
+L12412	5
+U	
+L12414	5
+L12415	5
+U	
+U	
+L12418	4
+U	
+U	
+L12421	5
+U	
+U	
+L12424	5
+U	
+U	
+L12427	5
+U	
+U	
+L12430	5
+U	
+U	
+L12433	5
+U	
+U	
+U	
+L12437	5
+U	
+L12439	5
+U	
+U	
+L12442	5
+U	
+U	
+L12445	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L12454	5
+U	
+U	
+L12457	5
+U	
+U	
+L12460	5
+U	
+U	
+L12463	5
+U	
+U	
+L12466	5
+U	
+U	
+L12469	4
+U	
+U	
+L12472	5
+U	
+U	
+L12475	5
+U	
+U	
+L12478	5
+U	
+U	
+L12481	5
+L12482	4
+U	
+L12484	5
+U	
+U	
+L12487	5
+U	
+U	
+L12490	5
+U	
+U	
+L12493	5
+U	
+U	
+L12496	5
+U	
+L12498	5
+L12499	4
+U	
+U	
+L12502	5
+U	
+U	
+L12505	5
+U	
+U	
+L12508	5
+U	
+U	
+L12511	5
+U	
+U	
+L12514	5
+U	
+U	
+L12517	5
+U	
+U	
+L12520	4
+U	
+U	
+L12523	5
+U	
+U	
+L12526	4
+U	
+U	
+L12529	5
+U	
+U	
+L12532	5
+U	
+U	
+L12535	5
+U	
+U	
+L12538	4
+U	
+U	
+L12541	5
+U	
+U	
+L12544	4
+U	
+L12546	4
+L12547	5
+L12548	5
+L12549	4
+L12550	5
+L12551	4
+L12552	5
+L12553	5
+L12554	5
+L12555	5
+L12556	5
+L12557	4
+L12558	4
+L12559	5
+L12560	4
+L12561	4
+L12562	5
+L12563	4
+L12564	4
+L12565	5
+L12566	4
+L12567	4
+L12568	5
+L12569	3
+L12570	5
+L12571	5
+L12572	4
+L12573	4
+L12574	5
+L12575	4
+L12576	4
+L12577	5
+L12578	4
+L12579	5
+L12580	5
+L12581	4
+L12582	4
+L12583	5
+L12584	4
+L12585	4
+L12586	5
+L12587	4
+L12588	3
+L12589	5
+L12590	3
+L12591	5
+L12592	5
+L12593	5
+L12594	4
+L12595	5
+L12596	4
+L12597	4
+L12598	5
+L12599	4
+L12600	4
+L12601	5
+L12602	5
+L12603	5
+L12604	5
+L12605	4
+L12606	5
+L12607	4
+L12608	5
+L12609	3
+L12610	5
+L12611	4
+L12612	4
+L12613	5
+L12614	5
+L12615	4
+L12616	5
+L12617	5
+L12618	5
+L12619	5
+L12620	4
+L12621	4
+L12622	5
+L12623	4
+L12624	5
+L12625	5
+L12626	5
+L12627	4
+L12628	5
+L12629	4
+L12630	5
+L12631	5
+L12632	3
+L12633	4
+L12634	5
+L12635	5
+L12636	5
+L12637	5
+U	
+L12639	5
+L12640	5
+U	
+L12642	5
+L12643	5
+U	
+L12645	4
+L12646	5
+U	
+L12648	5
+L12649	5
+U	
+L12651	4
+L12652	5
+U	
+L12654	5
+L12655	5
+L12656	4
+L12657	4
+L12658	5
+U	
+L12660	4
+L12661	5
+L12662	4
+L12663	5
+L12664	5
+U	
+L12666	3
+L12667	5
+U	
+L12669	6
+L12670	5
+U	
+U	
+L12673	5
+U	
+U	
+L12676	4
+U	
+L12678	5
+L12679	5
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+L12706	5
+L12707	3
+U	
+L12709	4
+L12710	4
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	
+U	

@@ -1,0 +1,5090 @@
+L1 B: 15
+L2 Icing: 28
+L3 ST: 6
+L4 Icing: 29
+L5 Icing: 25, WR: 3
+L6 Icing: 35, WR: 5
+L7 B: 40
+L11 B: 60
+L12 O: 65
+L15 Icing: 50
+L20 Icing: 41
+L29 Icing: 21, B: 90, G: 90
+L33 Icing: 37
+L36 Swirl: 42
+L37 Swirl: 58
+L44 Icing: 34
+L47 JF: 20
+L51 Icing: 39
+L55 ST: 15, Icing: 48, Swirl: 24
+L60 Swirl: 26, Icing: 24
+L62 ST: 25, Icing: 61
+L65 Icing: 77
+L71 Icing: 52
+L80 Icing: 37, Swirl: 8
+L82 Icing: 115
+L85 Icing: 41
+L87 Icing: 26, Swirl: 29
+L90 Icing: 24, P: 175
+L92 Swirl: 38
+L95 Icing: 71, Swirl: 19
+L96 Bomb: 9
+L98 Bomb: 21, ST: 16
+L101 Swirl: 28
+L104 JF: 5
+L108 Swirl: 28
+L112 B: 80, Bomb: 20
+L113 Swirl: 30, Bomb: 50
+L115 Icing: 45, Swirl: 25
+L118 Icing: 73
+L121 Icing: 42, Swirl: 16, Bomb: 20
+L124 Bomb: 20, G: 80, B: 80
+L128 Y+: 18, Icing: 46, Swirl: 9
+L132 Bomb: 9, B: 80, G: 80
+L134 Swirl: 50, O: 55, P: 55
+L136 Bomb: 18, B: 120, Swirl: 22
+L140 Icing: 64
+L144 Icing: 121
+L147 Choco: 10, Icing: 47
+L150 Swirl: 28
+L152 Icing: 78
+L156 Icing: 168
+L159 Icing: 52
+L162 Bomb: 7
+L163 Icing: 83, Swirl: 12, Choco: 7
+L165 Choco: 11
+L168 Choco: 8, Bomb: 8, Y+: 8
+L172 Swirl: 28, Icing: 15
+L174 Icing: 67, Swirl: 19
+L177 Choco: 15, Swirl: 14
+L179 Choco: 17, Icing: 120
+L182 Swirl: 36, R+: 10
+L184 O: 40, Swirl: 29, Icing: 24
+L187 Choco: 13
+L189 Icing: 71, Choco: 25
+L191 Choco: 9, WR: 15, Icing: 36
+L196 Choco: 24, Icing: 56, WR: 20
+L199 Choco: 150
+L202 Icing: 34, Choco: 11
+L205 Swirl: 30, Icing: 80, Choco: 10
+L208 Swirl: 64
+L211 Icing: 55, WR: 10
+L214 Icing: 162, B: 142, P: 142
+L216 Icing: 45
+L217 Icing: 26, Choco: 20
+L219 Choco: 13
+L221 Bomb: 18, Swirl: 25
+L223 Swirl: 40
+L225 Icing: 70, Swirl: 22, Choco: 22
+L227 Icing: 46, Swirl: 46
+L230 Icing: 90, Swirl: 20
+L232 Swirl: 14, Choco: 24
+L234 COL: 3, Icing: 32, Choco: 4
+L236 Swirl: 34
+L238 Swirl: 20
+L240 Icing: 114
+L242 Icing: 40
+L245 Icing: 63, Choco: 13, Swirl: 11
+L246 JF: 13
+L249 Icing: 96
+L250 Icing: 91
+L253 Icing: 72
+L255 Icing: 105
+L258 Choco: 24
+L260 Icing: 107
+L261 ERROR! (32): 14, Icing: 65
+L264 JF: 7
+L267 ERROR! (32): 29, Swirl: 45
+L269 WR: 20
+L270 Icing: 90, B: 90
+L273 ERROR! (32): 12, Icing: 46
+L274 Swirl: 110
+L276 ERROR! (32): 80, Swirl: 40
+L279 ERROR! (32): 75
+L281 Swirl: 19, Icing: 19
+L283 Icing: 50
+L285 Swirl: 42, Icing: 48
+L287 JF: 8
+L288 Swirl: 30, ERROR! (32): 30
+L291 ERROR! (32): 83
+L294 Swirl: 65
+L295 Icing: 75, ERROR! (32): 15
+L298 Choco: 35, ERROR! (32): 35
+L299 Swirl: 40
+L302 ERROR! (32): 145
+L304 Swirl: 24, Choco: 24
+L305 Icing: 76, ERROR! (32): 50
+L309 Icing: 142
+L310 Icing: 80, Swirl: 28
+L312 Icing: 85, ERROR! (32): 43
+L314 ERROR! (32): 100
+L316 Swirl: 28
+L317 Icing: 90, Swirl: 35
+L320 Icing: 80, ERROR! (32): 100
+L323 Y+: 16
+L324 Icing: 64, Swirl: 14
+L327 Swirl: 22, ERROR! (32): 24
+L328 O: 50
+L330 Icing: 117, ERROR! (32): 135
+L332 ERROR! (32): 72, Icing: 90
+L334 Icing: 140
+L335 JF: 20
+L337 Icing: 184
+L338 G: 50
+L341 ERROR! (32): 100
+L342 JF: 10
+L345 ERROR! (32): 80, Icing: 86
+L346 Icing: 80, R+: 20
+L349 ERROR! (32): 227, R: 120
+L350 JF: 10
+L351 Waffle: 36
+L352 Waffle: 68
+L353 Waffle: 27
+L355 Icing: 120, Bomb: 70
+L357 ERROR! (32): 45, Swirl: 26
+L358 JF: 10
+L361 Y+: 31
+L362 Waffle: 78
+L363 Swirl: 26
+L365 Swirl: 50, Icing: 70
+L366 Waffle: 90
+L370 ERROR! (32): 35, Icing: 100
+L373 Waffle: 64
+L375 Icing: 110
+L376 B: 25, Choco: 25
+L378 Waffle: 30
+L379 Waffle: 40, ERROR! (32): 60, Icing: 70
+L382 Waffle: 63
+L385 Waffle: 42, Icing: 40
+L387 ERROR! (32): 104
+L388 Waffle: 100
+L391 Swirl: 20
+L393 Icing: 22
+L398 B: 40, G: 40, P: 40
+L402 Waffle: 132
+L404 Icing: 100
+L405 Icing: 81, ST: 10
+L410 ERROR! (32): 80
+L411 Swirl: 24, ERROR! (32): 42
+L414 Swirl: 20
+L418 Icing: 125
+L420 JF: 8
+L423 R+: 15, Y+: 15
+L424 ERROR! (32): 36, Y+: 6
+L429 Waffle: 93
+L434 JF: 6
+L438 Choco: 30
+L439 ERROR! (32): 76, Waffle: 64
+L441 Waffle: 56, CakeBomb: 1
+L443 CakeBomb: 2
+L446 Icing: 20
+L450 ERROR! (32): 70, Icing: 70, Swirl: 40
+L451 Waffle: 70
+L454 Waffle: 195
+L457 Waffle: 64, ERROR! (32): 78
+L461 Swirl: 20
+L462 CakeBomb: 1, ERROR! (32): 76
+L465 Waffle: 51, Icing: 59, ERROR! (32): 39
+L469 ERROR! (32): 153, CakeBomb: 2
+L472 Waffle: 80
+L475 Waffle: 115
+L476 Waffle: 63
+L479 Swirl: 28, CakeBomb: 2
+L480 ERROR! (32): 42
+L483 B: 44
+L486 Waffle: 27
+L487 Waffle: 32, Icing: 21
+L491 Waffle: 32, Swirl: 7
+L492 ERROR! (32): 60, Icing: 125
+L494 Waffle: 85
+L496 B: 95, P: 95, ERROR! (32): 95
+L498 Choco: 5
+L502 ERROR! (32): 60, Icing: 152
+L504 Icing: 39
+L507 Icing: 77, COL: 7
+L509 B: 50, P: 50
+L510 Choco: 14, Icing: 86
+L513 Waffle: 32
+L516 P: 100, B: 100, O: 100
+L517 Choco: 25, Bomb: 40
+L521 JF: 10, B: 60
+L522 Y+: 3, Swirl: 22
+L526 Waffle: 30
+L528 CakeBomb: 2, Waffle: 18
+L530 Icing: 40
+L532 ERROR! (30): 1
+L533 Icing: 75
+L536 Icing: 18
+L539 Waffle: 80
+L541 Icing: 72, COL: 5
+L544 P: 65, B: 65
+L545 Waffle: 75
+L547 Icing: 36, ERROR! (30): 1, Waffle: 16
+L548 ERROR! (32): 30
+L552 Y+: 16, R+: 16
+L553 Waffle: 70, G: 90
+L555 Swirl: 45, Icing: 71
+L558 Swirl: 25, Y+: 14
+L559 JF: 20
+L562 ERROR! (30): 2, Swirl: 16
+L565 Waffle: 45
+L566 Y+: 30, Swirl: 20
+L570 Waffle: 80
+L572 Waffle: 48
+L574 Swirl: 8, Icing: 52
+L577 ST: 36, Swirl: 36
+L578 Icing: 100
+L581 ERROR! (32): 40, Waffle: 33
+L584 Waffle: 50
+L586 Icing: 140
+L587 Waffle: 52
+L589 ERROR! (32): 49, Waffle: 87
+L590 ERROR! (32): 60
+L599 ST: 20, Icing: 60
+L609 Icing: 78
+L613 Choco: 14, Waffle: 67
+L615 B: 95, P: 95
+L628 Icing: 56, JF: 4
+L633 B: 50, O: 50, ST: 15
+L638 R: 50, G: 50
+L639 COL: 2, ST: 2, WR: 2
+L640 ST: 4
+L647 Icing: 48, Choco: 12
+L650 B: 135, P: 90
+L654 CakeBomb: 2, Icing: 24
+L655 Icing: 30, Waffle: 40
+L656 ST: 35, Icing: 35
+L662 G: 50, O: 50, R: 50
+L666 B: 666
+L669 R: 100, G: 100, B: 100
+L670 ST: 20, WR: 10
+L677 Icing: 20, Swirl: 20
+L686 ST: 20
+L689 R: 72, O: 72
+L693 G: 50, O: 50
+L694 COL: 9, G: 70, O: 70
+L698 Icing: 120
+L699 B: 100, ST: 20
+L701 Waffle: 134
+L702 Swirl: 29, Icing: 39
+L704 Waffle: 120, ERROR! (30): 2
+L705 COL: 1, ST: 10, WR: 5
+L712 B: 75, R: 75, G: 75
+L717 Icing: 20, Waffle: 120
+L726 Waffle: 65
+L730 B: 50, G: 60, O: 70
+L731 Icing: 12
+L741 R: 68, B: 68, G: 68
+L746 ST: 20
+L749 ST: 20
+L751 Icing: 36, CakeBomb: 3, B: 140
+L753 COL: 5
+L761 WR: 5, ST: 25
+L762 G: 100, B: 100
+L764 G: 25, B: 30, R: 35
+L777 COL: 2, Icing: 54
+L779 COL: 20
+L783 COL: 8, Waffle: 98
+L785 COL: 7
+L792 Swirl: 25
+L806 G: 110, B: 110
+L807 WR: 15, ST: 15
+L819 R: 99, WR: 10
+L820 WR: 13, COL: 7
+L821 ST: 20, WR: 15, COL: 5
+L824 ST: 30
+L829 Waffle: 50, Icing: 60
+L834 COL: 6
+L842 COL: 10
+L848 WR: 18
+L859 WR: 10, ST: 20
+L860 WR: 25
+L870 WR: 10, COL: 5
+L883 P: 50
+L885 ST: 18
+L889 WR: 15
+L894 P: 55, ST: 14, WR: 7
+L899 Popcorn: 8, B: 250, O: 250
+L900 Icing: 66, Choco: 10
+L901 B: 75, P: 75, O: 75
+L904 WR: 13, ST: 8, B: 61
+L911 B: 70, Swirl: 35
+L916 ST: 9, WR: 4, COL: 3
+L922 WR: 14, COL: 9, ST: 18
+L927 WR: 7, ST: 7
+L935 B: 182, G: 182, ST: 36
+L951 R: 79
+L968 COL: 4
+L969 P: 32, G: 32
+L971 Y+: 5
+L972 Y+: 9
+L976 ST: 2, COL: 2
+L979 Swirl: 24, Choco: 24
+L983 Swirl: 44
+L985 COL: 1, R: 50, B: 50
+L988 COL: 12
+L993 O: 81, P: 81, COL: 4
+L1000 G: 500, B: 500, O: 500
+L1006 ST: 45
+L1009 ST: 24
+L1022 P: 99
+L1030 ST: 8
+L1039 R: 80, G: 80, B: 80
+L1043 O: 99
+L1044 Swirl: 20
+L1045 Swirl: 28, Bomb: 25
+L1055 MagicMixer: 3, Waffle: 21
+L1057 COL: 8
+L1060 ST: 10, WR: 5
+L1066 COL: 13
+L1072 R+: 20
+L1077 COL: 4, G: 100, B: 100
+L1088 Swirl: 27
+L1094 Swirl: 20, Icing: 18, COL: 4
+L1103 Y+: 12
+L1108 G: 500, B: 500
+L1111 Y+: 28
+L1114 Y+: 9
+L1117 Y+: 10
+L1127 ST: 14, WR: 10, B: 70
+L1135 MagicMixer: 8, MultiChoco: 49
+L1138 ST: 11, R: 59, COL: 4
+L1141 Y+: 12
+L1154 Y+: 11
+L1164 Popcorn: 4, Icing: 20
+L1168 P: 300
+L1172 WR: 10
+L1174 R+: 10
+L1186 R: 99
+L1187 Popcorn: 7
+L1189 WR: 8, ST: 8, B: 122
+L1193 Waffle: 18
+L1200 COL: 5
+L1201 ST: 35
+L1204 ST: 30
+L1206 O: 50, B: 50
+L1212 WR: 10, P: 50, COL: 9
+L1225 COL: 5, PERFECT: 1
+L1230 COL: 36
+L1237 Icing: 69
+L1239 Y+: 20
+L1248 Y+: 11
+L1258 Y+: 20
+L1277 Swirl: 50, WR: 15
+L1279 Popcorn: 3, B: 100, G: 100
+L1280 WR: 12, ST: 16, Icing: 119
+L1291 Icing: 53
+L1299 Y+: 17
+L1301 COL: 5
+L1304 Icing: 79, Swirl: 24
+L1317 Waffle: 27
+L1321 ST: 15
+L1325 P: 36, B: 36, G: 36
+L1329 Swirl: 54
+L1331 COL: 8, ST: 10, WR: 10
+L1345 Y+: 13
+L1353 ST: 15, WR: 6, COL: 3
+L1357 ST: 18
+L1365 B: 100
+L1369 Icing: 100
+L1371 PERFECT: 2, B: 100, G: 100
+L1375 P: 90, WR: 10, B: 90
+L1380 Waffle: 66
+L1385 Icing: 138
+L1389 Icing: 85
+L1394 Waffle: 40
+L1401 COL: 25, WR: 15
+L1406 WR: 35
+L1412 Y+: 12
+L1415 ST: 30
+L1420 B: 100, G: 100, WR: 20
+L1435 PERFECT: 1
+L1437 Waffle: 28
+L1439 Y+: 3
+L1447 Icing: 18, Choco: 11, Swirl: 11
+L1450 Waffle: 100
+L1454 Popcorn: 1, Choco: 8, Icing: 26
+L1457 Icing: 30
+L1460 Choco: 14, Swirl: 31, Icing: 46
+L1464 Swirl: 39, Popcorn: 3
+L1466 Icing: 95
+L1471 Swirl: 25, Icing: 85
+L1472 Popcorn: 1, Waffle: 76, ERROR! (32): 28
+L1475 Choco: 12, Swirl: 28, WR: 8
+L1476 WR: 81, P: 81, G: 81
+L1477 Swirl: 45, Icing: 34
+L1480 Icing: 75
+L1483 COL: 7, ST: 7, WR: 7
+L1490 Choco: 15, Icing: 25, Swirl: 35
+L1491 ST: 15, COL: 2, Icing: 55
+L1499 Popcorn: 7, ST: 50, COL: 7
+L1502 MultiChoco: 35
+L1506 MultiChoco: 107, Icing: 80
+L1513 Popcorn: 2, ST: 9, Swirl: 34
+L1517 Popcorn: 1, Icing: 48
+L1519 Choco: 13, Icing: 30, Swirl: 11
+L1522 Popcorn: 1, Icing: 49
+L1526 Waffle: 70
+L1531 Icing: 81, Swirl: 32, Choco: 15
+L1537 Icing: 125, WR: 19, Popcorn: 3
+L1540 B: 150, R: 150, COL: 9
+L1543 Popcorn: 7, Swirl: 14
+L1547 Icing: 140
+L1549 Bomb: 55
+L1556 Popcorn: 8, COL: 8
+L1559 ST: 30
+L1563 Choco: 18, ST: 25
+L1564 Popcorn: 2, Swirl: 36
+L1566 COL: 2, ST: 15, Icing: 98
+L1569 Popcorn: 3, COL: 3
+L1572 Swirl: 28, Icing: 26
+L1574 Icing: 30
+L1581 B: 40, O: 40, G: 40
+L1589 Icing: 76
+L1594 WR: 8, COL: 2
+L1598 Popcorn: 2, WR: 6, Choco: 20
+L1601 Popcorn: 2, Swirl: 28
+L1603 Choco: 10, ST: 20, B: 70
+L1608 Choco: 30, Swirl: 40, MagicMixer: 2
+L1611 Choco: 25, Swirl: 25
+L1614 Icing: 45, Choco: 20
+L1616 Icing: 46, COL: 8, B: 110
+L1617 Icing: 70
+L1619 R: 50, Waffle: 70
+L1621 Choco: 60, Swirl: 10, ST: 10
+L1623 Icing: 84
+L1625 Swirl: 80
+L1627 Popcorn: 9, Icing: 90
+L1634 ST: 3, WR: 4, COL: 2
+L1637 Swirl: 50
+L1641 R: 111, G: 111, B: 111
+L1644 Y+: 100
+L1648 Swirl: 4, Choco: 9, Icing: 13
+L1653 Popcorn: 28, COL: 28, WR: 28
+L1655 Choco: 20, MultiChoco: 20
+L1658 ST+ST: 4
+L1663 MultiChoco: 50
+L1666 Swirl: 25
+L1667 Icing: 65
+L1669 Icing: 114
+L1672 Popcorn: 2, Icing: 64, ERROR! (32): 45
+L1674 Swirl: 30
+L1676 Popcorn: 6
+L1680 Swirl: 15, B: 60
+L1682 Waffle: 130
+L1689 Choco: 10
+L1691 Icing: 60, Choco: 10, Swirl: 5
+L1694 Waffle: 14
+L1696 Icing: 33
+L1699 Icing: 62, Swirl: 14
+L1709 Icing: 47, Waffle: 39
+L1713 Choco: 8, Icing: 16, Swirl: 24
+L1717 Icing: 80, WR: 4
+L1721 Waffle: 101, Icing: 45
+L1724 G: 50, P: 50, ST: 10
+L1726 Choco: 35
+L1730 Bomb: 50
+L1732 Swirl: 55
+L1735 Popcorn: 1, Swirl: 25, Icing: 60
+L1738 Popcorn: 8, Icing: 109
+L1742 Choco: 16, Icing: 76
+L1747 Swirl: 12, Icing: 56
+L1749 Icing: 104
+L1751 Icing: 66, Choco: 13, WR: 7
+L1753 Bomb: 25
+L1754 COL: 5, Choco: 15
+L1756 Y+: 12
+L1757 Swirl: 55
+L1765 Popcorn: 2, COL+ST: 1, ST+WR: 1
+L1767 Waffle: 54, Swirl: 9
+L1769 Popcorn: 5, COL: 8
+L1772 Icing: 118
+L1775 Swirl: 4, Icing: 68
+L1776 Choco: 40
+L1780 B: 100, R: 100, P: 100
+L1783 Icing: 86, CakeBomb: 2
+L1784 Icing: 75
+L1790 Swirl: 42, MagicMixer: 3
+L1791 Icing: 193
+L1795 Popcorn: 5
+L1802 Icing: 60
+L1805 Popcorn: 3, Swirl: 20
+L1807 Popcorn: 3, Icing: 28, Swirl: 30
+L1809 Icing: 100, G: 100, B: 100
+L1810 Icing: 93, Bomb: 23
+L1812 Y+: 24
+L1814 Popcorn: 1, COL: 8, P: 80
+L1818 Choco: 45, B: 65, Swirl: 8
+L1820 Icing: 111
+L1823 Y+: 18
+L1827 Popcorn: 4, ST: 10
+L1831 Icing: 50
+L1834 Icing: 15, Swirl: 26, Choco: 10
+L1838 Popcorn: 5
+L1841 Icing: 25, B: 45, Swirl: 55
+L1843 Waffle: 50
+L1845 Bomb: 12
+L1846 Icing: 96, Swirl: 36, CakeBomb: 2
+L1848 R+: 3
+L1851 Popcorn: 7, Swirl: 30
+L1855 Swirl: 27, P: 75, O: 75
+L1856 Waffle: 50, Swirl: 16
+L1858 Popcorn: 2, Choco: 18, R: 80
+L1859 Icing: 50, CakeBomb: 2
+L1861 COL: 12, Popcorn: 8
+L1863 Popcorn: 2
+L1864 Icing: 65
+L1867 Icing: 24, Swirl: 12, ST: 6
+L1873 Icing: 95
+L1875 Icing: 60
+L1877 Icing: 30, Waffle: 52
+L1879 Y+: 10
+L1883 Icing: 70
+L1888 Icing: 145
+L1889 Icing: 50
+L1891 Waffle: 75, Swirl: 16
+L1892 Swirl: 10, Icing: 84
+L1895 R: 40, G: 40, B: 40
+L1900 Popcorn: 1, Swirl: 14, Waffle: 30
+L1902 MultiChoco: 22, Waffle: 33
+L1903 Icing: 90
+L1905 Popcorn: 1, Swirl: 10, Icing: 18
+L1908 Icing: 86, Popcorn: 1, ERROR! (32): 20
+L1913 Icing: 28, Swirl: 10, Choco: 5
+L1916 Choco: 13, Swirl: 16
+L1919 Waffle: 62, Icing: 162, Popcorn: 2
+L1921 Popcorn: 1, Swirl: 20
+L1923 Popcorn: 1, Icing: 14, Swirl: 18
+L1928 Icing: 108
+L1936 MagicMixer: 7, Swirl: 7
+L1943 Icing: 50, Swirl: 20
+L1944 Icing: 60, Popcorn: 9
+L1946 Icing: 114, Swirl: 24
+L1949 Popcorn: 5, ERROR! (32): 100
+L1950 Icing: 54, Swirl: 25
+L1952 Waffle: 120
+L1953 Swirl: 6, Choco: 12
+L1956 Swirl: 32, Icing: 16
+L1959 Popcorn: 6, Icing: 68
+L1962 Icing: 47
+L1968 Popcorn: 1, Icing: 32
+L1977 Y+: 6
+L1982 Popcorn: 1, Icing: 28
+L1984 Y+: 10
+L1985 Icing: 35, Choco: 10, Popcorn: 1
+L1989 Choco: 20
+L1991 Icing: 20, Swirl: 16
+L1994 Choco: 10, Icing: 12, Swirl: 16
+L1998 Icing: 60, Swirl: 6
+L1999 Choco: 10, Icing: 112
+L2000 G: 100, P: 100
+L2001 Popcorn: 3, Icing: 44
+L2002 Y+: 4
+L2004 Icing: 80
+L2014 Y+: 10
+L2017 Popcorn: 4, Icing: 10, Swirl: 30
+L2019 Popcorn: 1, Swirl: 10, Icing: 20
+L2021 Bomb: 35
+L2024 Choco: 8, Swirl: 18, Icing: 18
+L2027 Y+: 4
+L2029 Icing: 36, Swirl: 12, Popcorn: 6
+L2032 Y+: 10
+L2033 Y+: 35
+L2034 Popcorn: 3, WR: 15, ST: 15
+L2042 WR: 33, Icing: 88
+L2045 G: 160, O: 160, Icing: 160
+L2048 Choco: 9, Icing: 9, Swirl: 9
+L2051 Choco: 15, Icing: 15
+L2054 Icing: 54, Swirl: 18
+L2057 Choco: 34
+L2059 Choco: 14, Swirl: 20, Icing: 26
+L2063 WR: 4, ST: 5
+L2071 Y+: 11, R+: 11
+L2072 Y+: 12
+L2078 Icing: 21, Popcorn: 4
+L2081 Popcorn: 8
+L2084 JF: 13, Icing: 29
+L2087 Swirl: 20
+L2091 Swirl: 30, Bomb: 40
+L2093 Popcorn: 1, Swirl: 15, Icing: 30
+L2094 Icing: 122
+L2096 Choco: 14, Swirl: 27, MagicMixer: 4
+L2098 Icing: 6, Choco: 30
+L2100 Swirl: 9, Icing: 26
+L2101 Swirl: 25, Icing: 15, COL: 5
+L2103 Icing: 40, Waffle: 40
+L2108 CakeBomb: 3
+L2114 COL: 14, Icing: 40, Choco: 24
+L2117 Icing: 60, ST: 60
+L2123 Icing: 48, Waffle: 51
+L2125 Popcorn: 1, Swirl: 15, Icing: 40
+L2126 Bomb: 20, Icing: 27
+L2129 Icing: 161
+L2132 Icing: 10, Swirl: 10, Choco: 10
+L2134 Icing: 14, Swirl: 14
+L2150 Y+: 25
+L2153 Icing: 32
+L2155 Icing: 12
+L2156 Y+: 20
+L2158 Icing: 90, Popcorn: 6, B: 100
+L2161 Icing: 32
+L2163 JF: 5
+L2165 Waffle: 30
+L2167 Icing: 32, Swirl: 32
+L2170 Icing: 30
+L2171 Icing: 55
+L2173 Swirl: 12, Icing: 35
+L2176 Icing: 75, Popcorn: 7
+L2179 Icing: 60, Swirl: 32
+L2181 Y+: 10
+L2183 WR: 40
+L2185 Icing: 90
+L2186 Choco: 22, ST: 14, Icing: 7
+L2197 Icing: 133
+L2198 Icing: 16, Swirl: 16
+L2202 Choco: 24, Swirl: 19
+L2204 Popcorn: 2, Icing: 105
+L2205 Icing: 36, Swirl: 36
+L2209 Bomb: 50, COL: 11
+L2213 Popcorn: 4, Waffle: 168
+L2215 Choco: 15
+L2219 Popcorn: 2, B: 75, O: 75
+L2221 Popcorn: 4
+L2222 Popcorn: 4
+L2227 Y+: 30
+L2231 Swirl: 14, Choco: 20, Icing: 26
+L2234 Swirl: 21, Icing: 61
+L2238 Y+: 30
+L2249 Y+: 5, Icing: 51
+L2253 WR: 20, ST: 10
+L2257 G: 100, R: 100
+L2259 Icing: 70, Waffle: 52
+L2262 Icing: 60
+L2264 Choco: 10, Swirl: 16, Icing: 24
+L2268 MagicMixer: 4, COL: 10
+L2270 Icing: 6, Y+: 14, Swirl: 28
+L2271 Swirl: 40, Icing: 15
+L2274 Swirl: 12, Icing: 56
+L2275 Icing: 20
+L2281 Icing: 94, Waffle: 36
+L2284 Swirl: 40
+L2285 Icing: 28
+L2287 Swirl: 18, Choco: 40
+L2289 Icing: 122
+L2290 Icing: 56
+L2292 Popcorn: 5, Swirl: 60, Bomb: 30
+L2293 Icing: 8, Choco: 12, Swirl: 16
+L2295 Icing: 28
+L2296 Icing: 9, Swirl: 9, Y+: 9
+L2299 Icing: 74, Swirl: 44
+L2301 Popcorn: 9, ERROR! (32): 170
+L2304 MagicMixer: 3
+L2307 Icing: 127
+L2313 Icing: 86
+L2314 MultiChoco: 60
+L2328 Y+: 15
+L2329 Icing: 60, Swirl: 20, Choco: 10
+L2330 COL: 3, ST: 11
+L2331 Icing: 48, Swirl: 14
+L2332 Icing: 27, Swirl: 27
+L2334 Popcorn: 4, Choco: 8, Swirl: 12
+L2338 Popcorn: 4, Swirl: 8, Icing: 16
+L2340 Popcorn: 6
+L2341 Choco: 25, Swirl: 40
+L2343 Icing: 99, Swirl: 30
+L2347 Popcorn: 6, Icing: 20, Swirl: 20
+L2349 Y+: 25
+L2350 COL: 2, Icing: 22
+L2354 ST: 15, Icing: 70
+L2355 Choco: 15, Swirl: 35
+L2361 Popcorn: 2, Swirl: 48
+L2362 Icing: 60, Popcorn: 5
+L2364 Popcorn: 3
+L2368 Icing: 27
+L2371 Choco: 27
+L2372 B: 100, O: 100, P: 100
+L2375 Choco: 18, Swirl: 12
+L2378 Y+: 30
+L2380 Popcorn: 6, Swirl: 9
+L2382 Popcorn: 24
+L2383 Swirl: 20, Icing: 90
+L2385 Popcorn: 18
+L2388 Bomb: 50, P: 100
+L2390 Popcorn: 6, Swirl: 25
+L2391 Choco: 14
+L2393 Icing: 180
+L2397 Y+: 25
+L2400 Popcorn: 1, Choco: 15, Swirl: 30
+L2402 Icing: 72
+L2404 Y+: 9
+L2410 Swirl: 18
+L2414 Icing: 70
+L2423 Choco: 20, G: 50
+L2427 Swirl: 27, Popcorn: 5
+L2429 Swirl: 20, Choco: 20, Icing: 35
+L2431 Icing: 100, MagicMixer: 3
+L2432 Icing: 136, Swirl: 45
+L2433 Waffle: 56
+L2435 Swirl: 14, Bomb: 1
+L2436 Swirl: 81, Choco: 20
+L2442 Popcorn: 12
+L2444 ERROR! (32): 20
+L2446 Choco: 25
+L2449 Swirl: 12, Icing: 20, Choco: 15
+L2451 Icing: 55, Waffle: 36
+L2455 Choco: 27, Y+: 22
+L2461 CakeBomb: 4, COL: 2
+L2463 Swirl: 25, Icing: 29
+L2473 Swirl: 8, Choco: 14, Icing: 32
+L2478 Icing: 150
+L2481 Icing: 180, Popcorn: 5
+L2487 Popcorn: 7
+L2492 O: 100, Bomb: 18
+L2494 Popcorn: 4, Choco: 8, Icing: 80
+L2499 Y+: 4
+L2520 Y+: 15
+L2521 Choco: 15, Icing: 20
+L2522 Swirl: 18
+L2524 Choco: 15, Swirl: 18
+L2533 Choco: 14
+L2534 Icing: 126
+L2539 Choco: 8, Swirl: 16, Icing: 40
+L2549 Icing: 66
+L2555 Y+: 14
+L2556 Popcorn: 1, Swirl: 20, Choco: 10
+L2558 Swirl: 8, Choco: 12, Y+: 16
+L2560 Popcorn: 1, Y+: 16, Swirl: 35
+L2563 Icing: 98, Choco: 14
+L2565 Y+: 7, R+: 7
+L2567 Popcorn: 5, WR: 15
+L2573 Icing: 28
+L2582 Icing: 26, Swirl: 10
+L2584 Swirl: 5
+L2591 Waffle: 50, Swirl: 50
+L2595 R+: 9, Y+: 9, P+: 9
+L2597 Icing: 35
+L2600 Choco: 10, Swirl: 22, Y+: 1
+L2601 O: 90, B: 90
+L2604 ST: 15, B: 225
+L2605 R+: 22, Y+: 22, P+: 22
+L2607 Popcorn: 4, Swirl: 20
+L2610 Y+: 15
+L2615 COL: 6, Y+: 18, Swirl: 24
+L2622 Choco: 85
+L2625 Icing: 125
+L2632 Swirl: 20
+L2633 Swirl: 8
+L2641 Popcorn: 9
+L2642 R+: 18, Y+: 15
+L2643 Popcorn: 4, Waffle: 80, Swirl: 20
+L2649 Choco: 4, Swirl: 10, Icing: 36
+L2653 Icing: 71
+L2655 Swirl: 10
+L2658 MultiChoco: 68, Icing: 30, Popcorn: 4
+L2659 Swirl: 15, Choco: 15
+L2662 Icing: 77
+L2669 R+: 25, Y+: 25, Swirl: 50
+L2671 Choco: 25, Swirl: 25, Icing: 40
+L2672 Swirl: 6, Icing: 6, Choco: 8
+L2673 Choco: 5, Swirl: 10, Icing: 15
+L2681 Y+: 10, Choco: 4
+L2684 Y+: 9
+L2687 R+: 9, Y+: 9, P+: 9
+L2693 R+: 40, Y+: 40
+L2702 Choco: 6
+L2703 R+: 12, Y+: 12, P+: 12
+L2707 Popcorn: 1, Icing: 33
+L2718 Icing: 18
+L2719 Icing: 27, Swirl: 15, Y+: 6
+L2724 Swirl: 25, Y+: 15
+L2725 R+: 10, Swirl: 30
+L2727 Y+: 10
+L2729 R+: 20, Swirl: 30, Icing: 40
+L2734 Swirl: 32, Icing: 42, Waffle: 42
+L2737 Waffle: 100, MagicMixer: 7
+L2741 Icing: 40
+L2743 Swirl: 60
+L2744 Choco: 10, Icing: 15, Swirl: 40
+L2748 COL: 2
+L2749 Icing: 113, Swirl: 14, Popcorn: 6
+L2752 Swirl: 30, Popcorn: 4
+L2758 Swirl: 46, Icing: 39
+L2760 Y+: 12
+L2768 Icing: 20, Choco: 20
+L2775 Y+: 10
+L2779 Swirl: 10, Y+: 20, Icing: 30
+L2783 Swirl: 8, Icing: 10, Y+: 12
+L2788 Popcorn: 7, Choco: 9, COL: 8
+L2792 R+: 30, Swirl: 30
+L2798 Swirl: 35
+L2801 Choco: 10, Icing: 12, Swirl: 20
+L2807 Y+: 15
+L2814 ST: 20
+L2820 Bomb: 40
+L2825 Y+: 12
+L2828 Popcorn: 3
+L2830 Waffle: 10
+L2832 Swirl: 18, Icing: 18
+L2834 Y+: 30
+L2838 Choco: 18, Y+: 9, Icing: 24
+L2842 R+: 7, Y+: 7, Swirl: 7
+L2845 Popcorn: 4, Icing: 20, Swirl: 24
+L2850 Y+: 25, Icing: 20
+L2852 Swirl: 53
+L2858 Icing: 55, Popcorn: 1
+L2862 Y+: 12
+L2869 Icing: 54, Swirl: 44
+L2874 Popcorn: 4, Swirl: 20, Choco: 21
+L2880 Waffle: 64
+L2881 Popcorn: 3
+L2882 B: 400, G: 400
+L2889 Swirl: 20
+L2891 Popcorn: 4, Y+: 20
+L2894 Y+: 21
+L2898 Icing: 215
+L2901 Y+: 12, Choco: 18, Swirl: 24
+L2904 Swirl: 12, Choco: 24, Icing: 48
+L2910 R: 60
+L2912 Choco: 18, Popcorn: 1, Icing: 54
+L2920 Y+: 13
+L2924 Choco: 24
+L2927 Choco: 30, Swirl: 13
+L2933 Y+: 14, Swirl: 28, Icing: 56
+L2935 Swirl: 25
+L2938 Swirl: 9
+L2944 Popcorn: 1, Swirl: 10, Icing: 20
+L2945 COL: 4
+L2947 Popcorn: 4
+L2955 Y+: 33, Icing: 20
+L2958 Swirl: 12
+L2962 Swirl: 30
+L2963 Icing: 42
+L2969 Icing: 4, Swirl: 12, Waffle: 28
+L2972 Y+: 5, Swirl: 4, Choco: 8
+L2975 Popcorn: 4, COL: 4
+L2976 WR: 25, B: 200, COL: 20
+L2982 Popcorn: 12
+L2989 WR: 18
+L2992 Swirl: 22, Icing: 20
+L2998 Swirl: 15, Y+: 15
+L3000 JF: 100
+L3003 Popcorn: 3
+L3004 Waffle: 45, Icing: 32, Swirl: 15
+L3007 Swirl: 21
+L3009 Popcorn: 4, Icing: 31
+L3011 Popcorn: 8
+L3017 Choco: 100
+L3020 Y+: 20
+L3022 Icing: 18, R+: 18, Y+: 18
+L3025 Swirl: 32, Icing: 62
+L3032 Popcorn: 6
+L3038 Popcorn: 6
+L3040 Choco: 50
+L3044 Bomb: 60
+L3047 Choco: 100, ST: 25
+L3049 Choco: 9, Icing: 27, Waffle: 15
+L3053 Choco: 10, Icing: 10
+L3057 Bomb: 60
+L3060 B: 50, G: 50
+L3062 JF: 15, Bomb: 30
+L3065 Swirl: 30
+L3066 Swirl: 20
+L3071 Popcorn: 3
+L3073 JF: 29, Bomb: 39, Icing: 49
+L3075 Icing: 96
+L3079 Icing: 36, Bomb: 18
+L3082 Bomb: 18
+L3085 Y+: 30, MagicMixer: 1
+L3087 Icing: 66, Swirl: 20
+L3092 Icing: 12, Choco: 14, Swirl: 16
+L3097 Choco: 8, Swirl: 16, Icing: 32
+L3101 Y+: 25, Swirl: 25
+L3104 Y+: 200
+L3107 Icing: 24, Swirl: 12, Choco: 6
+L3109 Swirl: 10, Choco: 8
+L3114 Choco: 18, Icing: 27, Y+: 8
+L3120 Bomb: 55
+L3129 Choco: 10, Y+: 12, Icing: 50
+L3132 Icing: 65, Swirl: 65
+L3134 Waffle: 48
+L3139 Y+: 11, R+: 11, Icing: 33
+L3142 Swirl: 28, R+: 12, Y+: 12
+L3144 Y+: 100
+L3146 Icing: 82
+L3148 Icing: 50
+L3151 Choco: 200
+L3154 Popcorn: 2, Icing: 48, Choco: 2
+L3157 Popcorn: 3
+L3171 Icing: 22, JF: 26, Bomb: 30
+L3176 Swirl: 36, Y+: 18, R+: 18
+L3178 Icing: 44
+L3181 Icing: 75
+L3184 Icing: 90, ERROR! (30): 2, JF: 40
+L3187 Bomb: 27, Choco: 27, Swirl: 27
+L3189 Icing: 60, Choco: 30
+L3193 Swirl: 30, G: 80
+L3197 Icing: 50
+L3199 Y+: 9, Icing: 40
+L3201 Bomb: 20, Swirl: 20, JF: 20
+L3203 Swirl: 18, Y+: 18, R+: 18
+L3205 COL: 10, Choco: 40
+L3211 JF: 18
+L3213 Y+: 15
+L3216 Bomb: 12
+L3220 Icing: 20
+L3222 Swirl: 12, Bomb: 12, JF: 6
+L3227 Choco: 30
+L3230 Icing: 32, JF: 36
+L3233 WR: 25
+L3235 Y+: 21, Icing: 21
+L3238 Y+: 10, ST: 20
+L3241 Popcorn: 9
+L3245 Y+: 20, O: 40, B: 40
+L3246 Icing: 18
+L3247 Bomb: 18
+L3251 Bomb: 22, Icing: 60
+L3254 Waffle: 72
+L3256 COL: 4
+L3259 Bomb: 20, Swirl: 30, Icing: 78
+L3262 R+: 12, Y+: 12
+L3270 Swirl: 24, Bomb: 24, JF: 24
+L3276 Icing: 69
+L3279 Y+: 15, R+: 15, P+: 15
+L3281 Swirl: 50, JF: 35
+L3285 Popcorn: 4, Choco: 28, Swirl: 20
+L3289 Choco: 15
+L3293 Icing: 76, Waffle: 65
+L3299 Icing: 84, Bomb: 22
+L3309 Swirl: 32, ST: 100
+L3313 Swirl: 28, Icing: 28
+L3316 Choco: 20, Bomb: 12, Icing: 36
+L3322 Y+: 20, R+: 20
+L3325 Choco: 98
+L3327 Y+: 25, Icing: 50
+L3330 Icing: 30, Swirl: 12
+L3335 Popcorn: 6, Icing: 54
+L3339 Bomb: 80
+L3343 Y+: 12, R+: 12, P+: 12
+L3348 Y+: 40
+L3352 Choco: 10, Swirl: 10, G: 30
+L3356 Choco: 8, Icing: 20, Swirl: 24
+L3358 Y+: 30
+L3361 COL: 65, Swirl: 65
+L3363 Icing: 52, JF: 30
+L3366 Swirl: 40, Bomb: 25
+L3370 Choco: 30, Icing: 30, Swirl: 30
+L3375 Bomb: 20
+L3379 Swirl: 18
+L3381 Choco: 15, Swirl: 27
+L3384 Popcorn: 1, WR: 13, COL: 4
+L3387 Choco: 30
+L3389 Icing: 96, JF: 26
+L3391 Icing: 33, Bomb: 33
+L3395 Icing: 96
+L3397 Icing: 64
+L3401 COL: 13
+L3403 Bomb: 180
+L3408 JF: 14, Bomb: 21, ST: 14
+L3411 Swirl: 20
+L3416 Y+: 25
+L3419 Swirl: 25, Popcorn: 1
+L3428 JF: 100
+L3430 Bomb: 120
+L3432 Bomb: 50
+L3435 Choco: 72
+L3437 Popcorn: 1, Swirl: 20
+L3440 Icing: 85
+L3441 Choco: 14
+L3447 R+: 14, Y+: 14
+L3450 Y+: 13
+L3451 Y+: 35
+L3452 Icing: 42, Choco: 22
+L3455 Y+: 55, Swirl: 40
+L3458 Y+: 30
+L3461 WR: 13, ST: 13, Icing: 120
+L3463 Icing: 50, Popcorn: 1
+L3467 R+: 18, Y+: 18, Swirl: 18
+L3469 Icing: 65
+L3472 Icing: 33
+L3474 Bomb: 32, Icing: 62
+L3477 R+: 12, Y+: 12
+L3480 Swirl: 27
+L3483 Popcorn: 4, Choco: 2
+L3486 MagicMixer: 2
+L3490 Icing: 63, R: 63, Swirl: 33
+L3491 Choco: 11, Icing: 71
+L3495 Choco: 15, Swirl: 36
+L3497 Bomb: 25
+L3498 Swirl: 80, Y+: 80
+L3504 Icing: 50, JF: 25
+L3507 Icing: 50, Waffle: 40
+L3508 Choco: 22, Waffle: 42, O: 44
+L3510 Choco: 40
+L3515 Choco: 20, Icing: 35
+L3516 Waffle: 125
+L3517 Swirl: 30, Bomb: 30, Icing: 30
+L3518 Icing: 50, Waffle: 75
+L3524 Icing: 105
+L3527 Icing: 29, Waffle: 126
+L3530 Waffle: 100
+L3533 ST: 20
+L3535 Icing: 61
+L3538 Icing: 70
+L3544 MagicMixer: 1
+L3547 Choco: 25, Bomb: 20, Swirl: 15
+L3549 R+: 15, Y+: 15
+L3553 Icing: 19, Waffle: 24
+L3556 O: 75, Choco: 50, Icing: 30
+L3564 R+: 14, Icing: 48
+L3567 Choco: 10, Swirl: 20
+L3569 Bomb: 50
+L3572 Bomb: 32, Swirl: 32
+L3574 CakeBomb: 2, Waffle: 50, Swirl: 35
+L3578 Popcorn: 5, Swirl: 25, JF: 50
+L3581 MagicMixer: 2, CakeBomb: 2
+L3584 Waffle: 25, Swirl: 7, Choco: 8
+L3587 JF: 30
+L3590 CakeBomb: 2, MagicMixer: 3
+L3593 Y+: 30
+L3597 Y+: 18, R+: 18, Swirl: 18
+L3599 Swirl: 60, JF: 30, WR: 10
+L3608 Y+: 18, R+: 18
+L3611 Choco: 8, Swirl: 22, Icing: 31
+L3614 Waffle: 40
+L3616 Waffle: 60
+L3620 Choco: 5, Bomb: 5, Swirl: 20
+L3622 Y+: 12, R+: 12
+L3624 Icing: 72, Waffle: 27
+L3628 Swirl: 15, Bomb: 10
+L3632 JF: 25, Choco: 40
+L3639 JF: 100, Waffle: 200
+L3642 COL: 6, ST: 6, WR: 6
+L3645 Waffle: 80, Bomb: 80
+L3648 CakeBomb: 2, Waffle: 107
+L3652 CakeBomb: 2, Icing: 20
+L3655 Popcorn: 6, COL: 6
+L3662 Popcorn: 9, Waffle: 96
+L3664 ST: 50, Icing: 10
+L3669 Y+: 3
+L3673 CakeBomb: 2, Y+: 6
+L3678 Bomb: 14, Waffle: 14
+L3683 Waffle: 30, Swirl: 30
+L3687 MagicMixer: 3
+L3689 CakeBomb: 2, Y+: 12, Swirl: 22
+L3691 Waffle: 40
+L3694 Popcorn: 6, Swirl: 24, Icing: 100
+L3697 Choco: 88
+L3701 JF: 25
+L3708 Icing: 32, Waffle: 22
+L3712 Popcorn: 9, JF: 30
+L3716 Popcorn: 4
+L3720 Waffle: 54
+L3728 MagicMixer: 3
+L3731 Choco: 20, Bomb: 20
+L3737 MagicMixer: 1, Choco: 25, Swirl: 30
+L3745 COL: 5, Bomb: 8, Icing: 50
+L3754 Choco: 15
+L3758 Swirl: 20, Popcorn: 4
+L3761 R+: 33, Y+: 33
+L3763 Bomb: 10, Swirl: 10, Waffle: 40
+L3764 R+: 28, Y+: 28
+L3770 COL: 5, Swirl: 120, Bomb: 777
+L3772 Swirl: 15
+L3776 Waffle: 25, Bomb: 12, Swirl: 27
+L3779 MultiChoco: 35, Waffle: 53
+L3781 R+: 8, Y+: 8
+L3784 Waffle: 5
+L3787 Waffle: 27
+L3788 Waffle: 64
+L3790 CakeBomb: 4, Waffle: 4
+L3794 Icing: 27, Popcorn: 3
+L3797 Icing: 54, Bomb: 9
+L3801 Y+: 27, R+: 27
+L3803 CakeBomb: 4, Waffle: 50, Bomb: 25
+L3807 JF: 25, Swirl: 90
+L3809 MagicMixer: 4
+L3815 Popcorn: 2, COL: 1, JF: 3
+L3817 Waffle: 20, Swirl: 20
+L3819 Y+: 16
+L3821 Icing: 75, Waffle: 71
+L3828 Y+: 15, Swirl: 15
+L3829 CakeBomb: 4
+L3833 MultiChoco: 10, ST: 10
+L3835 Bomb: 60, Waffle: 30
+L3836 Waffle: 45
+L3839 Popcorn: 1
+L3845 Popcorn: 4, ST: 22, Bomb: 30
+L3847 Waffle: 39
+L3849 Icing: 5
+L3852 Popcorn: 8, COL: 9, Waffle: 45
+L3854 Waffle: 120
+L3858 Bomb: 30
+L3859 Icing: 38
+L3864 Y+: 20
+L3866 Swirl: 60
+L3869 Icing: 6
+L3871 Icing: 44, ERROR! (32): 90
+L3874 MultiChoco: 24
+L3877 Swirl: 24, Waffle: 84
+L3881 Waffle: 33, Swirl: 14
+L3883 Swirl: 21, Bomb: 16
+L3888 O: 66, Y+: 6
+L3891 Waffle: 42, Bomb: 42
+L3892 COL: 15
+L3895 MagicMixer: 1
+L3898 WR: 60
+L3899 Swirl: 32, Icing: 42
+L3902 Popcorn: 2, Swirl: 12
+L3907 COL: 5, Y+: 35
+L3908 WR: 14, Icing: 64
+L3909 Y+: 7
+L3913 Waffle: 36, Icing: 72, Swirl: 10
+L3915 Waffle: 18
+L3918 Y+: 16, Swirl: 18
+L3919 Swirl: 23
+L3922 Waffle: 30, Swirl: 15
+L3923 Y+: 20, MultiChoco: 15
+L3925 Icing: 56
+L3927 MagicMixer: 8
+L3929 Icing: 30, Swirl: 20, Bomb: 10
+L3933 Waffle: 41, ERROR! (30): 1
+L3935 Popcorn: 14
+L3939 Choco: 14, Waffle: 20
+L3941 Waffle: 120
+L3942 Popcorn: 6
+L3945 MultiChoco: 18, Waffle: 24
+L3948 Waffle: 25, Choco: 4
+L3950 Bomb: 18, Swirl: 18, Waffle: 18
+L3954 Icing: 30, Waffle: 45, Choco: 20
+L3957 Waffle: 41
+L3959 Waffle: 56, Swirl: 36, Bomb: 16
+L3961 Icing: 142
+L3963 Icing: 32, Swirl: 25
+L3965 Popcorn: 4, COL: 4
+L3966 MagicMixer: 2, Swirl: 12
+L3969 Y+: 50
+L3970 CakeBomb: 2, Swirl: 20
+L3974 CakeBomb: 2, Popcorn: 3
+L3976 Swirl: 30, Bomb: 30, JF: 20
+L3978 Swirl: 15, Waffle: 30
+L3983 Swirl: 25
+L3987 Y+: 15
+L3988 CakeBomb: 4, Swirl: 7
+L3989 Waffle: 35
+L3991 Bomb: 20, Popcorn: 8
+L3992 Icing: 40
+L3994 Y+: 12
+L3999 Bomb: 15, Icing: 37
+L4000 Waffle: 44
+L4003 CakeBomb: 1, Bomb: 60
+L4004 Waffle: 40
+L4006 Swirl: 15, Waffle: 30
+L4008 Icing: 55
+L4014 Waffle: 25
+L4015 Swirl: 32
+L4018 Waffle: 16, G: 100, O: 100
+L4020 JF: 30, Waffle: 100, Icing: 15
+L4021 Waffle: 7
+L4025 Bomb: 15
+L4026 Waffle: 30
+L4030 ST: 30
+L4031 MultiChoco: 10, Y+: 20, Waffle: 30
+L4032 ST: 40
+L4034 Waffle: 20, Swirl: 20, Icing: 91
+L4037 MultiChoco: 38
+L4038 WR: 15, Icing: 122, Swirl: 10
+L4041 Waffle: 66
+L4042 Y+: 25
+L4045 Popcorn: 4, CakeBomb: 2, MagicMixer: 2
+L4048 CakeBomb: 2, Bomb: 10
+L4052 MultiChoco: 54
+L4053 Icing: 60, Swirl: 13
+L4058 Swirl: 20, Waffle: 35, Bomb: 15
+L4061 Bomb: 30
+L4063 Bomb: 40
+L4066 COL: 5
+L4067 Bomb: 7
+L4070 Waffle: 12, Swirl: 12
+L4073 COL: 7, Icing: 45
+L4076 Choco: 5
+L4078 Swirl: 20, Waffle: 40
+L4079 Choco: 13, MultiChoco: 10
+L4084 CakeBomb: 2, Choco: 40
+L4085 COL: 8
+L4087 Choco: 20, Icing: 40, Waffle: 30
+L4093 Swirl: 20, MagicMixer: 2
+L4096 Swirl: 10, Choco: 10
+L4097 Choco: 100
+L4107 Icing: 36, Waffle: 48
+L4109 Swirl: 20, Waffle: 20
+L4110 MultiChoco: 28, Waffle: 25
+L4113 Swirl: 14, Waffle: 24
+L4115 Swirl: 20, Waffle: 20
+L4117 R+: 15, Y+: 15, Waffle: 90
+L4121 Choco: 20, Waffle: 10
+L4123 Popcorn: 6
+L4125 Bomb: 30, MultiChoco: 30
+L4127 Icing: 162
+L4129 CakeBomb: 2, Waffle: 20
+L4132 Y+: 30, Swirl: 30
+L4133 MagicMixer: 2, MultiChoco: 8
+L4136 COL: 10, CakeBomb: 4
+L4138 MagicMixer: 2, JF: 25
+L4140 Bomb: 20, Swirl: 15, Waffle: 30
+L4142 Swirl: 28, Bomb: 38
+L4146 Swirl: 6, Popcorn: 3
+L4148 Popcorn: 1, Icing: 44
+L4150 MultiChoco: 27, Bomb: 10, Y+: 7
+L4153 Y+: 13
+L4156 Popcorn: 4, Swirl: 10
+L4158 Waffle: 16, Swirl: 12
+L4163 Popcorn: 2, Choco: 14, ST: 20
+L4165 Popcorn: 3
+L4167 CakeBomb: 2, Swirl: 30, Popcorn: 4
+L4169 CakeBomb: 2, Waffle: 54
+L4170 Choco: 11
+L4172 WR: 5, ST: 5
+L4175 Waffle: 100
+L4178 MagicMixer: 3
+L4180 COL: 14
+L4183 CakeBomb: 4, Waffle: 14
+L4186 Y+: 16
+L4189 Y+: 15, R+: 15
+L4191 CakeBomb: 4, Y+: 3, Waffle: 32
+L4194 R+: 15, Y+: 15
+L4200 Popcorn: 3, Waffle: 30
+L4202 CakeBomb: 4, MultiChoco: 12
+L4205 Choco: 15, Swirl: 15
+L4208 Swirl: 12, Waffle: 12, Choco: 6
+L4210 Bomb: 30, MultiChoco: 40
+L4212 Swirl: 33, Icing: 34
+L4216 Y+: 10, Swirl: 25
+L4217 Bomb: 30, Waffle: 40
+L4220 Choco: 5
+L4222 Waffle: 54
+L4224 Waffle: 36
+L4227 Waffle: 75
+L4230 CakeBomb: 6, Swirl: 16, Waffle: 16
+L4232 Bomb: 30, MultiChoco: 30
+L4233 B: 80, G: 80
+L4237 Swirl: 10, Bomb: 10
+L4240 Choco: 25
+L4242 Swirl: 50
+L4245 Swirl: 23, Icing: 72
+L4249 CakeBomb: 1, Waffle: 100
+L4251 Icing: 36
+L4254 JF: 75
+L4257 Waffle: 102
+L4260 Y+: 38
+L4263 Waffle: 23
+L4265 MultiChoco: 3, Waffle: 16
+L4269 Y+: 2, R+: 2, Waffle: 60
+L4271 Bomb: 100, Choco: 50
+L4275 MagicMixer: 3, Icing: 70
+L4277 Waffle: 92
+L4279 MultiChoco: 16, Waffle: 36
+L4281 Popcorn: 3, Icing: 20
+L4285 Waffle: 35
+L4287 Y+: 22
+L4289 Waffle: 6, Icing: 8
+L4291 WR: 10
+L4293 Icing: 68
+L4298 Popcorn: 3, Swirl: 16
+L4300 Waffle: 140, ST: 20, WR: 20
+L4304 Choco: 25, Y+: 20
+L4309 CakeBomb: 2, Popcorn: 3
+L4312 CakeBomb: 1, Popcorn: 6, COL: 10
+L4314 Swirl: 12
+L4317 Waffle: 40, Choco: 8
+L4319 MagicMixer: 4, Bomb: 25, R+: 3
+L4321 Swirl: 5
+L4324 CakeBomb: 2, Waffle: 75
+L4325 MultiChoco: 40
+L4326 Waffle: 45
+L4327 Choco: 5, Icing: 34, Swirl: 10
+L4330 Y+: 10
+L4333 Waffle: 26
+L4336 Choco: 10
+L4337 CakeBomb: 2
+L4338 MagicMixer: 6, Icing: 91
+L4341 Y+: 35
+L4344 CakeBomb: 2, Waffle: 50, Choco: 20
+L4345 Swirl: 18
+L4347 Swirl: 18
+L4350 MultiChoco: 12, Bomb: 42
+L4354 COL: 15
+L4356 Waffle: 45, MultiChoco: 5, Swirl: 25
+L4359 CakeBomb: 2
+L4360 Waffle: 75
+L4362 Y+: 16, JF: 12
+L4366 Swirl: 25
+L4370 Y+: 40
+L4371 JF: 7
+L4373 Swirl: 12, Bomb: 12, CakeBomb: 2
+L4375 Bomb: 20
+L4377 Choco: 10
+L4381 Waffle: 45
+L4386 Icing: 10, Waffle: 21, Bomb: 10
+L4389 Choco: 25
+L4392 Waffle: 53, COL: 3
+L4394 CakeBomb: 3, Popcorn: 2
+L4396 Y+: 18
+L4397 Y+: 17
+L4399 JF: 10
+L4400 R+: 35
+L4402 MagicMixer: 2
+L4408 R+: 21
+L4410 ERROR! (27): 194
+L4411 ERROR! (27): 199, P: 219
+L4419 CakeBomb: 2, Bomb: 15
+L4420 P+: 22
+L4423 Choco: 7, MultiChoco: 7
+L4424 Waffle: 40, MultiChoco: 60
+L4426 Y+: 18
+L4429 Bomb: 20, Choco: 6
+L4433 Waffle: 10, Bomb: 15, Swirl: 10
+L4436 Waffle: 105, Icing: 45
+L4438 Popcorn: 2, Waffle: 20
+L4440 Y+: 14
+L4441 Waffle: 65
+L4443 Swirl: 60
+L4445 Bomb: 40, Swirl: 30
+L4448 Popcorn: 3, ERROR! (27): 71
+L4452 Icing: 65
+L4455 ST: 6, Waffle: 3
+L4459 Swirl: 65
+L4460 Icing: 95
+L4462 JF: 60, Icing: 30
+L4465 Waffle: 36
+L4468 CakeBomb: 3, Swirl: 25
+L4471 Y+: 15, Choco: 40
+L4476 Waffle: 138
+L4479 Swirl: 14, Waffle: 15
+L4481 Bomb: 20, Waffle: 35
+L4483 Waffle: 44
+L4485 R+: 12, Y+: 12
+L4487 Icing: 47
+L4489 CakeBomb: 2, COL: 12
+L4491 Bomb: 30
+L4494 Icing: 95, P: 70, Swirl: 12
+L4499 Waffle: 86
+L4503 JF: 9, CakeBomb: 2
+L4505 Y+: 65
+L4507 Choco: 35
+L4511 Icing: 189
+L4513 ERROR! (27): 87
+L4514 Y+: 5, Bomb: 20, Swirl: 25
+L4516 Bomb: 6
+L4519 ERROR! (27): 10, Waffle: 30
+L4521 Waffle: 60, CakeBomb: 2
+L4523 Swirl: 10, Bomb: 25, MultiChoco: 54
+L4526 MultiChoco: 12, Waffle: 24
+L4528 Swirl: 25
+L4530 Waffle: 20, Icing: 44
+L4532 MultiChoco: 45
+L4535 Swirl: 14, Waffle: 48
+L4538 MagicMixer: 2, Waffle: 32, JF: 10
+L4540 Popcorn: 2, Swirl: 20, Waffle: 20
+L4542 Y+: 17
+L4546 Choco: 20, Bomb: 1
+L4548 Swirl: 15, Waffle: 30
+L4552 COL: 25
+L4559 MagicMixer: 2, JF: 8
+L4561 Y+: 15, MultiChoco: 30
+L4567 Waffle: 24
+L4568 Choco: 13
+L4570 Waffle: 24, Icing: 41
+L4576 Y+: 20
+L4579 MagicMixer: 3, ST: 15, WR: 26
+L4581 Waffle: 18
+L4583 Y+: 25, Swirl: 20
+L4586 ERROR! (27): 90, Waffle: 60, Swirl: 30
+L4591 CakeBomb: 2, Popcorn: 4
+L4594 MagicMixer: 1, COL: 10, Y+: 125
+L4596 ERROR! (28): 47
+L4599 Y+: 17, Waffle: 50
+L4604 Swirl: 15
+L4608 Y+: 14, R+: 11
+L4610 Bomb: 12
+L4613 Swirl: 45, Waffle: 75
+L4616 Swirl: 25
+L4618 CakeBomb: 2, Waffle: 42
+L4620 Swirl: 10, Waffle: 10
+L4622 Popcorn: 1, Icing: 23
+L4625 Y+: 25
+L4628 Waffle: 14, Icing: 34
+L4630 JF: 10, Bomb: 25
+L4632 Bomb: 30, Swirl: 30
+L4636 ERROR! (28): 33, Bomb: 33
+L4638 Swirl: 40
+L4642 Swirl: 12, MagicMixer: 1, Waffle: 23
+L4645 MultiChoco: 33, Icing: 33, ERROR! (28): 100
+L4648 Bomb: 60
+L4649 Swirl: 15, Waffle: 72
+L4650 Waffle: 22
+L4651 Waffle: 54, Swirl: 20
+L4655 B: 130, G: 130, O: 130
+L4658 ERROR! (27): 48, Bomb: 28, Swirl: 18
+L4660 Popcorn: 6
+L4661 Swirl: 18, WR: 10, Waffle: 54
+L4663 Popcorn: 2, Waffle: 26
+L4666 CakeBomb: 2, MultiChoco: 30, Waffle: 30
+L4670 Swirl: 20, MultiChoco: 40
+L4672 CakeBomb: 2, Swirl: 22, Waffle: 22
+L4674 Choco: 12
+L4678 Bomb: 54
+L4682 Y+: 36
+L4684 Y+: 8, MultiChoco: 50, Waffle: 40
+L4687 Waffle: 36, Swirl: 20
+L4688 Swirl: 40, Bomb: 40
+L4690 Y+: 50
+L4693 Swirl: 32
+L4695 Y+: 10, Waffle: 60
+L4698 Swirl: 10, Popcorn: 1, Icing: 48
+L4702 Bomb: 40
+L4703 MultiChoco: 24, Y+: 1
+L4704 Swirl: 15
+L4708 ERROR! (32): 105
+L4709 Waffle: 66
+L4711 Icing: 50
+L4715 Waffle: 20, Icing: 25
+L4716 JF: 10
+L4721 Swirl: 35
+L4724 ERROR! (28): 84
+L4726 Swirl: 24
+L4732 Popcorn: 5, Swirl: 13
+L4735 Waffle: 120
+L4736 MultiChoco: 60, Popcorn: 2
+L4738 CakeBomb: 2
+L4741 Swirl: 30, ST: 45, Waffle: 60
+L4744 Choco: 13
+L4746 Popcorn: 5, Icing: 67
+L4751 Swirl: 60, Waffle: 35
+L4754 MagicMixer: 4
+L4756 Popcorn: 6, Icing: 8
+L4758 Bomb: 15
+L4762 Popcorn: 5, Swirl: 60
+L4764 Waffle: 100
+L4766 Icing: 20, Waffle: 58, MagicMixer: 6
+L4768 Y+: 35
+L4770 Icing: 148
+L4775 Choco: 12, MultiChoco: 38, JF: 18
+L4778 MultiChoco: 93, Icing: 24
+L4779 Bomb: 170, Swirl: 17
+L4780 MultiChoco: 25, ERROR! (28): 25
+L4783 CakeBomb: 2, JF: 30
+L4784 ERROR! (27): 44, Choco: 15
+L4787 Y+: 25, Swirl: 25
+L4792 Icing: 58, CakeBomb: 1, Popcorn: 3
+L4795 Popcorn: 4
+L4797 Swirl: 20, MultiChoco: 33, Waffle: 22
+L4798 Bomb: 96
+L4800 Icing: 20, Y+: 35
+L4802 ERROR! (28): 30, Bomb: 20
+L4805 Bomb: 40
+L4807 ERROR! (27): 90, Icing: 32
+L4810 MultiChoco: 15
+L4812 Waffle: 40, WR: 30
+L4813 Waffle: 20, Swirl: 40
+L4815 Waffle: 35
+L4817 Popcorn: 4, Waffle: 94, ERROR! (27): 30
+L4820 Icing: 45
+L4822 Swirl: 24, Popcorn: 1
+L4825 Waffle: 30, ERROR! (27): 30
+L4827 COL: 2, Bomb: 40
+L4830 Y+: 30
+L4832 Swirl: 22, Popcorn: 3
+L4835 Waffle: 27
+L4837 Y+: 34, MultiChoco: 14, Swirl: 24
+L4840 CakeBomb: 2, Y+: 25
+L4842 ERROR! (28): 19, Bomb: 35
+L4843 Bomb: 90, MultiChoco: 40
+L4845 Bomb: 9
+L4847 WR: 50
+L4850 Waffle: 10
+L4852 Waffle: 50
+L4855 Bomb: 25, MultiChoco: 5, Choco: 5
+L4858 Icing: 20
+L4861 Popcorn: 2, ERROR! (28): 78
+L4863 Y+: 25
+L4867 Waffle: 74
+L4869 CakeBomb: 1
+L4873 Swirl: 10, Waffle: 32
+L4876 COL: 17
+L4878 Swirl: 20, ERROR! (27): 46, MagicMixer: 2
+L4881 Popcorn: 6
+L4883 Popcorn: 5, Swirl: 100
+L4885 JF: 15
+L4890 Y+: 35, WR: 20
+L4893 Swirl: 50, Icing: 20
+L4899 Choco: 50, MagicMixer: 2
+L4903 Icing: 46
+L4904 Swirl: 10
+L4906 ERROR! (32): 80, P: 150, Icing: 60
+L4909 Y+: 18, Waffle: 56, P: 40
+L4911 Icing: 35
+L4915 G: 150
+L4917 Waffle: 50
+L4919 Popcorn: 8
+L4921 CakeBomb: 2, Waffle: 64
+L4924 Swirl: 17, Popcorn: 8
+L4927 Waffle: 35, Icing: 62
+L4929 MultiChoco: 8, Choco: 8, Swirl: 50
+L4933 Y+: 25
+L4935 Swirl: 8
+L4938 Swirl: 15, Popcorn: 10
+L4941 CakeBomb: 3, Waffle: 30
+L4944 ERROR! (28): 99
+L4948 Y+: 30
+L4950 ERROR! (28): 36
+L4952 CakeBomb: 2, Swirl: 50
+L4955 Icing: 52, ERROR! (27): 40
+L4959 MultiChoco: 34, Bomb: 44
+L4961 Icing: 95
+L4964 Popcorn: 6, Waffle: 15
+L4966 ERROR! (32): 80
+L4967 JF: 10
+L4969 ERROR! (28): 36, Waffle: 76
+L4972 ST: 15, Y+: 25
+L4977 Choco: 9
+L4980 Bomb: 20
+L4982 WR: 19, Swirl: 28
+L4985 CakeBomb: 2, MultiChoco: 35
+L4987 CakeBomb: 3, Choco: 12
+L4992 CakeBomb: 4
+L4993 Waffle: 54, Swirl: 14
+L4997 CakeBomb: 2, Swirl: 24
+L4999 R+: 12, Y+: 12
+L5000 ERROR! (30): 5, Waffle: 72, Bomb: 50
+L5002 CakeBomb: 3, MultiChoco: 9
+L5007 MultiChoco: 30
+L5012 Waffle: 82
+L5015 CakeBomb: 4
+L5017 CakeBomb: 2, Popcorn: 2
+L5020 Waffle: 50
+L5021 Popcorn: 8, Swirl: 50, Bomb: 50
+L5025 Swirl: 50, Bomb: 85
+L5027 Waffle: 22, Swirl: 22
+L5030 CakeBomb: 8
+L5032 Y+: 10
+L5037 Swirl: 30
+L5039 CakeBomb: 3, Waffle: 180
+L5040 MagicMixer: 5, ERROR! (28): 76
+L5042 ST: 15, Swirl: 45, Waffle: 45
+L5045 CakeBomb: 3
+L5047 Swirl: 32, Y+: 30
+L5050 CakeBomb: 2
+L5057 Swirl: 25, Waffle: 25, ERROR! (28): 50
+L5058 MultiChoco: 32, ERROR! (27): 102
+L5061 Popcorn: 6, ERROR! (27): 57
+L5064 Waffle: 72
+L5067 Waffle: 117, ERROR! (28): 52
+L5069 B: 100, G: 100
+L5073 CakeBomb: 4, Popcorn: 9
+L5077 Popcorn: 15
+L5082 ERROR! (27): 54
+L5085 Waffle: 40, ERROR! (28): 70
+L5087 Choco: 15
+L5090 CakeBomb: 2
+L5092 R+: 5, Y+: 4
+L5093 Icing: 62, Waffle: 60, Swirl: 7
+L5094 Waffle: 24, ERROR! (28): 48
+L5098 Waffle: 55
+L5101 Swirl: 24
+L5103 CakeBomb: 1, Icing: 74
+L5107 Icing: 54, Popcorn: 4
+L5109 Waffle: 36
+L5113 ERROR! (30): 4
+L5115 Y+: 50
+L5117 Swirl: 10
+L5120 Waffle: 72, Icing: 27
+L5122 G: 250
+L5124 Popcorn: 8
+L5127 G: 100
+L5129 B: 220, MultiChoco: 35
+L5130 Waffle: 40, Swirl: 20
+L5132 Icing: 56, Waffle: 80
+L5135 MultiChoco: 66, Y+: 66
+L5137 Bomb: 500
+L5140 Swirl: 55
+L5144 Y+: 8, R: 80
+L5147 Y+: 10, P: 100
+L5148 ERROR! (28): 24
+L5152 WR: 12, ERROR! (28): 54, MultiChoco: 32
+L5155 Swirl: 40
+L5157 Waffle: 75, B: 100
+L5158 Icing: 53, Popcorn: 5
+L5160 ERROR! (28): 36, Swirl: 27
+L5162 Choco: 15
+L5165 Waffle: 50
+L5168 MagicMixer: 4
+L5170 JF: 40
+L5173 Waffle: 65
+L5174 Swirl: 45
+L5177 Waffle: 88, ERROR! (27): 76, Icing: 43
+L5181 Swirl: 18, Icing: 45
+L5184 ERROR! (32): 149, Icing: 42
+L5186 Choco: 9
+L5187 MultiChoco: 51, Waffle: 40, Icing: 72
+L5190 Icing: 50, Bomb: 50
+L5191 Bomb: 2
+L5192 Icing: 85, MultiChoco: 20
+L5195 MultiChoco: 70
+L5197 MagicMixer: 1, Swirl: 8
+L5200 Waffle: 45, CakeBomb: 4
+L5201 Icing: 63
+L5204 Bomb: 16, MultiChoco: 58
+L5205 B: 70, Icing: 44
+L5208 CakeBomb: 6, Swirl: 18
+L5210 Icing: 108, Swirl: 38
+L5213 Y+: 25
+L5216 Swirl: 50
+L5219 Waffle: 33
+L5222 Icing: 50, ERROR! (28): 30, Waffle: 15
+L5225 Swirl: 10, Icing: 10
+L5228 P: 155, MultiChoco: 75
+L5232 Choco: 10, Bomb: 40
+L5235 Y+: 13, Swirl: 32
+L5238 Waffle: 40, CakeBomb: 2
+L5242 Swirl: 20
+L5244 ERROR! (28): 123
+L5247 COL: 5, Swirl: 50
+L5249 Popcorn: 4
+L5250 Swirl: 12
+L5252 Icing: 35, Waffle: 40
+L5255 Popcorn: 4
+L5259 Icing: 63, Waffle: 18
+L5261 CakeBomb: 3
+L5264 JF: 20, Bomb: 20, Waffle: 20
+L5265 ST: 30, Swirl: 10
+L5268 ERROR! (27): 92
+L5271 G: 100, ERROR! (28): 97
+L5273 CakeBomb: 4
+L5274 CakeBomb: 1, Waffle: 1, Swirl: 8
+L5277 Waffle: 93, JF: 13
+L5280 MagicMixer: 2
+L5282 Waffle: 60
+L5286 Waffle: 65, ERROR! (27): 28
+L5289 P: 130, Waffle: 50
+L5292 Popcorn: 3, Icing: 54
+L5295 P: 200
+L5298 CakeBomb: 2, Swirl: 4
+L5299 Waffle: 87
+L5302 Choco: 8, Swirl: 34, Bomb: 30
+L5305 Waffle: 29, ERROR! (27): 153
+L5309 Icing: 40, Waffle: 26
+L5311 MagicMixer: 1, MultiChoco: 10, Waffle: 30
+L5313 MultiChoco: 72
+L5317 ERROR! (27): 120, Waffle: 77
+L5320 Waffle: 64
+L5322 Swirl: 30
+L5323 Bomb: 76
+L5325 Swirl: 50, Waffle: 75
+L5327 Swirl: 22, Icing: 66
+L5330 Icing: 45
+L5331 CakeBomb: 4, B: 75
+L5334 CakeBomb: 4
+L5336 Icing: 34, Swirl: 20
+L5337 Icing: 86
+L5341 ST: 115
+L5342 Choco: 20, O: 150
+L5346 Popcorn: 4, Icing: 58
+L5349 CakeBomb: 1
+L5350 Waffle: 32, Icing: 56
+L5354 Swirl: 20, Waffle: 36
+L5355 Swirl: 36
+L5357 Icing: 20, MultiChoco: 20
+L5361 ERROR! (32): 54
+L5364 JF: 30, CakeBomb: 2
+L5367 Swirl: 10, Bomb: 10
+L5370 CakeBomb: 4
+L5371 Icing: 64
+L5374 CakeBomb: 2, Popcorn: 2
+L5377 Y+: 10, Swirl: 30
+L5380 Waffle: 96, JF: 10
+L5382 Waffle: 65, MultiChoco: 70
+L5383 CakeBomb: 2, Icing: 55, Waffle: 80
+L5385 Waffle: 95
+L5387 Y+: 10, MagicMixer: 4
+L5390 Y+: 16
+L5393 Y+: 1, Swirl: 12
+L5394 Waffle: 68, Popcorn: 8
+L5398 Choco: 25, Waffle: 64
+L5402 MultiChoco: 62
+L5403 Icing: 32
+L5407 Popcorn: 3
+L5410 CakeBomb: 2
+L5414 ERROR! (28): 11
+L5416 Waffle: 146
+L5418 ERROR! (28): 9
+L5420 Waffle: 116, Swirl: 32
+L5422 Popcorn: 4, Waffle: 40
+L5425 ERROR! (28): 19, Popcorn: 3
+L5427 Y+: 16, Swirl: 25
+L5432 Icing: 135
+L5435 JF: 2, MultiChoco: 34
+L5438 MagicMixer: 4, Icing: 72
+L5439 Waffle: 100, Swirl: 8
+L5440 Y+: 4
+L5443 R+: 75
+L5445 Swirl: 35, Icing: 32
+L5448 Waffle: 45, ST: 10, WR: 10
+L5450 Choco: 20, MultiChoco: 40
+L5453 G: 300
+L5454 Popcorn: 9
+L5456 Bomb: 100
+L5459 ERROR! (27): 44
+L5461 MagicMixer: 2, MultiChoco: 33, ERROR! (27): 66
+L5465 Waffle: 61
+L5466 Waffle: 36
+L5469 MagicMixer: 3, ERROR! (27): 115
+L5472 O: 150, P: 150
+L5473 Waffle: 57, MagicMixer: 3
+L5475 CakeBomb: 2
+L5478 MagicMixer: 3, Waffle: 20, Icing: 100
+L5481 Waffle: 28, Icing: 90
+L5485 Popcorn: 4, MagicMixer: 5, COL: 6
+L5488 Choco: 15, ST: 45
+L5491 Choco: 40, ST: 17
+L5492 COL: 2
+L5495 Swirl: 38
+L5496 Popcorn: 2, MultiChoco: 16
+L5501 MagicMixer: 3, ERROR! (28): 30
+L5506 O: 50, Icing: 27
+L5507 Icing: 22, Swirl: 20
+L5511 Waffle: 26
+L5512 Icing: 3, ERROR! (28): 46
+L5517 Swirl: 24
+L5521 Choco: 12, Waffle: 45, Icing: 36
+L5522 Popcorn: 8
+L5526 R+: 1
+L5528 CakeBomb: 4
+L5530 Icing: 88, ERROR! (27): 22
+L5532 B: 99, R+: 2, Y+: 3
+L5540 ST: 24, Waffle: 106
+L5544 Popcorn: 4, Icing: 87
+L5546 Icing: 145, Waffle: 40
+L5547 Swirl: 9, Choco: 9, Waffle: 9
+L5550 Waffle: 101
+L5551 ERROR! (28): 100
+L5552 Waffle: 30
+L5558 Y+: 10, R+: 10
+L5560 ERROR! (28): 73
+L5563 Waffle: 25
+L5565 Icing: 50
+L5568 CakeBomb: 4, ERROR! (27): 117
+L5570 Popcorn: 9, MultiChoco: 39
+L5572 Choco: 150
+L5575 Icing: 40, Waffle: 72
+L5576 JF: 40, Bomb: 60
+L5580 Bomb: 4
+L5582 R+: 45, Y+: 45
+L5585 JF: 50, Bomb: 25
+L5586 Icing: 10, ERROR! (27): 30
+L5588 CakeBomb: 1, Swirl: 36
+L5590 Waffle: 50, CakeBomb: 1, Swirl: 12
+L5591 R+: 9, ERROR! (27): 135
+L5596 Icing: 45, ERROR! (28): 64
+L5597 Popcorn: 8
+L5600 Choco: 20
+L5603 CakeBomb: 2, Bomb: 4, Swirl: 15
+L5605 G: 150, CakeBomb: 2
+L5608 CakeBomb: 2
+L5610 Waffle: 25
+L5613 Y+: 8, MagicMixer: 1
+L5615 JF: 54
+L5617 Y+: 6
+L5620 Bomb: 18
+L5624 Bomb: 9, Waffle: 31
+L5627 MultiChoco: 30
+L5630 MultiChoco: 35, Bomb: 25
+L5632 Y+: 10
+L5635 Waffle: 9
+L5639 CakeBomb: 2, JF: 30
+L5642 Icing: 140, ST: 26, Popcorn: 6
+L5645 Icing: 85
+L5648 G: 300, B: 300
+L5649 Icing: 45
+L5652 ST: 10, Swirl: 9
+L5655 JF: 18, ERROR! (28): 40
+L5657 Waffle: 126
+L5662 COL: 2
+L5664 Icing: 147, Swirl: 9
+L5667 WR: 10
+L5668 Y+: 4, ERROR! (28): 37, Swirl: 30
+L5671 Waffle: 100
+L5673 Y+: 22
+L5677 ERROR! (29): 112
+L5680 ERROR! (29): 153
+L5681 ERROR! (29): 171
+L5684 Y+: 24
+L5687 ERROR! (29): 135, R: 95, Choco: 80
+L5690 Icing: 57, Popcorn: 3
+L5692 Icing: 56, Swirl: 20
+L5695 Bomb: 8, Waffle: 25
+L5697 Bomb: 20
+L5700 MultiChoco: 65
+L5703 ERROR! (29): 145
+L5707 COL: 10
+L5709 Bomb: 40, Swirl: 24
+L5713 Choco: 10
+L5715 B: 150, G: 150
+L5719 Icing: 132, WR: 12
+L5723 Waffle: 70
+L5726 JF: 40, ERROR! (27): 72
+L5730 Swirl: 10, Waffle: 62
+L5731 ERROR! (29): 82, Icing: 77
+L5733 Bomb: 30, Popcorn: 6
+L5737 Popcorn: 11
+L5740 Bomb: 20, Waffle: 50
+L5745 Swirl: 10, ERROR! (29): 35, Icing: 50
+L5746 Waffle: 69
+L5750 Popcorn: 8, Icing: 74
+L5752 Bomb: 50
+L5754 Y+: 10, ST: 10
+L5759 ST: 30
+L5761 WR: 30, Icing: 78
+L5763 ERROR! (27): 30, Popcorn: 9, ERROR! (29): 80
+L5767 Popcorn: 2, MultiChoco: 18
+L5769 Icing: 127
+L5773 G: 150, P: 150
+L5775 Swirl: 40, JF: 20
+L5779 Waffle: 65
+L5781 Bomb: 15, Waffle: 30, Swirl: 15
+L5784 Swirl: 10, Waffle: 66
+L5789 MagicMixer: 3, CakeBomb: 2, Swirl: 21
+L5793 MultiChoco: 12, Y+: 20
+L5795 Waffle: 90, Swirl: 22
+L5797 ERROR! (27): 43, ERROR! (28): 41
+L5802 Bomb: 20, ST: 28
+L5805 Popcorn: 5
+L5808 Swirl: 15, Waffle: 30
+L5809 Icing: 45
+L5813 Waffle: 120
+L5816 Y+: 15
+L5819 ERROR! (28): 90
+L5822 Icing: 50, Bomb: 15, ERROR! (28): 24
+L5824 ST: 20
+L5828 Icing: 156
+L5829 COL: 10, Icing: 73
+L5832 MagicMixer: 4, Icing: 50
+L5835 Swirl: 35, Waffle: 63, JF: 20
+L5837 ST: 20
+L5841 JF: 40, Swirl: 15
+L5844 CakeBomb: 4, Swirl: 40
+L5847 MagicMixer: 2, Icing: 48, JF: 70
+L5849 ERROR! (28): 71, Popcorn: 2
+L5851 JF: 15, ERROR! (28): 60
+L5854 Y+: 14
+L5857 Icing: 30, Popcorn: 3, Y+: 15
+L5860 Icing: 26
+L5862 WR: 15, Waffle: 14, Icing: 100
+L5865 Bomb: 50
+L5868 CakeBomb: 8, Icing: 74
+L5870 WR: 20, Icing: 82, Waffle: 21
+L5871 Icing: 51
+L5873 Icing: 97
+L5874 MagicMixer: 7, Waffle: 69
+L5877 B: 100, Popcorn: 2
+L5878 Waffle: 33
+L5879 JF: 30, ST: 30, Icing: 72
+L5880 Waffle: 27, Icing: 50
+L5882 MagicMixer: 3
+L5884 Swirl: 16, Choco: 9, Waffle: 3
+L5885 Waffle: 37
+L5887 Swirl: 7, Waffle: 22
+L5889 Popcorn: 2
+L5890 Icing: 90, Swirl: 20
+L5893 CakeBomb: 2, Popcorn: 4
+L5896 Icing: 245
+L5897 Choco: 23, ERROR! (27): 36, Swirl: 20
+L5900 Popcorn: 1, Icing: 88
+L5902 Waffle: 18
+L5903 Icing: 88, ERROR! (29): 100
+L5906 Waffle: 58
+L5907 Bomb: 54
+L5909 R+: 75
+L5910 ERROR! (29): 48, Swirl: 8, Waffle: 8
+L5913 Waffle: 137
+L5916 Popcorn: 6, ERROR! (29): 40
+L5917 CakeBomb: 2
+L5918 Icing: 131
+L5921 ERROR! (29): 162
+L5922 Icing: 61
+L5924 Waffle: 24, ERROR! (29): 32
+L5925 Popcorn: 8
+L5928 Bomb: 30
+L5930 Waffle: 12
+L5931 Swirl: 33
+L5932 Icing: 86
+L5936 Waffle: 27, Icing: 50
+L5939 Waffle: 24, Swirl: 12
+L5940 Waffle: 44, Icing: 14
+L5943 ERROR! (29): 78, MultiChoco: 28
+L5944 Waffle: 24, Icing: 61
+L5946 MagicMixer: 1, Icing: 56, Waffle: 32
+L5947 Bomb: 10
+L5949 Icing: 75
+L5950 Popcorn: 5, Icing: 55
+L5953 Icing: 45
+L5956 Waffle: 27
+L5960 ERROR! (29): 62
+L5962 ERROR! (29): 45
+L5963 Bomb: 16, Waffle: 4, Choco: 4
+L5966 ERROR! (29): 155
+L5969 Waffle: 40
+L5970 MagicMixer: 2, MultiChoco: 10, Icing: 77
+L5973 Popcorn: 5, MagicMixer: 2
+L5975 Waffle: 50, Choco: 15
+L5978 Y+: 40
+L5981 Waffle: 30, MagicMixer: 3
+L5983 Choco: 18, Waffle: 84
+L5987 Popcorn: 4, JF: 10
+L5988 ERROR! (29): 84
+L5991 B: 40, G: 30, P: 30
+L5994 ERROR! (29): 80, Waffle: 50
+L5995 Y+: 16, COL: 6, ERROR! (31): 168
+L5996 Y+: 25, ERROR! (29): 130
+L5999 R+: 12
+L6001 Swirl: 48
+L6004 MagicMixer: 8, JF: 80
+L6005 Swirl: 43
+L6007 Waffle: 54, ERROR! (29): 54
+L6008 CakeBomb: 3, Swirl: 6
+L6011 Waffle: 25, Swirl: 15
+L6012 Swirl: 15, ERROR! (29): 78
+L6014 CakeBomb: 4
+L6015 Waffle: 16, Icing: 68
+L6018 Icing: 123
+L6020 Icing: 55, ERROR! (28): 136
+L6021 Swirl: 22
+L6022 Icing: 75
+L6026 Icing: 65
+L6029 Swirl: 9
+L6030 Waffle: 50, Icing: 93
+L6033 ERROR! (27): 90, Popcorn: 6
+L6034 Popcorn: 5, ERROR! (29): 58, Icing: 48
+L6037 Icing: 40, MultiChoco: 27
+L6038 Waffle: 48
+L6041 Y+: 17
+L6042 Waffle: 100, MagicMixer: 2
+L6044 COL: 12, ST: 40
+L6045 MagicMixer: 1, Swirl: 12, MultiChoco: 24
+L6048 ERROR! (27): 63, Waffle: 12
+L6050 Bomb: 17, MultiChoco: 48
+L6051 CakeBomb: 2, Waffle: 120
+L6052 Icing: 134
+L6056 Popcorn: 4, Waffle: 25
+L6059 Choco: 3
+L6060 Popcorn: 1, CakeBomb: 4, Swirl: 8
+L6063 JF: 30, Swirl: 32
+L6064 MagicMixer: 7
+L6066 ERROR! (29): 50
+L6067 Icing: 40, Waffle: 40, Swirl: 30
+L6068 Waffle: 42
+L6071 Popcorn: 4, ERROR! (29): 75
+L6073 Waffle: 24, Swirl: 18
+L6077 Waffle: 62
+L6078 MagicMixer: 6, Waffle: 33
+L6079 COL: 30
+L6081 Swirl: 20, Bomb: 10, Icing: 28
+L6084 Y+: 15
+L6085 Bomb: 67
+L6086 MultiChoco: 35, Choco: 18
+L6089 Y+: 20, Swirl: 20, Waffle: 20
+L6091 Waffle: 44
+L6094 ERROR! (29): 27, Waffle: 14
+L6095 Swirl: 27, ERROR! (29): 39
+L6097 Y+: 5
+L6099 Y+: 32, R: 64, B: 64
+L6102 Icing: 12, MagicMixer: 4
+L6103 ERROR! (27): 156
+L6104 Popcorn: 4, Waffle: 54
+L6107 Popcorn: 7
+L6110 Icing: 60, Swirl: 45
+L6113 ERROR! (28): 70
+L6114 Icing: 32
+L6116 Icing: 152
+L6119 ERROR! (29): 64, Popcorn: 4
+L6121 Icing: 55, ERROR! (28): 60
+L6124 Waffle: 140
+L6125 Y+: 45
+L6127 Popcorn: 3, Waffle: 18
+L6130 Waffle: 60
+L6135 Choco: 40
+L6137 Swirl: 18, JF: 18
+L6140 MagicMixer: 1, CakeBomb: 2
+L6142 ERROR! (27): 216
+L6143 R+: 10, Icing: 20, Y+: 8
+L6146 Popcorn: 7
+L6147 Popcorn: 6, ST: 8, WR: 8
+L6149 Waffle: 15, Swirl: 16
+L6150 Waffle: 111
+L6153 Waffle: 8
+L6155 Swirl: 8, P: 100
+L6156 Y+: 4
+L6157 ERROR! (29): 30
+L6160 ERROR! (27): 60, Swirl: 30
+L6162 Waffle: 60
+L6163 CakeBomb: 4, ERROR! (27): 142, MagicMixer: 1
+L6164 Waffle: 20, Swirl: 10
+L6167 Icing: 60
+L6168 Icing: 115
+L6170 MagicMixer: 4, Swirl: 36
+L6172 MagicMixer: 2
+L6173 MultiChoco: 50
+L6177 Popcorn: 5
+L6178 Icing: 20
+L6180 COL: 4
+L6181 ERROR! (28): 96
+L6182 Y+: 6, Icing: 35
+L6184 ERROR! (28): 50
+L6187 ERROR! (31): 120, Icing: 92
+L6190 Y+: 16
+L6195 Popcorn: 6, Y+: 13
+L6197 Popcorn: 7, ERROR! (27): 81
+L6200 ERROR! (29): 32
+L6201 Waffle: 51
+L6204 Icing: 88, ERROR! (27): 54, ERROR! (28): 18
+L6206 Waffle: 160
+L6207 Icing: 32
+L6208 Icing: 14, Waffle: 30
+L6212 Swirl: 10, JF: 30
+L6215 ERROR! (28): 32, Icing: 24
+L6217 Choco: 18
+L6220 JF: 9
+L6222 CakeBomb: 4, MultiChoco: 36
+L6224 Icing: 25, Waffle: 60
+L6227 Popcorn: 20, Y+: 16
+L6230 Waffle: 63, ERROR! (32): 120
+L6232 Swirl: 18
+L6233 Icing: 85, B: 150
+L6234 Swirl: 30
+L6237 Waffle: 24
+L6240 ERROR! (29): 20, Swirl: 15, Waffle: 70
+L6245 Icing: 35, Popcorn: 5
+L6247 Y+: 24, Icing: 90
+L6250 Y+: 29, Icing: 44
+L6253 Y+: 18, Icing: 44
+L6257 O: 80, P: 80, R: 80
+L6263 Bomb: 8
+L6265 R+: 17, Waffle: 17
+L6268 MultiChoco: 72, ERROR! (29): 55
+L6269 CakeBomb: 2, ERROR! (27): 96
+L6271 Bomb: 10
+L6272 Popcorn: 2, MultiChoco: 30, Bomb: 25
+L6277 ERROR! (31): 50
+L6278 CakeBomb: 2, MagicMixer: 1
+L6280 Icing: 8
+L6283 ERROR! (28): 42, Swirl: 60
+L6284 ERROR! (31): 15, Waffle: 30
+L6285 Waffle: 36, Swirl: 30
+L6287 Waffle: 10, MagicMixer: 4
+L6288 Popcorn: 9
+L6289 Y+: 10
+L6291 CakeBomb: 1, Waffle: 20, MultiChoco: 30
+L6294 Waffle: 45
+L6296 Icing: 51, Swirl: 15
+L6300 Swirl: 18
+L6301 Icing: 42
+L6303 Swirl: 9, Waffle: 48
+L6305 Swirl: 8
+L6313 Waffle: 62, ERROR! (32): 50, Popcorn: 5
+L6316 Icing: 50
+L6318 O: 50, B: 66, Swirl: 80
+L6320 Icing: 137
+L6321 ERROR! (28): 54
+L6324 Waffle: 44
+L6326 MultiChoco: 12, Choco: 12
+L6331 Popcorn: 16, COL: 16
+L6332 Icing: 45, ERROR! (28): 53
+L6334 Swirl: 20, Icing: 25
+L6335 Icing: 90, MagicMixer: 3
+L6337 Swirl: 25
+L6340 JF: 10, CakeBomb: 2
+L6344 Waffle: 68
+L6345 MagicMixer: 2
+L6347 Popcorn: 3
+L6348 ERROR! (29): 122
+L6349 CakeBomb: 1, Popcorn: 9
+L6351 Swirl: 18
+L6353 Y+: 10, Swirl: 40
+L6354 ERROR! (29): 99
+L6364 Popcorn: 9
+L6365 Waffle: 40, Icing: 24
+L6367 Bomb: 1, Swirl: 40
+L6369 Waffle: 81
+L6372 ST: 75
+L6373 Icing: 62
+L6375 MagicMixer: 4, ERROR! (29): 195
+L6376 CakeBomb: 2, ERROR! (31): 50
+L6377 Waffle: 28, Swirl: 18
+L6378 Swirl: 36
+L6381 CakeBomb: 4, MultiChoco: 40, MagicMixer: 2
+L6383 Waffle: 50
+L6386 Icing: 81
+L6388 Popcorn: 6, Swirl: 19
+L6389 ERROR! (27): 123
+L6392 Popcorn: 2, MultiChoco: 48, Choco: 25
+L6393 Waffle: 75
+L6394 Bomb: 12
+L6397 Swirl: 35, Waffle: 50
+L6400 COL: 5
+L6404 Waffle: 100
+L6405 Bomb: 10
+L6407 JF: 15, ERROR! (31): 36
+L6408 Icing: 82
+L6409 Choco: 100
+L6413 Waffle: 67
+L6415 Swirl: 44
+L6418 JF: 6
+L6421 CakeBomb: 8, Icing: 108
+L6422 Icing: 34
+L6423 Waffle: 56
+L6426 Icing: 15
+L6431 Waffle: 20
+L6434 Waffle: 24
+L6436 Choco: 10, Swirl: 21, ERROR! (29): 35
+L6438 Icing: 168
+L6440 MagicMixer: 4
+L6442 ERROR! (31): 15
+L6443 ERROR! (31): 78
+L6444 ST: 50
+L6445 Icing: 32, Swirl: 5
+L6447 CakeBomb: 2, Y+: 8, JF: 10
+L6450 ERROR! (31): 100, MagicMixer: 1
+L6453 ERROR! (30): 1, MagicMixer: 4, ERROR! (28): 18
+L6454 Icing: 161
+L6456 Icing: 32, Swirl: 12
+L6459 Icing: 60
+L6461 Icing: 12
+L6464 Swirl: 25, ERROR! (29): 17, Waffle: 65
+L6466 ERROR! (29): 100
+L6469 Icing: 97
+L6472 Swirl: 16, ERROR! (29): 44
+L6473 Popcorn: 1, CakeBomb: 2
+L6474 Swirl: 45, MagicMixer: 9
+L6477 Swirl: 14, COL: 30
+L6479 Icing: 60, ERROR! (27): 36
+L6480 ERROR! (29): 172
+L6481 Waffle: 50, MagicMixer: 2, Choco: 40
+L6483 Y+: 13, Icing: 40
+L6486 Waffle: 40
+L6490 ERROR! (31): 75, Icing: 54
+L6494 Waffle: 21, Swirl: 20
+L6495 MagicMixer: 5, Swirl: 9
+L6497 Waffle: 54
+L6498 Icing: 84
+L6501 Icing: 92
+L6504 JF: 30, Icing: 32
+L6505 ERROR! (28): 25, Icing: 65, Swirl: 18
+L6507 Waffle: 45
+L6508 Bomb: 1, ERROR! (28): 20
+L6512 Popcorn: 2
+L6514 Icing: 9, Swirl: 8
+L6517 Waffle: 42
+L6519 Icing: 12, Swirl: 26
+L6520 JF: 2, Bomb: 20
+L6522 Waffle: 140
+L6523 COL: 8
+L6526 Swirl: 100
+L6528 Icing: 85, ST: 20, WR: 15
+L6529 Bomb: 18
+L6532 Icing: 74
+L6535 Waffle: 75, ERROR! (32): 115
+L6536 ERROR! (32): 75
+L6537 CakeBomb: 2, Icing: 34, Swirl: 10
+L6539 ERROR! (32): 66, Bomb: 33
+L6541 Bomb: 10
+L6542 ERROR! (31): 100
+L6543 ERROR! (29): 80, ERROR! (31): 60
+L6546 Popcorn: 4
+L6549 ERROR! (32): 58, ERROR! (30): 3
+L6550 Popcorn: 4
+L6551 JF: 110
+L6554 Waffle: 75
+L6555 Icing: 39, MagicMixer: 6
+L6559 COL: 10
+L6561 Swirl: 32
+L6564 Y+: 20, Swirl: 25
+L6565 ERROR! (28): 45, Icing: 24, ST: 20
+L6567 ERROR! (32): 18, Waffle: 59
+L6568 ERROR! (30): 1, Waffle: 3, Icing: 163
+L6571 Waffle: 28, ERROR! (28): 24
+L6572 Y+: 3
+L6574 Waffle: 27
+L6576 Swirl: 40
+L6578 Icing: 74
+L6581 ERROR! (30): 3, JF: 20, MultiChoco: 39
+L6583 Waffle: 55, Swirl: 50
+L6584 Waffle: 200
+L6587 Waffle: 40, ERROR! (28): 18, Icing: 64
+L6590 Choco: 22
+L6591 ERROR! (29): 43
+L6592 CakeBomb: 2, Swirl: 65
+L6594 B: 80, P: 80
+L6596 MagicMixer: 2, Icing: 80
+L6598 ERROR! (28): 103
+L6599 Y+: 4, Icing: 24
+L6604 Waffle: 115
+L6605 Popcorn: 4, ERROR! (28): 81
+L6607 Icing: 130, ERROR! (32): 57
+L6609 Waffle: 72, JF: 30
+L6612 CakeBomb: 4, ERROR! (27): 24, Waffle: 32
+L6615 ERROR! (32): 55, Waffle: 66, JF: 77
+L6616 Icing: 47, ERROR! (29): 125
+L6620 Waffle: 20
+L6621 Icing: 20, Waffle: 42
+L6623 Y+: 10
+L6624 Swirl: 40, ERROR! (27): 27
+L6626 Icing: 155
+L6628 ERROR! (32): 20, Bomb: 20
+L6630 ERROR! (32): 68, ERROR! (27): 128
+L6631 JF: 9
+L6633 Waffle: 110, ERROR! (28): 90, ERROR! (32): 65
+L6634 JF: 7, Waffle: 95
+L6637 Popcorn: 5, ERROR! (31): 60
+L6639 JF: 30, Y+: 13
+L6642 Popcorn: 1
+L6644 Popcorn: 4, MagicMixer: 3
+L6645 Y+: 10
+L6648 ERROR! (27): 44, Swirl: 37
+L6651 Waffle: 75, Swirl: 30
+L6653 Swirl: 30, Waffle: 38
+L6654 Waffle: 100
+L6657 ERROR! (32): 65, Icing: 85, Swirl: 50
+L6660 B: 200, CakeBomb: 3, G: 200
+L6661 ERROR! (29): 60, ERROR! (32): 12
+L6663 MagicMixer: 5, Popcorn: 8, COL: 8
+L6664 ERROR! (32): 12, Waffle: 18
+L6666 P: 90
+L6668 ERROR! (29): 124, ERROR! (32): 45, ERROR! (31): 100
+L6669 ERROR! (32): 80
+L6673 Waffle: 44
+L6674 JF: 20, Bomb: 30, Swirl: 50
+L6677 ERROR! (32): 76, Swirl: 8
+L6679 ERROR! (32): 50, B: 1
+L6680 ERROR! (29): 45, Swirl: 14
+L6681 Icing: 70, JF: 50
+L6686 ERROR! (32): 35
+L6687 B: 100, Waffle: 75, Bomb: 60
+L6690 ERROR! (27): 81, Icing: 31
+L6694 ERROR! (29): 70
+L6695 MagicMixer: 7, ERROR! (28): 18
+L6697 Icing: 93
+L6699 Swirl: 35, Icing: 45
+L6702 ERROR! (32): 90
+L6703 MagicMixer: 16
+L6705 ERROR! (32): 50
+L6707 ERROR! (28): 121, MultiChoco: 12, Choco: 30
+L6710 ERROR! (29): 102
+L6712 Icing: 65, ERROR! (32): 52
+L6716 Icing: 98
+L6717 Popcorn: 8, ERROR! (32): 15, Icing: 116
+L6720 Popcorn: 2, Swirl: 17
+L6721 ERROR! (29): 59
+L6727 CakeBomb: 2, ERROR! (28): 30
+L6729 MultiChoco: 66, Icing: 25
+L6731 ERROR! (32): 55, Waffle: 100
+L6732 CakeBomb: 4, Icing: 20
+L6735 MultiChoco: 21, Icing: 25
+L6736 Icing: 49
+L6738 ERROR! (32): 60, ERROR! (28): 28, Popcorn: 13
+L6740 ERROR! (29): 135, MagicMixer: 12
+L6742 Popcorn: 7
+L6744 Y+: 14, Waffle: 12
+L6745 ERROR! (32): 72, ERROR! (27): 38, ERROR! (29): 56
+L6747 B: 1
+L6748 Waffle: 97
+L6750 Icing: 35, JF: 20
+L6754 Waffle: 78
+L6757 Waffle: 89, CakeBomb: 3
+L6759 ERROR! (29): 100
+L6762 ERROR! (32): 40, Icing: 77
+L6765 ERROR! (32): 29
+L6767 Y+: 12
+L6770 Y+: 8, Swirl: 8
+L6772 ERROR! (32): 48, Icing: 67
+L6775 Icing: 115
+L6776 MultiChoco: 50, MagicMixer: 2
+L6778 Icing: 78
+L6779 ERROR! (29): 125
+L6781 Icing: 138
+L6784 CakeBomb: 2, ERROR! (31): 70
+L6786 Popcorn: 6, Icing: 40
+L6789 MultiChoco: 10
+L6791 Icing: 25, Waffle: 47
+L6792 CakeBomb: 3, Icing: 65
+L6795 JF: 28
+L6798 Waffle: 111
+L6799 Icing: 77
+L6802 ERROR! (32): 85, ERROR! (27): 84, Icing: 35
+L6805 O: 60, B: 60
+L6806 Y+: 45
+L6810 Icing: 97
+L6813 ST: 4, Waffle: 125, CakeBomb: 1
+L6814 JF: 35
+L6815 Icing: 40, Swirl: 12
+L6818 MagicMixer: 8
+L6821 ERROR! (31): 39, Icing: 72
+L6823 Waffle: 39, Bomb: 30
+L6827 B: 100
+L6828 MagicMixer: 3, Bomb: 10, Swirl: 40
+L6830 MultiChoco: 27
+L6832 Icing: 56, Popcorn: 8
+L6836 ERROR! (32): 44, Popcorn: 8
+L6837 G: 45, Waffle: 55
+L6841 ERROR! (32): 99
+L6842 MagicMixer: 8, Swirl: 42
+L6845 Waffle: 78, ERROR! (28): 24
+L6847 Choco: 15, Swirl: 40, MultiChoco: 40
+L6849 Waffle: 106
+L6852 MagicMixer: 2, Bomb: 500
+L6853 ERROR! (30): 3, JF: 21
+L6854 Swirl: 20, Waffle: 21
+L6857 MultiChoco: 50, ERROR! (30): 5
+L6860 ERROR! (32): 45, ERROR! (27): 66
+L6861 MultiChoco: 48, Waffle: 45
+L6864 ERROR! (30): 3, COL: 8, Waffle: 94
+L6867 Icing: 65, Waffle: 92
+L6869 Swirl: 41, ERROR! (32): 20
+L6871 Swirl: 35, Y+: 15
+L6872 MultiChoco: 50, ERROR! (32): 33
+L6874 ERROR! (32): 21
+L6876 Icing: 97, ERROR! (31): 77
+L6878 Waffle: 134
+L6879 Popcorn: 8, ERROR! (29): 87
+L6881 Icing: 135
+L6883 Icing: 105
+L6885 Icing: 93, ERROR! (28): 42, ERROR! (32): 25
+L6886 Icing: 60
+L6888 MagicMixer: 2, CakeBomb: 2
+L6889 Y+: 30
+L6892 ERROR! (32): 43
+L6895 Swirl: 15, Icing: 25, ERROR! (32): 20
+L6896 Y+: 29, ERROR! (30): 3
+L6897 Bomb: 71
+L6900 Waffle: 60
+L6901 Choco: 12, ERROR! (28): 25
+L6905 Icing: 34, ERROR! (28): 22
+L6906 ERROR! (29): 50, Waffle: 52
+L6908 Icing: 78
+L6909 ERROR! (27): 27, Bomb: 27, MagicMixer: 9
+L6911 Waffle: 35, ST: 35
+L6913 ERROR! (29): 56, ERROR! (32): 56
+L6915 Bomb: 50, Swirl: 11, Icing: 17
+L6918 MultiChoco: 70, ERROR! (28): 81
+L6919 B: 50, ERROR! (31): 36
+L6922 ERROR! (29): 10, Waffle: 40
+L6924 Waffle: 57, Icing: 26
+L6926 Waffle: 230, ERROR! (28): 138
+L6927 Y+: 12, ERROR! (31): 124, Swirl: 26
+L6930 Waffle: 14, Icing: 20
+L6931 Waffle: 50, MultiChoco: 45
+L6933 Waffle: 108, Icing: 10
+L6935 MagicMixer: 4, ERROR! (32): 120
+L6936 Waffle: 24, Swirl: 36
+L6937 Y+: 9, ERROR! (31): 36
+L6939 ERROR! (32): 100
+L6940 JF: 8, ERROR! (31): 24
+L6943 Icing: 63
+L6945 Waffle: 114, ERROR! (29): 122
+L6946 Y+: 4
+L6949 ERROR! (32): 164
+L6952 Swirl: 40, Waffle: 57, ERROR! (32): 32
+L6954 ERROR! (29): 155
+L6956 Icing: 79, ERROR! (29): 32
+L6960 MultiChoco: 50, Swirl: 20
+L6962 MultiChoco: 30, ERROR! (32): 55
+L6965 Waffle: 65
+L6967 ERROR! (32): 32, Icing: 120
+L6971 Waffle: 170
+L6972 MagicMixer: 1
+L6975 Choco: 100
+L6976 Waffle: 150
+L6978 MagicMixer: 13
+L6980 Icing: 108
+L6981 ERROR! (32): 90
+L6983 ERROR! (32): 169
+L6984 R+: 24, Y+: 17, ERROR! (28): 54
+L6986 ERROR! (31): 40, MagicMixer: 4
+L6988 Waffle: 54, Swirl: 13
+L6990 CakeBomb: 5, Icing: 142
+L6991 ERROR! (29): 151
+L6993 ERROR! (32): 250
+L6994 Icing: 26, Waffle: 33
+L6998 Waffle: 86
+L6999 ERROR! (32): 60, Y+: 30
+L7000 ERROR! (32): 62
+L7003 MagicMixer: 5
+L7005 ERROR! (31): 60, Swirl: 34, Popcorn: 2
+L7006 ERROR! (32): 55
+L7009 ERROR! (28): 75
+L7012 ERROR! (29): 115
+L7016 ERROR! (32): 41, MultiChoco: 50
+L7017 MagicMixer: 8, ERROR! (28): 95, Waffle: 35
+L7020 Icing: 155
+L7021 MagicMixer: 2, Waffle: 120
+L7025 ERROR! (32): 100, ERROR! (29): 80
+L7027 Waffle: 50
+L7029 ERROR! (32): 56
+L7030 ERROR! (28): 48, Y+: 8
+L7031 CakeBomb: 2, ERROR! (32): 125
+L7032 Waffle: 111
+L7033 ERROR! (32): 75, ERROR! (30): 4
+L7035 Icing: 75, Swirl: 19
+L7039 Icing: 70
+L7040 ERROR! (29): 95
+L7041 Icing: 36, ERROR! (30): 3
+L7043 ERROR! (31): 28, Swirl: 29
+L7044 ERROR! (32): 27
+L7046 Swirl: 38
+L7047 Y+: 3, ERROR! (29): 30, Icing: 30
+L7050 Icing: 78, JF: 30, Swirl: 7
+L7051 ERROR! (32): 81
+L7054 Y+: 4, Icing: 24
+L7056 Waffle: 28
+L7057 Waffle: 56
+L7059 Icing: 51
+L7060 ERROR! (32): 21, Waffle: 45, Icing: 48
+L7061 Y+: 70, R: 70
+L7062 Icing: 100
+L7065 ERROR! (28): 130, Waffle: 48
+L7066 ERROR! (32): 88, CakeBomb: 2
+L7069 ERROR! (30): 1, ERROR! (29): 20, ERROR! (32): 89
+L7070 Waffle: 52
+L7072 ERROR! (29): 77, Icing: 68, ERROR! (32): 50
+L7074 ERROR! (27): 6
+L7076 Y+: 9
+L7078 Icing: 10
+L7081 Popcorn: 8, MagicMixer: 5
+L7083 ERROR! (32): 20, ERROR! (30): 3, MagicMixer: 8
+L7085 Waffle: 75
+L7086 ERROR! (32): 84, ERROR! (29): 65
+L7087 Waffle: 80, ERROR! (32): 45, Icing: 80
+L7091 Swirl: 26, Waffle: 56
+L7092 Waffle: 120
+L7093 Y+: 180
+L7096 Waffle: 24, Swirl: 23
+L7099 Waffle: 69
+L7100 ERROR! (27): 34, Waffle: 45
+L7101 Waffle: 62
+L7102 ERROR! (32): 70, Swirl: 25, Waffle: 29
+L7103 Swirl: 42
+L7106 G: 100, O: 100
+L7107 Bomb: 25, ERROR! (28): 52
+L7110 Icing: 223, ERROR! (28): 79
+L7111 Waffle: 16, Icing: 18
+L7115 Waffle: 77
+L7118 ERROR! (32): 112
+L7123 Popcorn: 3, Icing: 62
+L7126 Popcorn: 16
+L7134 G: 150
+L7136 CakeBomb: 2, ERROR! (28): 54, Waffle: 100
+L7143 Icing: 133
+L7144 Swirl: 20, Waffle: 88
+L7149 ERROR! (32): 28, Swirl: 70, CakeBomb: 2
+L7154 Waffle: 78, JF: 25
+L7158 Waffle: 69
+L7160 Waffle: 84, ERROR! (28): 70, MagicMixer: 5
+L7164 ERROR! (30): 3, MagicMixer: 4, Waffle: 36
+L7168 Waffle: 113
+L7171 Waffle: 57, Icing: 41
+L7173 Popcorn: 7, Icing: 84, ERROR! (29): 44
+L7174 Swirl: 33
+L7179 Icing: 84, ERROR! (32): 63
+L7184 ERROR! (29): 86, Swirl: 30
+L7188 Waffle: 200, Icing: 27
+L7190 Icing: 81, Swirl: 21
+L7192 ERROR! (32): 97, Popcorn: 16
+L7194 Icing: 61, Swirl: 51
+L7198 ERROR! (29): 80
+L7201 Icing: 25, Waffle: 70, ERROR! (27): 30
+L7202 ERROR! (32): 134, ERROR! (28): 137
+L7204 CakeBomb: 2, MultiChoco: 30
+L7208 Popcorn: 8, MultiChoco: 72, Bomb: 2
+L7211 Swirl: 25, Waffle: 65
+L7212 Icing: 57
+L7213 Swirl: 9, ERROR! (31): 42
+L7215 Waffle: 50, ERROR! (28): 48, ERROR! (29): 35
+L7220 Swirl: 18, ERROR! (32): 51, ERROR! (28): 66
+L7223 ERROR! (29): 60, Waffle: 35
+L7225 Swirl: 47
+L7227 ERROR! (27): 48, ERROR! (30): 1
+L7229 Icing: 46, Waffle: 30
+L7230 MagicMixer: 4, Swirl: 30
+L7233 Icing: 40, ERROR! (31): 25, MagicMixer: 4
+L7237 Icing: 162
+L7240 Waffle: 117, Icing: 55
+L7242 Icing: 168
+L7246 Waffle: 78, Swirl: 27
+L7250 Waffle: 30, ERROR! (29): 70
+L7252 Icing: 105
+L7254 ERROR! (30): 1, ERROR! (27): 41
+L7258 MagicMixer: 3, Waffle: 65
+L7261 Popcorn: 9, Waffle: 144
+L7262 ERROR! (29): 60, ERROR! (32): 90
+L7269 MultiChoco: 15, Icing: 31
+L7272 MagicMixer: 4
+L7273 Icing: 51, ERROR! (29): 55
+L7280 MagicMixer: 9
+L7282 ERROR! (30): 3, Popcorn: 20
+L7283 CakeBomb: 4, Swirl: 19
+L7288 Icing: 120
+L7291 ERROR! (29): 147
+L7292 Bomb: 0
+L7294 Icing: 115, ERROR! (29): 80
+L7298 ERROR! (29): 25, Swirl: 17
+L7301 Bomb: 15, Swirl: 30
+L7302 Waffle: 101, Bomb: 7
+L7303 Icing: 42, MultiChoco: 57
+L7305 ERROR! (29): 100, ERROR! (28): 94, MagicMixer: 5
+L7310 ERROR! (31): 45, ERROR! (32): 79, ERROR! (28): 27
+L7314 Icing: 94
+L7317 Swirl: 85
+L7318 ERROR! (29): 79, ERROR! (32): 68
+L7323 JF: 20
+L7327 Icing: 80, Swirl: 20
+L7328 MultiChoco: 78
+L7329 ERROR! (32): 39, ERROR! (29): 70
+L7332 MultiChoco: 18, Swirl: 12, Popcorn: 4
+L7335 CakeBomb: 2
+L7336 Swirl: 16, MultiChoco: 60
+L7337 Waffle: 95
+L7344 ERROR! (32): 220
+L7347 Waffle: 54, ERROR! (27): 114
+L7348 MultiChoco: 60, ERROR! (28): 22
+L7352 Icing: 115, JF: 5
+L7355 Icing: 142, Waffle: 63
+L7356 WR: 20, Icing: 194
+L7357 ERROR! (30): 5
+L7360 Waffle: 32
+L7362 Waffle: 93, MagicMixer: 3
+L7364 Waffle: 42
+L7366 ERROR! (29): 78
+L7368 ERROR! (32): 99, Waffle: 55, Swirl: 65
+L7370 Swirl: 30, ERROR! (29): 74
+L7372 ERROR! (29): 50, Swirl: 20
+L7373 CakeBomb: 3, ERROR! (31): 18
+L7378 Waffle: 54
+L7381 Swirl: 42
+L7384 Waffle: 146, ERROR! (32): 21
+L7389 Waffle: 144, ERROR! (32): 35, ERROR! (28): 72
+L7394 ERROR! (29): 88
+L7396 ERROR! (29): 60, ERROR! (32): 60, ERROR! (28): 60
+L7397 ERROR! (32): 60, ERROR! (29): 115
+L7399 CakeBomb: 2, Waffle: 10
+L7404 Icing: 129
+L7407 Swirl: 13
+L7408 Waffle: 250
+L7412 Icing: 203
+L7415 ERROR! (29): 50, ERROR! (32): 40
+L7417 Swirl: 20
+L7419 Popcorn: 9, Waffle: 48
+L7423 ERROR! (28): 97, Swirl: 16
+L7426 Icing: 83, ERROR! (29): 64
+L7427 Icing: 100
+L7429 CakeBomb: 2, ERROR! (29): 72
+L7431 B: 75, Swirl: 10
+L7433 Popcorn: 4, ERROR! (32): 64
+L7434 Icing: 147, ERROR! (32): 56
+L7437 Icing: 16, Waffle: 78
+L7440 ERROR! (32): 40, Icing: 24
+L7441 JF: 45, ERROR! (28): 57, Icing: 45
+L7442 ERROR! (32): 54, ERROR! (29): 47
+L7447 MultiChoco: 150
+L7449 Waffle: 88, Icing: 25
+L7451 JF: 100, ERROR! (28): 112
+L7453 ERROR! (32): 86
+L7456 Popcorn: 3, Waffle: 20, Swirl: 17
+L7457 Icing: 37
+L7459 Waffle: 32, Swirl: 28
+L7465 Waffle: 66
+L7468 MagicMixer: 2
+L7469 ERROR! (29): 65, Waffle: 24
+L7472 Waffle: 43, Icing: 44
+L7475 Icing: 106
+L7478 CakeBomb: 2, Icing: 104
+L7480 Swirl: 16
+L7482 Waffle: 34, Icing: 46, ERROR! (29): 89
+L7487 Waffle: 99, B: 99, G: 99
+L7489 Waffle: 24, ERROR! (32): 24
+L7490 Icing: 58, ERROR! (27): 21
+L7493 MultiChoco: 80, Choco: 40, ERROR! (28): 57
+L7494 Icing: 120, ERROR! (29): 75
+L7498 ERROR! (30): 2, ERROR! (29): 90
+L7501 JF: 55, Icing: 64, ERROR! (27): 49
+L7502 MultiChoco: 51
+L7505 Icing: 69, ERROR! (29): 89
+L7508 Icing: 80, Waffle: 50
+L7510 Icing: 141, ERROR! (29): 56
+L7512 Icing: 22, Popcorn: 4, Waffle: 75
+L7517 Choco: 40, Swirl: 17
+L7520 Icing: 66, Waffle: 66
+L7523 ERROR! (30): 5, MultiChoco: 122, ERROR! (28): 92
+L7525 Swirl: 20, Waffle: 96
+L7526 Swirl: 15, ERROR! (32): 44
+L7527 ERROR! (32): 60, Waffle: 86
+L7530 ERROR! (29): 46, ERROR! (32): 36
+L7531 ERROR! (29): 69, Swirl: 19
+L7536 ERROR! (29): 40, Bomb: 23, Swirl: 21
+L7537 Icing: 105, ERROR! (29): 103
+L7538 ERROR! (30): 4, ERROR! (32): 38
+L7543 Icing: 96, ERROR! (32): 21
+L7546 ERROR! (32): 83, Popcorn: 4
+L7551 Y+: 20
+L7553 Popcorn: 4, Icing: 80, ERROR! (28): 96
+L7556 Icing: 102
+L7558 Icing: 171
+L7560 MultiChoco: 50, Waffle: 60
+L7564 Swirl: 22, Icing: 69
+L7567 CakeBomb: 2, ERROR! (29): 67
+L7568 Waffle: 69, Popcorn: 18
+L7571 Icing: 60
+L7574 Icing: 68, ERROR! (29): 90
+L7575 Waffle: 80, ERROR! (29): 35, ERROR! (30): 1
+L7576 Waffle: 144, ERROR! (28): 82
+L7583 Waffle: 9, Icing: 14
+L7584 ERROR! (33): 238
+L7587 Waffle: 120, ERROR! (32): 20, ERROR! (29): 63
+L7590 Waffle: 33, ERROR! (28): 26
+L7591 Icing: 70, ERROR! (32): 24
+L7593 Waffle: 76
+L7596 Icing: 14
+L7602 Swirl: 5
+L7603 Choco: 12
+L7607 ERROR! (32): 200, Icing: 150
+L7610 Icing: 47
+L7614 Swirl: 24, Waffle: 30
+L7617 Icing: 70, JF: 20
+L7618 Swirl: 25
+L7622 Swirl: 1, Icing: 9, ERROR! (32): 9
+L7625 Swirl: 23
+L7627 ERROR! (32): 60, Waffle: 102
+L7632 Waffle: 72
+L7633 Waffle: 47
+L7634 Waffle: 29
+L7637 MultiChoco: 19
+L7638 Icing: 27
+L7640 MagicMixer: 2
+L7643 Waffle: 96, ERROR! (27): 36, ERROR! (28): 23
+L7645 Waffle: 90
+L7646 ERROR! (32): 91, JF: 41
+L7649 Waffle: 99
+L7651 ERROR! (28): 40, Icing: 40
+L7652 ERROR! (28): 68, Icing: 105
+L7656 ERROR! (31): 36, Popcorn: 3
+L7659 ERROR! (33): 121, ERROR! (31): 121
+L7662 Icing: 54
+L7663 Waffle: 92
+L7667 ERROR! (33): 129, MagicMixer: 4, MultiChoco: 60
+L7670 CakeBomb: 1, Waffle: 62
+L7671 ERROR! (29): 97, ERROR! (32): 105
+L7674 Icing: 86
+L7677 Icing: 48, CakeBomb: 2
+L7678 ERROR! (32): 80, Icing: 71
+L7680 ERROR! (32): 32, Icing: 35
+L7681 Waffle: 63, Icing: 145
+L7684 Icing: 99, ERROR! (32): 81
+L7686 ERROR! (32): 30, Icing: 40
+L7688 Swirl: 16, Waffle: 54
+L7691 Icing: 160, ERROR! (28): 126, ERROR! (32): 66
+L7692 Swirl: 32, MagicMixer: 4
+L7694 ERROR! (29): 87, JF: 2, ERROR! (33): 25
+L7695 Waffle: 58, ERROR! (29): 78
+L7698 ERROR! (32): 18, Bomb: 25
+L7700 Icing: 74
+L7701 Waffle: 36, MagicMixer: 9
+L7702 Waffle: 60
+L7705 ERROR! (29): 144, Icing: 40
+L7707 Swirl: 11, Icing: 55
+L7708 Waffle: 51, Swirl: 35, JF: 10
+L7711 Waffle: 81
+L7712 ERROR! (31): 300
+L7716 Waffle: 63
+L7717 Icing: 110, Swirl: 30
+L7721 CakeBomb: 4, ERROR! (33): 102
+L7722 ERROR! (29): 400
+L7723 ERROR! (28): 36, Swirl: 28
+L7726 Icing: 72
+L7728 Waffle: 45
+L7732 ERROR! (32): 48, Waffle: 55
+L7733 Icing: 80, ERROR! (28): 42
+L7737 ERROR! (29): 95, ERROR! (32): 100, ERROR! (28): 95
+L7738 Y+: 10
+L7741 Waffle: 89, ERROR! (32): 26
+L7742 ERROR! (32): 160
+L7747 CakeBomb: 6, Icing: 105
+L7749 Icing: 107, ERROR! (32): 112
+L7753 Waffle: 86
+L7756 ERROR! (28): 54, JF: 10, ERROR! (30): 1
+L7757 Waffle: 117, ERROR! (32): 25
+L7759 Y+: 14, ERROR! (30): 3
+L7762 Icing: 176
+L7763 ERROR! (32): 38, Waffle: 80
+L7765 Swirl: 37, Waffle: 36
+L7767 MagicMixer: 23
+L7770 Waffle: 60
+L7772 Waffle: 92, ERROR! (30): 5
+L7773 Waffle: 68, ERROR! (29): 54
+L7777 ST: 400
+L7779 Swirl: 19, Waffle: 61
+L7782 JF: 50, ERROR! (33): 60
+L7787 Icing: 68, Swirl: 16
+L7790 Waffle: 100
+L7792 ERROR! (32): 28, Waffle: 60
+L7793 Swirl: 18
+L7795 ERROR! (29): 97, CakeBomb: 4, Swirl: 35
+L7797 Swirl: 26
+L7799 Waffle: 57, ERROR! (29): 36
+L7801 Swirl: 27
+L7803 Icing: 45, CakeBomb: 2, Swirl: 16
+L7805 Icing: 65
+L7808 ERROR! (29): 190, Swirl: 30
+L7811 Swirl: 38
+L7812 ERROR! (29): 36, COL: 5, ST: 20
+L7815 Icing: 72
+L7816 JF: 50
+L7818 Choco: 13, ERROR! (29): 95, ERROR! (28): 30
+L7821 ERROR! (27): 90, O: 90
+L7822 Choco: 18, Waffle: 75
+L7824 ERROR! (32): 45, Swirl: 28
+L7826 MagicMixer: 2, Icing: 14
+L7827 MagicMixer: 4
+L7830 Icing: 37, Waffle: 83
+L7831 ERROR! (30): 3, MultiChoco: 72, ERROR! (28): 75
+L7836 Icing: 54, Waffle: 36
+L7838 Waffle: 158
+L7840 Swirl: 39
+L7841 Waffle: 99
+L7843 ERROR! (32): 49
+L7846 Icing: 30, ST: 20, ERROR! (30): 1
+L7848 Waffle: 116, ERROR! (32): 56
+L7851 MultiChoco: 80, ERROR! (30): 4
+L7852 Icing: 48, Choco: 10
+L7856 ERROR! (27): 60, Waffle: 64
+L7859 MultiChoco: 36, Swirl: 20, ERROR! (30): 3
+L7862 Icing: 88, ERROR! (32): 60
+L7866 ERROR! (33): 36, Popcorn: 6
+L7868 Waffle: 95
+L7871 MagicMixer: 3, CakeBomb: 2
+L7873 Icing: 152, Popcorn: 3
+L7875 Waffle: 42, Icing: 40
+L7879 Icing: 91
+L7881 Icing: 6, ERROR! (29): 6
+L7882 ERROR! (32): 24, Waffle: 63
+L7884 Icing: 14, ERROR! (29): 61
+L7886 Icing: 39
+L7887 MultiChoco: 35
+L7890 Icing: 24, Waffle: 24
+L7891 ERROR! (32): 64, CakeBomb: 2, Icing: 2
+L7896 Icing: 69
+L7901 Waffle: 50
+L7903 Swirl: 40, CakeBomb: 1, ERROR! (32): 20
+L7904 Icing: 54, ERROR! (32): 40
+L7906 Icing: 32, ERROR! (29): 53
+L7907 Icing: 44, ERROR! (29): 55
+L7912 ERROR! (32): 36, Icing: 42
+L7914 Icing: 37, Swirl: 20
+L7918 ERROR! (32): 100, ERROR! (33): 60
+L7922 Swirl: 39, ERROR! (30): 3
+L7924 Waffle: 104
+L7926 MagicMixer: 28, Waffle: 67
+L7927 Waffle: 50, Icing: 20
+L7931 Icing: 65
+L7933 MultiChoco: 98, ERROR! (29): 90
+L7935 Waffle: 105, ERROR! (30): 5
+L7938 Choco: 18, MultiChoco: 18
+L7941 MagicMixer: 4, Swirl: 20, Icing: 120
+L7942 Waffle: 77
+L7944 Waffle: 90, JF: 33
+L7946 Waffle: 12
+L7947 Waffle: 31, Icing: 24
+L7950 Waffle: 148
+L7951 Waffle: 31
+L7956 Waffle: 112, ERROR! (32): 110
+L7958 Icing: 45
+L7960 Icing: 36, Popcorn: 3
+L7962 Waffle: 40
+L7964 G: 150
+L7966 MultiChoco: 20, Waffle: 22
+L7968 ERROR! (29): 40, ERROR! (32): 34
+L7970 Swirl: 36
+L7972 ERROR! (30): 4, MagicMixer: 6, Waffle: 50
+L7974 Swirl: 80
+L7978 Waffle: 30, ERROR! (29): 45
+L7981 ERROR! (30): 4, Choco: 40
+L7982 Bomb: 8, JF: 20
+L7984 Swirl: 12
+L7988 JF: 18, ERROR! (28): 54
+L7991 ST: 35
+L7995 Waffle: 72
+L7998 JF: 20
+L7999 ERROR! (32): 84, Waffle: 66
+L8001 Icing: 18, ERROR! (29): 70
+L8002 Icing: 155
+L8003 Icing: 36, Waffle: 60
+L8006 Waffle: 53, ERROR! (29): 60
+L8010 Swirl: 13, ERROR! (28): 48, Waffle: 13
+L8011 Waffle: 63
+L8014 Icing: 38, Waffle: 27
+L8016 CakeBomb: 4, ERROR! (29): 20, ERROR! (33): 48
+L8019 Y+: 10
+L8020 CakeBomb: 4
+L8024 JF: 36
+L8025 Swirl: 18
+L8027 Icing: 50, Waffle: 28
+L8028 CakeBomb: 2
+L8031 Icing: 6
+L8035 JF: 10
+L8037 Icing: 20, ERROR! (34): 5
+L8042 Icing: 48
+L8043 Icing: 32, ERROR! (31): 12
+L8048 ERROR! (29): 60, MagicMixer: 2, JF: 14
+L8051 Swirl: 23
+L8053 Icing: 40, Waffle: 41
+L8057 ERROR! (29): 195
+L8060 JF: 100, Icing: 100, ERROR! (28): 120
+L8061 Waffle: 70
+L8062 ERROR! (29): 86, Icing: 51, Popcorn: 7
+L8064 ERROR! (29): 24, ERROR! (30): 3
+L8066 Icing: 63
+L8067 CakeBomb: 2, ERROR! (29): 60, Icing: 55
+L8075 Swirl: 14, Waffle: 56
+L8078 Icing: 108
+L8081 Waffle: 52
+L8085 Icing: 5
+L8088 Icing: 4
+L8089 Swirl: 28, Icing: 32
+L8093 G: 150
+L8098 Icing: 32
+L8101 MultiChoco: 60
+L8103 Y+: 10
+L8110 MultiChoco: 60, Icing: 115
+L8112 Swirl: 35, Waffle: 46
+L8113 Icing: 53
+L8114 ERROR! (33): 108, Popcorn: 10, Waffle: 83
+L8118 Icing: 30
+L8119 MultiChoco: 85
+L8121 Waffle: 100
+L8124 Y+: 10
+L8125 Waffle: 38
+L8127 Waffle: 81, ERROR! (28): 48
+L8130 Choco: 15, MultiChoco: 33, Swirl: 28
+L8132 ERROR! (27): 115, ERROR! (29): 284
+L8135 Swirl: 20
+L8137 Bomb: 65, JF: 40
+L8139 ERROR! (32): 40
+L8140 Waffle: 70
+L8143 Waffle: 96
+L8147 ERROR! (32): 70, CakeBomb: 2, Waffle: 140
+L8148 ERROR! (30): 6, CakeBomb: 2
+L8152 Swirl: 7
+L8153 ERROR! (30): 5, ERROR! (32): 108, Icing: 16
+L8154 ERROR! (32): 30, ERROR! (29): 20
+L8157 ERROR! (29): 59, ERROR! (32): 12
+L8158 ERROR! (31): 65, Waffle: 25, MagicMixer: 6
+L8159 Icing: 100
+L8163 Swirl: 40
+L8164 Waffle: 107, Icing: 15
+L8166 Choco: 20, Swirl: 16
+L8168 Y+: 30, Icing: 30
+L8171 Icing: 56, Waffle: 45
+L8172 ST: 50, ERROR! (32): 200, ERROR! (33): 69
+L8175 ERROR! (28): 58, MultiChoco: 99
+L8178 Waffle: 16, Icing: 62
+L8180 ERROR! (29): 117, Swirl: 60
+L8183 MagicMixer: 7, ERROR! (28): 22
+L8184 Swirl: 25
+L8188 Waffle: 55
+L8190 Swirl: 15, ERROR! (32): 56
+L8192 Swirl: 23
+L8194 ERROR! (33): 358
+L8196 Waffle: 129
+L8200 Icing: 22, Swirl: 12
+L8201 Icing: 77, ERROR! (29): 49
+L8204 Waffle: 56
+L8206 JF: 12
+L8211 Icing: 87
+L8212 CakeBomb: 2, Waffle: 152, JF: 20
+L8213 Icing: 38, MultiChoco: 18
+L8215 Swirl: 28
+L8216 ERROR! (32): 52, Icing: 26
+L8224 Icing: 87
+L8225 Waffle: 80
+L8228 MultiChoco: 39, O: 100, COL: 8
+L8231 Swirl: 22, JF: 35
+L8239 Icing: 64, Swirl: 16
+L8241 ERROR! (32): 72, Swirl: 12, Waffle: 54
+L8243 ERROR! (34): 5, Icing: 152, ERROR! (30): 2
+L8244 Popcorn: 2, Waffle: 36
+L8246 MagicMixer: 1, Bomb: 60
+L8250 Waffle: 47, ERROR! (32): 21
+L8251 ERROR! (29): 100, Swirl: 38, ERROR! (31): 54
+L8253 ERROR! (31): 150
+L8257 Swirl: 12
+L8258 ERROR! (29): 36
+L8260 Swirl: 35, Waffle: 42, MagicMixer: 15
+L8261 Icing: 102
+L8263 Waffle: 46, Icing: 26
+L8266 Popcorn: 3
+L8267 Waffle: 60, ERROR! (30): 4
+L8270 Waffle: 2, CakeBomb: 2, Swirl: 2
+L8271 ERROR! (32): 41, Icing: 42
+L8273 CakeBomb: 1, Swirl: 12, ERROR! (34): 5
+L8276 Waffle: 5, ST: 30
+L8278 Waffle: 1, Swirl: 11
+L8280 Waffle: 60, MagicMixer: 5, ERROR! (29): 25
+L8281 Waffle: 98, ERROR! (29): 40
+L8284 CakeBomb: 2, ERROR! (32): 72
+L8287 Waffle: 105
+L8288 Icing: 141, ERROR! (34): 5
+L8289 Icing: 60, Swirl: 28
+L8293 Icing: 51, ERROR! (29): 84
+L8296 MagicMixer: 10, MultiChoco: 20, Swirl: 32
+L8300 ERROR! (29): 83
+L8301 Popcorn: 11, Swirl: 12
+L8304 ERROR! (30): 3, ERROR! (32): 90
+L8307 CakeBomb: 2
+L8308 Swirl: 18
+L8309 ERROR! (28): 149, ERROR! (30): 5
+L8311 Swirl: 32, ERROR! (29): 135, ERROR! (30): 5
+L8313 Icing: 20, ERROR! (29): 70
+L8315 Icing: 96, Waffle: 125
+L8316 Waffle: 54, Icing: 8
+L8317 Waffle: 64
+L8318 Waffle: 56
+L8321 Waffle: 36, Swirl: 36
+L8324 Swirl: 20, ERROR! (31): 150
+L8325 Waffle: 110, Icing: 24
+L8328 Icing: 121
+L8329 ERROR! (31): 69, Swirl: 28
+L8333 Swirl: 22, ERROR! (32): 80, ERROR! (33): 73
+L8335 Icing: 42, ERROR! (29): 41
+L8336 Swirl: 30, Icing: 66
+L8341 Waffle: 131, ERROR! (34): 5
+L8343 MultiChoco: 72, Waffle: 80
+L8346 Choco: 14, Waffle: 42, MagicMixer: 2
+L8349 Icing: 124
+L8350 Icing: 89
+L8353 ERROR! (31): 72, ERROR! (33): 114, Waffle: 72
+L8356 ERROR! (31): 132
+L8358 ERROR! (29): 32, Icing: 37
+L8362 Icing: 105
+L8363 Swirl: 33
+L8364 ERROR! (34): 5, ERROR! (32): 32, Swirl: 13
+L8368 Swirl: 11
+L8369 Icing: 61, Waffle: 59
+L8371 Waffle: 34, ERROR! (29): 36
+L8372 Waffle: 95
+L8375 B: 100, O: 100
+L8376 Icing: 52, Swirl: 24
+L8377 Waffle: 34, Swirl: 22
+L8378 JF: 30
+L8381 Icing: 37
+L8386 Waffle: 69, Swirl: 20
+L8387 Icing: 63
+L8389 MultiChoco: 24, Waffle: 48
+L8391 Icing: 56, ERROR! (33): 78
+L8393 ERROR! (32): 82
+L8394 Waffle: 115
+L8397 CakeBomb: 2, Waffle: 30
+L8398 ERROR! (31): 400, MagicMixer: 6
+L8399 Waffle: 22, ERROR! (32): 24
+L8403 Icing: 72, Swirl: 10
+L8404 Popcorn: 4, Icing: 104
+L8408 Waffle: 67
+L8409 ERROR! (29): 74, Waffle: 66
+L8411 Swirl: 36, MultiChoco: 28
+L8415 Waffle: 72, Icing: 43
+L8416 JF: 45
+L8417 Waffle: 60, Icing: 72
+L8423 ERROR! (32): 52, MultiChoco: 62, Icing: 24
+L8425 Waffle: 47, Icing: 68
+L8426 Swirl: 24
+L8430 Waffle: 93, ERROR! (30): 3
+L8431 Swirl: 32
+L8433 CakeBomb: 2, Waffle: 55
+L8437 Swirl: 88
+L8439 Popcorn: 3
+L8441 Icing: 73
+L8443 Bomb: 15
+L8444 ERROR! (29): 140, ERROR! (32): 44
+L8449 Bomb: 50
+L8450 MultiChoco: 16, Choco: 16
+L8451 Icing: 23, ERROR! (30): 5
+L8452 ERROR! (32): 68, Icing: 90
+L8455 MagicMixer: 3, Bomb: 10, Swirl: 40
+L8458 ERROR! (29): 72, Swirl: 100
+L8460 MultiChoco: 60, ERROR! (27): 90
+L8462 Popcorn: 3, Icing: 78
+L8465 Icing: 51, Waffle: 10, Swirl: 18
+L8467 Icing: 69, ERROR! (32): 44
+L8468 Swirl: 27, Waffle: 63
+L8471 Popcorn: 3, Icing: 61
+L8473 ERROR! (32): 43, Waffle: 42
+L8476 Waffle: 86
+L8477 Waffle: 86
+L8479 Swirl: 14, B: 150, ERROR! (32): 29
+L8482 ERROR! (32): 57
+L8484 Swirl: 70
+L8488 Swirl: 20
+L8489 Y+: 50
+L8491 ERROR! (27): 40, Waffle: 50, Icing: 40
+L8493 JF: 30, B: 111
+L8495 ERROR! (32): 47
+L8497 Icing: 39, Waffle: 36
+L8498 Waffle: 63, ERROR! (31): 134, ERROR! (28): 57
+L8499 Waffle: 59
+L8502 Choco: 10, MultiChoco: 10
+L8505 ERROR! (32): 18, Swirl: 17
+L8506 ERROR! (32): 100
+L8507 Swirl: 48
+L8511 JF: 10, Waffle: 5
+L8514 ERROR! (31): 57
+L8515 CakeBomb: 1, Swirl: 24, ERROR! (33): 48
+L8517 Bomb: 5
+L8518 ERROR! (34): 5, ERROR! (29): 32
+L8521 Waffle: 110, ERROR! (29): 64
+L8522 Icing: 74
+L8523 ERROR! (30): 2, ERROR! (32): 85
+L8524 Waffle: 83
+L8526 Icing: 84
+L8527 Icing: 109, MultiChoco: 24
+L8529 Swirl: 45, ERROR! (34): 5
+L8531 ERROR! (34): 5, Waffle: 72
+L8532 ERROR! (28): 77, Swirl: 30
+L8533 MagicMixer: 2
+L8535 MultiChoco: 21, JF: 20
+L8537 MultiChoco: 30, Icing: 58, Waffle: 84
+L8540 Icing: 16, Waffle: 33
+L8541 ERROR! (27): 38, ERROR! (31): 90
+L8544 ERROR! (29): 104, Swirl: 15
+L8545 P: 300, G: 300
+L8550 ERROR! (34): 5
+L8551 ERROR! (31): 99, Swirl: 21
+L8553 Waffle: 70, ERROR! (28): 28
+L8554 ERROR! (32): 6, Icing: 73
+L8557 Waffle: 88
+L8559 Bomb: 3
+L8561 Waffle: 38, Swirl: 27
+L8565 Swirl: 42
+L8566 Waffle: 48
+L8569 Waffle: 48, Swirl: 45
+L8571 Swirl: 25, Waffle: 42
+L8574 Bomb: 20, Swirl: 45
+L8575 ERROR! (27): 90, ERROR! (32): 56
+L8577 Waffle: 32, Icing: 26
+L8579 Icing: 132
+L8581 B: 170, P: 170
+L8584 Swirl: 25
+L8586 Icing: 82
+L8588 MultiChoco: 30, Icing: 76, ERROR! (32): 18
+L8590 Choco: 20, Swirl: 35
+L8591 Swirl: 30, Waffle: 45
+L8592 Popcorn: 4, ERROR! (32): 95, Swirl: 35
+L8595 Swirl: 25, MagicMixer: 5
+L8599 MultiChoco: 22, Swirl: 30, ERROR! (32): 52
+L8601 ERROR! (34): 5, ERROR! (29): 27
+L8604 Waffle: 29, ERROR! (32): 63, ERROR! (34): 5
+L8608 COL: 10, ST: 20
+L8610 Icing: 30, ERROR! (34): 5, Popcorn: 1
+L8612 Waffle: 150, ERROR! (31): 200
+L8613 Swirl: 28, Choco: 3
+L8617 Waffle: 45, COL: 1
+L8619 Waffle: 45, Icing: 42
+L8621 ERROR! (33): 282, Waffle: 100, Y+: 17
+L8622 MagicMixer: 3, ERROR! (32): 40
+L8623 JF: 35, Swirl: 45
+L8626 Swirl: 35, MultiChoco: 35, ERROR! (31): 350
+L8627 Waffle: 84, ERROR! (31): 108
+L8631 Y+: 44
+L8635 Popcorn: 5, CakeBomb: 2
+L8636 Icing: 16, ERROR! (34): 5
+L8638 Swirl: 55, ERROR! (31): 185
+L8642 Icing: 2, Swirl: 26, ERROR! (30): 3
+L8644 Waffle: 113, ERROR! (31): 200
+L8648 Waffle: 110, ERROR! (30): 5
+L8649 Swirl: 5
+L8651 Icing: 36, ERROR! (31): 48
+L8654 Waffle: 32, ERROR! (32): 109
+L8656 Waffle: 53
+L8659 Waffle: 129
+L8661 Icing: 76, Swirl: 30
+L8662 ERROR! (29): 69, Waffle: 42
+L8665 Swirl: 60, MultiChoco: 65, MagicMixer: 4
+L8666 Swirl: 55
+L8670 ERROR! (29): 30, Choco: 18, Icing: 20
+L8674 Swirl: 40
+L8677 ERROR! (34): 5, ERROR! (30): 1
+L8678 Icing: 76, MultiChoco: 50
+L8683 ERROR! (30): 1, Icing: 73
+L8684 Icing: 92
+L8685 Icing: 33, Swirl: 21
+L8687 Icing: 34, ERROR! (32): 5
+L8688 ERROR! (34): 5, ERROR! (32): 93, ERROR! (29): 9
+L8691 Icing: 30, ERROR! (29): 31
+L8692 ERROR! (32): 32, ERROR! (29): 56, Icing: 84
+L8693 Icing: 133
+L8695 Icing: 108
+L8696 ERROR! (29): 56, Icing: 36
+L8698 Icing: 98, Swirl: 19
+L8700 Waffle: 60, Swirl: 3
+L8703 ERROR! (30): 3, Icing: 14, ERROR! (32): 84
+L8707 Swirl: 50
+L8708 Waffle: 70
+L8711 ERROR! (29): 48, Swirl: 40
+L8715 Swirl: 40
+L8716 MagicMixer: 8, ERROR! (33): 78, Waffle: 40
+L8717 Waffle: 40
+L8721 Icing: 78, Waffle: 12
+L8724 Waffle: 76, JF: 16
+L8725 Swirl: 100, Waffle: 25, ERROR! (30): 6
+L8726 Swirl: 60, ERROR! (31): 110
+L8729 Swirl: 52, Waffle: 0
+L8731 COL: 8
+L8735 Choco: 8, ERROR! (32): 48, Swirl: 4
+L8736 Waffle: 76, Icing: 41, ERROR! (30): 3
+L8739 Swirl: 25
+L8741 MultiChoco: 43, Icing: 48
+L8742 CakeBomb: 5, Swirl: 16, Popcorn: 12
+L8743 Waffle: 30, Icing: 47
+L8749 Swirl: 22
+L8753 ERROR! (34): 5, ERROR! (30): 1
+L8754 Icing: 80, ST: 30, ERROR! (32): 24
+L8756 ERROR! (34): 5
+L8757 JF: 5, ERROR! (34): 5
+L8759 ERROR! (34): 5, ERROR! (30): 2
+L8760 Icing: 124
+L8763 Icing: 130, ERROR! (34): 5
+L8766 Icing: 80, Waffle: 48, ERROR! (35): 10
+L8767 Icing: 100, ERROR! (35): 20
+L8768 Icing: 53, Swirl: 20
+L8769 Waffle: 105
+L8773 B: 65, G: 65
+L8775 MagicMixer: 2, ERROR! (28): 30, ERROR! (31): 45
+L8779 Icing: 18, Waffle: 30
+L8780 ERROR! (34): 5
+L8783 Waffle: 25, Icing: 18
+L8786 Waffle: 96
+L8788 Waffle: 70
+L8791 Icing: 48, Bomb: 10
+L8792 Swirl: 40
+L8794 Waffle: 35
+L8795 ERROR! (33): 165, Popcorn: 2, ERROR! (32): 110
+L8797 Swirl: 48, Waffle: 18
+L8798 Icing: 60, Swirl: 21
+L8799 Waffle: 25
+L8803 Waffle: 45, MagicMixer: 5, Swirl: 20
+L8804 Waffle: 50
+L8806 Swirl: 20, Icing: 126
+L8809 Bomb: 40
+L8812 ERROR! (30): 4
+L8813 Swirl: 30
+L8815 Icing: 4, Waffle: 30
+L8816 Swirl: 37, Waffle: 40
+L8819 ERROR! (34): 5, ERROR! (32): 16
+L8820 Icing: 53, ERROR! (27): 132
+L8822 CakeBomb: 2
+L8824 MultiChoco: 64, Choco: 10
+L8825 Waffle: 84, JF: 30
+L8826 MultiChoco: 60, Waffle: 60
+L8827 Swirl: 30
+L8828 Waffle: 20
+L8829 Swirl: 45, Icing: 139
+L8831 Swirl: 40, Icing: 40
+L8833 Icing: 80
+L8835 Icing: 45
+L8836 Icing: 84, Waffle: 60, Swirl: 30
+L8838 Bomb: 9
+L8842 Swirl: 40, MultiChoco: 69
+L8845 Icing: 100
+L8847 Icing: 12, Swirl: 40
+L8848 Icing: 60, Waffle: 109
+L8852 Icing: 45, Popcorn: 3, G: 85
+L8855 Icing: 47, Waffle: 62
+L8857 Waffle: 43, ERROR! (31): 12
+L8860 Y+: 6, ST: 15
+L8865 ERROR! (30): 5
+L8868 Swirl: 27
+L8869 Waffle: 38
+L8870 Waffle: 114, ERROR! (32): 44
+L8871 Waffle: 20
+L8874 ERROR! (34): 5, Icing: 32, ERROR! (32): 40
+L8877 Swirl: 27
+L8878 Swirl: 45, MultiChoco: 30
+L8879 Icing: 148, Swirl: 30
+L8882 Icing: 33, ERROR! (29): 42
+L8885 Waffle: 60, Icing: 40
+L8888 Icing: 57, ERROR! (32): 64
+L8889 Icing: 60
+L8891 ERROR! (32): 30
+L8892 Icing: 57
+L8893 Swirl: 35, Waffle: 40
+L8897 Swirl: 50
+L8898 Icing: 46
+L8902 MagicMixer: 5, ERROR! (32): 20, ERROR! (33): 127
+L8908 Waffle: 75
+L8909 Waffle: 53, ERROR! (35): 10
+L8910 Choco: 33
+L8912 ST: 40, Swirl: 70
+L8913 Icing: 51
+L8916 Swirl: 40, Icing: 70
+L8920 Y+: 14, Waffle: 70
+L8922 Icing: 78
+L8923 Waffle: 35
+L8926 Bomb: 24, Popcorn: 7
+L8928 ERROR! (29): 13, Icing: 6
+L8929 Waffle: 60, ERROR! (30): 3
+L8933 ERROR! (29): 27, Waffle: 45
+L8935 ERROR! (32): 40
+L8936 MagicMixer: 5, Swirl: 40, Popcorn: 8
+L8938 Waffle: 40, CakeBomb: 1
+L8941 Icing: 75, Swirl: 21
+L8942 Icing: 68, Waffle: 70
+L8943 ERROR! (32): 64, Swirl: 32, ERROR! (35): 24
+L8946 ERROR! (30): 4, ERROR! (31): 250
+L8949 ERROR! (31): 48, Swirl: 35, Icing: 60
+L8950 Swirl: 6
+L8951 Waffle: 33, Icing: 47
+L8955 Icing: 69
+L8956 ERROR! (27): 90, ERROR! (29): 150, MultiChoco: 60
+L8957 Choco: 10, Icing: 73
+L8961 Waffle: 105
+L8965 Waffle: 70
+L8966 MagicMixer: 6
+L8969 Waffle: 116
+L8970 ERROR! (29): 50, Waffle: 30
+L8976 Swirl: 20, Icing: 24
+L8980 Icing: 90
+L8981 Waffle: 45
+L8984 MagicMixer: 5, Icing: 70, Waffle: 63
+L8987 MultiChoco: 60
+L8989 ERROR! (29): 96, ERROR! (32): 42
+L8990 Icing: 124
+L8991 Waffle: 40, Swirl: 22
+L8993 Icing: 98
+L8994 ERROR! (35): 28, ERROR! (32): 36
+L8996 Swirl: 25
+L9000 Y+: 120, P: 120
+L9002 R+: 17, Swirl: 17
+L9003 Waffle: 81
+L9008 Icing: 52
+L9010 ERROR! (33): 150, Waffle: 85
+L9011 CakeBomb: 3
+L9012 ERROR! (31): 40
+L9015 Waffle: 36, Swirl: 17
+L9017 Icing: 88, Swirl: 35
+L9021 Swirl: 24, Icing: 50, ERROR! (35): 16
+L9025 ERROR! (35): 30, ERROR! (32): 82
+L9029 ERROR! (28): 33, ERROR! (30): 4
+L9030 MagicMixer: 1, ERROR! (31): 80
+L9032 CakeBomb: 2, MagicMixer: 2, ERROR! (29): 100
+L9033 ERROR! (33): 16, ERROR! (27): 18
+L9036 Icing: 88
+L9037 Icing: 34, Swirl: 14
+L9040 Waffle: 45
+L9041 ERROR! (32): 36
+L9045 Icing: 73, Waffle: 24
+L9046 ERROR! (32): 55, Icing: 80
+L9047 Icing: 74
+L9049 Popcorn: 2
+L9055 ERROR! (32): 120, Swirl: 30
+L9056 Y+: 17, MagicMixer: 1
+L9061 Waffle: 56
+L9062 Waffle: 50, Icing: 44, ERROR! (29): 65
+L9065 Waffle: 32, Swirl: 9, ERROR! (32): 33
+L9068 Icing: 77, Swirl: 7
+L9069 Swirl: 25
+L9070 Icing: 65, ERROR! (29): 30
+L9072 Icing: 68, Swirl: 27
+L9074 Waffle: 95, ERROR! (29): 100
+L9076 Waffle: 14, Icing: 50
+L9079 Swirl: 20
+L9083 JF: 10, ERROR! (28): 28
+L9084 MagicMixer: 12
+L9088 Waffle: 70
+L9090 Icing: 68, Waffle: 32
+L9091 Waffle: 70
+L9092 Icing: 65
+L9099 ERROR! (32): 20, Icing: 80
+L9101 Waffle: 118, Icing: 42
+L9102 Swirl: 21
+L9103 Icing: 70, ERROR! (29): 30
+L9104 Swirl: 25, Waffle: 66
+L9107 ERROR! (29): 15, Waffle: 60
+L9112 Icing: 10, Waffle: 70
+L9113 Waffle: 90
+L9117 ERROR! (32): 50, Waffle: 36
+L9118 Swirl: 80
+L9120 Swirl: 18, ERROR! (31): 128
+L9123 ERROR! (32): 61
+L9128 Icing: 30, ERROR! (34): 3
+L9129 Icing: 102
+L9130 Icing: 60, Swirl: 25
+L9131 MultiChoco: 30, MagicMixer: 1
+L9135 Swirl: 50, Popcorn: 3, Icing: 20
+L9138 Waffle: 45, ERROR! (32): 44
+L9140 ERROR! (27): 100
+L9143 Y+: 65, R+: 65
+L9147 Waffle: 69, Icing: 57
+L9148 WR: 20, MagicMixer: 2
+L9152 ERROR! (35): 25
+L9153 Swirl: 49, ERROR! (31): 129
+L9154 Waffle: 83
+L9156 Icing: 59, Swirl: 20
+L9159 MagicMixer: 4, ERROR! (32): 70
+L9160 Icing: 71
+L9162 ERROR! (32): 110, Waffle: 100
+L9163 ERROR! (32): 45, Waffle: 80
+L9166 MagicMixer: 1, Waffle: 77
+L9168 Waffle: 25
+L9172 MultiChoco: 20, Waffle: 20
+L9174 ERROR! (30): 5
+L9176 Icing: 133
+L9179 Y+: 4, Waffle: 40, ERROR! (28): 60
+L9180 Icing: 48, Waffle: 30
+L9183 ERROR! (32): 36, MultiChoco: 27
+L9186 Icing: 60, Waffle: 88
+L9187 Icing: 85
+L9191 Waffle: 25, Icing: 120, Swirl: 35
+L9193 Icing: 100
+L9195 Icing: 48, Waffle: 65
+L9197 Icing: 24, ERROR! (32): 35
+L9198 Swirl: 20, Icing: 56, Waffle: 30
+L9203 ERROR! (32): 110, ERROR! (35): 36
+L9204 MultiChoco: 81, ERROR! (27): 50
+L9205 Icing: 147, Waffle: 35
+L9207 Popcorn: 8, Swirl: 58
+L9209 Icing: 94
+L9212 Waffle: 147
+L9213 Icing: 95
+L9216 CakeBomb: 6, Icing: 61
+L9218 Swirl: 30, Waffle: 12
+L9219 Icing: 47, MultiChoco: 24
+L9223 ERROR! (32): 32, Waffle: 48
+L9224 ERROR! (29): 75, Icing: 74
+L9227 Icing: 65, Swirl: 25
+L9229 Waffle: 30, Icing: 58
+L9232 Waffle: 75, Icing: 64
+L9234 Swirl: 70
+L9236 JF: 28
+L9237 ERROR! (31): 194
+L9239 Swirl: 12, ERROR! (33): 43, R+: 18
+L9244 Icing: 133, Waffle: 75
+L9245 ERROR! (32): 85, Waffle: 45
+L9247 Waffle: 50
+L9250 Popcorn: 6, Swirl: 23
+L9251 Swirl: 50, Waffle: 75, Icing: 20
+L9253 Icing: 62, ERROR! (32): 76
+L9255 Waffle: 25, Swirl: 18
+L9257 Icing: 77, Waffle: 90, Swirl: 45
+L9260 Icing: 72, Waffle: 50
+L9261 ERROR! (30): 4, MagicMixer: 4
+L9264 B: 6, R+: 6
+L9265 ERROR! (29): 160, JF: 40
+L9267 Icing: 140, Waffle: 40
+L9268 Bomb: 10
+L9272 ERROR! (30): 3
+L9275 ERROR! (32): 30
+L9277 Waffle: 80, Swirl: 35
+L9280 Waffle: 125, Swirl: 30
+L9281 ERROR! (32): 72, Swirl: 12
+L9285 ERROR! (32): 36
+L9286 Icing: 71, MagicMixer: 5, ERROR! (32): 45
+L9288 ERROR! (29): 134
+L9289 Waffle: 70, Icing: 55
+L9291 ERROR! (32): 60
+L9293 Icing: 58
+L9296 Waffle: 36
+L9299 Waffle: 1, MagicMixer: 8
+L9302 JF: 10
+L9305 ERROR! (30): 3, Waffle: 69
+L9308 Waffle: 24, ERROR! (29): 60
+L9310 Icing: 40, Waffle: 40
+L9313 Swirl: 40
+L9316 MultiChoco: 70, Waffle: 45, Swirl: 15
+L9317 Swirl: 15
+L9318 Icing: 40, CakeBomb: 2
+L9320 ERROR! (29): 72, Waffle: 14
+L9322 Waffle: 76, ERROR! (35): 32, Icing: 43
+L9323 Icing: 96
+L9325 MagicMixer: 4, JF: 5
+L9328 Popcorn: 3, Waffle: 48
+L9330 Waffle: 120
+L9333 Swirl: 30
+L9334 JF: 60
+L9340 Icing: 45, Swirl: 20
+L9341 Icing: 45, Swirl: 30
+L9344 MagicMixer: 5, Waffle: 55
+L9345 Icing: 43, Swirl: 5
+L9347 Icing: 70, ERROR! (29): 60
+L9349 Swirl: 23, Waffle: 80
+L9350 ERROR! (32): 85, Popcorn: 4, Waffle: 12
+L9351 ERROR! (32): 100, ERROR! (31): 300
+L9356 Bomb: 16
+L9358 ERROR! (34): 5
+L9359 Waffle: 145
+L9360 Icing: 55, Waffle: 60
+L9361 Waffle: 60, Icing: 83
+L9365 Icing: 125
+L9369 ERROR! (30): 5, Icing: 117
+L9370 Waffle: 152, Icing: 40
+L9371 ERROR! (32): 118, Waffle: 40
+L9377 B: 15, ERROR! (30): 3
+L9379 Icing: 216
+L9380 CakeBomb: 3
+L9382 Waffle: 145
+L9384 ERROR! (28): 200, Icing: 150
+L9386 ERROR! (27): 96
+L9390 Waffle: 60
+L9391 ERROR! (32): 72, Waffle: 28
+L9395 JF: 35
+L9397 Waffle: 151
+L9398 Waffle: 63, Swirl: 18, Popcorn: 2
+L9401 Icing: 36, Waffle: 65
+L9403 Waffle: 40, Swirl: 50
+L9406 MagicMixer: 6, ERROR! (32): 100, Waffle: 55
+L9408 Swirl: 36
+L9410 ERROR! (29): 160, Waffle: 45
+L9412 Icing: 107
+L9413 Waffle: 30
+L9414 Waffle: 28
+L9415 Waffle: 50, ERROR! (29): 138, ERROR! (32): 86
+L9417 ERROR! (30): 1, Icing: 60
+L9419 Waffle: 60, CakeBomb: 4
+L9423 ERROR! (32): 28, Waffle: 12
+L9424 Waffle: 130
+L9425 Waffle: 57
+L9428 Waffle: 60, Icing: 40
+L9430 Swirl: 31, Waffle: 39
+L9431 ERROR! (32): 81, Icing: 32
+L9433 Popcorn: 8
+L9435 Waffle: 80, Swirl: 15
+L9438 Icing: 60
+L9440 Waffle: 118
+L9441 B: 9, Y+: 9
+L9442 Icing: 28
+L9444 Waffle: 112
+L9446 ERROR! (31): 500
+L9449 Waffle: 54
+L9451 Waffle: 100, O: 80
+L9452 Icing: 94
+L9456 Waffle: 82
+L9457 Swirl: 15, Choco: 15, Icing: 96
+L9461 ERROR! (31): 60, Waffle: 50
+L9462 ERROR! (29): 90
+L9463 Swirl: 40, MultiChoco: 30
+L9465 Waffle: 130, Icing: 42
+L9466 Swirl: 9, Waffle: 30
+L9468 Waffle: 18, Swirl: 21
+L9471 MagicMixer: 2
+L9472 ERROR! (29): 47
+L9476 Popcorn: 8, Waffle: 70
+L9479 JF: 26, ERROR! (31): 176
+L9480 ERROR! (32): 45
+L9481 Icing: 28, Waffle: 54
+L9482 Bomb: 50
+L9484 Icing: 112
+L9486 Swirl: 15, Icing: 40, Popcorn: 4
+L9487 ERROR! (32): 94
+L9490 Waffle: 78
+L9495 Icing: 57
+L9496 Waffle: 55, Icing: 122
+L9500 Waffle: 32
+L9502 Icing: 85
+L9503 Waffle: 122, Choco: 5
+L9506 Icing: 10, Swirl: 10, COL: 4
+L9507 ERROR! (32): 88, MagicMixer: 4
+L9512 G: 150, P: 150
+L9513 Waffle: 96
+L9514 Icing: 72, Waffle: 86
+L9516 MultiChoco: 36
+L9519 Waffle: 66, ERROR! (29): 30
+L9520 Icing: 64
+L9524 P: 100, Swirl: 25
+L9525 MultiChoco: 36, Swirl: 31
+L9528 Icing: 90
+L9530 Waffle: 54, ERROR! (32): 67
+L9531 Waffle: 80
+L9533 B: 120, P: 120, ERROR! (32): 60
+L9535 ERROR! (33): 35
+L9537 ERROR! (32): 190, Waffle: 61
+L9538 ERROR! (35): 8
+L9544 Icing: 107, ERROR! (32): 23
+L9545 ERROR! (30): 4
+L9547 Waffle: 155
+L9550 Icing: 80, Waffle: 35
+L9552 ERROR! (32): 41, ERROR! (29): 40
+L9555 ERROR! (31): 80
+L9557 Waffle: 117
+L9559 Swirl: 30, Waffle: 55
+L9563 Popcorn: 11, Icing: 28
+L9565 Waffle: 107, CakeBomb: 2, ERROR! (32): 40
+L9566 ERROR! (33): 126, ERROR! (31): 95
+L9569 Waffle: 64
+L9571 Swirl: 50, Bomb: 40
+L9572 Popcorn: 6, Waffle: 90, ERROR! (34): 5
+L9573 ERROR! (34): 5, Waffle: 40
+L9576 ERROR! (32): 60, Icing: 48
+L9581 Popcorn: 12, JF: 30
+L9583 MagicMixer: 21, Popcorn: 3, Icing: 47
+L9586 Icing: 44, Swirl: 40
+L9588 Waffle: 86
+L9589 Icing: 90, Swirl: 38
+L9591 Swirl: 40, Icing: 64
+L9595 Bomb: 75, ERROR! (32): 55
+L9596 Icing: 60, ERROR! (32): 37
+L9601 B: 25, G: 25
+L9603 Waffle: 110
+L9606 Icing: 90
+L9609 Waffle: 63
+L9611 Waffle: 36
+L9612 Waffle: 78, Popcorn: 8
+L9613 Waffle: 102, Icing: 84
+L9617 Waffle: 55, Icing: 28
+L9618 ERROR! (29): 70, Icing: 65
+L9622 Waffle: 40, Icing: 36
+L9624 Swirl: 30, ERROR! (31): 75
+L9627 Swirl: 20
+L9628 Waffle: 42
+L9630 Popcorn: 3, Waffle: 80
+L9632 Waffle: 45, Icing: 74
+L9633 Icing: 30, Swirl: 15
+L9637 MultiChoco: 20, Waffle: 50, Icing: 80
+L9640 Waffle: 121
+L9642 COL: 6
+L9644 MultiChoco: 20, Icing: 22
+L9645 Icing: 65, Waffle: 90
+L9647 Waffle: 81, Icing: 40
+L9650 CakeBomb: 2
+L9653 CakeBomb: 3, MagicMixer: 6, Waffle: 35
+L9655 Icing: 170, MultiChoco: 24
+L9656 Swirl: 36, Icing: 43
+L9658 Waffle: 59, ERROR! (29): 40
+L9659 ERROR! (32): 54, Waffle: 74, CakeBomb: 2
+L9661 Icing: 60
+L9663 Waffle: 60
+L9665 COL: 5, Icing: 45
+L9666 Waffle: 146, MagicMixer: 2
+L9670 ERROR! (32): 68, Waffle: 118, ERROR! (27): 96
+L9672 Waffle: 64
+L9673 Icing: 84, ERROR! (31): 73
+L9674 G: 30, B: 30, Icing: 40
+L9676 Waffle: 81, ERROR! (36): 6
+L9680 Icing: 24, ERROR! (34): 5
+L9682 MagicMixer: 6
+L9683 MultiChoco: 90, MagicMixer: 8
+L9686 ERROR! (32): 110
+L9688 Waffle: 60, Swirl: 25
+L9689 MagicMixer: 9
+L9693 Swirl: 30, Icing: 44
+L9694 COL: 6, Icing: 20
+L9696 Waffle: 84, ERROR! (27): 64
+L9697 Icing: 99, Waffle: 74
+L9701 Swirl: 26, Waffle: 27
+L9704 MultiChoco: 60, ERROR! (27): 90
+L9706 Waffle: 50
+L9707 ERROR! (35): 16, ERROR! (34): 5
+L9710 Waffle: 47, Icing: 5
+L9712 Icing: 103, ERROR! (32): 99
+L9715 Icing: 59, CakeBomb: 2, MagicMixer: 3
+L9718 JF: 25, Swirl: 40
+L9719 MagicMixer: 16, Waffle: 15
+L9721 Waffle: 70, Icing: 80
+L9722 MultiChoco: 50, Waffle: 60
+L9725 Swirl: 23, ERROR! (29): 45
+L9729 Waffle: 65
+L9730 Waffle: 50, R: 50
+L9732 Waffle: 85, Icing: 75, Swirl: 21
+L9737 Icing: 92
+L9739 Icing: 50
+L9743 Waffle: 120
+L9745 Icing: 30
+L9746 JF: 40, ERROR! (29): 69
+L9748 ERROR! (32): 86, Waffle: 99
+L9750 Waffle: 94
+L9753 Waffle: 120
+L9754 Icing: 85, MultiChoco: 85
+L9756 Waffle: 44
+L9757 Swirl: 33
+L9762 JF: 20, MagicMixer: 2
+L9763 Bomb: 15, Waffle: 124, MagicMixer: 2
+L9765 Waffle: 27, Swirl: 27
+L9769 B: 100, Waffle: 75
+L9770 Waffle: 18, ERROR! (29): 40, ERROR! (34): 5
+L9772 MagicMixer: 3, ERROR! (32): 155
+L9774 ERROR! (32): 113
+L9776 Icing: 44
+L9778 Choco: 15, Icing: 70
+L9781 MultiChoco: 70, Swirl: 35, MagicMixer: 5
+L9782 R+: 100, Y+: 100
+L9783 Popcorn: 13, ERROR! (29): 116
+L9786 Swirl: 27, ERROR! (30): 2, ERROR! (34): 5
+L9790 Icing: 58
+L9792 COL+ST: 3
+L9793 ERROR! (32): 74, Swirl: 23
+L9798 Icing: 84, Swirl: 30
+L9799 Waffle: 40, Icing: 77
+L9800 ERROR! (29): 154, ERROR! (35): 24
+L9803 ERROR! (32): 84, ERROR! (29): 86
+L9804 JF: 4, ERROR! (32): 25
+L9806 Waffle: 130
+L9810 Icing: 75
+L9811 Waffle: 105
+L9813 Swirl: 35, MultiChoco: 36
+L9815 MagicMixer: 8, ERROR! (32): 70, ERROR! (29): 90
+L9816 Waffle: 230
+L9817 Icing: 153, ERROR! (32): 18
+L9820 Icing: 105
+L9824 Waffle: 40, Icing: 40
+L9825 Swirl: 63
+L9826 Icing: 153
+L9833 Bomb: 66, Icing: 66
+L9835 JF: 80, Icing: 89
+L9836 Waffle: 35, ERROR! (29): 100
+L9841 Icing: 136, ERROR! (29): 54
+L9844 Icing: 40, MagicMixer: 5
+L9846 Swirl: 75
+L9848 Waffle: 16, ERROR! (34): 5, ERROR! (30): 2
+L9850 Waffle: 108
+L9852 JF: 30, ERROR! (32): 150, Waffle: 150
+L9853 Waffle: 120
+L9856 Icing: 38, Waffle: 55
+L9859 Icing: 90, Waffle: 90
+L9860 ERROR! (32): 63, ERROR! (30): 3
+L9862 Waffle: 109
+L9864 Swirl: 40, ERROR! (32): 66
+L9868 ERROR! (36): 6, Bomb: 80
+L9869 Icing: 90, Waffle: 50
+L9871 MultiChoco: 55, Waffle: 40
+L9872 Icing: 66
+L9875 ERROR! (32): 90, CakeBomb: 2
+L9876 Waffle: 72, MultiChoco: 20
+L9877 Waffle: 62
+L9878 Icing: 40, ERROR! (30): 1
+L9881 ERROR! (32): 147, ERROR! (29): 54, ERROR! (30): 1
+L9884 ERROR! (34): 5
+L9885 ERROR! (31): 126
+L9887 Waffle: 59, ERROR! (31): 87
+L9888 ERROR! (30): 1, ERROR! (32): 42
+L9889 Waffle: 73, Icing: 84
+L9892 Icing: 114
+L9894 Icing: 47, Waffle: 30
+L9896 Waffle: 60, Swirl: 45
+L9900 MultiChoco: 75, ERROR! (31): 35
+L9901 Icing: 100, Swirl: 25
+L9905 CakeBomb: 4, Swirl: 8
+L9907 ERROR! (32): 30, ERROR! (29): 90
+L9908 Swirl: 33
+L9911 Waffle: 83, Icing: 18
+L9914 ERROR! (35): 16
+L9915 Icing: 75, Waffle: 40
+L9916 Icing: 136, Waffle: 32
+L9919 Icing: 119
+L9921 JF: 20, Waffle: 50
+L9922 Swirl: 12, Icing: 40
+L9926 Waffle: 65
+L9929 Waffle: 46, Swirl: 20
+L9930 MagicMixer: 6, CakeBomb: 2, ERROR! (29): 60
+L9931 Waffle: 144
+L9932 JF: 5
+L9934 Waffle: 70, CakeBomb: 3
+L9936 ERROR! (29): 75, JF: 25
+L9941 Waffle: 88, ERROR! (34): 5
+L9943 Waffle: 46, MagicMixer: 4
+L9944 Icing: 83, ERROR! (29): 40
+L9945 Waffle: 70
+L9946 ERROR! (36): 14, Icing: 54
+L9950 Waffle: 75
+L9954 Waffle: 80, ERROR! (29): 95
+L9956 Icing: 50, Waffle: 45
+L9960 ERROR! (33): 132
+L9961 Waffle: 160
+L9963 Swirl: 58
+L9964 Bomb: 20
+L9965 Waffle: 135, ERROR! (29): 44
+L9967 Waffle: 90, Icing: 56
+L9968 Icing: 65, MagicMixer: 2
+L9971 CakeBomb: 1, Swirl: 10, Icing: 83
+L9974 Waffle: 30, Bomb: 15
+L9975 ERROR! (29): 150, ERROR! (32): 40, Swirl: 35
+L9976 Waffle: 80, ERROR! (29): 64
+L9977 ERROR! (32): 37, Icing: 45
+L9979 Icing: 60, Swirl: 15
+L9981 Waffle: 5, ERROR! (32): 20
+L9983 Waffle: 87, Swirl: 14, Icing: 65
+L9986 ERROR! (34): 5, ERROR! (29): 90
+L9987 Icing: 97, COL: 5
+L9988 MultiChoco: 43, Waffle: 76
+L9992 Icing: 20, ERROR! (30): 5
+L9993 ERROR! (32): 46, ERROR! (35): 18
+L9994 Waffle: 74, Icing: 76
+L9995 B: 120, P: 120, ERROR! (32): 120
+L9998 G: 30, B: 30
+L9999 Waffle: 96
+L10003 Waffle: 24, Swirl: 14
+L10007 B: 35, Y+: 35
+L10008 Icing: 50, ERROR! (30): 4
+L10012 Icing: 98, MagicMixer: 6
+L10013 Waffle: 157, ERROR! (29): 30
+L10014 Waffle: 73
+L10015 Icing: 51, Waffle: 46
+L10017 ERROR! (29): 60, CakeBomb: 4
+L10019 ERROR! (32): 54, ERROR! (29): 47
+L10023 Waffle: 80, ERROR! (32): 77
+L10024 Icing: 120, ERROR! (32): 90
+L10025 Waffle: 73, Popcorn: 5
+L10026 MultiChoco: 6, ERROR! (32): 18
+L10028 Swirl: 20
+L10030 Icing: 48, ERROR! (32): 22
+L10033 Icing: 160
+L10035 Swirl: 9
+L10039 Icing: 100, Swirl: 40
+L10040 Waffle: 87
+L10043 Waffle: 118
+L10045 ERROR! (32): 97
+L10046 Icing: 36, Swirl: 20
+L10049 Waffle: 25
+L10051 Waffle: 65
+L10052 Icing: 80, ERROR! (32): 100, MagicMixer: 8
+L10053 ERROR! (36): 13, Waffle: 75
+L10056 Icing: 120
+L10058 Icing: 101, Choco: 7
+L10060 Icing: 141
+L10062 Swirl: 45, Icing: 24
+L10063 Waffle: 35, CakeBomb: 2
+L10069 Waffle: 80, MagicMixer: 8, Popcorn: 5
+L10070 ERROR! (36): 20, Swirl: 20
+L10071 ERROR! (32): 100, CakeBomb: 2
+L10072 MultiChoco: 30, Waffle: 50
+L10076 Waffle: 104
+L10079 ERROR! (32): 16, ERROR! (29): 33
+L10080 Icing: 72, Swirl: 28
+L10081 Icing: 45, ERROR! (36): 22
+L10082 Waffle: 60, Icing: 30
+L10084 MagicMixer: 16
+L10086 MagicMixer: 10, Waffle: 100
+L10088 CakeBomb: 2, MagicMixer: 10
+L10090 Swirl: 40, ERROR! (29): 94
+L10096 Waffle: 32, ERROR! (32): 27
+L10098 Icing: 24, Waffle: 85
+L10100 Swirl: 42, ERROR! (32): 70
+L10104 ERROR! (32): 119, ERROR! (28): 45, MultiChoco: 54
+L10105 Icing: 115, ERROR! (35): 8
+L10106 Waffle: 35, Swirl: 19
+L10108 Waffle: 30, CakeBomb: 1, MultiChoco: 28
+L10113 Swirl: 30, Waffle: 40
+L10114 Icing: 148, MagicMixer: 10
+L10117 Waffle: 165
+L10120 Waffle: 99, CakeBomb: 3
+L10122 Waffle: 70, Popcorn: 4
+L10124 Waffle: 45, Icing: 42, MagicMixer: 2
+L10125 Icing: 60, CakeBomb: 2
+L10127 ERROR! (33): 101, Waffle: 38
+L10130 ERROR! (36): 26, ERROR! (29): 33
+L10131 Bomb: 15, Waffle: 105
+L10135 Icing: 115, Waffle: 20
+L10137 Waffle: 24, Icing: 36
+L10138 Waffle: 30, ERROR! (32): 75
+L10139 Swirl: 35, CakeBomb: 1, Icing: 24
+L10142 Icing: 84, MagicMixer: 4
+L10146 Icing: 32
+L10147 Waffle: 71, ERROR! (32): 50
+L10151 Icing: 50
+L10154 Waffle: 118
+L10156 Waffle: 65, ERROR! (32): 126
+L10157 JF: 16
+L10160 Icing: 71, ERROR! (29): 48, CakeBomb: 1
+L10164 Waffle: 66
+L10165 MagicMixer: 4, Icing: 101
+L10167 Waffle: 83, ERROR! (32): 40
+L10172 Swirl: 25, ERROR! (35): 52
+L10174 Swirl: 35, ERROR! (29): 40
+L10177 CakeBomb: 2, Waffle: 10
+L10178 MagicMixer: 2, Icing: 33
+L10181 Icing: 36, ERROR! (32): 60
+L10182 MultiChoco: 56, Waffle: 60
+L10184 Waffle: 40, MagicMixer: 2
+L10185 Icing: 160, Waffle: 58
+L10186 Waffle: 80, MagicMixer: 6
+L10189 Icing: 60, MagicMixer: 3, MultiChoco: 20
+L10190 Waffle: 70, ERROR! (29): 55
+L10192 ERROR! (32): 101
+L10194 JF: 30
+L10195 MultiChoco: 48, ERROR! (29): 39
+L10198 ERROR! (29): 40, Y+: 20
+L10200 MagicMixer: 7
+L10202 Icing: 50, ERROR! (32): 40, Swirl: 10
+L10204 Waffle: 85, ERROR! (32): 84
+L10206 ERROR! (32): 80, Icing: 60, MagicMixer: 2
+L10210 MultiChoco: 54
+L10212 Icing: 125
+L10213 CakeBomb: 2, Waffle: 45, Swirl: 25
+L10215 ERROR! (32): 45, MultiChoco: 72
+L10216 Waffle: 112, Icing: 50
+L10218 ERROR! (33): 252, JF: 70, Icing: 160
+L10220 Waffle: 67, ERROR! (35): 8
+L10221 Waffle: 38, CakeBomb: 2
+L10222 Waffle: 85
+L10226 Icing: 44, ERROR! (29): 20, Bomb: 14
+L10229 Waffle: 117
+L10230 ERROR! (29): 160, Icing: 28, Popcorn: 5
+L10231 Waffle: 64, ERROR! (32): 123
+L10232 Icing: 75, MagicMixer: 6
+L10234 Waffle: 143, CakeBomb: 2
+L10236 Waffle: 75, ERROR! (29): 45
+L10237 ERROR! (32): 72
+L10240 Icing: 60, Swirl: 16
+L10242 Waffle: 64
+L10245 MultiChoco: 45, Swirl: 20
+L10246 ERROR! (32): 70, MagicMixer: 13
+L10250 ERROR! (32): 62, Swirl: 26
+L10254 MultiChoco: 98
+L10255 Icing: 80, R: 2
+L10257 Swirl: 27, Waffle: 88
+L10262 Icing: 120, ERROR! (32): 110
+L10264 Icing: 56, Swirl: 28
+L10266 Icing: 85, Swirl: 45
+L10267 Bomb: 10, MagicMixer: 6
+L10268 Waffle: 24
+L10271 Icing: 27, ERROR! (29): 124
+L10272 Swirl: 27, Icing: 49
+L10274 Waffle: 27, ERROR! (36): 16
+L10275 CakeBomb: 3, ERROR! (29): 55
+L10277 Waffle: 107, ERROR! (32): 40
+L10279 Waffle: 84, ERROR! (32): 42
+L10284 Popcorn: 4
+L10286 MagicMixer: 10, Icing: 50
+L10290 Waffle: 20, Icing: 88
+L10291 Waffle: 56, MultiChoco: 45
+L10293 Icing: 42, Waffle: 18
+L10294 Swirl: 21
+L10295 Icing: 125, MagicMixer: 9
+L10296 Icing: 85
+L10297 Waffle: 104, ERROR! (29): 84
+L10301 Waffle: 110, Bomb: 16, Y+: 6
+L10304 ERROR! (29): 72, Swirl: 13
+L10306 Swirl: 28, ERROR! (31): 15, ERROR! (35): 4
+L10307 Icing: 42
+L10310 Icing: 75, MagicMixer: 7
+L10315 Waffle: 41, MagicMixer: 2
+L10316 Icing: 71, ERROR! (32): 19, CakeBomb: 1
+L10321 Waffle: 105
+L10322 CakeBomb: 1, Icing: 70, Swirl: 25
+L10328 Waffle: 135
+L10329 Icing: 106, ERROR! (35): 36
+L10333 Waffle: 110
+L10335 Swirl: 21, Icing: 79
+L10336 Icing: 75, Waffle: 51
+L10337 Bomb: 40, ERROR! (29): 60
+L10340 Icing: 62, CakeBomb: 2
+L10343 Popcorn: 12, MagicMixer: 6
+L10347 Swirl: 18, Waffle: 70, Icing: 45
+L10348 Icing: 86, ERROR! (29): 86
+L10352 Icing: 53
+L10353 Icing: 62, ERROR! (29): 142
+L10354 Icing: 38, MagicMixer: 9, Waffle: 24
+L10356 Waffle: 50, Swirl: 28
+L10358 ERROR! (29): 73, Icing: 70
+L10360 ERROR! (31): 48, MagicMixer: 5
+L10362 Icing: 50, Waffle: 50
+L10363 ERROR! (32): 17, Waffle: 36
+L10367 ERROR! (32): 68, Waffle: 54
+L10370 Icing: 80, Swirl: 25
+L10372 ERROR! (35): 28
+L10374 ERROR! (32): 25, MultiChoco: 57, Swirl: 12
+L10377 Icing: 54, Swirl: 10
+L10379 Icing: 80, Swirl: 24
+L10381 Icing: 60, Waffle: 85
+L10382 Waffle: 131
+L10383 Icing: 81, ERROR! (32): 42
+L10387 Icing: 115, ERROR! (29): 55
+L10391 MagicMixer: 4, Swirl: 40, Waffle: 120
+L10393 Swirl: 28, ERROR! (31): 22
+L10396 Waffle: 100, ERROR! (32): 75
+L10397 Swirl: 10, ERROR! (29): 24
+L10398 Icing: 109
+L10399 Waffle: 57, ERROR! (32): 130
+L10401 Waffle: 32, ERROR! (28): 48, ERROR! (32): 48
+L10402 Swirl: 30
+L10405 Waffle: 93, MultiChoco: 18, ERROR! (32): 30
+L10408 Swirl: 33, Icing: 108
+L10409 Icing: 62, ERROR! (32): 56
+L10411 Waffle: 64, Swirl: 12
+L10413 Swirl: 15, MagicMixer: 2, Waffle: 18
+L10417 Waffle: 91
+L10420 Waffle: 150, Swirl: 15
+L10421 Icing: 150, ERROR! (32): 134
+L10425 MagicMixer: 6
+L10426 Icing: 38, Waffle: 58
+L10430 CakeBomb: 2, ERROR! (30): 3
+L10431 Waffle: 64, ERROR! (29): 90, ERROR! (32): 20
+L10433 G: 40, R+: 40
+L10435 Waffle: 200
+L10437 Choco: 15, Waffle: 40, Icing: 62
+L10438 ERROR! (32): 60
+L10444 MultiChoco: 38, Waffle: 73
+L10445 ERROR! (29): 132, Icing: 30
+L10446 Swirl: 15, Icing: 100
+L10447 Waffle: 48, Icing: 62
+L10449 Waffle: 94, ERROR! (32): 75
+L10452 MultiChoco: 32, ERROR! (29): 120
+L10454 Waffle: 90
+L10456 Waffle: 80, ERROR! (32): 39
+L10457 Waffle: 130, Swirl: 30
+L10458 MultiChoco: 52, MagicMixer: 10
+L10461 Icing: 99, ERROR! (37): 3
+L10463 Icing: 157
+L10465 Waffle: 36, ERROR! (29): 60
+L10466 Waffle: 44
+L10468 Icing: 60, ERROR! (37): 5
+L10472 Waffle: 50
+L10476 ERROR! (32): 20, Waffle: 82
+L10477 Icing: 36, ERROR! (32): 24
+L10482 Icing: 100, ERROR! (32): 40
+L10483 MultiChoco: 45, Waffle: 85
+L10485 ERROR! (32): 72
+L10489 Icing: 100, Waffle: 100
+L10490 ERROR! (31): 40, Icing: 87
+L10491 ERROR! (27): 206, WR: 20, Waffle: 40
+L10493 Waffle: 54
+L10495 Waffle: 120
+L10497 ERROR! (37): 8, Waffle: 99
+L10498 Waffle: 56, ERROR! (29): 56
+L10501 Icing: 42, Swirl: 10, Waffle: 28
+L10504 B: 90, O: 90
+L10505 ERROR! (34): 5, ERROR! (29): 80
+L10506 Swirl: 72
+L10507 Waffle: 88, MagicMixer: 4
+L10508 Icing: 16, Bomb: 10
+L10511 Waffle: 90, MultiChoco: 28
+L10513 MultiChoco: 80, MagicMixer: 2
+L10515 ERROR! (29): 204
+L10516 Icing: 70, Waffle: 85, Bomb: 30
+L10519 CakeBomb: 2, Waffle: 63
+L10521 Swirl: 7, Waffle: 5
+L10523 Waffle: 225
+L10525 Waffle: 90
+L10528 ERROR! (32): 80
+L10529 ERROR! (37): 18, ERROR! (32): 63
+L10534 Waffle: 120
+L10537 Waffle: 188
+L10540 Icing: 48, Swirl: 24
+L10541 ERROR! (32): 125
+L10543 Icing: 60, ERROR! (32): 115
+L10547 Waffle: 33, MultiChoco: 20, ERROR! (29): 60
+L10549 Waffle: 113, ERROR! (29): 60
+L10550 Waffle: 64, Swirl: 36
+L10552 Icing: 60
+L10555 Swirl: 50, MultiChoco: 40
+L10556 Popcorn: 8, Waffle: 35
+L10560 B: 60, Y: 60
+L10561 ERROR! (32): 52, ERROR! (29): 63, Swirl: 17
+L10565 Waffle: 65
+L10566 Swirl: 8, Waffle: 52
+L10568 Waffle: 67
+L10572 ERROR! (29): 41, Waffle: 96
+L10573 Icing: 125, CakeBomb: 2
+L10574 ERROR! (32): 32
+L10576 MagicMixer: 8
+L10578 Waffle: 85, MultiChoco: 77
+L10579 ERROR! (32): 45, Waffle: 158, CakeBomb: 2
+L10581 Icing: 176
+L10582 Waffle: 88, MagicMixer: 4
+L10584 ERROR! (33): 15
+L10587 Waffle: 75
+L10588 Icing: 50, MultiChoco: 28, ERROR! (33): 60
+L10590 Swirl: 13, ERROR! (34): 4
+L10592 Icing: 95, Waffle: 60
+L10594 Waffle: 142
+L10595 CakeBomb: 2, ERROR! (32): 125, Swirl: 15
+L10597 Icing: 60, Swirl: 30
+L10599 ERROR! (29): 100, Swirl: 24
+L10602 ERROR! (32): 48, Waffle: 28
+L10605 Waffle: 102
+L10606 Icing: 78, ERROR! (29): 40
+L10608 ERROR! (32): 18, Waffle: 82, ERROR! (29): 40
+L10609 Waffle: 60, ERROR! (35): 26
+L10611 Icing: 30, Waffle: 100
+L10613 ERROR! (29): 117, Popcorn: 3
+L10615 O: 100
+L10617 Waffle: 160, MagicMixer: 4
+L10618 Icing: 122, ERROR! (32): 55
+L10624 Waffle: 60, Swirl: 12, MultiChoco: 40
+L10625 B: 50, Y+: 50
+L10627 ERROR! (29): 43, MultiChoco: 46
+L10630 Waffle: 60, Bomb: 60, MultiChoco: 60
+L10634 Waffle: 99, MagicMixer: 5
+L10635 Waffle: 88, ERROR! (32): 100
+L10637 Waffle: 20, ERROR! (32): 10
+L10642 ERROR! (30): 5
+L10643 Y+: 10, B: 10
+L10645 Icing: 180
+L10646 Waffle: 20, ERROR! (30): 5
+L10650 COL: 3
+L10651 ERROR! (32): 64, Swirl: 18
+L10655 Y+: 20
+L10658 Y+: 50, P+: 50
+L10660 Icing: 113
+L10663 ERROR! (29): 108
+L10665 Waffle: 84
+L10668 R+: 60, G: 60
+L10669 Waffle: 74, G: 150
+L10672 Swirl: 26, Waffle: 69
+L10675 Waffle: 84
+L10676 Waffle: 8, ERROR! (30): 4, Swirl: 4
+L10679 ERROR! (29): 84
+L10681 MultiChoco: 48, MagicMixer: 2
+L10682 Swirl: 36
+L10684 ERROR! (32): 134
+L10686 ST: 35
+L10690 Popcorn: 10, ERROR! (35): 40
+L10691 Popcorn: 3, Waffle: 40, Icing: 30
+L10693 Waffle: 66, ERROR! (32): 54
+L10695 Swirl: 31, ERROR! (29): 18
+L10697 ERROR! (34): 5, Popcorn: 4
+L10700 ERROR! (30): 1, ERROR! (29): 100, Waffle: 8
+L10702 MultiChoco: 100, ERROR! (29): 33, JF: 10
+L10704 Waffle: 24
+L10705 Icing: 105, Waffle: 35
+L10708 Icing: 100, Waffle: 75
+L10710 Waffle: 72, Swirl: 20
+L10712 Icing: 138, ERROR! (32): 75, ERROR! (29): 60
+L10714 Waffle: 141
+L10716 Swirl: 13, ERROR! (29): 64
+L10717 Waffle: 125, Swirl: 16
+L10721 Icing: 80
+L10724 ERROR! (35): 28, MagicMixer: 2
+L10726 ERROR! (32): 55, Waffle: 65, JF: 5
+L10727 Waffle: 12
+L10730 Icing: 100, MagicMixer: 8
+L10731 Waffle: 64, Swirl: 28, Icing: 48
+L10735 Y+: 144
+L10737 ERROR! (30): 5, Swirl: 28
+L10738 Waffle: 70, ERROR! (32): 84, Icing: 72
+L10740 Waffle: 102
+L10741 Icing: 117, ERROR! (32): 49
+L10743 Icing: 50
+L10745 Waffle: 50
+L10747 Icing: 76, MultiChoco: 45
+L10749 Icing: 30, Swirl: 4, Waffle: 80
+L10750 ERROR! (32): 183
+L10753 Icing: 76
+L10755 MultiChoco: 12
+L10756 Waffle: 26
+L10758 Bomb: 16, Y+: 80
+L10760 Waffle: 16, Icing: 121, ERROR! (30): 1
+L10762 Waffle: 75, Icing: 66
+L10763 ERROR! (32): 62, Waffle: 54, Icing: 40
+L10766 MagicMixer: 12, Waffle: 140
+L10767 ERROR! (29): 120
+L10769 ERROR! (31): 41
+L10770 ERROR! (32): 55, Waffle: 53, Icing: 56
+L10771 Waffle: 103, Icing: 42
+L10774 Icing: 43, MultiChoco: 36, ERROR! (32): 63
+L10775 ERROR! (32): 76, Swirl: 26
+L10777 MultiChoco: 58, Swirl: 15
+L10780 Waffle: 150
+L10784 Icing: 20, Bomb: 150
+L10785 Swirl: 21, Waffle: 40
+L10786 Waffle: 46, Icing: 40
+L10790 Waffle: 127, MagicMixer: 3, ERROR! (32): 12
+L10792 Waffle: 135, MultiChoco: 9
+L10794 G: 50, R+: 50, Icing: 95
+L10797 CakeBomb: 2, ERROR! (33): 94
+L10798 Icing: 150
+L10799 Waffle: 99
+L10804 G: 100, ERROR! (35): 4, Icing: 110
+L10805 JF: 10
+L10806 Icing: 115, ERROR! (32): 60, ERROR! (35): 24
+L10807 Icing: 148
+L10808 JF: 12, Icing: 12
+L10812 ERROR! (29): 88, Icing: 50, ERROR! (35): 40
+L10814 Waffle: 73
+L10815 MultiChoco: 48, Icing: 88, ERROR! (28): 24
+L10817 B: 150
+L10819 Waffle: 125
+L10821 ERROR! (32): 80
+L10822 Swirl: 18, ERROR! (32): 32, Waffle: 77
+L10825 B: 120, Y+: 120
+L10828 ERROR! (30): 3, Waffle: 134
+L10830 G: 42, Icing: 92
+L10832 G: 90, ERROR! (31): 90
+L10835 ERROR! (28): 32
+L10837 Bomb: 55
+L10838 O: 100, Y+: 100, ERROR! (35): 32
+L10841 Waffle: 50
+L10844 Y+: 100
+L10845 Y+: 65, Waffle: 55, Icing: 70
+L10846 Icing: 95, ERROR! (28): 60
+L10849 Icing: 95, ERROR! (29): 95
+L10851 Waffle: 39, Icing: 56
+L10853 ERROR! (29): 90, B: 30
+L10855 Waffle: 140, Icing: 85
+L10858 Waffle: 88, ERROR! (32): 50
+L10861 Icing: 120
+L10863 ERROR! (29): 40, Waffle: 64
+L10865 Waffle: 88, Icing: 49
+L10867 Waffle: 93, MultiChoco: 30
+L10869 JF: 10, Icing: 45
+L10873 MagicMixer: 7, Icing: 61
+L10875 Icing: 90, MagicMixer: 6
+L10877 Waffle: 91, ERROR! (29): 27, ERROR! (37): 2
+L10879 Icing: 84, ERROR! (32): 62
+L10881 ERROR! (29): 84, Swirl: 29
+L10882 ERROR! (32): 75
+L10886 Icing: 48
+L10887 Swirl: 34
+L10889 Waffle: 22, Icing: 35
+L10892 B: 65
+L10894 Icing: 59, ERROR! (29): 54
+L10895 ERROR! (29): 74
+L10897 Swirl: 29, MultiChoco: 30, Waffle: 28
+L10900 Swirl: 25
+L10901 Waffle: 140
+L10903 Icing: 45, Waffle: 50
+L10905 O: 100
+L10908 ERROR! (29): 24, Waffle: 48, JF: 2
+L10910 Icing: 48, ERROR! (32): 32
+L10911 ERROR! (32): 92, ERROR! (28): 37, Swirl: 0
+L10913 Icing: 118
+L10914 Swirl: 11, Icing: 25
+L10916 Waffle: 52, ERROR! (32): 33
+L10918 Swirl: 18, ERROR! (32): 26, Icing: 40
+L10919 Swirl: 31, ERROR! (28): 40
+L10922 Waffle: 80
+L10923 Waffle: 40
+L10929 Swirl: 13, Waffle: 99, ERROR! (37): 10
+L10930 Icing: 63, MagicMixer: 4
+L10933 MagicMixer: 4, Waffle: 64
+L10935 ERROR! (32): 82, Swirl: 25
+L10936 Waffle: 66, Icing: 37, MagicMixer: 3
+L10938 ERROR! (29): 92, Waffle: 68
+L10940 ERROR! (32): 74, Swirl: 25
+L10943 ERROR! (32): 38, ERROR! (29): 45
+L10944 Icing: 96, ERROR! (31): 28, MultiChoco: 36
+L10945 CakeBomb: 1, ERROR! (32): 27
+L10947 Icing: 56, Waffle: 120
+L10948 Waffle: 55, Icing: 68
+L10951 ERROR! (32): 48, MagicMixer: 10
+L10952 CakeBomb: 2, Waffle: 40
+L10957 ERROR! (31): 52, Waffle: 28, ERROR! (27): 69
+L10960 Swirl: 42
+L10961 Swirl: 30
+L10964 Swirl: 1, ERROR! (37): 5, ERROR! (34): 5
+L10966 Icing: 51, MagicMixer: 2
+L10967 ERROR! (31): 49, Swirl: 21
+L10970 Swirl: 33
+L10973 Waffle: 90
+L10976 Bomb: 250
+L10977 Waffle: 80, CakeBomb: 2
+L10978 ERROR! (29): 80
+L10981 ERROR! (32): 60, B: 100, P: 100
+L10983 Icing: 53, ERROR! (29): 12
+L10984 Waffle: 95
+L10988 Icing: 34
+L10990 Waffle: 45, Swirl: 26
+L10993 G: 20
+L10994 Waffle: 72, ERROR! (34): 5
+L10995 Icing: 95, ERROR! (30): 1, ERROR! (35): 8
+L10999 Waffle: 160
+L11000 ERROR! (29): 75
+L11004 Waffle: 62
+L11005 CakeBomb: 2, Swirl: 16, Waffle: 115
+L11007 Icing: 73, Waffle: 50
+L11008 Icing: 140, MagicMixer: 3
+L11009 Icing: 92, MultiChoco: 36
+L11014 ERROR! (32): 83, Icing: 40
+L11016 Icing: 56, Popcorn: 2
+L11017 ERROR! (29): 92, Waffle: 95
+L11020 Waffle: 72, ERROR! (29): 73
+L11025 Icing: 58, Swirl: 12
+L11027 ERROR! (29): 40
+L11029 Icing: 69, Swirl: 26
+L11033 Icing: 56, ERROR! (34): 5
+L11034 Swirl: 31, Waffle: 22
+L11036 Y+: 45, Waffle: 53
+L11038 Waffle: 62
+L11041 ERROR! (29): 159
+L11043 MagicMixer: 9, Swirl: 26
+L11048 ERROR! (29): 104, Icing: 65
+L11050 Waffle: 106, MagicMixer: 6
+L11051 Icing: 43, Waffle: 65
+L11052 MultiChoco: 46, ERROR! (29): 70, ERROR! (33): 57
+L11055 Waffle: 100, Bomb: 75
+L11056 Waffle: 120
+L11059 Icing: 82
+L11060 ERROR! (29): 70, Waffle: 30
+L11061 Waffle: 5, ERROR! (32): 27
+L11062 Icing: 136
+L11063 Icing: 75
+L11064 Icing: 85
+L11065 Waffle: 101, ERROR! (32): 29, MagicMixer: 4
+L11066 Waffle: 85
+L11067 P: 75
+L11068 Waffle: 44
+L11069 CakeBomb: 2, ERROR! (30): 1, Icing: 112
+L11070 R+: 30, Waffle: 102
+L11071 Waffle: 114, Popcorn: 3
+L11072 ERROR! (32): 24, Icing: 51
+L11073 B: 40, Y+: 40, Icing: 55
+L11074 Icing: 52
+L11075 ERROR! (34): 5, ERROR! (29): 50
+L11077 Icing: 98
+L11079 Icing: 87, ERROR! (29): 87
+L11081 Icing: 43, ERROR! (29): 130
+L11082 Swirl: 30, ERROR! (30): 1
+L11084 Waffle: 45, CakeBomb: 2
+L11086 Waffle: 70, MultiChoco: 60
+L11087 ERROR! (32): 124, Swirl: 22, Waffle: 40
+L11088 MagicMixer: 8, ERROR! (32): 66
+L11090 ERROR! (37): 4, Icing: 246, ERROR! (33): 155
+L11091 ERROR! (32): 12, MagicMixer: 1
+L11092 ERROR! (27): 95, ERROR! (29): 160
+L11093 ERROR! (35): 24, Icing: 118
+L11094 Icing: 144, ERROR! (30): 6
+L11095 ERROR! (32): 60
+L11096 ERROR! (34): 5, ERROR! (30): 1
+L11097 B: 20, Y+: 20, P: 40
+L11098 ERROR! (30): 10, ERROR! (32): 195
+L11099 ERROR! (29): 80, ERROR! (32): 90
+L11100 Icing: 53, Waffle: 100
+L11101 Icing: 98, Waffle: 75
+L11102 Waffle: 65
+L11103 Waffle: 48, ERROR! (29): 48
+L11104 ERROR! (29): 109, ERROR! (33): 102, ERROR! (32): 35
+L11105 ERROR! (34): 5, Waffle: 37
+L11107 Waffle: 110
+L11109 Swirl: 28, Waffle: 28
+L11113 ERROR! (32): 32, ERROR! (29): 49
+L11114 ERROR! (32): 65, ERROR! (37): 5
+L11115 ERROR! (29): 20, Waffle: 40
+L11117 Waffle: 111
+L11120 ERROR! (32): 40, Icing: 128
+L11121 ERROR! (33): 96, MultiChoco: 25, ERROR! (29): 66
+L11122 ERROR! (32): 87, Icing: 42
+L11124 Waffle: 56, ERROR! (32): 48
+L11125 Waffle: 48, MagicMixer: 9
+L11128 Icing: 65, Waffle: 30
+L11131 CakeBomb: 2, Waffle: 78, Icing: 64
+L11133 ERROR! (29): 4, ERROR! (32): 140
+L11135 Icing: 116
+L11136 Waffle: 76
+L11137 ERROR! (29): 130, Waffle: 70
+L11138 Icing: 77
+L11139 Waffle: 50, R+: 150
+L11143 Waffle: 100
+L11144 Waffle: 70, Icing: 45
+L11149 Waffle: 36, ERROR! (29): 76
+L11154 ERROR! (32): 50, Waffle: 64, ERROR! (29): 35
+L11155 Icing: 65, MagicMixer: 1
+L11158 MagicMixer: 4, Icing: 64
+L11160 Icing: 114, Waffle: 14, Swirl: 8
+L11161 Icing: 89
+L11164 Icing: 70, ERROR! (29): 40, MultiChoco: 30
+L11167 Waffle: 58, ERROR! (29): 58
+L11171 Y+: 90
+L11172 Swirl: 4
+L11174 Waffle: 5
+L11177 Waffle: 90, ERROR! (35): 4
+L11179 ERROR! (29): 92
+L11181 Waffle: 65, MultiChoco: 48
+L11182 Icing: 81
+L11186 Icing: 77
+L11187 MagicMixer: 1, Waffle: 58, ERROR! (29): 32
+L11191 Waffle: 100, MultiChoco: 48
+L11192 Swirl: 27, CakeBomb: 2, Waffle: 28
+L11194 Icing: 83, Waffle: 53
+L11196 ERROR! (32): 68, Icing: 30, ERROR! (29): 76
+L11198 Icing: 33
+L11200 Swirl: 35
+L11201 Icing: 32, Swirl: 12
+L11203 Icing: 99, Waffle: 50
+L11205 Swirl: 30, Icing: 84
+L11206 ERROR! (29): 29
+L11207 ERROR! (32): 20
+L11210 ST: 15
+L11213 Waffle: 80
+L11214 Icing: 52, ERROR! (29): 84
+L11218 Waffle: 56
+L11221 Waffle: 105
+L11222 ERROR! (29): 30, ST: 10, Icing: 41
+L11223 CakeBomb: 3
+L11225 ERROR! (29): 52, Choco: 13, Swirl: 12
+L11227 ERROR! (32): 119
+L11230 Waffle: 70, ERROR! (32): 50
+L11232 ERROR! (29): 60, Swirl: 9
+L11233 ERROR! (32): 113
+L11234 ERROR! (29): 48, Waffle: 61
+L11236 Waffle: 116, ERROR! (32): 21
+L11237 ST+ST: 4
+L11242 Waffle: 75
+L11243 Icing: 93, MagicMixer: 3, Bomb: 13
+L11245 MultiChoco: 50, ERROR! (29): 46
+L11248 Icing: 71, Swirl: 33
+L11251 Icing: 49, Waffle: 60
+L11253 Waffle: 115, ERROR! (35): 32
+L11255 Waffle: 42, ERROR! (32): 81
+L11257 Swirl: 9, Icing: 69, Waffle: 45
+L11260 ERROR! (29): 65, CakeBomb: 2
+L11262 Waffle: 124, ERROR! (32): 40
+L11264 ERROR! (32): 80, Waffle: 35
+L11266 Waffle: 129
+L11267 Waffle: 15, ERROR! (32): 74
+L11270 ERROR! (32): 57, Waffle: 57
+L11272 ERROR! (32): 40, Icing: 60, Waffle: 80
+L11275 Icing: 127, Swirl: 6
+L11277 Waffle: 25, Swirl: 35, MultiChoco: 46
+L11278 Icing: 131
+L11282 Icing: 36, Waffle: 39, ERROR! (32): 36
+L11284 Waffle: 96, ERROR! (32): 63
+L11285 ERROR! (29): 88, Swirl: 24
+L11286 Icing: 94, ERROR! (27): 30, ERROR! (33): 30
+L11290 MagicMixer: 2, Icing: 56
+L11291 Waffle: 100
+L11293 Popcorn: 6, Icing: 104
+L11295 Icing: 59
+L11296 Y+: 160
+L11297 ST: 15
+L11300 Swirl: 21, ERROR! (35): 6
+L11301 Waffle: 90, MagicMixer: 8
+L11303 MultiChoco: 72
+L11305 ERROR! (32): 44
+L11306 ERROR! (29): 74
+L11308 ERROR! (29): 40, Icing: 53
+L11309 Choco: 14, Icing: 40
+L11310 ERROR! (32): 32, MultiChoco: 16
+L11311 Y+: 20
+L11312 Swirl: 10
+L11315 WR: 20, Icing: 100
+L11318 ERROR! (35): 12, Popcorn: 7
+L11320 MagicMixer: 2, Waffle: 128
+L11322 ERROR! (29): 48, Icing: 49
+L11323 MultiChoco: 30, Swirl: 19
+L11324 Choco: 20
+L11326 Waffle: 45
+L11327 ERROR! (32): 72, Icing: 136
+L11328 Swirl: 24
+L11330 Waffle: 25, WR: 10
+L11332 ERROR! (29): 100
+L11333 Waffle: 90
+L11335 Waffle: 103, Icing: 36
+L11339 Waffle: 140, ERROR! (30): 4, Icing: 11
+L11340 ERROR! (31): 78, P: 90
+L11343 Swirl: 18
+L11344 Icing: 77, ERROR! (32): 50
+L11346 P: 30, ERROR! (29): 133
+L11348 Swirl: 32, Waffle: 42
+L11351 MagicMixer: 3, ERROR! (33): 92
+L11353 ERROR! (29): 72, Waffle: 66
+L11355 Icing: 94
+L11356 Icing: 25, Waffle: 72
+L11360 R+: 10, ERROR! (33): 60, MultiChoco: 98
+L11362 Waffle: 130, Icing: 106
+L11364 ERROR! (29): 111, ERROR! (32): 63
+L11365 Swirl: 25, Icing: 16
+L11368 Waffle: 66, Swirl: 19, ERROR! (29): 24
+L11371 Waffle: 90, ERROR! (35): 16
+L11375 Waffle: 83, ERROR! (33): 40
+L11376 WR: 16
+L11378 Y+: 100
+L11379 ERROR! (29): 96
+L11382 MultiChoco: 110, O: 75, R: 75
+L11383 JF: 5
+L11386 B: 50, G: 50
+L11389 Y+: 75
+L11390 Icing: 20, P+: 200
+L11392 Icing: 82, ERROR! (29): 66
+L11394 ERROR! (32): 27, Waffle: 108
+L11395 Icing: 88, ERROR! (29): 62
+L11397 Icing: 127, Swirl: 25
+L11400 ERROR! (35): 12, ERROR! (33): 21
+L11401 MagicMixer: 3, ERROR! (32): 85, Waffle: 125
+L11405 Icing: 34, Waffle: 36, Swirl: 11
+L11409 ERROR! (32): 55, Icing: 92
+L11410 Swirl: 20, ERROR! (29): 54
+L11411 Icing: 110
+L11414 Swirl: 90
+L11417 CakeBomb: 2, Icing: 73, Waffle: 70
+L11418 Swirl: 25, Waffle: 40
+L11420 Y+: 15, Waffle: 45
+L11421 ERROR! (38): 4, Icing: 84
+L11422 ERROR! (38): 3, Waffle: 32
+L11426 Waffle: 166
+L11427 Waffle: 12, Icing: 45
+L11429 Waffle: 26
+L11430 ERROR! (32): 92, Icing: 89
+L11432 ERROR! (28): 42, ERROR! (38): 4, Waffle: 60
+L11435 Icing: 70
+L11440 Waffle: 12
+L11441 Waffle: 82
+L11442 ERROR! (38): 8, ERROR! (27): 60, ERROR! (33): 60
+L11445 Icing: 89, ERROR! (32): 40
+L11446 ERROR! (38): 7
+L11448 Icing: 20, ERROR! (34): 5
+L11450 Waffle: 72
+L11453 Waffle: 120, ERROR! (30): 5
+L11455 ERROR! (38): 6, Waffle: 30
+L11456 MultiChoco: 63
+L11459 ERROR! (38): 4, Waffle: 106
+L11462 Waffle: 95
+L11463 JF: 20
+L11465 ERROR! (33): 124
+L11467 ERROR! (32): 132
+L11468 Waffle: 72, ERROR! (30): 1
+L11470 ERROR! (32): 64
+L11471 Waffle: 80
+L11472 R+: 120, CakeBomb: 2
+L11474 Waffle: 126
+L11476 Y+: 150
+L11477 ERROR! (38): 6, MultiChoco: 43
+L11479 Waffle: 110
+L11481 Waffle: 175, ERROR! (31): 150, Popcorn: 4
+L11485 Icing: 88, ERROR! (29): 60
+L11486 CakeBomb: 1, Waffle: 67
+L11488 Waffle: 96, MagicMixer: 2
+L11490 ERROR! (29): 48, ERROR! (32): 117
+L11491 Icing: 42, Waffle: 130
+L11495 ERROR! (29): 70, Waffle: 56
+L11498 CakeBomb: 2, Icing: 88
+L11500 Icing: 109, Y+: 8, R+: 8
+L11503 Icing: 14, Waffle: 106
+L11504 Waffle: 72
+L11506 Waffle: 103, ERROR! (35): 36
+L11507 ERROR! (32): 82, ERROR! (29): 88, MagicMixer: 2
+L11508 CakeBomb: 2, Swirl: 12
+L11510 Icing: 112, Swirl: 13
+L11511 ERROR! (37): 3
+L11513 Waffle: 25
+L11515 Icing: 38, Waffle: 36
+L11516 ERROR! (34): 5
+L11517 Icing: 80
+L11519 Waffle: 88, ERROR! (32): 10
+L11522 Waffle: 21, Icing: 14, ERROR! (30): 1
+L11525 ERROR! (29): 75
+L11526 Waffle: 63, ERROR! (35): 10
+L11529 ERROR! (30): 1, Icing: 60
+L11531 P: 100, Y+: 100
+L11533 ERROR! (32): 35, ERROR! (35): 4
+L11534 Icing: 24
+L11536 Icing: 67
+L11537 ERROR! (32): 52
+L11540 ERROR! (37): 2, ERROR! (34): 5
+L11542 Icing: 109, Waffle: 66
+L11544 Icing: 51, Waffle: 60
+L11545 Waffle: 48, ERROR! (32): 52
+L11549 Swirl: 32, ERROR! (29): 80
+L11551 Waffle: 88, Icing: 53, Popcorn: 6
+L11555 Icing: 54, ERROR! (29): 65, Waffle: 52
+L11559 Icing: 154, CakeBomb: 2, ERROR! (28): 46
+L11560 Waffle: 112
+L11561 ERROR! (32): 46, Swirl: 18
+L11564 Waffle: 46, ERROR! (34): 5, MagicMixer: 2
+L11567 ERROR! (29): 80, Waffle: 44, ERROR! (31): 43
+L11568 R: 55
+L11570 ERROR! (38): 1
+L11572 MultiChoco: 29, Waffle: 60
+L11574 ERROR! (29): 130, Y+: 75
+L11575 Swirl: 32
+L11576 ERROR! (29): 20
+L11579 G: 60, P+: 60, Y+: 60
+L11581 ERROR! (27): 60, Waffle: 72
+L11582 Waffle: 50
+L11583 CakeBomb: 2
+L11586 ERROR! (32): 33, Waffle: 70
+L11589 Icing: 94, ERROR! (28): 51
+L11591 Icing: 97
+L11593 ERROR! (33): 76, Waffle: 18
+L11594 ERROR! (35): 108
+L11597 ERROR! (32): 18, Icing: 32, Waffle: 40
+L11599 Waffle: 84, Swirl: 25
+L11600 Waffle: 30
+L11603 MagicMixer: 6
+L11606 ERROR! (34): 5
+L11608 ERROR! (29): 60, ERROR! (32): 90
+L11610 Waffle: 78
+L11613 P: 100, Y+: 100, O: 100
+L11614 JF: 5
+L11617 Icing: 144, ERROR! (35): 9
+L11620 Swirl: 39, Waffle: 36, ERROR! (33): 80
+L11622 Icing: 30, Waffle: 110
+L11623 Icing: 52
+L11628 CakeBomb: 1, Y+: 40, B: 40
+L11629 ERROR! (27): 45, Waffle: 60
+L11630 ERROR! (32): 114
+L11632 Swirl: 27, ERROR! (32): 40
+L11634 Icing: 90, Y+: 100, ERROR! (32): 40
+L11636 CakeBomb: 1, MultiChoco: 30
+L11637 ERROR! (35): 28, ERROR! (37): 7, B: 50
+L11639 P: 70, B: 70
+L11640 Waffle: 91
+L11641 WR: 20
+L11642 ERROR! (31): 150, B: 120
+L11643 Waffle: 84
+L11648 ERROR! (27): 9
+L11650 ERROR! (32): 50, Swirl: 45
+L11652 Icing: 115
+L11653 Waffle: 100, Icing: 92
+L11657 Swirl: 75, MagicMixer: 2
+L11659 ERROR! (38): 5, MultiChoco: 21
+L11661 Icing: 96
+L11666 Icing: 111, Swirl: 12
+L11667 Waffle: 74, Swirl: 54, MagicMixer: 1
+L11668 Waffle: 42, MagicMixer: 6
+L11673 Waffle: 105
+L11677 Icing: 16, Waffle: 90
+L11679 P+: 7, B: 12, G: 10
+L11681 ERROR! (35): 60, MultiChoco: 48
+L11682 Waffle: 89, ERROR! (38): 6
+L11684 ERROR! (27): 142
+L11687 Icing: 82, ERROR! (29): 48
+L11689 ERROR! (36): 11, ERROR! (29): 111
+L11691 ERROR! (29): 40, Waffle: 60
+L11692 ERROR! (38): 4, Waffle: 85
+L11693 ERROR! (31): 77
+L11696 Icing: 60
+L11697 Waffle: 60
+L11698 Waffle: 100
+L11699 ERROR! (30): 1, ERROR! (32): 26
+L11700 B: 160, Y+: 160, P: 160
+L11702 Waffle: 29, Swirl: 49
+L11703 Waffle: 85, Popcorn: 4
+L11704 Waffle: 76
+L11705 Waffle: 5, ERROR! (29): 28, ERROR! (34): 5
+L11706 Swirl: 35, Waffle: 136
+L11707 Icing: 90
+L11710 Waffle: 106, ERROR! (32): 60, MagicMixer: 5
+L11711 MagicMixer: 6
+L11713 Icing: 108
+L11716 Waffle: 150
+L11718 Icing: 124
+L11719 Icing: 81, Swirl: 20, JF: 20
+L11721 Waffle: 58
+L11722 ERROR! (36): 15, Icing: 115
+L11724 Swirl: 21, ERROR! (37): 8
+L11726 ERROR! (32): 70
+L11727 MultiChoco: 27
+L11728 Icing: 72
+L11730 ERROR! (32): 24
+L11731 ERROR! (29): 175
+L11732 Icing: 20, O: 12
+L11733 Icing: 67
+L11734 ERROR! (32): 153, ERROR! (29): 135
+L11736 ERROR! (32): 40, Icing: 60, ERROR! (28): 48
+L11740 ERROR! (36): 5, Icing: 100
+L11741 CakeBomb: 2
+L11743 Waffle: 170
+L11745 ERROR! (27): 110
+L11746 Icing: 148
+L11750 CakeBomb: 3
+L11752 Icing: 85, ERROR! (29): 95
+L11756 Waffle: 100
+L11757 Icing: 59
+L11758 Swirl: 10, Icing: 65
+L11759 ERROR! (32): 52
+L11761 Waffle: 70
+L11762 Waffle: 33
+L11766 Waffle: 111
+L11768 ERROR! (32): 92
+L11770 Waffle: 75
+L11771 Waffle: 66
+L11773 ERROR! (32): 36, Swirl: 23, Icing: 49
+L11775 MultiChoco: 40, Swirl: 22
+L11776 Waffle: 100
+L11777 Icing: 95
+L11780 Waffle: 73
+L11785 Icing: 40
+L11786 Waffle: 108
+L11787 ERROR! (31): 90, Y+: 50, Icing: 36
+L11790 ERROR! (28): 120
+L11791 ERROR! (32): 65, ST: 25
+L11793 ERROR! (29): 56
+L11795 Icing: 74
+L11796 Icing: 104, MagicMixer: 2
+L11798 ERROR! (31): 48
+L11800 MagicMixer: 3, Icing: 87
+L11801 ERROR! (32): 30
+L11803 Icing: 80, Y+: 40, B: 35
+L11804 Choco: 10
+L11806 ERROR! (32): 92, Waffle: 77
+L11807 Icing: 10, ERROR! (32): 40
+L11810 ERROR! (32): 26
+L11812 CakeBomb: 2, Waffle: 57, Icing: 135
+L11814 Waffle: 132, Swirl: 40
+L11815 CakeBomb: 2, MagicMixer: 12
+L11817 Swirl: 50, ERROR! (31): 18, ERROR! (37): 2
+L11820 Waffle: 100, ERROR! (31): 42
+L11821 Icing: 130
+L11827 Icing: 100
+L11828 ERROR! (32): 5
+L11829 ERROR! (28): 62
+L11830 Waffle: 142, ERROR! (28): 54
+L11835 ERROR! (35): 12
+L11838 ERROR! (33): 80, Icing: 25
+L11839 Swirl: 18, Icing: 28
+L11840 Y+: 50
+L11842 MagicMixer: 4, Icing: 74, Swirl: 26
+L11844 Waffle: 55
+L11845 Icing: 29, Waffle: 67
+L11848 CakeBomb: 2, Icing: 28
+L11850 Waffle: 110, Swirl: 30
+L11852 Waffle: 60, B: 25, G: 25
+L11854 Waffle: 110
+L11858 Waffle: 120
+L11860 Y+: 40
+L11862 Waffle: 80
+L11863 Swirl: 10, ERROR! (32): 74
+L11864 ERROR! (32): 28, Icing: 48
+L11866 Swirl: 40
+L11867 ERROR! (32): 73, Waffle: 45
+L11868 Icing: 112, ERROR! (32): 38
+L11870 Icing: 60, MultiChoco: 30
+L11873 ERROR! (35): 6
+L11875 Waffle: 98, ERROR! (29): 90
+L11877 Icing: 16, Waffle: 38
+L11878 ERROR! (32): 32, MultiChoco: 60
+L11879 ERROR! (29): 39, Icing: 45
+L11881 Icing: 104, Choco: 10
+L11882 Waffle: 106, ERROR! (32): 46
+L11883 Waffle: 160
+L11885 ERROR! (28): 80, Icing: 112
+L11886 Waffle: 141
+L11889 Icing: 53
+L11890 Waffle: 117, ERROR! (29): 48
+L11893 ERROR! (32): 58, ERROR! (38): 6
+L11894 Icing: 63, MagicMixer: 5
+L11897 ERROR! (32): 124
+L11901 CakeBomb: 2, ERROR! (32): 90
+L11904 MagicMixer: 4, Icing: 68
+L11906 Waffle: 115, Swirl: 20
+L11908 ERROR! (32): 106, Waffle: 130
+L11910 Waffle: 46
+L11911 Icing: 57, Waffle: 130
+L11912 ERROR! (31): 72, MultiChoco: 30
+L11915 Waffle: 63, JF: 20
+L11916 ERROR! (32): 60, Swirl: 25
+L11918 R: 20
+L11919 Waffle: 98
+L11922 ERROR! (32): 97, ERROR! (33): 48
+L11923 ERROR! (29): 90, Icing: 54
+L11926 Icing: 62, Swirl: 27
+L11929 Waffle: 91, ERROR! (28): 36
+L11930 Waffle: 31
+L11932 Icing: 90, Waffle: 48
+L11934 ERROR! (32): 112, Swirl: 10, MultiChoco: 42
+L11935 Waffle: 90, Icing: 41
+L11938 Waffle: 80, ERROR! (32): 62
+L11939 Swirl: 25, Icing: 77
+L11940 Waffle: 110, ERROR! (29): 65
+L11942 Waffle: 115, Popcorn: 9
+L11944 Icing: 150, MagicMixer: 3
+L11947 Waffle: 72, MagicMixer: 2
+L11951 Waffle: 101
+L11952 Waffle: 63, Swirl: 10
+L11953 Waffle: 146, ERROR! (32): 27
+L11954 ERROR! (32): 68
+L11956 Waffle: 61, Icing: 60
+L11957 ERROR! (32): 124
+L11962 Icing: 120
+L11963 Swirl: 1
+L11964 Waffle: 90
+L11965 Waffle: 70, ERROR! (29): 103
+L11970 Y+: 80
+L11973 ERROR! (35): 10, Y+: 30
+L11974 Icing: 102
+L11976 Waffle: 85, ERROR! (32): 48
+L11977 ERROR! (29): 45
+L11979 Waffle: 55, ERROR! (29): 65, Icing: 10
+L11982 ERROR! (29): 60, Icing: 50, ERROR! (32): 90
+L11984 Icing: 50, Waffle: 42
+L11986 Icing: 69, ERROR! (33): 131
+L11987 Icing: 109
+L11989 Icing: 110, ERROR! (32): 20
+L11991 MagicMixer: 3
+L11994 ERROR! (31): 175
+L11996 Waffle: 30
+L11997 ST: 40, COL: 2
+L11998 Waffle: 61
+L12001 ERROR! (27): 86, ERROR! (29): 126
+L12004 Icing: 113
+L12005 ERROR! (32): 35, G: 20
+L12006 MultiChoco: 40, Waffle: 85
+L12007 Waffle: 133, ERROR! (32): 36
+L12011 Icing: 54, Swirl: 15
+L12014 JF: 8, MagicMixer: 2
+L12016 Icing: 69, ERROR! (29): 87
+L12017 ERROR! (32): 34, O: 34
+L12020 Icing: 66, Waffle: 64
+L12021 O: 10, P: 10
+L12026 Icing: 55, MultiChoco: 27
+L12027 Swirl: 50, Icing: 87, MagicMixer: 2
+L12028 Waffle: 74, Swirl: 26
+L12031 Icing: 134
+L12034 Waffle: 78, Swirl: 2
+L12036 Waffle: 97
+L12039 Icing: 33, MultiChoco: 65
+L12040 MagicMixer: 4, Icing: 130
+L12042 ERROR! (29): 100
+L12045 Icing: 78, Swirl: 20
+L12046 Waffle: 78, Icing: 32
+L12049 Icing: 98, MagicMixer: 2, ERROR! (29): 68
+L12051 Waffle: 58
+L12054 Waffle: 120, B: 130, Icing: 45
+L12056 Icing: 38, Waffle: 48
+L12057 R+: 20
+L12058 ERROR! (29): 97, Icing: 78
+L12061 Waffle: 40, MultiChoco: 40, ERROR! (29): 60
+L12064 Waffle: 67, MagicMixer: 2
+L12065 R+: 14
+L12066 ERROR! (32): 108, Swirl: 20, ERROR! (31): 80
+L12069 Waffle: 110
+L12071 Waffle: 45, Swirl: 9
+L12073 Swirl: 10, Waffle: 100, Icing: 46
+L12075 Swirl: 10, Icing: 73
+L12076 Waffle: 95
+L12078 Icing: 99
+L12080 Waffle: 52, Icing: 42
+L12082 Waffle: 74, MagicMixer: 6
+L12085 Waffle: 138, Swirl: 30
+L12087 Icing: 40, ERROR! (32): 27
+L12089 CakeBomb: 4, JF: 20, Swirl: 10
+L12093 Waffle: 60, Icing: 52
+L12094 Waffle: 72, Icing: 113, MagicMixer: 6
+L12097 Icing: 54, Popcorn: 5
+L12101 ERROR! (29): 28, Icing: 20, ERROR! (30): 3
+L12103 Y+: 160, Icing: 53
+L12104 Swirl: 15, Icing: 40
+L12106 Waffle: 109
+L12108 ERROR! (32): 20
+L12110 Icing: 60, ERROR! (32): 40
+L12111 Waffle: 85, Icing: 78, MagicMixer: 4
+L12113 Icing: 66, ERROR! (32): 46
+L12115 Waffle: 146
+L12116 MultiChoco: 44
+L12118 Waffle: 105, B: 80, ERROR! (32): 48
+L12120 Waffle: 90
+L12121 Swirl: 15, Icing: 70
+L12122 Swirl: 10
+L12125 ERROR! (32): 63
+L12126 Y+: 50, Icing: 80
+L12130 Waffle: 107, ERROR! (27): 126
+L12132 MultiChoco: 64, MagicMixer: 1
+L12133 Waffle: 69, Swirl: 20
+L12137 Waffle: 72, ERROR! (32): 120
+L12138 R+: 20, CakeBomb: 2
+L12139 Icing: 40, ERROR! (31): 49, Waffle: 131
+L12141 ERROR! (29): 100, Waffle: 95
+L12142 JF: 25, Waffle: 120
+L12146 Waffle: 80
+L12148 Waffle: 81
+L12150 ERROR! (28): 18, Waffle: 81
+L12151 ERROR! (29): 60, Waffle: 60
+L12152 Waffle: 74
+L12153 ERROR! (32): 44
+L12157 Waffle: 92
+L12161 Icing: 42
+L12162 Waffle: 92
+L12163 Icing: 160
+L12164 P: 20, Icing: 64
+L12166 Icing: 124, Waffle: 36, ERROR! (29): 60
+L12167 Icing: 66
+L12171 Waffle: 135, MultiChoco: 30, ERROR! (37): 1
+L12174 Waffle: 100, ERROR! (29): 121
+L12175 Icing: 90, ERROR! (32): 63
+L12178 Icing: 59, MultiChoco: 25
+L12181 ERROR! (37): 1, Swirl: 15, Icing: 110
+L12183 Waffle: 100, Icing: 82
+L12185 Swirl: 35, MagicMixer: 3
+L12187 B: 50, Y+: 100
+L12189 G: 30, P: 160, Icing: 80
+L12190 Popcorn: 7, Icing: 84
+L12191 R: 90, G: 90
+L12194 Swirl: 31
+L12195 Waffle: 111
+L12200 Swirl: 33, CakeBomb: 2
+L12202 Icing: 111, Waffle: 60
+L12205 MultiChoco: 50, Icing: 32
+L12206 Waffle: 176
+L12209 MagicMixer: 3, Swirl: 6
+L12211 Waffle: 168
+L12212 ERROR! (29): 140, Waffle: 40
+L12214 Waffle: 97, Swirl: 16
+L12216 Bomb: 17, Swirl: 25, G: 33
+L12219 Waffle: 45, B: 30
+L12221 O: 35
+L12223 Waffle: 89
+L12225 Waffle: 186
+L12226 Waffle: 87
+L12227 G: 30, Y+: 30
+L12230 Swirl: 25
+L12232 B: 125, Icing: 36
+L12234 G: 200, ERROR! (35): 68, Icing: 80
+L12236 Icing: 65, ERROR! (29): 72
+L12237 ERROR! (32): 52, Icing: 29
+L12238 Waffle: 84, Swirl: 15
+L12240 ERROR! (32): 36
+L12242 Y+: 50
+L12244 B: 90, Y+: 30, Icing: 105
+L12245 ERROR! (29): 100
+L12246 Waffle: 104, CakeBomb: 1, Icing: 23
+L12249 CakeBomb: 2, Waffle: 75
+L12250 Icing: 60, ERROR! (38): 3
+L12253 ERROR! (33): 120, Waffle: 110
+L12256 Icing: 83, Swirl: 30
+L12258 Icing: 110
+L12260 Icing: 50, Waffle: 25
+L12261 Waffle: 84, Y+: 50
+L12264 Waffle: 50, Swirl: 28
+L12266 ERROR! (32): 48
+L12268 Waffle: 54
+L12269 B: 2, Y+: 2
+L12270 Waffle: 30, Icing: 92
+L12271 ERROR! (29): 50, ERROR! (32): 68
+L12272 MultiChoco: 55
+L12275 Waffle: 115
+L12277 Waffle: 85
+L12278 Waffle: 105, Icing: 33
+L12279 Waffle: 130
+L12280 Y+: 100, P: 100, Icing: 100
+L12283 ERROR! (32): 30, Icing: 86
+L12287 ERROR! (32): 20, ERROR! (35): 10
+L12289 Icing: 100, ERROR! (27): 77
+L12291 ERROR! (29): 30
+L12293 MultiChoco: 18
+L12295 Waffle: 90, Icing: 98
+L12297 Swirl: 16
+L12298 MultiChoco: 25, Icing: 24
+L12299 Swirl: 23
+L12301 Swirl: 7, MultiChoco: 30
+L12302 Waffle: 65, Swirl: 16
+L12303 Icing: 70
+L12305 B: 60, Waffle: 135
+L12306 Swirl: 30, Waffle: 30
+L12307 Swirl: 28, ERROR! (27): 80
+L12309 Y+: 35, Swirl: 35
+L12312 Icing: 55, ERROR! (29): 34, CakeBomb: 1
+L12314 Waffle: 67, ERROR! (32): 16
+L12316 Waffle: 102, Icing: 30
+L12317 Choco: 25, Swirl: 25, Waffle: 25
+L12319 Icing: 80, Swirl: 20
+L12322 ERROR! (27): 57, Icing: 70
+L12323 B: 50, Swirl: 50
+L12324 Icing: 150, B: 150
+L12328 Waffle: 39
+L12329 Icing: 35
+L12331 Waffle: 100
+L12335 R+: 30, Icing: 53
+L12336 Icing: 64
+L12337 Icing: 100, ERROR! (29): 60
+L12339 Swirl: 30, Icing: 17, Waffle: 20
+L12342 Waffle: 72, Swirl: 13
+L12344 Waffle: 40
+L12346 Waffle: 95, Icing: 47
+L12347 Waffle: 115, MultiChoco: 70
+L12349 ERROR! (29): 63, Waffle: 66
+L12352 Waffle: 71
+L12356 Waffle: 60
+L12357 Waffle: 53
+L12358 ERROR! (32): 30, Icing: 70
+L12359 ERROR! (32): 61
+L12362 Waffle: 103
+L12363 Waffle: 66, Icing: 12, Y+: 30
+L12367 Swirl: 14, ERROR! (29): 120
+L12371 ERROR! (32): 18, Icing: 55
+L12373 MagicMixer: 1
+L12375 ERROR! (32): 32, Icing: 70
+L12376 ERROR! (29): 57, Waffle: 70
+L12378 Waffle: 95
+L12380 R: 18, ERROR! (29): 44
+L12383 Swirl: 16, ERROR! (29): 48
+L12385 Waffle: 96
+L12386 Waffle: 36
+L12388 ERROR! (32): 80, Icing: 105
+L12390 Icing: 30, Waffle: 110
+L12391 Icing: 160
+L12392 ERROR! (28): 110
+L12395 ERROR! (28): 60, Swirl: 25
+L12397 Waffle: 87, CakeBomb: 2, Icing: 92
+L12400 Icing: 100, MultiChoco: 50
+L12401 Waffle: 68, Icing: 50
+L12404 Icing: 75, ERROR! (32): 26
+L12406 Icing: 45, Waffle: 48
+L12407 ERROR! (32): 50, MultiChoco: 55
+L12409 MultiChoco: 146, Swirl: 20
+L12411 ERROR! (32): 50, Popcorn: 3, P: 50
+L12412 Waffle: 81, B: 91
+L12414 ERROR! (32): 64, Icing: 88
+L12415 ERROR! (31): 56, Waffle: 88
+L12418 Icing: 95
+L12420 Waffle: 85, ERROR! (29): 18
+L12422 ERROR! (27): 75
+L12424 Icing: 60, Waffle: 60
+L12428 JF: 27, Swirl: 34
+L12430 JF: 12, Icing: 81
+L12433 Icing: 26, MultiChoco: 33
+L12434 Icing: 28
+L12436 Swirl: 28
+L12437 Icing: 46, ERROR! (31): 48, Waffle: 40
+L12438 Waffle: 78, CakeBomb: 2
+L12440 Waffle: 70, Y+: 30
+L12441 Waffle: 151, MagicMixer: 4, ERROR! (32): 46
+L12445 Waffle: 20, Icing: 155
+L12447 Waffle: 90
+L12448 Swirl: 40, ERROR! (32): 36
+L12450 Waffle: 51, Icing: 28
+L12451 CakeBomb: 1, Waffle: 70
+L12453 ERROR! (32): 76, MagicMixer: 2, Swirl: 32
+L12455 Waffle: 93
+L12457 Waffle: 57, ERROR! (28): 32
+L12458 Waffle: 64
+L12459 B: 55, O: 55
+L12460 Waffle: 46, ERROR! (28): 73
+L12462 ERROR! (32): 21, Swirl: 10
+L12463 P: 120, Y+: 120
+L12465 ERROR! (32): 70, ERROR! (37): 4, P: 70
+L12468 Waffle: 100, O: 100
+L12469 ERROR! (29): 138, Y+: 138
+L12470 Waffle: 20
+L12471 ERROR! (38): 4, CakeBomb: 1, Waffle: 80
+L12475 Icing: 98, CakeBomb: 1
+L12477 Waffle: 50, Swirl: 13, ERROR! (29): 48
+L12478 Icing: 84
+L12482 ERROR! (32): 76, MultiChoco: 31
+L12483 Waffle: 71, MagicMixer: 4
+L12484 Icing: 76, Waffle: 20, Swirl: 20
+L12487 ERROR! (32): 40, Waffle: 146
+L12490 Waffle: 197
+L12491 Icing: 42, Waffle: 28
+L12494 ERROR! (29): 56
+L12496 MultiChoco: 15, Icing: 191
+L12497 Waffle: 43, Swirl: 8
+L12499 Icing: 74, JF: 60, Waffle: 57
+L12501 ERROR! (35): 8, ERROR! (33): 86
+L12503 Choco: 15
+L12505 ERROR! (32): 13, Waffle: 81
+L12507 Waffle: 117, ERROR! (27): 60, Y+: 117
+L12508 Icing: 42
+L12512 Waffle: 100
+L12513 B: 120
+L12514 B: 140, Waffle: 140, G: 140
+L12516 Waffle: 92, Swirl: 45
+L12519 R+: 3, Y+: 15
+L12520 Icing: 100, ERROR! (31): 60
+L12523 Waffle: 171
+L12526 Icing: 64, ERROR! (29): 64, Waffle: 64
+L12528 Waffle: 42, Icing: 36
+L12530 Icing: 24, Swirl: 20
+L12531 MagicMixer: 8, Icing: 32
+L12535 Waffle: 130
+L12537 Swirl: 24, ERROR! (32): 65, ERROR! (34): 5
+L12538 Icing: 67
+L12542 Icing: 151
+L12543 Icing: 81
+L12544 Swirl: 50, Icing: 125, ERROR! (33): 81
+L12547 R: 100, Icing: 70
+L12548 B: 20
+L12551 Icing: 52
+L12553 Swirl: 25, Icing: 101
+L12555 ERROR! (33): 80, MagicMixer: 1
+L12556 Icing: 80
+L12559 ERROR! (32): 50, ERROR! (31): 70, Waffle: 76
+L12561 B: 25, Swirl: 25
+L12562 Icing: 51, Swirl: 35
+L12564 Swirl: 24, Waffle: 66
+L12567 ERROR! (32): 48, Waffle: 55
+L12569 Icing: 34, Waffle: 34
+L12571 Icing: 113, Swirl: 25
+L12572 MultiChoco: 65, Icing: 70, Swirl: 40
+L12574 Waffle: 36, Icing: 128
+L12577 Waffle: 80, ERROR! (38): 2, Icing: 46
+L12580 ERROR! (32): 65, ERROR! (29): 65
+L12581 Swirl: 9, Waffle: 92
+L12584 Swirl: 10, Waffle: 84
+L12586 Waffle: 72
+L12587 Icing: 128
+L12589 Waffle: 132, ERROR! (27): 123, ERROR! (32): 85
+L12592 Waffle: 84
+L12594 Waffle: 28, ERROR! (27): 87
+L12595 Icing: 44, ERROR! (33): 129, ERROR! (29): 102
+L12596 ERROR! (27): 77, ERROR! (32): 33
+L12599 MultiChoco: 25, Popcorn: 2, ERROR! (31): 74
+L12601 Icing: 76, ERROR! (29): 66
+L12604 Icing: 108, ERROR! (32): 51
+L12605 G: 42, B: 42
+L12607 Icing: 77
+L12611 Swirl: 35
+L12613 Swirl: 20, ERROR! (29): 48
+L12614 Swirl: 36, ERROR! (29): 80
+L12616 Swirl: 24, Waffle: 34, ERROR! (29): 44
+L12617 Icing: 51, Waffle: 62
+L12621 Waffle: 58, Icing: 64, ERROR! (38): 4
+L12624 Waffle: 60, ERROR! (38): 5
+L12625 ERROR! (32): 65
+L12628 Waffle: 80, Icing: 70
+L12631 Icing: 45, Waffle: 45
+L12633 Waffle: 88
+L12635 Waffle: 58
+L12638 Swirl: 12, Icing: 53, ERROR! (29): 46
+L12640 Icing: 121, ERROR! (29): 28
+L12642 MultiChoco: 72
+L12643 Waffle: 89
+L12645 Waffle: 92, ERROR! (33): 30
+L12648 Icing: 48
+L12649 Waffle: 75, Y+: 75
+L12651 Icing: 96, Waffle: 36
+L12655 Waffle: 107
+L12657 Swirl: 45, Waffle: 147
+L12658 Icing: 181
+L12662 Icing: 158, Swirl: 30
+L12663 Y+: 40, MagicMixer: 3
+L12664 ERROR! (32): 50, Icing: 100
+L12666 Swirl: 25, Waffle: 25
+L12669 Swirl: 22
+L12671 Waffle: 77
+L12673 Icing: 47, ERROR! (31): 138
+L12675 Icing: 77
+L12676 Icing: 62, ERROR! (32): 42
+L12677 Waffle: 75, ERROR! (29): 64
+L12680 Waffle: 47
+L12681 Icing: 75
+L12685 ERROR! (33): 186
+L12689 ERROR! (30): 3
+L12694 Icing: 85, ERROR! (37): 4
+L12698 Swirl: 47
+L12700 Waffle: 94
+L12703 MultiChoco: 18, Icing: 83
+L12704 Choco: 35
+L12706 Waffle: 50, Icing: 39
+L12707 MultiChoco: 25
+L12708 Icing: 77
+L12710 Waffle: 48, Swirl: 18
+L12711 ERROR! (32): 77, Waffle: 170
+L12714 Waffle: 123
+L12715 Icing: 107, ERROR! (32): 65
+L12718 Waffle: 120, Icing: 46
+L12721 Waffle: 88, ERROR! (32): 46, ERROR! (29): 125
+L12723 ERROR! (32): 100, Waffle: 50
+L12725 Swirl: 12
+L12726 Icing: 75
+L12727 Waffle: 54, ERROR! (29): 60
+L12729 Waffle: 60, Icing: 50
+L12733 ERROR! (29): 108, P: 96, Waffle: 96
+L12734 MultiChoco: 36
+L12735 Icing: 30, Swirl: 26
+L12737 ERROR! (29): 55, Icing: 50, ERROR! (27): 70
+L12740 Icing: 86
+L12741 Waffle: 80
+L12744 MagicMixer: 6, Icing: 55, ERROR! (38): 4
+L12746 JF: 15, ERROR! (32): 136
+L12748 ERROR! (32): 100, Icing: 101
+L12751 Swirl: 20, CakeBomb: 1, Waffle: 40
+L12753 ERROR! (32): 107, Waffle: 101
+L12755 Swirl: 24, CakeBomb: 1
+L12757 ERROR! (32): 92, Waffle: 72
+L12760 Waffle: 90
+L12763 Icing: 62, Swirl: 45
+L12764 Icing: 68, Y+: 6
+L12766 Waffle: 40, Swirl: 19, ERROR! (29): 41
+L12767 Icing: 37, Swirl: 20
+
