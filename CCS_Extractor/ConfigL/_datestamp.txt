@@ -1,5 +1,0 @@
-E335
-#DATE:  	2019 JUL 10
-#EPISODES:	350
-#FILENAME:	6coa37
-#NOTES: 	Writeup finished, 5K
