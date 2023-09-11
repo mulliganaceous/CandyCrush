@@ -1,0 +1,122 @@
+#0	L18 (  2- 8)	Classic
+#1	L20 (  2-10)	Classic
+#2	L27 (  3- 7)	Classic
+#3	L32 (  3-12)	Classic
+#4	L43 (  4- 8)	Classic
+#5	L59 (  5- 9)	Classic
+#6	L64 (  5-14)	Classic
+#7	L80 (  6-15)	Classic
+#8	L84 (  7- 4)	Classic
+#9	L94 (  7-14)	Classic
+#10	L108 (  8-13)	Classic
+#11	L121 (  9-11)	Classic
+#12	L134 ( 10- 9)	Classic
+#13	L139 ( 10-14)	Classic
+#14	L145 ( 11- 5)	Classic
+#15	L151 ( 11-11)	Classic
+#16	L159 ( 12- 4)	Classic
+#17	L166 ( 12-11)	Classic
+#18	L177 ( 13- 7)	Classic
+#19	L182 ( 13-12)	Classic
+#20	L189 ( 14- 4)	Classic
+#21	L198 ( 14-13)	Classic
+#22	L204 ( 15- 4)	Classic
+#23	L211 ( 15-11)	Classic
+#24	L223 ( 16- 8)	Classic
+#25	L237 ( 17- 7)	Classic
+#26	L252 ( 18- 7)	Classic
+#27	L267 ( 19- 7)	Classic
+#28	L283 ( 20- 8)	Classic
+#29	L297 ( 21- 7)	Classic
+#30	L313 ( 22- 8)	Classic
+#31	L328 ( 23- 8)	Classic
+#32	L343 ( 24- 8)	Classic
+#33	L358 ( 25- 8)	Classic
+#34	L373 ( 26- 8)	Classic
+#35	L403 ( 28- 8)	Classic
+#36	L433 ( 30- 8)	Classic
+#37	L462 ( 32- 7)	Classic
+#38	L618 ( 42-13)	Classic
+#39	L683 ( 47- 3)	Classic
+#40	L698 ( 48- 3)	Classic
+#41	L701 ( 48- 6)	Classic
+#42	L725 ( 49-15)	Classic
+#43	L880 ( 60- 5)	Classic
+#44	L956 ( 65- 6)	Classic
+#45	L973 ( 66- 8)	Classic
+#46	L1004 ( 68- 9)	Classic
+#47	L1068 ( 72-13)	Classic
+#48	L1198 ( 81- 8)	Classic
+#49	L1237 ( 84- 2)	Classic
+#50	L1387 ( 94- 2)	Classic
+#51	L1409 ( 95- 9)	Classic
+#52	L1512 (102- 7)	Classic
+#53	L1525 (103- 5)	Classic
+#54	L1538 (104- 3)	Classic
+#55	L1546 (104-11)	Classic
+#56	L1554 (105- 4)	Classic
+#57	L1562 (105-12)	Classic
+#58	L1575 (106-10)	Classic
+#59	L1585 (107- 5)	Classic
+#60	L1595 (107-15)	Classic
+#61	L1602 (108- 7)	Classic
+#62	L1628 (110- 3)	Classic
+#63	L1632 (110- 7)	Classic
+#64	L1638 (110-13)	Classic
+#65	L1644 (111- 4)	Classic
+#66	L1674 (113- 4)	Classic
+#67	L1694 (114- 9)	Classic
+#68	L1723 (116- 8)	Classic
+#69	L1730 (116-15)	Classic
+#70	L1733 (117- 3)	Classic
+#71	L1741 (117-11)	Classic
+#72	L1753 (118- 8)	Classic
+#73	L1762 (119- 2)	Classic
+#74	L1784 (120- 9)	Classic
+#75	L1787 (120-12)	Classic
+#76	L1803 (121-13)	Classic
+#77	L1810 (122- 5)	Classic
+#78	L1817 (122-12)	Classic
+#79	L1822 (123- 2)	Classic
+#80	L1825 (123- 5)	Classic
+#81	L1828 (123- 8)	Classic
+#82	L1832 (123-12)	Classic
+#83	L1837 (124- 2)	Classic
+#84	L1850 (124-15)	Classic
+#85	L1859 (125- 9)	Classic
+#86	L1869 (126- 4)	Classic
+#87	L1874 (126- 9)	Classic
+#88	L1885 (127- 5)	Classic
+#89	L1888 (127- 8)	Classic
+#90	L1910 (128-15)	Classic
+#91	L1912 (129- 2)	Classic
+#92	L1925 (129-15)	Classic
+#93	L1929 (130- 4)	Classic
+#94	L1932 (130- 7)	Classic
+#95	L1935 (130-10)	Classic
+#96	L1958 (132- 3)	Classic
+#97	L2016 (136- 1)	Classic
+#98	L2030 (136-15)	Classic
+#99	L2053 (138- 8)	Classic
+#100	L2058 (138-13)	Classic
+#101	L2060 (138-15)	Classic
+#102	L2073 (139-13)	Classic
+#103	L2079 (140- 4)	Classic
+#104	L2083 (140- 8)	Classic
+#105	L2089 (140-14)	Classic
+#106	L2094 (141- 4)	Classic
+#107	L2126 (143- 6)	Classic
+#108	L2170 (146- 5)	Classic
+#109	L2175 (146-10)	Classic
+#110	L2199 (148- 4)	Classic
+#111	L2205 (148-10)	Classic
+#112	L2210 (148-15)	Classic
+#113	L2220 (149-10)	Classic
+#114	L2229 (150- 4)	Classic
+#115	L2240 (150-15)	Classic
+#116	L2258 (152- 3)	Classic
+#117	L2279 (153- 9)	Classic
+#118	L2304 (155- 4)	Classic
+#119	L2374 (159-14)	Classic
+#120	L2583 (173-13)	Classic
+#121	L2634 (177- 4)	Classic

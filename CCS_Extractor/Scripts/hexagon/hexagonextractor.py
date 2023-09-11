@@ -30,14 +30,19 @@ hexagonstring = ['', 'Hexagon', 'Super Hard', 'Owl']
 
 def generate_hexagonlist(hexversion=[variation]):
     hexagons = {}
+    maxkey = 0
+    maxrating = 0
     for hl in jsonload:
         if hl['u'] in hexversion:
             if not hl['e'] in hexagons:
                 hexagons[hl['e']] = {hl['l']: hl}
+                if maxrating < hl['d']:
+                    maxrating = hl['d']
             else:
                 hexagons[hl['e']][hl['l']] = hl
     print("Length of dataset: {}".format(len(hexagons)))
-    return hexagons
+    print("Highest classification: {}".format(maxrating))
+    return hexagons, len(hexagons) + 1, maxrating
 
 def _totallevel(e:int, l:int):
     if l == -1:
@@ -56,10 +61,14 @@ def _hexagonality(hexagons, e:int, l:int):
     else:
         return 0
 
-hexagons = generate_hexagonlist()
-maxkey = 0
-if len(hexagons.keys()) > 0:
-    maxkey = np.max(list(hexagons.keys()))
+def _hexagonstring(hexagons, e:int, l:int):
+    hexagonality = _hexagonality(hexagons, e, l)
+    if hexagonality < len(hexagonstring):
+        return hexagonstring[hexagonality]
+    else:
+        return "Legendary"
+
+hexagons, maxkey, maxrating = generate_hexagonlist()
 
 # Convert hexagon list to Lua file
 def output_lualist(hexagons):
@@ -78,17 +87,17 @@ def output_lualist(hexagons):
         else:
             g.write("\t--Episode {0:d} (0)\n".format(e))
         for l in range(1,_totallevel(e,-1)+1):
-            g.write("\t[{0:d}] = \'{1:s}\',".format(_totallevel(e,l), hexagonstring[_hexagonality(hexagons,e,l)]))
+            g.write("\t[{0:d}] = \'{1:s}\',".format(_totallevel(e,l), _hexagonstring(hexagons,e,l)))
             g.write("\n")
     g.write("}\n-- Lua code written by Catinthedark and Wildoneshelper.\n" + \
             "-- Automatic extraction methods devised by Mulliganaceous (a mulligan)")
     g.close()
-        
+    
 output_lualist(hexagons)
 
 # Use NumPy data to print as data
-hexcount = np.zeros((maxkey, 3))
-hexcount.dtype = np.intc
+hexcount = np.zeros((maxkey, maxrating))
+hexcount.dtype = np.longlong
 for k in range(1,len(hexagons)):
     if k in hexagons:
         print('E{0:3d} ({1:d})'.format(k, len(hexagons[k])))
@@ -101,4 +110,4 @@ for k in range(1,len(hexagons)):
         print('\tEMPTY')
 
 for k in range(1,maxkey):
-    print("E{0:3d}\t{1:d}\t{2:d}\t{3:d}\t{4:d}".format(k, np.sum(hexcount[k]), hexcount[k,0], hexcount[k,1], hexcount[k,2]))
+    print("E{0:3d}\t{1:d}\t{2:s}".format(k, np.sum(hexcount[k]), str(hexcount[k])))
