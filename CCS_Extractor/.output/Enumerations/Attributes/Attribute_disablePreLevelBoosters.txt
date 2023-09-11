@@ -1,0 +1,95 @@
+L  55	true
+L  92	true
+L 113	true
+L 181	true
+L 185	true
+L 216	true
+L 217	true
+L 261	true
+L 262	true
+L 263	true
+L 267	true
+L 276	true
+L 282	true
+L 306	true
+L 351	true
+L 352	true
+L 396	true
+L 397	true
+L 441	true
+L 486	true
+L 487	true
+L 531	true
+L 532	true
+L 533	true
+L 549	true
+L 562	true
+L 586	true
+L 846	true
+L3309	true
+L4596	true
+L4597	true
+L4598	true
+L4600	true
+L4603	true
+L5676	true
+L5677	true
+L5678	true
+L5679	true
+L5680	true
+L5681	true
+L6531	true
+L6532	true
+L6534	true
+L6902	true
+L7116	true
+L7117	true
+L7119	true
+L7581	true
+L7582	true
+L7583	true
+L7596	true
+L7597	true
+L7598	true
+L8031	true
+L8032	true
+L8033	true
+L8421	true
+L8466	true
+L8511	true
+L8766	true
+L8767	true
+L8768	true
+L8772	true
+L8776	true
+L9143	true
+L9212	true
+L9372	true
+L9389	true
+L9489	true
+L9494	true
+L9512	true
+L9518	true
+L9542	true
+L9554	true
+L9572	true
+L9585	true
+L9617	true
+L9621	true
+L9624	true
+L9627	true
+L9668	true
+L9683	true
+L9740	true
+L9851	true
+L9989	true
+L10461	true
+L10462	true
+L10463	true
+L11378	true
+L11421	true
+L11485	true
+L11500	true
+L11679	true
+L11924	true
+L11969	true

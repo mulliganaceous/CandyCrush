@@ -1,0 +1,1364 @@
+
+
+=== E335 ===
+
+{|<!-- L1 -->
+| style = "vertical-align: top;"|<!-- E335-1Wikitable --><div style="font-size:10pt; font-family:monospace">
+{| class="wikitable" style="width: 300px; line-height: 10pt"
+|-
+! colspan="2"|[[Level 5001]]
+|-
+! scope=col style="width: 192px" | Field
+! scope=col style="width: 108px" | Value
+|-
+| |'''Episode-Level'''
+| |E335-1
+|-
+| |'''Level Type'''
+| style="background:#FF0000"|Mixed!(J.I.)
+|-
+| |'''Moves'''
+| |28
+|-
+| |'''Colors'''
+| style="background:#6666FF"|3
+|-
+| |'''Score Targets'''
+| |10000
+|-
+| |'''**'''
+| |115000
+|-
+| |'''***'''
+| |135000
+|-
+| |'''Jellies'''
+| style="background:#51a8ff"|69
+|-
+| |''Single''
+| style="background:#9ccdff"|39
+|-
+| |''Double''
+| style="background:#b3d9ff"|15
+|-
+| |'''Ingredients'''
+| style="background:#d4eed4"|2
+|-
+| |''Hazelnut''
+| |0
+|-
+| |''Cherry''
+| |2
+|-
+| |'''Spaces'''
+| |54
+|-
+! colspan="2"|'''Spawn Notes'''
+|-
+| |'''Striped Spawn'''
+| style="background:#00FFFF"|(3,0)
+|-
+| |'''Wrapped Spawn'''
+| style="background:#00FFFF"|(2,0)
+|-
+! colspan="2"|'''Elements'''
+|-
+| |'''Chocolate×'''
+| |10
+|-
+| |'''Licorice Swirl×'''
+| |10
+|-
+| |'''Icing V×'''
+| |1
+|-
+| |'''Waffle III×'''
+| |4
+|-
+| |'''Waffle IV×'''
+| |8
+|-
+| |'''Crystal II×'''
+| |22
+|-
+| |'''Dispenser×'''
+| |13
+|-
+| |'''Striped Cannon×'''
+| |5
+|-
+| |'''Wrapped Cannon×'''
+| |4
+|-
+| |'''Color Bomb Cannon×'''
+| |1
+|-
+| |'''H Cannon×'''
+| |4
+|-
+| |'''St Cannon×'''
+| |5
+|-
+| |'''Wr Cannon×'''
+| |4
+|-
+| |'''CbX Cannon×'''
+| |1
+|-
+| |'''Teleporters'''
+| |2/2
+|-
+|}
+</div>
+<!-- L2 -->
+| style = "vertical-align: top;"|<!-- E335-2Wikitable --><div style="font-size:10pt; font-family:monospace">
+{| class="wikitable" style="width: 300px; line-height: 10pt"
+|-
+! colspan="2"|[[Level 5002]]
+|-
+! scope=col style="width: 192px" | Field
+! scope=col style="width: 108px" | Value
+|-
+| |'''Episode-Level'''
+| |E335-2
+|-
+| |'''Level Type'''
+| style="background:#FF66FF"|Order
+|-
+| |'''Moves'''
+| |28
+|-
+| |'''Colors'''
+| style="background:#FFFFCC"|4
+|-
+| |'''Score Targets'''
+| |10000
+|-
+| |'''**'''
+| |72000
+|-
+| |'''***'''
+| |930000
+|-
+| |'''Orders'''
+| |2
+|-
+| |''CakeBomb''
+| colspan="2" style="background:#FF66FF"|3
+|-
+| |''MultiChoco''
+| colspan="2" style="background:#FF66FF"|9
+|-
+| |'''Spaces'''
+| |72
+|-
+! colspan="2"|'''Spawn Notes'''
+|-
+| |'''Swirl Spawn'''
+| style="background:#FFFF00"|(0,9)
+|-
+| |'''Waffle Spawn'''
+| style="background:#FFFF00"|(0,18)
+|-
+| |'''Striped Row Spawn'''
+| style="background:#00FFFF"|(2,0)
+|-
+| |'''Wrapped Spawn'''
+| style="background:#00FFFF"|(3,0)
+|-
+! colspan="2"|'''Elements'''
+|-
+| |'''Licorice Swirl×'''
+| |3
+|-
+| |'''Cake Bomb×'''
+| |12
+|-
+| |'''Waffle III×'''
+| |18
+|-
+| |'''Cane (D)×'''
+| |3
+|-
+| |'''Cane (L)×'''
+| |3
+|-
+| |'''Cane (R)×'''
+| |6
+|-
+| |'''Chocolate III×'''
+| |3
+|-
+| |'''Dispenser×'''
+| |6
+|-
+| |'''Swirl Cannon×'''
+| |3
+|-
+| |'''Wrapped Cannon×'''
+| |4
+|-
+| |'''Waffle III Cannon×'''
+| |4
+|-
+| |'''Striped Row Cannon×'''
+| |2
+|-
+| |'''LX Cannon×'''
+| |3
+|-
+| |'''Sh Cannon×'''
+| |2
+|-
+| |'''WWr Cannon×'''
+| |4
+|-
+| |'''Conveyor Belts'''
+| |18
+|-
+|}
+</div>
+<!-- L3 -->
+| style = "vertical-align: top;"|<!-- E335-3Wikitable --><div style="font-size:10pt; font-family:monospace">
+{| class="wikitable" style="width: 300px; line-height: 10pt"
+|-
+! colspan="2"|[[Level 5003]]
+|-
+! scope=col style="width: 192px" | Field
+! scope=col style="width: 108px" | Value
+|-
+| |'''Episode-Level'''
+| |E335-3
+|-
+| |'''Level Type'''
+| style="background:#3399FF"|Jelly
+|-
+| |'''Moves'''
+| |25
+|-
+| |'''Colors'''
+| style="background:#FFFFCC"|4
+|-
+| |'''Score Targets'''
+| |15000
+|-
+| |'''**'''
+| |125000
+|-
+| |'''***'''
+| |135000
+|-
+| |'''Jellies'''
+| style="background:#3a9cff"|78
+|-
+| |''Single''
+| style="background:#67b3ff"|60
+|-
+| |''Double''
+| style="background:#d1e8ff"|9
+|-
+| |'''Spaces'''
+| |69
+|-
+! colspan="2"|'''Spawn Notes'''
+|-
+| |'''Striped Column Spawn'''
+| style="background:#00FFFF"|(4,0)
+|-
+| |'''Wrapped Spawn'''
+| style="background:#00FFFF"|(4,0)
+|-
+! colspan="2"|'''Elements'''
+|-
+| |'''Licorice Lock×'''
+| |4
+|-
+| |'''Licorice Swirl×'''
+| |4
+|-
+| |'''Icing V×'''
+| |9
+|-
+| |'''Waffle V×'''
+| |12
+|-
+| |'''Dispenser×'''
+| |12
+|-
+| |'''Wrapped Cannon×'''
+| |2
+|-
+| |'''Striped Col Cannon×'''
+| |6
+|-
+| |'''H Cannon×'''
+| |4
+|-
+| |'''Wr Cannon×'''
+| |2
+|-
+| |'''Sv Cannon×'''
+| |6
+|-
+|}
+</div>
+<!-- L4 -->
+| style = "vertical-align: top;"|<!-- E335-4Wikitable --><div style="font-size:10pt; font-family:monospace">
+{| class="wikitable" style="width: 300px; line-height: 10pt"
+|-
+! colspan="2"|[[Level 5004]]
+|-
+! scope=col style="width: 192px" | Field
+! scope=col style="width: 108px" | Value
+|-
+| |'''Episode-Level'''
+| |E335-4
+|-
+| |'''Level Type'''
+| style="background:#33FF66"|Ingredient
+|-
+| |'''Moves'''
+| |20
+|-
+| |'''Colors'''
+| style="background:#FFFFCC"|4
+|-
+| |'''Score Targets'''
+| |20000
+|-
+| |'''**'''
+| |40000
+|-
+| |'''***'''
+| |60000
+|-
+| |'''Ingredients'''
+| style="background:#2aaa2a"|10
+|-
+| |''Hazelnut''
+| |0
+|-
+| |''Cherry''
+| |10
+|-
+| |'''Spaces'''
+| |69
+|-
+! colspan="2"|'''Spawn Notes'''
+|-
+! colspan="2"|'''Elements'''
+|-
+| |'''Licorice Lock×'''
+| |6
+|-
+| |'''Licorice Swirl×'''
+| |11
+|-
+| |'''Cane (L)×'''
+| |7
+|-
+| |'''Cane (R)×'''
+| |25
+|-
+| |'''Dispenser×'''
+| |6
+|-
+| |'''H Cannon×'''
+| |6
+|-
+| |'''Teleporters'''
+| |2/2
+|-
+|}
+</div>
+<!-- L5 -->
+| style = "vertical-align: top;"|<!-- E335-5Wikitable --><div style="font-size:10pt; font-family:monospace">
+{| class="wikitable" style="width: 300px; line-height: 10pt"
+|-
+! colspan="2"|[[Level 5005]]
+|-
+! scope=col style="width: 192px" | Field
+! scope=col style="width: 108px" | Value
+|-
+| |'''Episode-Level'''
+| |E335-5
+|-
+| |'''Level Type'''
+| style="background:#3399FF"|Jelly
+|-
+| |'''Moves'''
+| |30
+|-
+| |'''Colors'''
+| style="background:#6666FF"|3
+|-
+| |'''Score Targets'''
+| |72000
+|-
+| |'''**'''
+| |300000
+|-
+| |'''***'''
+| |340000
+|-
+| |'''Jellies'''
+| style="background:#49a4ff"|72
+|-
+| |''Single''
+| style="background:#ffffff"|0
+|-
+| |''Double''
+| style="background:#49a4ff"|36
+|-
+| |'''Spaces'''
+| |55
+|-
+! colspan="2"|'''Spawn Notes'''
+|-
+! colspan="2"|'''Elements'''
+|-
+| |'''Icing II×'''
+| |8
+|-
+| |'''Icing V×'''
+| |20
+|-
+| |'''Cake Bomb×'''
+| |8
+|-
+| |'''Curl III (L)×'''
+| |4
+|-
+| |'''Dispenser×'''
+| |14
+|-
+| |'''Color Bomb Cannon×'''
+| |4
+|-
+| |'''H Cannon×'''
+| |10
+|-
+| |'''Cb Cannon×'''
+| |4
+|-
+| |'''Teleporters'''
+| |5/5
+|-
+|}
+</div>
+<!-- L6 -->
+| style = "vertical-align: top;"|<!-- E335-6Wikitable --><div style="font-size:10pt; font-family:monospace">
+{| class="wikitable" style="width: 300px; line-height: 10pt"
+|-
+! colspan="2"|[[Level 5006]]
+|-
+! scope=col style="width: 192px" | Field
+! scope=col style="width: 108px" | Value
+|-
+| |'''Episode-Level'''
+| |E335-6
+|-
+| |'''Level Type'''
+| style="background:#FF0000"|Mixed!(J.I.)
+|-
+| |'''Moves'''
+| |27
+|-
+| |'''Colors'''
+| style="background:#FFFFCC"|4
+|-
+| |'''Score Targets'''
+| |50000
+|-
+| |'''**'''
+| |280000
+|-
+| |'''***'''
+| |325000
+|-
+| |'''Jellies'''
+| style="background:#3365ff"|122
+|-
+| |''Single''
+| style="background:#cce5ff"|20
+|-
+| |''Double''
+| style="background:#337eff"|51
+|-
+| |'''Ingredients'''
+| style="background:#55bb55"|8
+|-
+| |''Hazelnut''
+| |8
+|-
+| |''Cherry''
+| |0
+|-
+| |'''Spaces'''
+| |71
+|-
+! colspan="2"|'''Spawn Notes'''
+|-
+| |'''Striped Row Spawn'''
+| style="background:#00FFFF"|(3,0)
+|-
+| |'''Striped Column Spawn'''
+| style="background:#00FFFF"|(3,0)
+|-
+! colspan="2"|'''Elements'''
+|-
+| |'''Basic Icing×'''
+| |20
+|-
+| |'''Licorice Swirl×'''
+| |27
+|-
+| |'''Icing III×'''
+| |4
+|-
+| |'''Curl III (D)×'''
+| |8
+|-
+| |'''Dispenser×'''
+| |9
+|-
+| |'''Striped Row Cannon×'''
+| |5
+|-
+| |'''Striped Col Cannon×'''
+| |4
+|-
+| |'''Sh Cannon×'''
+| |5
+|-
+| |'''Sv Cannon×'''
+| |4
+|-
+|}
+</div>
+<!-- L7 -->
+| style = "vertical-align: top;"|<!-- E335-7Wikitable --><div style="font-size:10pt; font-family:monospace">
+{| class="wikitable" style="width: 300px; line-height: 10pt"
+|-
+! colspan="2"|[[Level 5007]]
+|-
+! scope=col style="width: 192px" | Field
+! scope=col style="width: 108px" | Value
+|-
+| |'''Episode-Level'''
+| |E335-7
+|-
+| |'''Level Type'''
+| style="background:#FF0000"|Mixed!(J.O.)
+|-
+| |'''Moves'''
+| |32
+|-
+| |'''Colors'''
+| style="background:#FFFFCC"|4
+|-
+| |'''Score Targets'''
+| |47000
+|-
+| |'''**'''
+| |195000
+|-
+| |'''***'''
+| |230000
+|-
+| |'''Jellies'''
+| style="background:#3388ff"|94
+|-
+| |''Single''
+| style="background:#ffffff"|0
+|-
+| |''Double''
+| style="background:#3388ff"|47
+|-
+| |'''Orders'''
+| |1
+|-
+| |''MultiChoco''
+| colspan="2" style="background:#FF66FF"|30
+|-
+| |'''Spaces'''
+| |69
+|-
+! colspan="2"|'''Spawn Notes'''
+|-
+! colspan="2"|'''Elements'''
+|-
+| |'''Cake Bomb×'''
+| |8
+|-
+| |'''Chocolate I×'''
+| |6
+|-
+| |'''Chocolate II×'''
+| |6
+|-
+| |'''Chocolate III×'''
+| |5
+|-
+| |'''Dispenser×'''
+| |9
+|-
+| |'''H Cannon×'''
+| |9
+|-
+|}
+</div>
+<!-- L8 -->
+| style = "vertical-align: top;"|<!-- E335-8Wikitable --><div style="font-size:10pt; font-family:monospace">
+{| class="wikitable" style="width: 300px; line-height: 10pt"
+|-
+! colspan="2"|[[Level 5008]]
+|-
+! scope=col style="width: 192px" | Field
+! scope=col style="width: 108px" | Value
+|-
+| |'''Episode-Level'''
+| |E335-8
+|-
+| |'''Level Type'''
+| style="background:#3399FF"|Jelly
+|-
+| |'''Moves'''
+| |25
+|-
+| |'''Colors'''
+| style="background:#FFFFCC"|4
+|-
+| |'''Score Targets'''
+| |25000
+|-
+| |'''**'''
+| |140000
+|-
+| |'''***'''
+| |155000
+|-
+| |'''Jellies'''
+| style="background:#3393ff"|85
+|-
+| |''Single''
+| style="background:#83c1ff"|49
+|-
+| |''Double''
+| style="background:#a4d1ff"|18
+|-
+| |'''Spaces'''
+| |67
+|-
+! colspan="2"|'''Spawn Notes'''
+|-
+| |'''Key Spawn'''
+| style="background:#FFFF00"|(2,0)
+|-
+| |'''Striped Spawn'''
+| style="background:#00FFFF"|(4,0)
+|-
+| |'''Wrapped Spawn'''
+| style="background:#00FFFF"|(4,0)
+|-
+! colspan="2"|'''Elements'''
+|-
+| |'''Licorice Swirl×'''
+| |10
+|-
+| |'''Cake Bomb×'''
+| |8
+|-
+| |'''Chest V×'''
+| |10
+|-
+| |'''Waffle IV×'''
+| |9
+|-
+| |'''Dispenser×'''
+| |9
+|-
+| |'''Key Cannon×'''
+| |1
+|-
+| |'''Striped Cannon×'''
+| |8
+|-
+| |'''Wrapped Cannon×'''
+| |8
+|-
+| |'''K Cannon×'''
+| |1
+|-
+| |'''StWr Cannon×'''
+| |8
+|-
+|}
+</div>
+<!-- L9 -->
+| style = "vertical-align: top;"|<!-- E335-9Wikitable --><div style="font-size:10pt; font-family:monospace">
+{| class="wikitable" style="width: 300px; line-height: 10pt"
+|-
+! colspan="2"|[[Level 5009]]
+|-
+! scope=col style="width: 192px" | Field
+! scope=col style="width: 108px" | Value
+|-
+| |'''Episode-Level'''
+| |E335-9
+|-
+| |'''Level Type'''
+| style="background:#3399FF"|Jelly
+|-
+| |'''Moves'''
+| |24
+|-
+| |'''Colors'''
+| style="background:#6666FF"|3
+|-
+| |'''Score Targets'''
+| |10000
+|-
+| |'''**'''
+| |300000
+|-
+| |'''***'''
+| |350000
+|-
+| |'''Jellies'''
+| style="background:#3367ff"|120
+|-
+| |''Single''
+| style="background:#ffffff"|0
+|-
+| |''Double''
+| style="background:#3367ff"|60
+|-
+| |'''Spaces'''
+| |60
+|-
+! colspan="2"|'''Spawn Notes'''
+|-
+! colspan="2"|'''Elements'''
+|-
+| |'''Licorice Lock×'''
+| |22
+|-
+| |'''Licorice Swirl×'''
+| |20
+|-
+| |'''Chocolate III×'''
+| |16
+|-
+| |'''Dispenser×'''
+| |7
+|-
+| |'''H Cannon×'''
+| |7
+|-
+|}
+</div>
+<!-- L10 -->
+| style = "vertical-align: top;"|<!-- E335-10Wikitable --><div style="font-size:10pt; font-family:monospace">
+{| class="wikitable" style="width: 300px; line-height: 10pt"
+|-
+! colspan="2"|[[Level 5010]]
+|-
+! scope=col style="width: 192px" | Field
+! scope=col style="width: 108px" | Value
+|-
+| |'''Episode-Level'''
+| |E335-10
+|-
+| |'''Level Type'''
+| style="background:#33FF66"|Ingredient
+|-
+| |'''Moves'''
+| |25
+|-
+| |'''Colors'''
+| style="background:#FFFFCC"|4
+|-
+| |'''Score Targets'''
+| |10000
+|-
+| |'''**'''
+| |120000
+|-
+| |'''***'''
+| |135000
+|-
+| |'''Ingredients'''
+| style="background:#7fcc7f"|6
+|-
+| |''Hazelnut''
+| |0
+|-
+| |''Cherry''
+| |6
+|-
+| |'''Spaces'''
+| |69
+|-
+! colspan="2"|'''Spawn Notes'''
+|-
+| |'''Ingredient Spawn'''
+| style="background:#33FF99"|(0,2)
+|-
+| |'''Key Spawn'''
+| style="background:#FFFF00"|(4,0)
+|-
+! colspan="2"|'''Elements'''
+|-
+| |'''Licorice Lock×'''
+| |4
+|-
+| |'''Chocolate×'''
+| |18
+|-
+| |'''Licorice Swirl×'''
+| |9
+|-
+| |'''Chest III×'''
+| |1
+|-
+| |'''Chest V×'''
+| |1
+|-
+| |'''Waffle II×'''
+| |9
+|-
+| |'''Crystal II×'''
+| |18
+|-
+| |'''Dispenser×'''
+| |9
+|-
+| |'''Ingredient Cannon×'''
+| |9
+|-
+| |'''Key Cannon×'''
+| |9
+|-
+| |'''IK Cannon×'''
+| |9
+|-
+| |'''Teleporters'''
+| |12/12
+|-
+| |'''Conveyor Belts'''
+| |26
+|-
+|}
+</div>
+<!-- L11 -->
+| style = "vertical-align: top;"|<!-- E335-11Wikitable --><div style="font-size:10pt; font-family:monospace">
+{| class="wikitable" style="width: 300px; line-height: 10pt"
+|-
+! colspan="2"|[[Level 5011]]
+|-
+! scope=col style="width: 192px" | Field
+! scope=col style="width: 108px" | Value
+|-
+| |'''Episode-Level'''
+| |E335-11
+|-
+| |'''Level Type'''
+| style="background:#3399FF"|Jelly
+|-
+| |'''Moves'''
+| |25
+|-
+| |'''Colors'''
+| style="background:#FFFFCC"|4
+|-
+| |'''Score Targets'''
+| |23000
+|-
+| |'''**'''
+| |220000
+|-
+| |'''***'''
+| |260000
+|-
+| |'''Jellies'''
+| style="background:#8bc5ff"|46
+|-
+| |''Single''
+| style="background:#ffffff"|0
+|-
+| |''Double''
+| style="background:#8bc5ff"|23
+|-
+| |'''Spaces'''
+| |55
+|-
+! colspan="2"|'''Spawn Notes'''
+|-
+| |'''Bomb Timer'''
+| style="background:#ff00dd"|8
+|-
+| |'''Bomb Spawn'''
+| style="background:#FFFF00"|(0,9)
+|-
+| |'''Chameleon Spawn'''
+| style="background:#00FFFF"|(0,9)
+|-
+| |'''Striped Column Spawn'''
+| style="background:#00FFFF"|(4,0)
+|-
+! colspan="2"|'''Elements'''
+|-
+| |'''Icing III×'''
+| |9
+|-
+| |'''Bobber×'''
+| |5
+|-
+| |'''Chocolate III×'''
+| |14
+|-
+| |'''Dispenser×'''
+| |9
+|-
+| |'''Bomb Cannon×'''
+| |9
+|-
+| |'''Chameleon Cannon×'''
+| |9
+|-
+| |'''Striped Col Cannon×'''
+| |4
+|-
+| |'''H Cannon×'''
+| |5
+|-
+| |'''Sv Cannon×'''
+| |4
+|-
+| |'''BChX Cannon×'''
+| |9
+|-
+|}
+</div>
+<!-- L12 -->
+| style = "vertical-align: top;"|<!-- E335-12Wikitable --><div style="font-size:10pt; font-family:monospace">
+{| class="wikitable" style="width: 300px; line-height: 10pt"
+|-
+! colspan="2"|[[Level 5012]]
+|-
+! scope=col style="width: 192px" | Field
+! scope=col style="width: 108px" | Value
+|-
+| |'''Episode-Level'''
+| |E335-12
+|-
+| |'''Level Type'''
+| style="background:#FF66FF"|Order
+|-
+| |'''Moves'''
+| |25
+|-
+| |'''Colors'''
+| style="background:#FFFFCC"|4
+|-
+| |'''Score Targets'''
+| |40000
+|-
+| |'''**'''
+| |140000
+|-
+| |'''***'''
+| |180000
+|-
+| |'''Orders'''
+| |1
+|-
+| |''Mystery''
+| colspan="2" style="background:#FF66FF"|25
+|-
+| |'''Spaces'''
+| |63
+|-
+! colspan="2"|'''Spawn Notes'''
+|-
+| |'''Mystery Spawn'''
+| style="background:#00FFFF"|(0,12)
+|-
+| |'''Striped Row Spawn'''
+| style="background:#00FFFF"|(2,0)
+|-
+| |'''Striped Column Spawn'''
+| style="background:#00FFFF"|(1,0)
+|-
+! colspan="2"|'''Elements'''
+|-
+| |'''Licorice Lock×'''
+| |4
+|-
+| |'''Licorice Swirl×'''
+| |14
+|-
+| |'''Waffle IV×'''
+| |13
+|-
+| |'''Curl III (U)×'''
+| |9
+|-
+| |'''Curl III (D)×'''
+| |12
+|-
+| |'''Curl III (L)×'''
+| |9
+|-
+| |'''Curl III (R)×'''
+| |9
+|-
+| |'''Dispenser×'''
+| |18
+|-
+| |'''Mystery Cannon×'''
+| |4
+|-
+| |'''Mystery Candy×'''
+| |8
+|-
+| |'''Striped Row Cannon×'''
+| |2
+|-
+| |'''Striped Col Cannon×'''
+| |7
+|-
+| |'''H Cannon×'''
+| |5
+|-
+| |'''My Cannon×'''
+| |4
+|-
+| |'''Sh Cannon×'''
+| |2
+|-
+| |'''Sv Cannon×'''
+| |7
+|-
+| |'''Conveyor Belts'''
+| |13
+|-
+|}
+</div>
+<!-- L13 -->
+| style = "vertical-align: top;"|<!-- E335-13Wikitable --><div style="font-size:10pt; font-family:monospace">
+{| class="wikitable" style="width: 300px; line-height: 10pt"
+|-
+! colspan="2"|[[Level 5013]]
+|-
+! scope=col style="width: 192px" | Field
+! scope=col style="width: 108px" | Value
+|-
+| |'''Episode-Level'''
+| |E335-13
+|-
+| |'''Level Type'''
+| style="background:#FF0000"|Mixed!(J.I.)
+|-
+| |'''Moves'''
+| |35
+|-
+| |'''Colors'''
+| style="background:#FFFFCC"|4
+|-
+| |'''Score Targets'''
+| |110000
+|-
+| |'''**'''
+| |750000
+|-
+| |'''***'''
+| |820000
+|-
+| |'''Jellies'''
+| style="background:#338dff"|90
+|-
+| |''Single''
+| style="background:#ffffff"|0
+|-
+| |''Double''
+| style="background:#338dff"|45
+|-
+| |'''Ingredients'''
+| style="background:#d4eed4"|2
+|-
+| |''Hazelnut''
+| |0
+|-
+| |''Cherry''
+| |2
+|-
+| |'''Spaces'''
+| |71
+|-
+! colspan="2"|'''Spawn Notes'''
+|-
+| |'''Ingredient Spawn'''
+| style="background:#33FF99"|(0,1)
+|-
+| |'''Swirl Spawn'''
+| style="background:#FFFF00"|(0,16)
+|-
+| |'''Waffle Spawn'''
+| style="background:#FFFF00"|(0,5)
+|-
+| |'''Wrapped Spawn'''
+| style="background:#00FFFF"|(5,0)
+|-
+! colspan="2"|'''Elements'''
+|-
+| |'''Licorice Swirl×'''
+| |24
+|-
+| |'''Popcorn×'''
+| |9
+|-
+| |'''Waffle V×'''
+| |3
+|-
+| |'''Cane (U)×'''
+| |15
+|-
+| |'''Cane (D)×'''
+| |1
+|-
+| |'''Cane (L)×'''
+| |26
+|-
+| |'''Cane (R)×'''
+| |1
+|-
+| |'''Crystal I×'''
+| |10
+|-
+| |'''Crystal III×'''
+| |20
+|-
+| |'''Dispenser×'''
+| |7
+|-
+| |'''Ingredient Cannon×'''
+| |1
+|-
+| |'''Swirl Cannon×'''
+| |1
+|-
+| |'''Frog×'''
+| |1
+|-
+| |'''Wrapped×'''
+| |9
+|-
+| |'''Wrapped Cannon×'''
+| |1
+|-
+| |'''Waffle III Cannon×'''
+| |2
+|-
+| |'''H Cannon×'''
+| |5
+|-
+| |'''LX Cannon×'''
+| |1
+|-
+| |'''IW Cannon×'''
+| |1
+|-
+| |'''WWr Cannon×'''
+| |1
+|-
+| |'''Teleporters'''
+| |17/17
+|-
+|}
+</div>
+<!-- L14 -->
+| style = "vertical-align: top;"|<!-- E335-14Wikitable --><div style="font-size:10pt; font-family:monospace">
+{| class="wikitable" style="width: 300px; line-height: 10pt"
+|-
+! colspan="2"|[[Level 5014]]
+|-
+! scope=col style="width: 192px" | Field
+! scope=col style="width: 108px" | Value
+|-
+| |'''Episode-Level'''
+| |E335-14
+|-
+| |'''Level Type'''
+| style="background:#3399FF"|Jelly
+|-
+| |'''Moves'''
+| |17
+|-
+| |'''Colors'''
+| style="background:#FFFFCC"|4
+|-
+| |'''Score Targets'''
+| |156000
+|-
+| |'''**'''
+| |500000
+|-
+| |'''***'''
+| |1000000
+|-
+| |'''Jellies'''
+| style="background:#333aff"|156
+|-
+| |''Single''
+| style="background:#ffffff"|0
+|-
+| |''Double''
+| style="background:#333aff"|78
+|-
+| |'''Spaces'''
+| |78
+|-
+! colspan="2"|'''Spawn Notes'''
+|-
+| |'''Bomb Timer'''
+| style="background:#ff00bb"|6
+|-
+| |'''Bomb Spawn'''
+| style="background:#FFFF00"|(0,6)
+|-
+| |'''Fixed Colors'''
+| |1Y+ 
+|-
+| |'''Striped Row Spawn'''
+| style="background:#00FFFF"|(0,1)
+|-
+! colspan="2"|'''Elements'''
+|-
+| |'''Licorice Lock×'''
+| |2
+|-
+| |'''Licorice Swirl×'''
+| |19
+|-
+| |'''Marmalade×'''
+| |1
+|-
+| |'''Cake Bomb×'''
+| |8
+|-
+| |'''Chest I×'''
+| |39
+|-
+| |'''Dispenser×'''
+| |9
+|-
+| |'''Bomb Cannon×'''
+| |2
+|-
+| |'''Sugar Key×'''
+| |1
+|-
+| |'''Striped Row Cannon×'''
+| |1
+|-
+| |'''H Cannon×'''
+| |6
+|-
+| |'''B Cannon×'''
+| |2
+|-
+| |'''Sh Cannon×'''
+| |1
+|-
+| |'''Teleporters'''
+| |1/1
+|-
+|}
+</div>
+<!-- L15 -->
+| style = "vertical-align: top;"|<!-- E335-15Wikitable --><div style="font-size:10pt; font-family:monospace">
+{| class="wikitable" style="width: 300px; line-height: 10pt"
+|-
+! colspan="2"|[[Level 5015]]
+|-
+! scope=col style="width: 192px" | Field
+! scope=col style="width: 108px" | Value
+|-
+| |'''Episode-Level'''
+| |E335-15
+|-
+| |'''Level Type'''
+| style="background:#FF66FF"|Order
+|-
+| |'''Moves'''
+| |25
+|-
+| |'''Colors'''
+| style="background:#FFFFCC"|4
+|-
+| |'''Score Targets'''
+| |10000
+|-
+| |'''**'''
+| |30000
+|-
+| |'''***'''
+| |50000
+|-
+| |'''Orders'''
+| |1
+|-
+| |''CakeBomb''
+| colspan="2" style="background:#FF66FF"|4
+|-
+| |'''Spaces'''
+| |67
+|-
+! colspan="2"|'''Spawn Notes'''
+|-
+| |'''Key Spawn'''
+| style="background:#FFFF00"|(4,0)
+|-
+| |'''Striped Column Spawn'''
+| style="background:#00FFFF"|(4,0)
+|-
+| |'''Wrapped Spawn'''
+| style="background:#00FFFF"|(4,0)
+|-
+! colspan="2"|'''Elements'''
+|-
+| |'''Licorice Swirl×'''
+| |11
+|-
+| |'''Cake Bomb×'''
+| |16
+|-
+| |'''Chest V×'''
+| |1
+|-
+| |'''Dispenser×'''
+| |8
+|-
+| |'''Key Cannon×'''
+| |8
+|-
+| |'''Wrapped Cannon×'''
+| |1
+|-
+| |'''Striped Col Cannon×'''
+| |8
+|-
+| |'''WrX Cannon×'''
+| |1
+|-
+| |'''KSv Cannon×'''
+| |8
+|-
+| |'''Teleporters'''
+| |6/6
+|-
+|}
+</div>
+|}
