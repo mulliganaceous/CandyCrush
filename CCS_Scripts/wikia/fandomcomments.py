@@ -3,10 +3,12 @@ from urllib.error import HTTPError
 import json
 from datetime import datetime
 
+MAXLVL = 21605
+
 # Determine URL
-def extract_all():  
+def extract_all():
+    """No longer feasible. Requires a bot account."""
     PREFIX = "https://candycrush.fandom.com/wikia.php?controller=ArticleCommentsController&method=getComments"
-    MAXLVL = 15320
     for lvl in range(1,MAXLVL + 1):
         TITLE = "&title=Level+{0:d}".format(lvl)
         NAMESPACE = "&namespace=0"
@@ -19,8 +21,8 @@ def extract_all():
                 g.write(file)
                 g.close()
             print('L{0:5d} {1:d}'.format(lvl, len(file)))
-        except HTTPError:
-            print('L{0:5d} 404 Error'.format(lvl))
+        except HTTPError as e:
+            print(e)
 
 def obtain_json(lvl):
     # Extract json
@@ -42,4 +44,4 @@ def _totallevel(e:int, l:int):
     else:
         return 15*(e-1) - 10 + l
 
-
+extract_all()
