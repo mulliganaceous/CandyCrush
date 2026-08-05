@@ -3,6 +3,7 @@ import urllib.parse
 import urllib.request
 import http.cookiejar
 
+# This is OpenAI-generated code. It is currently non-operational.
 WIKI = "https://candycrush.fandom.com"
 API = WIKI + "/w/api.php"
 

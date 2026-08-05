@@ -7,22 +7,30 @@ from datetime import datetime
 # Determine timestamp and version
 print("Enter timestamp: ")
 timestamp = int(input())
+localfile = None
+if timestamp == -1:
+    print("Enter local file: ")
+    localfile = input()
+    timestamp = 0
 print("Enter u-code: ")
 variation = int(input())
 
 # Determine URL
-PREFIX = 'https://king-candycrush-prod.secure2.footprint.net/wfp'
-url = '{}/hl-v2.json?v={}'.format(PREFIX, timestamp)
-file = None
-try:
-    with urllib.request.urlopen(url) as response:
-        file = response.read()
-        g = open('hl-v2-{}.json'.format(timestamp), 'wb')
-        g.write(file)
-        g.close()
-except HTTPError:
-    print('404 error')
-    exit(1)
+if timestamp:
+    PREFIX = 'https://king-candycrush-prod.secure2.footprint.net/wfp'
+    url = '{}/hl-v2.json?v={}'.format(PREFIX, timestamp)
+    file = None
+    try:
+        with urllib.request.urlopen(url) as response:
+            file = response.read()
+            g = open('hl-v2-{}.json'.format(timestamp), 'wb')
+            g.write(file)
+            g.close()
+    except HTTPError:
+        print('404 error')
+        exit(1)
+else:
+    file = open(localfile, 'r').read()
 
 # Generate hexagon list
 jsonload = json.loads(file)['hardlevels']
@@ -69,6 +77,7 @@ def _hexagonstring(hexagons, e:int, l:int):
         return "Legendary"
 
 hexagons, maxkey, maxrating = generate_hexagonlist()
+episodelength = 15
 
 # Convert hexagon list to Lua file
 def output_lualist(hexagons):
@@ -98,6 +107,8 @@ output_lualist(hexagons)
 # Use NumPy data to print as data
 hexcount = np.zeros((maxkey, maxrating))
 hexcount.dtype = np.longlong
+hexshufflecount = np.zeros((episodelength, maxrating + 1))
+hexshufflecount.dtype = np.longlong
 for k in range(1,len(hexagons)):
     if k in hexagons:
         print('E{0:3d} ({1:d})'.format(k, len(hexagons[k])))
@@ -105,9 +116,16 @@ for k in range(1,len(hexagons)):
             hl = hexagons[k][l]
             print('\tv{0:d} L{1:5d} {2:s} '.format(hl['u'], _totallevel(hl['e'], hl['l']), '*'*hl['d']))
             hexcount[k,hl['d']-1] += 1
+            hexshufflecount[hl['l'] - 1,hl['d']] += 1
     else:
         print('E{0:3d} (0)'.format(k))
         print('\tEMPTY')
 
 for k in range(1,maxkey):
     print("E{0:3d}\t{1:d}\t{2:s}".format(k, np.sum(hexcount[k]), str(hexcount[k])))
+
+for k in range(0,episodelength):
+    hexshufflecount[k][0] = maxkey - sum(hexshufflecount[k][1:])
+    if k >= 10:
+        hexshufflecount[k][0] -= 2
+    print("L{0:2d}\t{1:s}".format(k + 1, str(hexshufflecount[k])))

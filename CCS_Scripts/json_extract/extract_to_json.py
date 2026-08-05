@@ -133,7 +133,14 @@ def extract_fb():
         print(res)
         print(res.headers)
 
+def split_files(src, path):
+    f = open(src, 'r')
+    j = json.loads(f.read())
+    f.close()
+    return j
+
 ##extract_folder('zips/master')
 ##extract_zip('zips/1dwf0s8.zip')
 ##extract_zip('zips/6d97bb6b76adc61d42a20184af5f5bfb9a55fad4_60596_leveltweaks123608_20220923134143_0_all.zip', 'zips/tweaks')
-extract_fb()
+##extract_fb()
+j = split_files("configs_flash.json", "archive")
